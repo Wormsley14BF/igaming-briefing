@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>iGaming Briefing Tool</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">EM</div>
+        <div>
+          <p class="eyebrow">EveryMatrix</p>
+          <h1>iGaming Briefing</h1>
+        </div>
+      </div>
+
+      <nav class="section-nav" aria-label="Briefing sections">
+        <a href="#at-a-glance" class="nav-link active">At a glance</a>
+        <a href="#platform-lens" class="nav-link">Platform lens</a>
+        <a href="#product" class="nav-link">Product</a>
+        <a href="#industry-notes" class="nav-link">Industry notes</a>
+        <a href="#europe" class="nav-link">Europe</a>
+        <a href="#north-america" class="nav-link">North America</a>
+        <a href="#latam" class="nav-link">LatAm</a>
+        <a href="#africa" class="nav-link">Africa</a>
+        <a href="#asia" class="nav-link">Asia / Oceania</a>
+        <a href="#global" class="nav-link">Other / Global</a>
+        <a href="#watchlists" class="nav-link">Watchlists</a>
+      </nav>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div>
+          <p id="briefingDate" class="eyebrow">Loading latest briefing...</p>
+          <h2>Daily Online Gambling Industry News</h2>
+        </div>
+        <div class="toolbar" role="search">
+          <input id="searchInput" type="search" placeholder="Search stories, topics, companies">
+          <button id="expandAll" type="button">Expand all</button>
+          <button id="collapseAll" type="button">Collapse all</button>
+          <button id="copyScores" type="button">Copy scores</button>
+        </div>
+      </header>
+
+      <section id="at-a-glance" class="panel priority-panel">
+        <div class="section-heading">
+          <p class="eyebrow">Morning signal</p>
+          <h2>At a glance</h2>
+        </div>
+        <ul id="atAGlanceList" class="signal-list"></ul>
+      </section>
+
+      <section id="platform-lens" class="panel">
+        <div class="section-heading">
+          <p class="eyebrow">Robert / platform view</p>
+          <h2>Platform lens</h2>
+        </div>
+        <div id="platformLensGrid" class="lens-grid"></div>
+      </section>
+
+      <section id="product" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Product strategy</p>
+          <h2>Product</h2>
+        </div>
+        <div class="cards" data-section="Product"></div>
+      </section>
+
+      <section id="industry-notes" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Commentary worth expanding</p>
+          <h2>Industry notes</h2>
+        </div>
+        <div class="cards" data-section="Industry Notes"></div>
+      </section>
+
+      <section id="europe" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Regional news</p>
+          <h2>Europe</h2>
+        </div>
+        <div class="cards" data-section="Europe"></div>
+      </section>
+
+      <section id="north-america" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Regional news</p>
+          <h2>North America</h2>
+        </div>
+        <div class="cards" data-section="North America"></div>
+      </section>
+
+      <section id="latam" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Regional news</p>
+          <h2>LatAm</h2>
+        </div>
+        <div class="cards" data-section="LatAm"></div>
+      </section>
+
+      <section id="africa" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Regional news</p>
+          <h2>Africa</h2>
+        </div>
+        <div class="cards" data-section="Africa"></div>
+      </section>
+
+      <section id="asia" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Regional news</p>
+          <h2>Asia / Oceania</h2>
+        </div>
+        <div class="cards" data-section="Asia / Oceania"></div>
+      </section>
+
+      <section id="global" class="story-section">
+        <div class="section-heading">
+          <p class="eyebrow">Company and supplier watch</p>
+          <h2>Other / Global</h2>
+        </div>
+        <div class="cards" data-section="Other / Global"></div>
+      </section>
+
+      <section id="watchlists" class="panel">
+        <div class="section-heading">
+          <p class="eyebrow">Follow-ups</p>
+          <h2>Watchlists</h2>
+        </div>
+        <div class="watch-grid">
+          <article>
+            <h3>Regulatory watch</h3>
+            <p>UK illegal-market taskforce, Brazil eligibility restrictions, Australian advertising/self-exclusion enforcement, PAGCOR incentive rules.</p>
+            <div class="link-list">
+              <a href="https://www.gov.uk/guidance/illegal-gambling-taskforce-terms-of-reference">UK taskforce</a>
+              <a href="https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/maio/secretaria-de-premios-e-apostas-estabelece-diretrizes-para-restricao-de-beneficiarios-do-desenrola-brasil-a-plataformas-de-apostas">Brazil SPA</a>
+              <a href="https://www.acma.gov.au/articles/2026-05/ladbrokes-and-neds-breach-gambling-self-exclusion-rules">ACMA</a>
+            </div>
+          </article>
+          <article>
+            <h3>Competitor / supplier watch</h3>
+            <p>Supplier licensing in Denmark, US prediction-market disruption, platform readiness for African expansion.</p>
+            <div class="link-list">
+              <a href="https://europeangaming.eu/portal/press-releases/2026/05/13/204171/evenbet-gaming-receives-five-year-b2b-supplier-licence-in-denmark/">Denmark supplier licence</a>
+              <a href="https://www.axios.com/2026/05/12/prediction-markets-cftc-selig-regulation">Prediction markets</a>
+              <a href="https://everymatrix.com/everymatrix-platform-technology-live-with-betsson-africa-in-cameroon/">Betsson Africa / EveryMatrix</a>
+            </div>
+          </article>
+          <article>
+            <h3>Product team prompts</h3>
+            <p>Where are compliance workflows still hostile? Which African market assumptions are hiding in our default platform patterns?</p>
+            <div class="link-list">
+              <a href="https://igamingbusiness.com/content-os/ux-user-journey-ui-regulation-gambling-industry/">Regulated gambling UX</a>
+              <a href="https://igamingbusiness.com/content-os/what-works-in-africa-the-features-global-platforms-overlook/">Africa platform features</a>
+            </div>
+          </article>
+          <article>
+            <h3>Developing stories</h3>
+            <p>CFTC versus state regulator tension, UK enforcement follow-through, Brazil Sigap operational requirements, Australian advertising timetable.</p>
+            <div class="link-list">
+              <a href="https://www.axios.com/2026/05/12/prediction-markets-cftc-selig-regulation">CFTC / prediction markets</a>
+              <a href="https://www.gov.uk/guidance/illegal-gambling-taskforce-terms-of-reference">UK enforcement</a>
+              <a href="https://igamingbusiness.com/marketing-affiliates/australian-gov-responds-to-gambling-advertisment-report-reforms/">Australia reforms</a>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>

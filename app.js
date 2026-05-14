@@ -1,6 +1,7 @@
 let stories = [];
 
 const ratingsEndpoint = "https://script.google.com/macros/s/AKfycbyLQYk0EJJgLX_vtolh_H2IHoYYio-LqQSisd1wNNRALi-uhoV8_yQwn8z3MhnCxZ_rMg/exec";
+const briefingDataEndpoint = ratingsEndpoint;
 const userName = "Robert Smith";
 const defaultMeta = {
   dateLabel: "Latest briefing",
@@ -27,6 +28,46 @@ function loadFreshData() {
     script.src = `./briefing-data.js?v=${Date.now()}`;
     script.onload = () => resolve(true);
     script.onerror = () => resolve(false);
+    document.head.appendChild(script);
+  });
+}
+
+function loadRemoteBriefingData() {
+  return new Promise((resolve) => {
+    const callbackName = `receiveBriefingData${Date.now()}`;
+    let resolved = false;
+
+    window[callbackName] = (payload) => {
+      resolved = true;
+      if (payload?.meta && Array.isArray(payload?.stories)) {
+        window.briefingMeta = payload.meta;
+        window.briefingStories = payload.stories;
+      }
+      cleanup();
+      resolve(true);
+    };
+
+    const cleanup = () => {
+      delete window[callbackName];
+      script.remove();
+    };
+
+    const script = document.createElement("script");
+    script.src = `${briefingDataEndpoint}?mode=briefing&callback=${callbackName}&v=${Date.now()}`;
+    script.onerror = () => {
+      if (!resolved) {
+        cleanup();
+        resolve(false);
+      }
+    };
+
+    setTimeout(() => {
+      if (!resolved) {
+        cleanup();
+        resolve(false);
+      }
+    }, 4000);
+
     document.head.appendChild(script);
   });
 }
@@ -328,6 +369,7 @@ async function copyRatings() {
 
 async function init() {
   await loadFreshData();
+  await loadRemoteBriefingData();
   stories = Array.isArray(window.briefingStories) ? window.briefingStories : [];
   renderMeta();
   renderStories();

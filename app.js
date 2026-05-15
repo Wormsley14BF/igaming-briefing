@@ -104,6 +104,41 @@ function signalId(signal, index) {
   return ["Morning Signal", signal.text || signal, signal.source || index].join("|");
 }
 
+function normalizedKey(value) {
+  return String(value || "").trim().toLowerCase();
+}
+
+function promotedStoryKeys() {
+  const signals = window.briefingMeta?.atAGlance?.length
+    ? window.briefingMeta.atAGlance
+    : stories.slice(0, 5).map((story) => ({
+      text: story.summary,
+      source: story.source,
+      title: story.title
+    }));
+  const keys = new Set();
+
+  signals.forEach((signal) => {
+    const normalized = typeof signal === "string"
+      ? { text: signal, title: stripHtml(signal) }
+      : signal;
+    const source = normalizedKey(normalized.source);
+    const title = normalizedKey(normalized.title || stripHtml(normalized.text));
+
+    if (source) keys.add(`source:${source}`);
+    if (title) keys.add(`title:${title}`);
+  });
+
+  return keys;
+}
+
+function isPromotedStory(story, keys) {
+  const source = normalizedKey(story.source);
+  const title = normalizedKey(story.title);
+
+  return (source && keys.has(`source:${source}`)) || (title && keys.has(`title:${title}`));
+}
+
 function briefingDateLabel() {
   return (window.briefingMeta?.dateLabel || "").split("|")[0].trim();
 }
@@ -201,7 +236,7 @@ function signalTemplate(signal, index) {
   `;
 }
 
-function cardTemplate(story, index, storyIndex) {
+function cardTemplate(story, index, storyIndex, includeImage = false) {
   const isIndustry = story.section === "Industry Notes";
   const id = storyId(story);
   const detailParts = [];
@@ -228,16 +263,19 @@ function cardTemplate(story, index, storyIndex) {
   const tags = (story.tags || []).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("");
 
   return `
-    <article class="story-card" data-kind="${escapeHtml(story.section)}" data-story-id="${storyIndex}">
-      <img class="story-image" src="${escapeAttribute(image)}" alt="">
+    <article class="story-card ${includeImage ? "has-image" : ""}" data-kind="${escapeHtml(story.section)}" data-story-id="${storyIndex}">
+      ${includeImage ? `<img class="story-image" src="${escapeAttribute(image)}" alt="">` : ""}
       <div class="card-summary">
-        <span class="rank">${index + 1}</span>
+        <div class="story-kicker">
+          <span class="rank">${index + 1}</span>
+          <span>${escapeHtml(story.section)}</span>
+        </div>
         <div>
           <h3 class="story-title">${escapeHtml(story.title)}</h3>
           <p class="meta">${escapeHtml(story.meta)}</p>
           <p class="summary"><span class="label">Summary:</span> ${escapeHtml(story.summary)}</p>
           <div class="tag-row">${tags}</div>
-          ${ratingTemplate(story, id)}
+          ${ratingTemplate(story, id, true)}
         </div>
         <div class="card-actions">
           ${sourceLink}
@@ -264,19 +302,28 @@ function searchText(story) {
 }
 
 function renderStories() {
+  const promotedKeys = promotedStoryKeys();
+
   sectionContainers.forEach((container) => {
     const section = container.dataset.section;
-    const sectionStories = stories
+    const allSectionStories = stories
       .map((story, storyIndex) => ({ story, storyIndex }))
       .filter(({ story }) => story.section === section);
+    const sectionStories = allSectionStories.filter(({ story }) => !isPromotedStory(story, promotedKeys));
 
     container.innerHTML = sectionStories
-      .map(({ story, storyIndex }, index) => cardTemplate(story, index, storyIndex))
+      .map(({ story, storyIndex }, index) => cardTemplate(story, index, storyIndex, index === 0))
       .join("");
 
     const empty = document.createElement("div");
     empty.className = "empty-state";
-    empty.textContent = sectionStories.length ? "No matching items in this section." : "No items in this section today.";
+    empty.classList.toggle("visible", sectionStories.length === 0);
+    empty.dataset.defaultText = sectionStories.length
+      ? "No matching items in this section."
+      : allSectionStories.length
+        ? "All items from this section are covered in Morning Signal."
+        : "No items in this section today.";
+    empty.textContent = empty.dataset.defaultText;
     container.appendChild(empty);
   });
 }
@@ -313,6 +360,7 @@ function filterStories() {
     });
 
     const empty = container.querySelector(".empty-state");
+    empty.textContent = query ? "No matching items in this section." : empty.dataset.defaultText;
     empty.classList.toggle("visible", visibleCount === 0);
   });
 }

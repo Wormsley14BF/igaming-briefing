@@ -1,11 +1,36 @@
 window.briefingMeta = {
   dateLabel: "Thursday, 14 May 2026 | delayed manual edition",
   atAGlance: [
-    "<strong>France's ANJ has raised the bar on RG detection</strong>, saying a new algorithm found excessive-risk players producing about 60% of online GGR.",
-    "<strong>UK illegal-market enforcement is becoming operational</strong>, with DCMS taskforce workstreams around payments, advertising and cross-agency enforcement.",
-    "<strong>US prediction markets are now a board-level strategy split</strong>: DraftKings and Flutter lean in while BetMGM, Penn, Caesars and RSI take different routes.",
-    "<strong>Australia is tightening gambling advertising, payment-blocking and BetStop controls</strong> while leaving ACMA as the primary federal enforcement body.",
-    "<strong>Africa remains a near-term growth and localisation theme</strong>, with Super Group targeting Nigeria and iGB highlighting product gaps global platforms miss."
+    {
+      title: "ANJ raises the bar on RG detection",
+      text: "<strong>France's ANJ has raised the bar on RG detection</strong>, saying a new algorithm found excessive-risk players producing about 60% of online GGR.",
+      source: "https://igamingbusiness.com/sustainable-gambling/excessive-gamblers-bring-60-online-ggr-anj-algorithm/",
+      tags: ["France", "RG", "Data"]
+    },
+    {
+      title: "UK illegal-market enforcement becomes operational",
+      text: "<strong>UK illegal-market enforcement is becoming operational</strong>, with DCMS taskforce workstreams around payments, advertising and cross-agency enforcement.",
+      source: "https://www.gov.uk/guidance/illegal-gambling-taskforce-terms-of-reference",
+      tags: ["UK", "Payments", "Regulation"]
+    },
+    {
+      title: "US prediction markets split operator strategy",
+      text: "<strong>US prediction markets are now a board-level strategy split</strong>: DraftKings and Flutter lean in while BetMGM, Penn, Caesars and RSI take different routes.",
+      source: "https://www.gamblinginsider.com/news/159767/draftkings-fanduel-prediction-markets-q1-earnings-calls-betmgm-penn-caesars",
+      tags: ["US", "Prediction markets", "Operators"]
+    },
+    {
+      title: "Australia tightens ad, payment and BetStop controls",
+      text: "<strong>Australia is tightening gambling advertising, payment-blocking and BetStop controls</strong> while leaving ACMA as the primary federal enforcement body.",
+      source: "https://igamingbusiness.com/marketing-affiliates/australian-gov-responds-to-gambling-advertisment-report-reforms/",
+      tags: ["Australia", "Advertising", "Payments"]
+    },
+    {
+      title: "Africa grows as localisation theme",
+      text: "<strong>Africa remains a near-term growth and localisation theme</strong>, with Super Group targeting Nigeria and iGB highlighting product gaps global platforms miss.",
+      source: "https://igamingbusiness.com/finance/quarterly-results/super-group-prioritising-nigeria-growth-strong-q1/",
+      tags: ["Africa", "Nigeria", "Localisation"]
+    }
   ],
   platformLens: [
     {

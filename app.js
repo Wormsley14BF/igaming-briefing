@@ -18,6 +18,16 @@ const briefingDate = document.querySelector("#briefingDate");
 const atAGlanceList = document.querySelector("#atAGlanceList");
 const platformLensGrid = document.querySelector("#platformLensGrid");
 const ratingsKey = "igaming-briefing-relevance-v1";
+const sectionImages = {
+  Product: "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=900&q=75",
+  "Industry Notes": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=75",
+  Europe: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=900&q=75",
+  "North America": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=75",
+  LatAm: "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=900&q=75",
+  Africa: "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=900&q=75",
+  "Asia / Oceania": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=900&q=75",
+  "Other / Global": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=75"
+};
 
 function loadFreshData() {
   return new Promise((resolve) => {
@@ -90,6 +100,10 @@ function storyId(story) {
   return [story.section, story.title, story.source || story.meta].join("|");
 }
 
+function signalId(signal, index) {
+  return ["Morning Signal", signal.text || signal, signal.source || index].join("|");
+}
+
 function briefingDateLabel() {
   return (window.briefingMeta?.dateLabel || "").split("|")[0].trim();
 }
@@ -102,14 +116,34 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;");
 }
 
+function escapeAttribute(value) {
+  return escapeHtml(value).replaceAll("'", "&#039;");
+}
+
+function stripHtml(value) {
+  const template = document.createElement("template");
+  template.innerHTML = value || "";
+  return template.content.textContent || template.content.innerText || "";
+}
+
+function storyImage(story) {
+  return story.image || sectionImages[story.section] || sectionImages["Other / Global"];
+}
+
 function renderMeta() {
   const meta = window.briefingMeta || defaultMeta;
   briefingDate.textContent = meta.dateLabel || defaultMeta.dateLabel;
 
   const glanceItems = meta.atAGlance?.length
     ? meta.atAGlance
-    : stories.slice(0, 5).map((story) => story.summary);
-  atAGlanceList.innerHTML = glanceItems.map((item) => `<li>${item}</li>`).join("");
+    : stories.slice(0, 5).map((story) => ({
+      text: story.summary,
+      source: story.source,
+      title: story.title,
+      tags: story.tags,
+      section: "Morning Signal"
+    }));
+  atAGlanceList.innerHTML = glanceItems.map(signalTemplate).join("");
 
   const lensItems = meta.platformLens?.length
     ? meta.platformLens
@@ -129,22 +163,41 @@ function renderMeta() {
   `).join("");
 }
 
-function ratingTemplate(story, id) {
+function ratingTemplate(item, id, compact = false) {
   const savedRating = getRatings()[id];
-  const options = [1, 2, 3, 4, 5].map((score) => `
+  const options = [5, 4, 3, 2, 1].map((score) => `
     <label class="rating-option ${Number(savedRating) === score ? "selected" : ""}">
       <input type="radio" name="rating-${escapeHtml(id)}" value="${score}" ${Number(savedRating) === score ? "checked" : ""}>
-      <span>${score}</span>
+      <span aria-hidden="true">★</span>
+      <span class="sr-only">${score}</span>
     </label>
   `).join("");
 
   return `
-    <fieldset class="rating-control" data-story-rating="${escapeHtml(id)}">
-      <legend>Relevance</legend>
-      <div class="rating-help"><span>1 least relevant</span><span>5 show me more</span></div>
+    <fieldset class="rating-control ${compact ? "rating-compact" : ""}" data-story-rating="${escapeAttribute(id)}">
+      <legend>${compact ? "Rate" : "Relevance"}</legend>
       <div class="rating-options">${options}</div>
       <p class="rating-status" aria-live="polite">${savedRating ? "Saved locally" : ""}</p>
     </fieldset>
+  `;
+}
+
+function signalTemplate(signal, index) {
+  const normalized = typeof signal === "string"
+    ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Morning Signal" }
+    : signal;
+  const id = signalId(normalized, index);
+  const title = normalized.title || stripHtml(normalized.text);
+  const source = normalized.source || "";
+  const content = source
+    ? `<a href="${escapeAttribute(source)}">${normalized.text}</a>`
+    : normalized.text;
+
+  return `
+    <li class="signal-item" data-signal-title="${escapeAttribute(title)}" data-signal-source="${escapeAttribute(source)}" data-signal-tags="${escapeAttribute((normalized.tags || []).join(", "))}">
+      <div class="signal-content">${content}</div>
+      ${ratingTemplate(normalized, id, true)}
+    </li>
   `;
 }
 
@@ -156,6 +209,7 @@ function cardTemplate(story, index, storyIndex) {
   const sourceLink = story.source
     ? `<a class="source-button" href="${escapeHtml(story.source)}">${sourceLabel}</a>`
     : "";
+  const image = storyImage(story);
 
   if (isIndustry) {
     detailParts.push(`<p class="detail-block"><span class="label">Expanded commentary:</span> ${escapeHtml(story.commentary)}</p>`);
@@ -175,6 +229,7 @@ function cardTemplate(story, index, storyIndex) {
 
   return `
     <article class="story-card" data-kind="${escapeHtml(story.section)}" data-story-id="${storyIndex}">
+      <img class="story-image" src="${escapeAttribute(image)}" alt="">
       <div class="card-summary">
         <span class="rank">${index + 1}</span>
         <div>
@@ -305,7 +360,15 @@ async function handleRatingChange(input) {
   const fieldset = input.closest("[data-story-rating]");
   const storyIdValue = fieldset.dataset.storyRating;
   const card = input.closest(".story-card");
-  const story = stories[Number(card.dataset.storyId)];
+  const signal = input.closest(".signal-item");
+  const story = card
+    ? stories[Number(card.dataset.storyId)]
+    : {
+      section: "Morning Signal",
+      title: signal?.dataset.signalTitle || "Morning signal",
+      source: signal?.dataset.signalSource || "",
+      tags: (signal?.dataset.signalTags || "").split(", ").filter(Boolean)
+    };
   const status = fieldset.querySelector(".rating-status");
 
   setRating(storyIdValue, input.value);

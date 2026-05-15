@@ -220,5 +220,85 @@ window.briefingStories = [
     expanded: "The Super Group Nigeria story and iGB's Africa product article make this EveryMatrix proof point more useful: Africa is not just a sales geography, it is a platform localisation, payments, fraud, support and operating-model test.",
     source: "https://everymatrix.com/everymatrix-platform-technology-live-with-betsson-africa-in-cameroon/",
     tags: ["EveryMatrix", "Betsson", "Africa"]
+  },
+  {
+    section: "North America",
+    title: "Alberta supplier approvals accelerate ahead of July market opening",
+    meta: "Canada / Alberta | European Gaming / AGLC | 13 May 2026",
+    summary: "Gaming Corps received a conditional AGLC supplier licence as Alberta prepares to open its regulated iGaming market on 13 July 2026.",
+    why: "Alberta is becoming the next Canadian market-readiness test: suppliers need both regulatory approval and commercial onboarding with AiGC before launch.",
+    expanded: "The Alberta model matters because it closely echoes Ontario while adding its own conduct-and-manage layer. Suppliers and operators need to treat launch readiness as a two-stage workflow: licence eligibility, then commercial onboarding, integration, compliance documentation and market-specific product configuration.",
+    source: "https://europeangaming.eu/portal/press-releases/2026/05/13/204206/gaming-corps-secures-conditional-aglc-supplier-licence-for-alberta/",
+    tags: ["Alberta", "AGLC", "Supplier licensing"]
+  },
+  {
+    section: "Europe",
+    title: "PlaySmart takes Isle of Man licence as the island modernises oversight",
+    meta: "Isle of Man | European Gaming / GSC | 12 May 2026",
+    summary: "PlaySmart secured an Isle of Man gambling licence for B2C expansion as the jurisdiction moves toward a unified fitness standard and new civil penalty regime.",
+    why: "This is a reminder that licence choice is a strategic product and compliance decision, not just a legal wrapper around the brand.",
+    expanded: "The Isle of Man continues to compete as a credibility jurisdiction for online gambling businesses. For operators, the signal is that governance quality, penalties, fit-and-proper checks and player-facing operating controls are becoming part of the commercial story told to partners, banks and regulators.",
+    source: "https://europeangaming.eu/portal/press-releases/2026/05/12/204044/playsmart-secures-isle-of-man-gambling-licence-for-b2c-expansion/",
+    tags: ["Isle of Man", "Licensing", "Operator"]
+  },
+  {
+    section: "Industry Notes",
+    title: "Q1 earnings theme: iGaming is carrying growth while prediction markets arrive",
+    meta: "Analysis | Gaming America | 5 May 2026",
+    summary: "Gaming America reads Q1 results across Caesars, RSI, Sportradar and Robinhood as a clear split: iGaming growth is solid while prediction markets become material.",
+    commentary: "The useful industry read is that sports betting is no longer the only growth narrative investors want to hear. Casino-first economics, data infrastructure and adjacent event markets are all now part of the same strategic conversation. That puts pressure on platform teams to support more flexible vertical economics, sharper customer segmentation and product journeys that can explain very different risk models under one account relationship.",
+    takeaway: "Track whether operators ask for converged account, wallet and CRM tooling across sportsbook, casino, lottery and event-style products.",
+    source: "https://gamingamerica.com/news/1064466/q1-2026-earnings-season-has-a-clear-theme-igaming-is-winning-and-prediction-markets-are-arriving",
+    tags: ["Q1 earnings", "iGaming", "Prediction markets"]
+  },
+  {
+    section: "Europe",
+    title: "Octoplay goes live with bet365 as casino content competition intensifies",
+    meta: "UK | European Gaming / Octoplay | 8 May 2026",
+    summary: "Octoplay added bet365 to its UK distribution roster, extending a run of tier-one casino content integrations across regulated markets.",
+    why: "Casino content supply is becoming a tier-one operator battleground, with speed of integration, certification and content differentiation all affecting product velocity.",
+    expanded: "The bet365 integration shows how large operators are broadening casino supplier rosters while keeping strict compliance and operational requirements. For platform teams, the pressure is on content onboarding, game metadata, market certification, release governance, RTP controls and promotional tooling.",
+    source: "https://europeangaming.eu/portal/press-releases/2026/05/08/203755/octoplay-goes-live-with-bet365-in-uk-as-supplier-expands-tier-one-roster/",
+    tags: ["bet365", "Octoplay", "Casino content"]
+  },
+  {
+    section: "Europe",
+    title: "Lithuania's online market growth puts TOPsport content deals in focus",
+    meta: "Lithuania | European Gaming / LPT | 15 May 2026",
+    summary: "Lithuania reported 2025 gambling GGR of EUR274.1m, with online play accounting for roughly three quarters of the total.",
+    why: "Smaller European markets can still become important platform tests when online share, dominant local brands and reporting obligations move quickly together.",
+    expanded: "The Lithuania signal is not only a content deal. It is the combination of online growth, dominant local distribution and LAKIS data obligations. Market-entry teams should watch whether reporting cadence, player-activity transmission and local operator concentration shape the integration roadmap.",
+    source: "https://europeangaming.eu/portal/press-releases/2026/05/15/204355/popok-gaming-integrates-content-catalogue-with-lithuanias-topsport/",
+    tags: ["Lithuania", "CEE", "Online growth"]
+  },
+  {
+    section: "Other / Global",
+    title: "Endorphina's UAE vendor licence shows B2B supply chain forming early",
+    meta: "UAE | European Gaming / GCGRA | 7 May 2026",
+    summary: "Endorphina received a Tier II Gaming-Related Vendor Licence from the UAE's GCGRA, adding to the country's emerging B2B gaming supply chain.",
+    why: "The UAE is building supplier eligibility before broad operator rollout, which makes vendor licensing an early market-structure signal.",
+    expanded: "For global suppliers, the UAE is a reminder that early B2B approvals can matter before a market becomes commercially large. Product and compliance teams need readiness for technical standards, content eligibility, reporting expectations and local controls before operator demand arrives at scale.",
+    source: "https://europeangaming.eu/portal/press-releases/2026/05/07/203652/endorphina-secures-gcgra-gaming-related-vendor-licence-tier-ii-in-the-uae/",
+    tags: ["UAE", "GCGRA", "Vendor licensing"]
+  },
+  {
+    section: "LatAm",
+    title: "Brazil casino content deals keep building behind licensed operators",
+    meta: "Brazil | European Gaming / Evoplay / Oleybet | 24 April 2026",
+    summary: "Evoplay agreed to add 24 slot titles to Oleybet's Brazilian casino via Sportingtech as suppliers continue to target Brazil's licensed online market.",
+    why: "Brazil is moving from licence headlines into day-to-day content, platform and integration execution.",
+    expanded: "The Brazil content flow matters because it shows the market entering an operational phase. Operators need portfolio depth, supplier integrations, tax and reporting readiness, local payments, responsible gambling controls and campaign tools that can adapt quickly without bespoke work each time.",
+    source: "https://europeangaming.eu/portal/press-releases/2026/04/24/202580/evoplay-adds-24-slots-to-oleybets-brazilian-casino-via-sportingtech/",
+    tags: ["Brazil", "Casino", "Content supply"]
+  },
+  {
+    section: "Other / Global",
+    title: "EvenBet Denmark licence adds another supplier signal in mature Europe",
+    meta: "Denmark | InterGame / Spillemyndigheden | 13 May 2026",
+    summary: "EvenBet secured a five-year Danish B2B licence covering online poker and casino software, including its Spins Poker product.",
+    why: "Denmark remains a useful proof market for supplier governance, RNG certification, platform security and regulated-market operating discipline.",
+    expanded: "EvenBet's Danish approval fits a wider pattern of suppliers using mature European jurisdictions to prove compliance quality. The interesting product angle is how poker, casino and aggregation capabilities are being packaged for markets that expect strict certification and operational controls.",
+    source: "https://www.intergameonline.com/igaming/news/evenbet-gaming-secures-denmark-licence-for-igaming-solutions",
+    tags: ["Denmark", "EvenBet", "Supplier licensing"]
   }
 ];

@@ -113,6 +113,10 @@ input {
   font-weight: 700;
 }
 
+.nav-link[hidden] {
+  display: none;
+}
+
 .nav-link:hover,
 .nav-link.active {
   background: var(--nav-soft);
@@ -144,6 +148,14 @@ input {
   font-weight: 700;
 }
 
+.dek {
+  max-width: 560px;
+  margin: 5px 0 0;
+  color: #526170;
+  font-size: 14px;
+  font-weight: 700;
+}
+
 .toolbar {
   display: flex;
   align-items: center;
@@ -154,7 +166,7 @@ input {
 
 .toolbar input {
   width: min(330px, 42vw);
-  min-height: 40px;
+  min-height: 38px;
   padding: 0 12px;
   border: 1px solid #cbd7e2;
   border-radius: 8px;
@@ -166,7 +178,7 @@ input {
 .card-toggle,
 .section-toggle,
 .source-button {
-  min-height: 40px;
+  min-height: 38px;
   padding: 0 12px;
   border: 1px solid #c8d4df;
   border-radius: 8px;
@@ -174,6 +186,13 @@ input {
   color: var(--ink);
   font-weight: 800;
   cursor: pointer;
+}
+
+.compact-tools button {
+  min-height: 34px;
+  padding: 0 10px;
+  color: #314151;
+  font-size: 13px;
 }
 
 .toolbar button:hover,
@@ -231,6 +250,10 @@ input {
   grid-column: 2;
   grid-row: 1 / span 2;
   align-self: start;
+  min-height: 30px;
+  padding: 0 9px;
+  color: #5d6d7d;
+  font-size: 11px;
 }
 
 .section-collapsed > :not(.section-heading) {
@@ -241,6 +264,70 @@ input {
   font-family: var(--serif);
   font-size: 22px;
   font-weight: 700;
+}
+
+.is-empty-desk {
+  display: none;
+}
+
+.lead-package {
+  margin-bottom: 14px;
+}
+
+.lead-story {
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+  border-top: 3px solid var(--ink);
+  border-bottom: 1px solid #d8deb0;
+  background: #ffffff;
+}
+
+.lead-label,
+.analysis-label {
+  color: var(--rose);
+  font-size: 11px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.lead-story h3 {
+  max-width: 850px;
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(28px, 4vw, 46px);
+  line-height: 1.02;
+}
+
+.lead-story h3 a {
+  color: inherit;
+}
+
+.lead-deck {
+  max-width: 850px;
+  margin: 0;
+  color: #263545;
+  font-family: var(--serif);
+  font-size: 19px;
+  line-height: 1.32;
+}
+
+.lead-read {
+  max-width: 880px;
+  margin: 0;
+  color: #344454;
+}
+
+.lead-footer,
+.lead-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.lead-footer {
+  justify-content: space-between;
 }
 
 .signal-list {
@@ -272,9 +359,20 @@ input {
 
 .signal-content {
   color: #263545;
+}
+
+.signal-content h3 {
+  margin: 0 0 5px;
   font-family: var(--serif);
-  font-size: 15px;
-  line-height: 1.36;
+  font-size: 18px;
+  line-height: 1.14;
+}
+
+.signal-content p {
+  margin: 0;
+  color: #344454;
+  font-size: 13px;
+  line-height: 1.34;
 }
 
 .signal-content a {
@@ -283,6 +381,20 @@ input {
 
 .signal-content a:hover {
   color: var(--blue);
+}
+
+.signal-tags {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+.signal-tag {
+  color: #5f6e7d;
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
 }
 
 .lens-grid,
@@ -379,6 +491,10 @@ meter::-webkit-meter-optimum-value {
   background: transparent;
 }
 
+.analysis-cards {
+  margin-top: 16px;
+}
+
 .story-card {
   border-right: 1px solid var(--line);
   border-bottom: 1px solid var(--line);
@@ -429,12 +545,27 @@ meter::-webkit-meter-optimum-value {
   font-weight: 800;
 }
 
-.story-card[data-kind="Product"] .rank {
+.story-card[data-kind="Product & Platform"] .rank {
   background: #e1f1ec;
   color: #0f5b50;
 }
 
-.story-card[data-kind="Industry Notes"] .rank {
+.story-card[data-kind="Operators & Strategy"] .rank {
+  background: #f5e8d6;
+  color: #7a4300;
+}
+
+.story-card[data-kind="Regulation & Enforcement"] .rank {
+  background: #f4dfe7;
+  color: #7a233a;
+}
+
+.story-card[data-kind="Suppliers & Technology"] .rank {
+  background: #e8e2f4;
+  color: #402b67;
+}
+
+.story-card[data-kind="Analysis"] .rank {
   background: #f5e8d6;
   color: #7a4300;
 }
@@ -459,6 +590,17 @@ meter::-webkit-meter-optimum-value {
   color: #263545;
   font-size: 14px;
   line-height: 1.38;
+}
+
+.story-impact {
+  display: -webkit-box;
+  margin: 8px 0 0;
+  overflow: hidden;
+  color: #3e4d5c;
+  font-size: 13px;
+  line-height: 1.36;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 
 .card-detail {
@@ -501,6 +643,7 @@ meter::-webkit-meter-optimum-value {
   display: flex;
   align-items: center;
   gap: 7px;
+  flex-wrap: wrap;
   color: var(--muted);
   font-size: 11px;
   font-weight: 800;

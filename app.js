@@ -15,8 +15,9 @@ const expandAll = document.querySelector("#expandAll");
 const collapseAll = document.querySelector("#collapseAll");
 const copyScores = document.querySelector("#copyScores");
 const briefingDate = document.querySelector("#briefingDate");
-const atAGlanceList = document.querySelector("#atAGlanceList");
-const platformLensGrid = document.querySelector("#platformLensGrid");
+const leadPackage = document.querySelector("#leadPackage");
+const topStoriesList = document.querySelector("#topStoriesList");
+const analysisGrid = document.querySelector("#analysisGrid");
 const ratingsKey = "igaming-briefing-relevance-v1";
 const sectionImages = {
   Product: "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=900&q=75",
@@ -27,6 +28,14 @@ const sectionImages = {
   Africa: "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=900&q=75",
   "Asia / Oceania": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=900&q=75",
   "Other / Global": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=75"
+};
+const editorialDeskLabels = {
+  "Regulation & Enforcement": "Regulation",
+  "Operators & Strategy": "Strategy",
+  "Product & Platform": "Product",
+  Markets: "Market",
+  "Suppliers & Technology": "Supplier",
+  Analysis: "Analysis"
 };
 
 function loadFreshData() {
@@ -109,13 +118,7 @@ function normalizedKey(value) {
 }
 
 function promotedStoryKeys() {
-  const signals = window.briefingMeta?.atAGlance?.length
-    ? window.briefingMeta.atAGlance
-    : stories.slice(0, 5).map((story) => ({
-      text: story.summary,
-      source: story.source,
-      title: story.title
-    }));
+  const signals = topStoryItems();
   const keys = new Set();
 
   signals.forEach((signal) => {
@@ -137,6 +140,82 @@ function isPromotedStory(story, keys) {
   const title = normalizedKey(story.title);
 
   return (source && keys.has(`source:${source}`)) || (title && keys.has(`title:${title}`));
+}
+
+function topStoryItems() {
+  return window.briefingMeta?.atAGlance?.length
+    ? window.briefingMeta.atAGlance
+    : stories.slice(0, 5).map((story) => ({
+      text: story.summary,
+      source: story.source,
+      title: story.title,
+      tags: story.tags,
+      section: "Top Stories"
+    }));
+}
+
+function storyBlob(story) {
+  return [
+    story.section,
+    story.title,
+    story.meta,
+    story.summary,
+    story.why,
+    story.expanded,
+    story.commentary,
+    story.takeaway,
+    story.source,
+    ...(story.tags || [])
+  ].filter(Boolean).join(" ").toLowerCase();
+}
+
+function storyCoreBlob(story) {
+  return [
+    story.section,
+    story.title,
+    story.meta,
+    story.summary,
+    story.source,
+    ...(story.tags || [])
+  ].filter(Boolean).join(" ").toLowerCase();
+}
+
+function matchingStoryForSignal(signal) {
+  const normalized = typeof signal === "string"
+    ? { text: signal, title: stripHtml(signal) }
+    : signal;
+  const source = normalizedKey(normalized.source);
+  const title = normalizedKey(normalized.title || stripHtml(normalized.text));
+
+  return stories.find((story) => source && normalizedKey(story.source) === source)
+    || stories.find((story) => title && normalizedKey(story.title) === title);
+}
+
+function editorialSection(story) {
+  const blob = storyBlob(story);
+  const core = storyCoreBlob(story);
+
+  if (story.section === "Industry Notes") return "Analysis";
+  if (story.section === "Product" && /ux|kyc|platform|localisation|localization|wallet|payments|account/.test(core)) return "Product & Platform";
+  if (/operator|bally|evoke|draftkings|flutter|betmgm|penn|caesars|rsi|super group|earnings|m&a|acquisition|retention|crm/.test(core)) return "Operators & Strategy";
+  if (/everymatrix|relax|arrise|supplier licensing|supplier compliance|aggregation|content distribution|turnkey|technology live/.test(core)) return "Suppliers & Technology";
+  if (/anj|regulat|enforcement|illegal|taskforce|advertising|payment blocking|betstop|eligibility|desenrola|acma|ontario|indonesia|fraud|world cup/.test(blob)) return "Regulation & Enforcement";
+  if (/ux|platform|product|kyc|wallet|payments|localisation|localization|compliance journeys|rg tooling|account/.test(blob)) return "Product & Platform";
+  if (/brazil|africa|nigeria|cameroon|latam|europe|north america|asia|oceania|australia|minnesota|france|uk|us|canada/.test(blob)) return "Markets";
+
+  return "Markets";
+}
+
+function regionLabel(story) {
+  const blob = storyBlob(story);
+
+  if (/brazil|latam/.test(blob)) return "LatAm";
+  if (/nigeria|africa|cameroon/.test(blob)) return "Africa";
+  if (/australia|indonesia|asia|oceania/.test(blob)) return "Asia-Pacific";
+  if (/us|united states|minnesota|ontario|canada|north america/.test(blob)) return "North America";
+  if (/france|uk|denmark|europe/.test(blob)) return "Europe";
+
+  return story.section;
 }
 
 function briefingDateLabel() {
@@ -165,20 +244,47 @@ function storyImage(story) {
   return story.image || sectionImages[story.section] || sectionImages["Other / Global"];
 }
 
+function leadTemplate(signal, index) {
+  const normalized = typeof signal === "string"
+    ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Top Stories" }
+    : signal;
+  const linkedStory = matchingStoryForSignal(normalized) || stories[0] || {};
+  const id = signalId(normalized, index);
+  const title = normalized.title || linkedStory.title || stripHtml(normalized.text);
+  const source = normalized.source || linkedStory.source || "";
+  const deck = stripHtml(normalized.text || linkedStory.summary || "");
+  const why = linkedStory.why || linkedStory.takeaway || linkedStory.summary || "A cross-market signal worth watching for operators, suppliers and product teams.";
+  const tags = (normalized.tags || linkedStory.tags || [])
+    .map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`)
+    .join("");
+  const sourceLink = source
+    ? `<a class="source-button" href="${escapeAttribute(source)}">Read source</a>`
+    : "";
+
+  return `
+    <article class="lead-story" data-signal-title="${escapeAttribute(title)}" data-signal-source="${escapeAttribute(source)}" data-signal-tags="${escapeAttribute((normalized.tags || linkedStory.tags || []).join(", "))}">
+      <div class="lead-label">Lead story</div>
+      <h3>${source ? `<a href="${escapeAttribute(source)}">${escapeHtml(title)}</a>` : escapeHtml(title)}</h3>
+      <p class="lead-deck">${escapeHtml(deck)}</p>
+      <p class="lead-read"><span class="label">Why it matters:</span> ${escapeHtml(why)}</p>
+      <div class="lead-footer">
+        <div class="tag-row">${tags}</div>
+        <div class="lead-actions">
+          ${ratingTemplate(normalized, id, true)}
+          ${sourceLink}
+        </div>
+      </div>
+    </article>
+  `;
+}
+
 function renderMeta() {
   const meta = window.briefingMeta || defaultMeta;
   briefingDate.textContent = meta.dateLabel || defaultMeta.dateLabel;
 
-  const glanceItems = meta.atAGlance?.length
-    ? meta.atAGlance
-    : stories.slice(0, 5).map((story) => ({
-      text: story.summary,
-      source: story.source,
-      title: story.title,
-      tags: story.tags,
-      section: "Morning Signal"
-    }));
-  atAGlanceList.innerHTML = glanceItems.map(signalTemplate).join("");
+  const glanceItems = topStoryItems();
+  leadPackage.innerHTML = glanceItems.length ? leadTemplate(glanceItems[0], 0) : "";
+  topStoriesList.innerHTML = glanceItems.slice(1).map(signalTemplate).join("");
 
   const lensItems = meta.platformLens?.length
     ? meta.platformLens
@@ -189,8 +295,9 @@ function renderMeta() {
       sourceLabel: "Source"
     }));
 
-  platformLensGrid.innerHTML = lensItems.map((item) => `
+  analysisGrid.innerHTML = lensItems.map((item) => `
     <article>
+      <span class="analysis-label">Platform read</span>
       <h3>${escapeHtml(item.title)}</h3>
       <p>${escapeHtml(item.text)}</p>
       ${item.source ? `<a href="${escapeHtml(item.source)}">${escapeHtml(item.sourceLabel || "Source")}</a>` : ""}
@@ -219,18 +326,21 @@ function ratingTemplate(item, id, compact = false) {
 
 function signalTemplate(signal, index) {
   const normalized = typeof signal === "string"
-    ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Morning Signal" }
+    ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Top Stories" }
     : signal;
   const id = signalId(normalized, index);
   const title = normalized.title || stripHtml(normalized.text);
   const source = normalized.source || "";
-  const content = source
-    ? `<a href="${escapeAttribute(source)}">${normalized.text}</a>`
-    : normalized.text;
+  const deck = stripHtml(normalized.text || title);
+  const tags = (normalized.tags || []).map((tag) => `<span class="signal-tag">${escapeHtml(tag)}</span>`).join("");
 
   return `
     <li class="signal-item" data-signal-title="${escapeAttribute(title)}" data-signal-source="${escapeAttribute(source)}" data-signal-tags="${escapeAttribute((normalized.tags || []).join(", "))}">
-      <div class="signal-content">${content}</div>
+      <div class="signal-content">
+        <h3>${source ? `<a href="${escapeAttribute(source)}">${escapeHtml(title)}</a>` : escapeHtml(title)}</h3>
+        <p>${escapeHtml(deck)}</p>
+        <div class="signal-tags">${tags}</div>
+      </div>
       ${ratingTemplate(normalized, id, true)}
     </li>
   `;
@@ -240,11 +350,13 @@ function cardTemplate(story, index, storyIndex, includeImage = false) {
   const isIndustry = story.section === "Industry Notes";
   const id = storyId(story);
   const detailParts = [];
-  const sourceLabel = isIndustry ? "Open source" : story.section === "Product" ? "Read article" : "Open source";
+  const desk = editorialSection(story);
+  const sourceLabel = isIndustry ? "Read analysis" : "Read source";
   const sourceLink = story.source
     ? `<a class="source-button" href="${escapeHtml(story.source)}">${sourceLabel}</a>`
     : "";
   const image = storyImage(story);
+  const impact = story.why || story.takeaway || story.expanded || story.commentary || "";
 
   if (isIndustry) {
     detailParts.push(`<p class="detail-block"><span class="label">Expanded commentary:</span> ${escapeHtml(story.commentary)}</p>`);
@@ -263,17 +375,19 @@ function cardTemplate(story, index, storyIndex, includeImage = false) {
   const tags = (story.tags || []).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("");
 
   return `
-    <article class="story-card ${includeImage ? "has-image" : ""}" data-kind="${escapeHtml(story.section)}" data-story-id="${storyIndex}">
+    <article class="story-card ${includeImage ? "has-image" : ""}" data-kind="${escapeHtml(desk)}" data-story-id="${storyIndex}">
       ${includeImage ? `<img class="story-image" src="${escapeAttribute(image)}" alt="">` : ""}
       <div class="card-summary">
         <div class="story-kicker">
           <span class="rank">${index + 1}</span>
-          <span>${escapeHtml(story.section)}</span>
+          <span>${escapeHtml(editorialDeskLabels[desk] || desk)}</span>
+          <span>${escapeHtml(regionLabel(story))}</span>
         </div>
         <div>
           <h3 class="story-title">${escapeHtml(story.title)}</h3>
           <p class="meta">${escapeHtml(story.meta)}</p>
-          <p class="summary"><span class="label">Summary:</span> ${escapeHtml(story.summary)}</p>
+          <p class="summary"><span class="label">Signal:</span> ${escapeHtml(story.summary)}</p>
+          ${impact ? `<p class="story-impact"><span class="label">Implication:</span> ${escapeHtml(impact)}</p>` : ""}
           <div class="tag-row">${tags}</div>
           ${ratingTemplate(story, id, true)}
         </div>
@@ -289,16 +403,10 @@ function cardTemplate(story, index, storyIndex, includeImage = false) {
 
 function searchText(story) {
   return [
-    story.section,
-    story.title,
-    story.meta,
-    story.summary,
-    story.why,
-    story.expanded,
-    story.commentary,
-    story.takeaway,
-    ...(story.tags || [])
-  ].filter(Boolean).join(" ").toLowerCase();
+    storyBlob(story),
+    editorialSection(story),
+    regionLabel(story)
+  ].join(" ").toLowerCase();
 }
 
 function renderStories() {
@@ -306,10 +414,10 @@ function renderStories() {
 
   sectionContainers.forEach((container) => {
     const section = container.dataset.section;
-    const allSectionStories = stories
+    const sectionStories = stories
       .map((story, storyIndex) => ({ story, storyIndex }))
-      .filter(({ story }) => story.section === section);
-    const sectionStories = allSectionStories.filter(({ story }) => !isPromotedStory(story, promotedKeys));
+      .filter(({ story }) => editorialSection(story) === section)
+      .filter(({ story }) => !isPromotedStory(story, promotedKeys));
 
     container.innerHTML = sectionStories
       .map(({ story, storyIndex }, index) => cardTemplate(story, index, storyIndex, index === 0))
@@ -317,15 +425,15 @@ function renderStories() {
 
     const empty = document.createElement("div");
     empty.className = "empty-state";
-    empty.classList.toggle("visible", sectionStories.length === 0);
-    empty.dataset.defaultText = sectionStories.length
-      ? "No matching items in this section."
-      : allSectionStories.length
-        ? "All items from this section are covered in Morning Signal."
-        : "No items in this section today.";
+    empty.dataset.defaultText = "No matching items in this desk.";
     empty.textContent = empty.dataset.defaultText;
     container.appendChild(empty);
+
+    const sectionElement = container.closest(".panel, .story-section");
+    sectionElement?.classList.toggle("is-empty-desk", sectionStories.length === 0);
   });
+
+  updateDeskNavigation();
 }
 
 function toggleCard(button) {
@@ -350,6 +458,7 @@ function filterStories() {
 
   sectionContainers.forEach((container) => {
     const cards = [...container.querySelectorAll(".story-card")];
+    const sectionElement = container.closest(".panel, .story-section");
     let visibleCount = 0;
 
     cards.forEach((card) => {
@@ -361,7 +470,18 @@ function filterStories() {
 
     const empty = container.querySelector(".empty-state");
     empty.textContent = query ? "No matching items in this section." : empty.dataset.defaultText;
-    empty.classList.toggle("visible", visibleCount === 0);
+    empty.classList.toggle("visible", Boolean(query) && cards.length > 0 && visibleCount === 0);
+    sectionElement?.classList.toggle("is-empty-desk", cards.length === 0 || (Boolean(query) && visibleCount === 0));
+  });
+
+  updateDeskNavigation();
+}
+
+function updateDeskNavigation() {
+  document.querySelectorAll(".nav-link").forEach((link) => {
+    const target = document.querySelector(link.getAttribute("href"));
+    const canHide = target?.matches(".story-section, .analysis-panel");
+    link.hidden = Boolean(canHide && target.classList.contains("is-empty-desk"));
   });
 }
 
@@ -389,7 +509,7 @@ function setupSectionToggles() {
 }
 
 function updateActiveNav() {
-  const links = [...document.querySelectorAll(".nav-link")];
+  const links = [...document.querySelectorAll(".nav-link:not([hidden])")];
   const sections = links.map((link) => document.querySelector(link.getAttribute("href"))).filter(Boolean);
   let activeId = sections[0]?.id;
 
@@ -408,12 +528,12 @@ async function handleRatingChange(input) {
   const fieldset = input.closest("[data-story-rating]");
   const storyIdValue = fieldset.dataset.storyRating;
   const card = input.closest(".story-card");
-  const signal = input.closest(".signal-item");
+  const signal = input.closest(".signal-item, .lead-story");
   const story = card
     ? stories[Number(card.dataset.storyId)]
     : {
-      section: "Morning Signal",
-      title: signal?.dataset.signalTitle || "Morning signal",
+      section: "Top Stories",
+      title: signal?.dataset.signalTitle || "Top story",
       source: signal?.dataset.signalSource || "",
       tags: (signal?.dataset.signalTags || "").split(", ").filter(Boolean)
     };

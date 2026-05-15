@@ -18,17 +18,14 @@
       </div>
 
       <nav class="section-nav" aria-label="Briefing sections">
-        <a href="#at-a-glance" class="nav-link active">At a glance</a>
-        <a href="#platform-lens" class="nav-link">Platform lens</a>
-        <a href="#product" class="nav-link">Product</a>
-        <a href="#industry-notes" class="nav-link">Industry notes</a>
-        <a href="#europe" class="nav-link">Europe</a>
-        <a href="#north-america" class="nav-link">North America</a>
-        <a href="#latam" class="nav-link">LatAm</a>
-        <a href="#africa" class="nav-link">Africa</a>
-        <a href="#asia" class="nav-link">Asia / Oceania</a>
-        <a href="#global" class="nav-link">Other / Global</a>
-        <a href="#watchlists" class="nav-link">Watchlists</a>
+        <a href="#top-stories" class="nav-link active">Top stories</a>
+        <a href="#regulation" class="nav-link">Regulation</a>
+        <a href="#operators" class="nav-link">Operators</a>
+        <a href="#platform" class="nav-link">Product & platform</a>
+        <a href="#markets" class="nav-link">Markets</a>
+        <a href="#suppliers" class="nav-link">Suppliers</a>
+        <a href="#analysis" class="nav-link">Analysis</a>
+        <a href="#watchlists" class="nav-link">Watchlist</a>
       </nav>
     </aside>
 
@@ -37,8 +34,9 @@
         <div>
           <p id="briefingDate" class="eyebrow">Loading latest briefing...</p>
           <h2>Daily iGaming Update</h2>
+          <p class="dek">Product, regulation and market signals for global iGaming operators.</p>
         </div>
-        <div class="toolbar" role="search">
+        <div class="toolbar compact-tools" role="search">
           <input id="searchInput" type="search" placeholder="Search stories, topics, companies">
           <button id="expandAll" type="button">Expand all</button>
           <button id="collapseAll" type="button">Collapse all</button>
@@ -46,90 +44,68 @@
         </div>
       </header>
 
-      <section id="at-a-glance" class="panel priority-panel">
+      <section id="top-stories" class="panel priority-panel top-stories">
         <div class="section-heading">
           <p class="eyebrow">Morning signal</p>
-          <h2>At a glance</h2>
+          <h2>Top stories</h2>
         </div>
-        <ul id="atAGlanceList" class="signal-list"></ul>
+        <div id="leadPackage" class="lead-package"></div>
+        <ul id="topStoriesList" class="signal-list"></ul>
       </section>
 
-      <section id="platform-lens" class="panel">
+      <section id="regulation" class="story-section">
         <div class="section-heading">
-          <p class="eyebrow">Robert / platform view</p>
-          <h2>Platform lens</h2>
+          <p class="eyebrow">Regulatory risk desk</p>
+          <h2>Regulation & enforcement</h2>
         </div>
-        <div id="platformLensGrid" class="lens-grid"></div>
+        <div class="cards" data-section="Regulation & Enforcement"></div>
       </section>
 
-      <section id="product" class="story-section">
+      <section id="operators" class="story-section">
         <div class="section-heading">
-          <p class="eyebrow">Product strategy</p>
-          <h2>Product</h2>
+          <p class="eyebrow">Commercial strategy desk</p>
+          <h2>Operators & strategy</h2>
         </div>
-        <div class="cards" data-section="Product"></div>
+        <div class="cards" data-section="Operators & Strategy"></div>
       </section>
 
-      <section id="industry-notes" class="story-section">
+      <section id="platform" class="story-section">
         <div class="section-heading">
-          <p class="eyebrow">Commentary worth expanding</p>
-          <h2>Industry notes</h2>
+          <p class="eyebrow">Product architecture desk</p>
+          <h2>Product & platform</h2>
         </div>
-        <div class="cards" data-section="Industry Notes"></div>
+        <div class="cards" data-section="Product & Platform"></div>
       </section>
 
-      <section id="europe" class="story-section">
+      <section id="markets" class="story-section">
         <div class="section-heading">
-          <p class="eyebrow">Regional news</p>
-          <h2>Europe</h2>
+          <p class="eyebrow">Market movement desk</p>
+          <h2>Markets</h2>
         </div>
-        <div class="cards" data-section="Europe"></div>
+        <div class="cards" data-section="Markets"></div>
       </section>
 
-      <section id="north-america" class="story-section">
+      <section id="suppliers" class="story-section">
         <div class="section-heading">
-          <p class="eyebrow">Regional news</p>
-          <h2>North America</h2>
+          <p class="eyebrow">Technology and supply chain desk</p>
+          <h2>Suppliers & technology</h2>
         </div>
-        <div class="cards" data-section="North America"></div>
+        <div class="cards" data-section="Suppliers & Technology"></div>
       </section>
 
-      <section id="latam" class="story-section">
+      <section id="analysis" class="panel analysis-panel">
         <div class="section-heading">
-          <p class="eyebrow">Regional news</p>
-          <h2>LatAm</h2>
+          <p class="eyebrow">Editorial read</p>
+          <h2>Analysis</h2>
         </div>
-        <div class="cards" data-section="LatAm"></div>
-      </section>
-
-      <section id="africa" class="story-section">
-        <div class="section-heading">
-          <p class="eyebrow">Regional news</p>
-          <h2>Africa</h2>
-        </div>
-        <div class="cards" data-section="Africa"></div>
-      </section>
-
-      <section id="asia" class="story-section">
-        <div class="section-heading">
-          <p class="eyebrow">Regional news</p>
-          <h2>Asia / Oceania</h2>
-        </div>
-        <div class="cards" data-section="Asia / Oceania"></div>
-      </section>
-
-      <section id="global" class="story-section">
-        <div class="section-heading">
-          <p class="eyebrow">Company and supplier watch</p>
-          <h2>Other / Global</h2>
-        </div>
-        <div class="cards" data-section="Other / Global"></div>
+        <div id="analysisGrid" class="lens-grid"></div>
+        <div class="cards analysis-cards" data-section="Analysis"></div>
       </section>
 
       <section id="watchlists" class="panel">
         <div class="section-heading">
           <p class="eyebrow">Follow-ups</p>
-          <h2>Watchlists</h2>
+          <h2>Watchlist</h2>
         </div>
         <div class="watch-grid">
           <article>

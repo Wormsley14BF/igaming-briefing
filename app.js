@@ -601,10 +601,11 @@ async function copyRatings() {
 async function init() {
   await loadFreshData();
   const localStoryCount = Array.isArray(window.briefingStories) ? window.briefingStories.length : 0;
-  await loadRemoteBriefingData();
-  if (Array.isArray(window.briefingStories) && window.briefingStories.length < localStoryCount) {
-    await loadFreshData();
+
+  if (!localStoryCount) {
+    await loadRemoteBriefingData();
   }
+
   stories = Array.isArray(window.briefingStories) ? window.briefingStories : [];
   renderMeta();
   renderStories();

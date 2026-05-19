@@ -1,0 +1,38 @@
+name: Update daily briefing
+
+on:
+  schedule:
+    - cron: "10 6 * * *"
+    - cron: "10 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build briefing data
+        run: node scripts/build-briefing-data.mjs
+
+      - name: Commit briefing update
+        run: |
+          if git diff --quiet -- briefing-data.js; then
+            echo "No briefing-data.js changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add briefing-data.js
+          git commit -m "Update daily briefing data"
+          git push

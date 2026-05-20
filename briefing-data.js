@@ -20,6 +20,15 @@ window.briefingMeta = {
       ]
     },
     {
+      "title": "SOFTSWISS shares prediction markets report for iGaming operators",
+      "text": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
+      "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
+      "tags": [
+        "Prediction markets",
+        "Regulation"
+      ]
+    },
+    {
       "title": "Bally’s approved for 2nd Rhode Island sports betting license",
       "text": "Bally’s approved for 2nd Rhode Island sports betting license AffPapa",
       "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFBBQ25meG5MbnhnN2dQY2xmQUxpWGRIYlhMcUJKOExZZzZlY2FIaGhXck9NZzNYRWJrbXFIWWdTU29nV1NNWjJGd25EdEtBZDdKQkxsQ1ZoRXJwaWpMb09xNzVOcGhsaGZXYXg2WnhXOW5qVVQwV1FXR0t6UGFpVlRn?oc=5",
@@ -27,15 +36,6 @@ window.briefingMeta = {
         "Bally's",
         "Regulation",
         "US"
-      ]
-    },
-    {
-      "title": "SOFTSWISS shares prediction markets report for iGaming operators",
-      "text": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
-      "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
       ]
     },
     {
@@ -106,6 +106,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "LatAm",
+    "title": "SOFTSWISS shares prediction markets report for iGaming operators",
+    "meta": "NEXT.io | 19 May 2026",
+    "summary": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Bally’s approved for 2nd Rhode Island sports betting license",
     "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
@@ -117,19 +130,6 @@ window.briefingStories = [
       "Bally's",
       "Regulation",
       "US"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "SOFTSWISS shares prediction markets report for iGaming operators",
-    "meta": "NEXT.io | 19 May 2026",
-    "summary": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
     ]
   },
   {
@@ -189,19 +189,6 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch - GamblingNews",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWR6bVctRk84alo0eWxNUnJTNVZYREQydVRIei1pc19tc05nOVYyYmhicTdoVmp0UF9TbHM0UC1NazNoN2NFSnNzUURCN2ZyLUxwUkJOQldfQUpGdjhkS2pCTm1yMjROUGVfWkNQQTZHMlhRam9GR0lsWmw4RlhMcHJDbmM5bG4zci1wRU9XVDV5WXdnWmQzX08zal9KcndiWFM4?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
     "title": "EveryMatrix Lands Alberta Licence: Here's What It Means for Players - RotoWire",
     "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
     "summary": "EveryMatrix Lands Alberta Licence: Here's What It Means for Players RotoWire",
@@ -224,6 +211,19 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "RG"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch - GamblingNews",
+    "meta": "Google News: iGaming | 19 May 2026",
+    "summary": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWR6bVctRk84alo0eWxNUnJTNVZYREQydVRIei1pc19tc05nOVYyYmhicTdoVmp0UF9TbHM0UC1NazNoN2NFSnNzUURCN2ZyLUxwUkJOQldfQUpGdjhkS2pCTm1yMjROUGVfWkNQQTZHMlhRam9GR0lsWmw4RlhMcHJDbmM5bG4zci1wRU9XVDV5WXdnWmQzX08zal9KcndiWFM4?oc=5",
+    "tags": [
+      "EveryMatrix",
+      "Regulation"
     ]
   },
   {
@@ -285,18 +285,6 @@ window.briefingStories = [
     "source": "https://igamingbusiness.com/legal-compliance/uk-gambling-tax-hike-shock-not-yet-felt-six-weeks-in/",
     "tags": [
       "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "SOFTSWISS Prediction markets for sportsbooks: What the first operator found after launch",
-    "meta": "Focus Gaming News | 19 May 2026",
-    "summary": "N1 Bet was the first brand to go live with the company’s prediction markets. Interview.- A new type of bettor has emerged, placing wagers on elections, economic shifts, and technological outcomes. Yet, most of that activity has...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "N1 Bet was the first brand to go live with the company’s prediction markets. Interview.- A new type of bettor has emerged, placing wagers on elections, economic shifts, and technological outcomes. Yet, most of that activity has... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/softswiss-prediction-markets-for-sportsbooks-what-the-first-operator-found-after-launch",
-    "tags": [
-      "Prediction markets"
     ]
   },
   {
@@ -389,6 +377,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "EveryMatrix Expands Into Alberta iGaming Market - Latest Casino Bonuses",
+    "meta": "Google News: EveryMatrix watchlist | 20 May 2026",
+    "summary": "EveryMatrix Expands Into Alberta iGaming Market Latest Casino Bonuses",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "EveryMatrix Expands Into Alberta iGaming Market Latest Casino Bonuses Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbTUtU3BJVkhQWjBoMThoX3pza0tsWlk1OEhnVzdtdEduS2gxY3Utalk3NFcxYm5xUTdFTjIzeThtUjE4d1VoLVQ2Mm55SHRpWFNyVEN4Q1VPN09VLVZsTWNxVUJXMjlTWW9GLWhKckRZUnVxSUh3Mk9MMlHSAXxBVV95cUxPZW01LVNwSVZIUFowaDE4aF96c2tLbFpZNThIZ1c3bXRHbktoMWN1LWpZNzRXMWJucVE3RU4yM3k4bVIxOHdVaC1UNjJueUh0aVhTclRDeENVTzdPVS1WbE1jcVVCVzI5U1lvRi1oSnJEWVJ1cUlIdzJPTDJR?oc=5",
+    "tags": [
+      "EveryMatrix",
+      "CRM"
+    ]
+  },
+  {
     "section": "Product",
     "title": "Thai police hold talks with LINE in bid to curb illegal gambling chat groups",
     "meta": "Google News: regulation | 19 May 2026",
@@ -401,15 +402,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Rhode Island bill targets sports betting expansion and tax shake-up",
-    "meta": "Google News: EveryMatrix watchlist | 18 May 2026",
-    "summary": "Rhode Island bill targets sports betting expansion and tax shake-up NEXT.io",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Rhode Island bill targets sports betting expansion and tax shake-up NEXT.io Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2R3SkpvekxHU3BkTkRJdFlPUEhBeTJRLVpFb2FaMW1NMjM5c2RNb2xHMjlUTUllZG9DTzcxdVlDOE5hYzNOakNOSXh0aXBZS0sxN1hWUXdVSEx1bU90VTlfbjhrVy15a2lDTU1YclQtQ0xmSFlzakpPNUFfT055ZEczeHJGejdidzdZ?oc=5",
+    "section": "Product",
+    "title": "Ending the spreadsheet era: ReferOn’s crypto automation to ‘transform iGaming payments’",
+    "meta": "SBC News | 20 May 2026",
+    "summary": "Operator-affiliate relationships run on trust, but they are frequently derailed by the payment delays and human errors inherent to manual spreadsheet management. With operators reporting that up to 20% of their affiliate...",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Operator-affiliate relationships run on trust, but they are frequently derailed by the payment delays and human errors inherent to manual spreadsheet management. With operators reporting that up to 20% of their affiliate... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://sbcnews.co.uk/features/2026/05/20/referon-crypto-automation-igaming-payments/",
     "tags": [
-      "US"
+      "Payments"
     ]
   }
 ];

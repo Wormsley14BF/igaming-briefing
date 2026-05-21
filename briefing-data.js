@@ -1,6 +1,16 @@
 window.briefingMeta = {
-  "dateLabel": "Wednesday, 20 May 2026 | automated public-site edition",
+  "dateLabel": "Thursday, 21 May 2026 | automated public-site edition",
   "atAGlance": [
+    {
+      "title": "CFTC Sues Minnesota Over Prediction Market Ban, Calling Law “Most Aggressive” State Crackdown Yet",
+      "text": "The CFTC says Minnesota’s new prediction market law unlawfully criminalizes federally regulated event contracts, including weather and crop-related markets used by farmers and commercial hedgers. The Commodity Futures Trading...",
+      "source": "https://www.gamblinginsider.com/news/161147/cftc-sues-minnesota-prediction-market-ban-derivatives-markets",
+      "tags": [
+        "Prediction markets",
+        "Regulation",
+        "US"
+      ]
+    },
     {
       "title": "EveryMatrix Gets Alberta iGaming License Approval — Canada's Second Regulated Market Targets July 2026 Launch - Bettors Insider",
       "text": "EveryMatrix Gets Alberta iGaming License Approval — Canada's Second Regulated Market Targets July 2026 Launch Bettors Insider",
@@ -11,42 +21,30 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "EveryMatrix takes North American strategy a step forward with Alberta licence",
-      "text": "EveryMatrix has secured approval to expand its operations in Alberta, which is set to become the next regulated betting market in Canada. The Malta-based gaming tech firm has been expanding its profile across the various gaming...",
-      "source": "https://sbcnews.co.uk/igaming/2026/05/19/everymatrix-alberta-licence/",
-      "tags": [
-        "EveryMatrix",
-        "Regulation"
-      ]
-    },
-    {
-      "title": "SOFTSWISS shares prediction markets report for iGaming operators",
-      "text": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
-      "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
+      "title": "Kalshi Partnership with National Council on Problem Gambling Raises Questions About Policy Gaps",
+      "text": "The announcement that the NCPG and Kalshi have partnered to create a new council membership category for financial services and trading is raising eyebrows. Whether prediction markets, particularly their popular sports...",
+      "source": "https://www.gamblinginsider.com/news/161542/kalshi-partnership-ncpg-raises-questions-about-policy-gaps",
       "tags": [
         "Prediction markets",
         "Regulation"
       ]
     },
     {
-      "title": "Bally’s approved for 2nd Rhode Island sports betting license",
-      "text": "Bally’s approved for 2nd Rhode Island sports betting license AffPapa",
-      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFBBQ25meG5MbnhnN2dQY2xmQUxpWGRIYlhMcUJKOExZZzZlY2FIaGhXck9NZzNYRWJrbXFIWWdTU29nV1NNWjJGd25EdEtBZDdKQkxsQ1ZoRXJwaWpMb09xNzVOcGhsaGZXYXg2WnhXOW5qVVQwV1FXR0t6UGFpVlRn?oc=5",
+      "title": "Kalshi joins National Council on Problem Gambling",
+      "text": "The company will support a strategic initiative focused on trader health and safety with a $2m investment. US.- The National Council on Problem Gambling (NCPG) has announced a $2m, two-year investment from prediction market...",
+      "source": "https://focusgn.com/kalshi-joins-national-council-on-problem-gambling",
       "tags": [
-        "Bally's",
-        "Regulation",
+        "Prediction markets",
         "US"
       ]
     },
     {
-      "title": "Xtremepush introduces ‘XpertOS’, the future operating system for CRM teams",
-      "text": "Xtremepush, the category leader in igaming CRM and loyalty marketing, today announced the launch of XpertOS, a seamlessly integrated and fully-live AI platform that has the potential to totally upend the industry and change how...",
-      "source": "https://next.io/news/b2b-news/xtremepush-introduces-xpertos-the-future-operating-system-for-crm-teams/",
+      "title": "Minnesota becomes first US state to outlaw prediction markets",
+      "text": "Governor Tim Walz has signed a bill that criminalises platforms like Kalshi and Polymarket. U.S.- Minnesota has formally outlawed prediction markets, becoming the first US state to criminalise platforms that allow the buying and...",
+      "source": "https://focusgn.com/minnesota-becomes-first-state-to-outlaw-prediction-markets",
       "tags": [
-        "Regulation",
-        "KYC",
-        "AI",
-        "CRM"
+        "Prediction markets",
+        "US"
       ]
     }
   ],
@@ -54,20 +52,20 @@ window.briefingMeta = {
     {
       "title": "Payments and channelisation",
       "text": "Payment flows, illegal-market blocking and cashier restrictions remain core platform-control areas.",
-      "source": "https://www.ggrasia.com/ape-broadens-offering-with-asia-distribution-deal-for-countr-products?utm_source=rss&utm_medium=rss&utm_campaign=ape-broadens-offering-with-asia-distribution-deal-for-countr-products",
-      "sourceLabel": "GGRAsia"
+      "source": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRFlyM3JpUzRxQnMwRU1oWWQ3UFYtUjBuV1ltaTlwTlladjJRUUdoZzJYby1LZTJQQ2Q2NVQzdENCWFpLaVVZM0RNNlhKcGt4YWotXw?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://next.io/news/b2b-news/xtremepush-introduces-xpertos-the-future-operating-system-for-crm-teams/",
-      "sourceLabel": "NEXT.io"
+      "source": "https://sbcnews.co.uk/features/2026/05/21/player-protection-igaming-webinar/",
+      "sourceLabel": "SBC News"
     },
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
-      "sourceLabel": "NEXT.io"
+      "source": "https://www.gamblinginsider.com/news/161147/cftc-sues-minnesota-prediction-market-ban-derivatives-markets",
+      "sourceLabel": "Gambling Insider"
     },
     {
       "title": "Product quality is a commercial control",
@@ -79,6 +77,20 @@ window.briefingMeta = {
 };
 
 window.briefingStories = [
+  {
+    "section": "North America",
+    "title": "CFTC Sues Minnesota Over Prediction Market Ban, Calling Law “Most Aggressive” State Crackdown Yet",
+    "meta": "Gambling Insider | 20 May 2026",
+    "summary": "The CFTC says Minnesota’s new prediction market law unlawfully criminalizes federally regulated event contracts, including weather and crop-related markets used by farmers and commercial hedgers. The Commodity Futures Trading...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The CFTC says Minnesota’s new prediction market law unlawfully criminalizes federally regulated event contracts, including weather and crop-related markets used by farmers and commercial hedgers. The Commodity Futures Trading... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/161147/cftc-sues-minnesota-prediction-market-ban-derivatives-markets",
+    "tags": [
+      "Prediction markets",
+      "Regulation",
+      "US"
+    ]
+  },
   {
     "section": "North America",
     "title": "EveryMatrix Gets Alberta iGaming License Approval — Canada's Second Regulated Market Targets July 2026 Launch - Bettors Insider",
@@ -94,25 +106,12 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "EveryMatrix takes North American strategy a step forward with Alberta licence",
-    "meta": "SBC News | 19 May 2026",
-    "summary": "EveryMatrix has secured approval to expand its operations in Alberta, which is set to become the next regulated betting market in Canada. The Malta-based gaming tech firm has been expanding its profile across the various gaming...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "EveryMatrix has secured approval to expand its operations in Alberta, which is set to become the next regulated betting market in Canada. The Malta-based gaming tech firm has been expanding its profile across the various gaming... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/igaming/2026/05/19/everymatrix-alberta-licence/",
-    "tags": [
-      "EveryMatrix",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "SOFTSWISS shares prediction markets report for iGaming operators",
-    "meta": "NEXT.io | 19 May 2026",
-    "summary": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
+    "title": "Kalshi Partnership with National Council on Problem Gambling Raises Questions About Policy Gaps",
+    "meta": "Gambling Insider | 20 May 2026",
+    "summary": "The announcement that the NCPG and Kalshi have partnered to create a new council membership category for financial services and trading is raising eyebrows. Whether prediction markets, particularly their popular sports...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
+    "expanded": "The announcement that the NCPG and Kalshi have partnered to create a new council membership category for financial services and trading is raising eyebrows. Whether prediction markets, particularly their popular sports... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/161542/kalshi-partnership-ncpg-raises-questions-about-policy-gaps",
     "tags": [
       "Prediction markets",
       "Regulation"
@@ -120,44 +119,40 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Bally’s approved for 2nd Rhode Island sports betting license",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "Bally’s approved for 2nd Rhode Island sports betting license AffPapa",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally’s approved for 2nd Rhode Island sports betting license AffPapa Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFBBQ25meG5MbnhnN2dQY2xmQUxpWGRIYlhMcUJKOExZZzZlY2FIaGhXck9NZzNYRWJrbXFIWWdTU29nV1NNWjJGd25EdEtBZDdKQkxsQ1ZoRXJwaWpMb09xNzVOcGhsaGZXYXg2WnhXOW5qVVQwV1FXR0t6UGFpVlRn?oc=5",
+    "title": "Kalshi joins National Council on Problem Gambling",
+    "meta": "Focus Gaming News | 20 May 2026",
+    "summary": "The company will support a strategic initiative focused on trader health and safety with a $2m investment. US.- The National Council on Problem Gambling (NCPG) has announced a $2m, two-year investment from prediction market...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The company will support a strategic initiative focused on trader health and safety with a $2m investment. US.- The National Council on Problem Gambling (NCPG) has announced a $2m, two-year investment from prediction market... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/kalshi-joins-national-council-on-problem-gambling",
     "tags": [
-      "Bally's",
-      "Regulation",
+      "Prediction markets",
       "US"
     ]
   },
   {
-    "section": "Product",
-    "title": "Xtremepush introduces ‘XpertOS’, the future operating system for CRM teams",
-    "meta": "NEXT.io | 20 May 2026",
-    "summary": "Xtremepush, the category leader in igaming CRM and loyalty marketing, today announced the launch of XpertOS, a seamlessly integrated and fully-live AI platform that has the potential to totally upend the industry and change how...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Xtremepush, the category leader in igaming CRM and loyalty marketing, today announced the launch of XpertOS, a seamlessly integrated and fully-live AI platform that has the potential to totally upend the industry and change how... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://next.io/news/b2b-news/xtremepush-introduces-xpertos-the-future-operating-system-for-crm-teams/",
+    "section": "North America",
+    "title": "Minnesota becomes first US state to outlaw prediction markets",
+    "meta": "Focus Gaming News | 20 May 2026",
+    "summary": "Governor Tim Walz has signed a bill that criminalises platforms like Kalshi and Polymarket. U.S.- Minnesota has formally outlawed prediction markets, becoming the first US state to criminalise platforms that allow the buying and...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Governor Tim Walz has signed a bill that criminalises platforms like Kalshi and Polymarket. U.S.- Minnesota has formally outlawed prediction markets, becoming the first US state to criminalise platforms that allow the buying and... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/minnesota-becomes-first-state-to-outlaw-prediction-markets",
     "tags": [
-      "Regulation",
-      "KYC",
-      "AI",
-      "CRM"
+      "Prediction markets",
+      "US"
     ]
   },
   {
     "section": "Asia / Oceania",
-    "title": "APE broadens offering with Asia-distribution deal for CountR products",
-    "meta": "GGRAsia | 19 May 2026",
-    "summary": "Hong Kong-listed Asia Pioneer Entertainment Holdings Ltd (APE) says it has signed a distribution agreement with CountR GmbH, a Germany-based provider of payment automation and cash-handling technology, specialising in the...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Hong Kong-listed Asia Pioneer Entertainment Holdings Ltd (APE) says it has signed a distribution agreement with CountR GmbH, a Germany-based provider of payment automation and cash-handling technology, specialising in the... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://www.ggrasia.com/ape-broadens-offering-with-asia-distribution-deal-for-countr-products?utm_source=rss&utm_medium=rss&utm_campaign=ape-broadens-offering-with-asia-distribution-deal-for-countr-products",
+    "title": "Scaling success: How OMNIPLAY is executing its growth plan in regulated markets",
+    "meta": "iGaming Business | 20 May 2026",
+    "summary": "Expanding into new regulated markets presents suppliers with challenges around localisation, scaling and maintaining consistent performance across different player audiences. OMNIPLAY tells iGamingBusiness how it plans to build...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Expanding into new regulated markets presents suppliers with challenges around localisation, scaling and maintaining consistent performance across different player audiences. OMNIPLAY tells iGamingBusiness how it plans to build... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/gaming/omniplay-executing-growth-plan-regulated-markets/",
     "tags": [
       "Regulation",
-      "Payments",
       "Asia"
     ]
   },
@@ -175,17 +170,39 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Evoke extends deadline for possible acquisition offer from Bally’s",
-    "meta": "Focus Gaming News | 19 May 2026",
-    "summary": "Evoke says “constructive discussions” are ongoing. UK.- The London-listed gambling operator Evoke has granted Bally’s Intralot additional time to decide on a possible acquisition offer. The initial deadline for deal talks...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Evoke says “constructive discussions” are ongoing. UK.- The London-listed gambling operator Evoke has granted Bally’s Intralot additional time to decide on a possible acquisition offer. The initial deadline for deal talks... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/evoke-extends-deadline-for-possible-acquisition-offer-from-ballys",
+    "section": "Other / Global",
+    "title": "Why player education is at the heart of player protection in iGaming",
+    "meta": "SBC News | 21 May 2026",
+    "summary": "In the safer gambling discourse, much is made of the responsibility that each stakeholder has towards player protection. Operators, regulators, suppliers, affiliates and even the players themselves hold a responsibility to...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "In the safer gambling discourse, much is made of the responsibility that each stakeholder has towards player protection. Operators, regulators, suppliers, affiliates and even the players themselves hold a responsibility to... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://sbcnews.co.uk/features/2026/05/21/player-protection-igaming-webinar/",
     "tags": [
-      "Bally's",
-      "UK"
+      "Regulation",
+      "RG"
     ]
+  },
+  {
+    "section": "Product",
+    "title": "JP Morgan Chase drops Entain stake to below 3% just 10 days after upping to 7%",
+    "meta": "SBC News | 20 May 2026",
+    "summary": "JP Morgan Chase has dropped its stake in Entain to below 3% within two weeks of upping it to 7%. A Notification of Major Holdings announcement this morning shows that the global banking behemoth has reduced its holdings in the...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "JP Morgan Chase has dropped its stake in Entain to below 3% within two weeks of upping it to 7%. A Notification of Major Holdings announcement this morning shows that the global banking behemoth has reduced its holdings in the... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/sportsbook/2026/05/20/jp-morgan-chase-entain-shares/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "Playtech powers Americas status as new tax pressures loom",
+    "meta": "SBC News | 20 May 2026",
+    "summary": "Playtech points to Mexico and other North American opportunities as the new growth engine of its FTSE250 midcap holdings. Publishing a corporate notice ahead of its AGM, Playtech lauded that a “stronger-than-expected performance...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Playtech points to Mexico and other North American opportunities as the new growth engine of its FTSE250 midcap holdings. Publishing a corporate notice ahead of its AGM, Playtech lauded that a “stronger-than-expected performance... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/igaming/2026/05/20/playtech-agm-update/",
+    "tags": []
   },
   {
     "section": "North America",
@@ -198,6 +215,116 @@ window.briefingStories = [
     "tags": [
       "EveryMatrix",
       "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Matthew Schuler to Step Down After 15 Years Leading Ohio Gambling Regulator",
+    "meta": "Gambling Insider | 20 May 2026",
+    "summary": "Schuler has been among the more vocal and visible regulators regarding sports betting, athlete safety. (UPDATE: 5/20 3:30 pm ET: This story has been updated to include comments from Wednesday’s meeting, and the appointment of an...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Schuler has been among the more vocal and visible regulators regarding sports betting, athlete safety. (UPDATE: 5/20 3:30 pm ET: This story has been updated to include comments from Wednesday’s meeting, and the appointment of an... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.gamblinginsider.com/news/161244/matthew-schuler-to-step-down-after-15-years-leading-ohio-gambling-regulator",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Bally's pushes forward on its Chicago casino amid tangible signs the downturn is recovering - MSN",
+    "meta": "Google News: EveryMatrix watchlist | 20 May 2026",
+    "summary": "Bally's pushes forward on its Chicago casino amid tangible signs the downturn is recovering MSN",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally's pushes forward on its Chicago casino amid tangible signs the downturn is recovering MSN Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU3hmQl9odUc2M29sTTBNVXVvZTAyU0dfd2gyM0FjWmRabUQtLXdoMVFIdnN1bzBodkN0SHBidmZWczRTd09VZ21PT3NYbnZFMDVVTzhUTGZrZXJicXNCX0pVc1AzRTJ2U2s4YjFaZTFPN0F1N0ZXZkNmRWp3Uzg4OGhvNEstaXFpSWRrVVFUVE1ReGhEUkhHNWNYT2JkTENuUVMwLXlWY1FQUlhHdjRISjdEaTdHYUFydmtETl9ZZjZxYzlPcUR1OHZxY3hqT3BScXhNSzZuUWZJNEtGWHpJ?oc=5",
+    "tags": [
+      "Bally's"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Bally Bet promo code: Up to $500 back in reload bonus in May 2026 - NJ.com",
+    "meta": "Google News: EveryMatrix watchlist | 20 May 2026",
+    "summary": "Bally Bet promo code: Up to $500 back in reload bonus in May 2026 NJ.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally Bet promo code: Up to $500 back in reload bonus in May 2026 NJ.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSOWdLWGFOUjd0YVNBNnRtUFdvRWVINUR2M3ZaYkN4VzZvMllnRF84emdFVXl6blE0LXhiNG9VSG9DSTc4b00yTlRuN3pSX20zZjFsUE1iU1RWM213SDJUemRn?oc=5",
+    "tags": [
+      "Bally's",
+      "CRM"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korea Opens Review of Polymarket Over Possible Illegal Gambling Violations - bloomingbit",
+    "meta": "Google News: regulation | 21 May 2026",
+    "summary": "South Korea Opens Review of Polymarket Over Possible Illegal Gambling Violations bloomingbit",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea Opens Review of Polymarket Over Possible Illegal Gambling Violations bloomingbit Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRFlyM3JpUzRxQnMwRU1oWWQ3UFYtUjBuV1ltaTlwTlladjJRUUdoZzJYby1LZTJQQ2Q2NVQzdENCWFpLaVVZM0RNNlhKcGt4YWotXw?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Reforms in South Korea aim to fast-track freezing of accounts linked to illegal gambling",
+    "meta": "Google News: regulation | 20 May 2026",
+    "summary": "Reforms in South Korea aim to fast-track freezing of accounts linked to illegal gambling Focus Gaming News",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Reforms in South Korea aim to fast-track freezing of accounts linked to illegal gambling Focus Gaming News Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWRzRFQ5aGFacDRRM1VWT1FlbEx3SDA5dWdJVVllcmppRE1hQnItOFdzaHdsT0MxYTRBYVBGTVFxb1pCMklaTmxCcTliMEJRa0xyM1Q0NHR3eVZHcHdITTBFRzNRSU1LVzdUYkVnZV96SHAxMXFaZmlUeXV1UnktMDFRaWttSFdSZ0ktS085ajhJN1NvYURZbHpmQ0NmNjF6OF9iMXJvWTQwQm0zMFB6R3FQN2w3RUNzUzdVRy1B?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Police Bust 1.3 Trillion Won Vietnam-Based Illegal Gambling Ring, Arrest 63 - Seoul Economic Daily",
+    "meta": "Google News: regulation | 21 May 2026",
+    "summary": "Police Bust 1.3 Trillion Won Vietnam-Based Illegal Gambling Ring, Arrest 63 Seoul Economic Daily",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Police Bust 1.3 Trillion Won Vietnam-Based Illegal Gambling Ring, Arrest 63 Seoul Economic Daily Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaVF2WjQ1UWZKdDJIR1BQRDl1bG55Nl92cm1jbXRDa2lQc0Q2d3RFNkZjYm9DSEpsb0pOZ3dUS01KUDNPSFlGVVc0ZW9tajB6WXpiZm1ZSHkxUTNKUm1LUkViVC1OZkRSMndiSjF5MENQRXlqaHVWSE9SQUI4Yk9hNk1yOVBDM2RDVGJoWlF0am5rYU1pWXFxZGpJUmt5ZE9vYUE?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "MC Mong contacts accuser who raised gambling allegations, saying, \"Let's be on the same side\" ... explains, \"I was trying to stop the conflict\" - 매일경제",
+    "meta": "Google News: regulation | 21 May 2026",
+    "summary": "MC Mong contacts accuser who raised gambling allegations, saying, \"Let's be on the same side\" ... explains, \"I was trying to stop the conflict\" 매일경제",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "MC Mong contacts accuser who raised gambling allegations, saying, \"Let's be on the same side\" ... explains, \"I was trying to stop the conflict\" 매일경제 Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xMFI1ZHVvT3duMmlLME81YWdMUm5TWmQ5RWFDb3dwQUY0LWR5NzhJTno3akdHTU15QllXSlJuczk4RVIwM3VhQVBHZ054QlVVZGZJTDV3?oc=5",
+    "tags": []
+  },
+  {
+    "section": "North America",
+    "title": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch - GamblingNews",
+    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
+    "summary": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWR6bVctRk84alo0eWxNUnJTNVZYREQydVRIei1pc19tc05nOVYyYmhicTdoVmp0UF9TbHM0UC1NazNoN2NFSnNzUURCN2ZyLUxwUkJOQldfQUpGdjhkS2pCTm1yMjROUGVfWkNQQTZHMlhRam9GR0lsWmw4RlhMcHJDbmM5bG4zci1wRU9XVDV5WXdnWmQzX08zal9KcndiWFM4?oc=5",
+    "tags": [
+      "EveryMatrix",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "EveryMatrix Expands Into Alberta iGaming Market - Latest Casino Bonuses",
+    "meta": "Google News: EveryMatrix watchlist | 20 May 2026",
+    "summary": "EveryMatrix Expands Into Alberta iGaming Market Latest Casino Bonuses",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "EveryMatrix Expands Into Alberta iGaming Market Latest Casino Bonuses Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbTUtU3BJVkhQWjBoMThoX3pza0tsWlk1OEhnVzdtdEduS2gxY3Utalk3NFcxYm5xUTdFTjIzeThtUjE4d1VoLVQ2Mm55SHRpWFNyVEN4Q1VPN09VLVZsTWNxVUJXMjlTWW9GLWhKckRZUnVxSUh3Mk9MMlHSAXxBVV95cUxPZW01LVNwSVZIUFowaDE4aF96c2tLbFpZNThIZ1c3bXRHbktoMWN1LWpZNzRXMWJucVE3RU4yM3k4bVIxOHdVaC1UNjJueUh0aVhTclRDeENVTzdPVS1WbE1jcVVCVzI5U1lvRi1oSnJEWVJ1cUlIdzJPTDJR?oc=5",
+    "tags": [
+      "EveryMatrix",
+      "CRM"
     ]
   },
   {
@@ -215,202 +342,67 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch - GamblingNews",
-    "meta": "Google News: iGaming | 19 May 2026",
-    "summary": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch GamblingNews Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQWR6bVctRk84alo0eWxNUnJTNVZYREQydVRIei1pc19tc05nOVYyYmhicTdoVmp0UF9TbHM0UC1NazNoN2NFSnNzUURCN2ZyLUxwUkJOQldfQUpGdjhkS2pCTm1yMjROUGVfWkNQQTZHMlhRam9GR0lsWmw4RlhMcHJDbmM5bG4zci1wRU9XVDV5WXdnWmQzX08zal9KcndiWFM4?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Bally’s wins Rhode Island’s second online betting licence - sigma.world",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "Bally’s wins Rhode Island’s second online betting licence sigma.world",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Bally’s wins Rhode Island’s second online betting licence sigma.world Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUVlWUNSQVBjOHcxdXQtbEt0RVc3d05DNHk2N2gtcUp2eEs0emFaWjktLUJ5MXFYZFROUndwSWd0OU1xb2FrcmQyNzBUcWZ0cFhucnd6MXZUSDZEUTkwT2JwSjF3M0oxNWM2ZlBibVpwNHZDT2l5YUVTTmVYZ0ZRWA?oc=5",
-    "tags": [
-      "Bally's",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Chicago committee approves $5M for public school project - The Center Square",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "Chicago committee approves $5M for public school project The Center Square",
+    "title": "Iowa expands enforcement capacities against unlicensed gambling operators",
+    "meta": "Focus Gaming News | 20 May 2026",
+    "summary": "Governor Kim Reynolds has signed SF 2289, granting the Iowa Racing and Gaming Commission authority to pursue illegal sweepstakes and other unlicensed gambling activities. US.- Iowa has enacted Senate File 2289, a law that...",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Chicago committee approves $5M for public school project The Center Square Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVVQYU9qSTVEdV9XbXN3VlNvYjZFcDJpUVg0WEZ4eUVBcWZ4cUhfXzloNGNUTkRYQnliV3o5d3A3dVVKby1NTXF6VWpRQ1FZYnZ3c2xCa2t6c2ltNGxCaUtENmRkb0dLYUVMR3IwM0JVYUJpWG9BT3Z2ck5nYjJxQ0NrN3RBLUZHeGM0RFFta2xsNWVH0gGaAUFVX3lxTE84YXVNa2R0SzUzV1ZodTQzUFZqb0ZtaWJkcUdsOFdSV2xiZGtna25iODBtMzFYQ0NiMk9LSFlhRVY0b2F5amJqVFdacEg0SlI4MUNrSnpZTEhUVVFtLUVLVWVySTZLN1lFNlZLMTFWejNzbkNKV1p3eDY5bWtuR1VzY1gxTk11SklzYVZtMWtEd3NhRFpqdUVZSkE?oc=5",
-    "tags": []
-  },
-  {
-    "section": "North America",
-    "title": "EveryMatrix Gets Alberta iGaming Supplier Approval - casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "EveryMatrix Gets Alberta iGaming Supplier Approval casino.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "EveryMatrix Gets Alberta iGaming Supplier Approval casino.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlZsMkhaZEV1ekFRUUM0ZFEtODFLTWpvTFJqSlVDR1NQTEhqdzdBbzM5V053TExyVjM2RnZEeUxQdnRhcDQxbHdVaEVRMzBFN0JxS0lkOU8zZnAzdDVGaVA0RUc2bVpXb0xFdWZiNDZCeW16QVdmOTFPZlJSdWhkcmplejdEUHpTdVlEM2xVZ2lQQQ?oc=5",
-    "tags": [
-      "EveryMatrix"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "CEO of SA’s Gauteng gambling regulator dismissed over alleged misconduct",
-    "meta": "iGaming Business | 19 May 2026",
-    "summary": "The gambling regulator in the South African province of Gauteng has been plunged into crisis following explosive findings of financial misconduct and governance failures.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The gambling regulator in the South African province of Gauteng has been plunged into crisis following explosive findings of financial misconduct and governance failures. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/legal-compliance/regulation/gauteng-gambling-regulator-ceo-dismissed-alleged-misconduct/",
+    "expanded": "Governor Kim Reynolds has signed SF 2289, granting the Iowa Racing and Gaming Commission authority to pursue illegal sweepstakes and other unlicensed gambling activities. US.- Iowa has enacted Senate File 2289, a law that... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/iowa-expands-enforcement-capacities-against-unlicensed-gambling-operators",
     "tags": [
       "Regulation",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Six weeks in, UK’s gambling tax shock enters its next phase",
-    "meta": "iGaming Business | 19 May 2026",
-    "summary": "Following the increase in Remote Gaming Duty, operators appear steady. But is this just the calm before the real effects emerge?",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Following the increase in Remote Gaming Duty, operators appear steady. But is this just the calm before the real effects emerge? Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/legal-compliance/uk-gambling-tax-hike-shock-not-yet-felt-six-weeks-in/",
-    "tags": [
-      "UK"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Pagcor remits US$92mln in 2025 earnings dividend to national govt",
-    "meta": "GGRAsia | 19 May 2026",
-    "summary": "The Philippine Amusement and Gaming Corp (Pagcor), the country’s gamig regulator, has remitted PHP5.67 billion (US$91.9 million) in dividends to the National Treasury, equivalent to 50 percent of its net earnings for calendar...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "The Philippine Amusement and Gaming Corp (Pagcor), the country’s gamig regulator, has remitted PHP5.67 billion (US$91.9 million) in dividends to the National Treasury, equivalent to 50 percent of its net earnings for calendar... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://www.ggrasia.com/pagcor-remits-us92mln-in-2025-earnings-dividend-to-national-govt?utm_source=rss&utm_medium=rss&utm_campaign=pagcor-remits-us92mln-in-2025-earnings-dividend-to-national-govt",
-    "tags": [
-      "Regulation",
-      "Payments",
-      "US",
-      "Asia"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Evoke extends deadline for Bally’s Intralot acquisition offer to 8 June",
-    "meta": "iGaming Business | 19 May 2026",
-    "summary": "Evoke has pushed back the deadline for Bally’s Intralot’s potential acquisition offer as negotiations continue between both parties.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Evoke has pushed back the deadline for Bally’s Intralot’s potential acquisition offer as negotiations continue between both parties. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/strategy/ma/evoke-extends-deadline-ballys-intralot-acquisition-offer/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Sporttrade to exit US online sports betting markets while awaiting CFTC decision",
-    "meta": "Google News: iGaming | 19 May 2026",
-    "summary": "Sporttrade to exit US online sports betting markets while awaiting CFTC decision Yogonet",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Sporttrade to exit US online sports betting markets while awaiting CFTC decision Yogonet Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeFQ4WE1jbGxLcHZuZ1B0WjVzcEgyTUx6TjlaS1hxeTBENFVCTFh2WE5qT0g3MVFTcVBmWndER1djcTdQU3RCVmVRazVfVGlmZnl6QmdhUGVWeW9ySUxFbGJhMGg5Z0VlSjNtX2xtd2MtbnpUOW1vSERremJQSXhMSl9KakQ4aEJCV2wyVGZEal9oUUJjbnVIdnJaMjMyUTh4RDNlQjVxb2swa0ZkSU9FeFJqMmVLd28tUUpnV3JPWTlOVWRCLXV4ZHRHRTE0RVRGeGZQeENBRmQ?oc=5",
-    "tags": [
-      "Prediction markets",
-      "US"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Are Sportradar investigations legit or an ambulance chase?",
-    "meta": "SBC News | 20 May 2026",
-    "summary": "A Sportradar investor has filed a lawsuit against the company following the allegations of illegal activity made by two short selling investment research firms last month. James Anthony Smale has filed his claim in the US...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "A Sportradar investor has filed a lawsuit against the company following the allegations of illegal activity made by two short selling investment research firms last month. James Anthony Smale has filed his claim in the US... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/featurednews/2026/05/20/sportradar-investigations-share-price/",
-    "tags": [
       "Black market",
       "US"
     ]
   },
   {
-    "section": "Europe",
-    "title": "Banijay’s betting revenue hit €326m ahead of Tipico integration",
-    "meta": "SBC News | 19 May 2026",
-    "summary": "Betclic and Tipico owner Banijay Group’s plans for betting and media dominance in western continental Europe appear on track according to a breakdown of its Q1 2026 performance. The Amsterdam-listed enterprise reported...",
+    "section": "North America",
+    "title": "Oklahoma bans sweepstakes casino games",
+    "meta": "Focus Gaming News | 20 May 2026",
+    "summary": "The Legislature overrode Governor Kevin Stitt’s veto of Senate Bill 1589. US.- Online sweepstakes casinos have been banned in Oklahoma after the Legislature overrode Governor Kevin Stitt’s veto of Senate Bill 1589. The proposal...",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Betclic and Tipico owner Banijay Group’s plans for betting and media dominance in western continental Europe appear on track according to a breakdown of its Q1 2026 performance. The Amsterdam-listed enterprise reported... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/sportsbook/2026/05/19/banijays-betlic-betting-revenue/",
+    "expanded": "The Legislature overrode Governor Kevin Stitt’s veto of Senate Bill 1589. US.- Online sweepstakes casinos have been banned in Oklahoma after the Legislature overrode Governor Kevin Stitt’s veto of Senate Bill 1589. The proposal... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/oklahoma-bans-sweepstakes-casino-games",
+    "tags": [
+      "Regulation",
+      "US"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "JP Morgan Chase reduces stake in Entain",
+    "meta": "Focus Gaming News | 20 May 2026",
+    "summary": "The banking giant briefly held an increased 7 per cent state in the UK gambling giant. UK.- JP Morgan Chase has cut its holding in the London-listed gambling operator Entain to under 3 per cent only 10 days after upping its...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The banking giant briefly held an increased 7 per cent state in the UK gambling giant. UK.- JP Morgan Chase has cut its holding in the London-listed gambling operator Entain to under 3 per cent only 10 days after upping its... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/jp-morgan-chase-reduces-stake-in-entain",
+    "tags": [
+      "Regulation",
+      "UK"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Alberta iGaming Corporation names Dan Keene as CEO",
+    "meta": "Focus Gaming News | 20 May 2026",
+    "summary": "The Canadian province’s regulated online sports betting and igaming will launch on July 13. Canada.- Dan Keene has been named permanent CEO of the Alberta iGaming Corporation (AiGC) after occupying the position on an interim...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The Canadian province’s regulated online sports betting and igaming will launch on July 13. Canada.- Dan Keene has been named permanent CEO of the Alberta iGaming Corporation (AiGC) after occupying the position on an interim... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/alberta-igaming-corporation-names-dan-keene-as-ceo",
     "tags": [
       "Regulation"
     ]
   },
   {
     "section": "Product",
-    "title": "Turkey raids betting networks in two provinces, netting 233 suspects",
-    "meta": "NEXT.io | 19 May 2026",
-    "summary": "Turkish authorities have launched two major operations against illegal betting networks, targeting suspects in Antalya and Mersin.",
+    "title": "Tangam Systems sees rising demand for reliable AI-powered casino analytics",
+    "meta": "GGRAsia | 21 May 2026",
+    "summary": "Artificial intelligence (AI) is rapidly reshaping casino operations, but for operators in a heavily regulated industry, the challenge is balancing innovation with trust and reliable outcomes, says Maulin Gandhi, president of...",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Turkish authorities have launched two major operations against illegal betting networks, targeting suspects in Antalya and Mersin. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/turkey-raids-betting-networks-netting-233-suspects/",
+    "expanded": "Artificial intelligence (AI) is rapidly reshaping casino operations, but for operators in a heavily regulated industry, the challenge is balancing innovation with trust and reliable outcomes, says Maulin Gandhi, president of... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.ggrasia.com/tangam-systems-sees-rising-demand-for-reliable-ai-powered-casino-analytics?utm_source=rss&utm_medium=rss&utm_campaign=tangam-systems-sees-rising-demand-for-reliable-ai-powered-casino-analytics",
     "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Rhode Island finally gets a second sportsbook after 7 years of a monopoly - SportsBoom US",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "Rhode Island finally gets a second sportsbook after 7 years of a monopoly SportsBoom US",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Rhode Island finally gets a second sportsbook after 7 years of a monopoly SportsBoom US Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUltaUNyZWR1UlNUQzFuZ0p5M05VN3JQQ0NnUFVvVWd2a0duYUZwaWFpaTdfM3Z4aDlMNmRfTHJrYW1qcjBvNUp1b2dDT2xOd0RYT0RYYjZrcFdXd2dmUklJbnpQUjN4NXlDWmVhQkE1QzcyVmhOVE13NHAyUVVNTmdsbEZXdw?oc=5",
-    "tags": [
-      "US"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "EveryMatrix Expands Into Alberta iGaming Market - Latest Casino Bonuses",
-    "meta": "Google News: EveryMatrix watchlist | 20 May 2026",
-    "summary": "EveryMatrix Expands Into Alberta iGaming Market Latest Casino Bonuses",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix Expands Into Alberta iGaming Market Latest Casino Bonuses Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lbTUtU3BJVkhQWjBoMThoX3pza0tsWlk1OEhnVzdtdEduS2gxY3Utalk3NFcxYm5xUTdFTjIzeThtUjE4d1VoLVQ2Mm55SHRpWFNyVEN4Q1VPN09VLVZsTWNxVUJXMjlTWW9GLWhKckRZUnVxSUh3Mk9MMlHSAXxBVV95cUxPZW01LVNwSVZIUFowaDE4aF96c2tLbFpZNThIZ1c3bXRHbktoMWN1LWpZNzRXMWJucVE3RU4yM3k4bVIxOHdVaC1UNjJueUh0aVhTclRDeENVTzdPVS1WbE1jcVVCVzI5U1lvRi1oSnJEWVJ1cUlIdzJPTDJR?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "CRM"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Thai police hold talks with LINE in bid to curb illegal gambling chat groups",
-    "meta": "Google News: regulation | 19 May 2026",
-    "summary": "Thai police hold talks with LINE in bid to curb illegal gambling chat groups Focus Gaming News",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Thai police hold talks with LINE in bid to curb illegal gambling chat groups Focus Gaming News Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnFrWURPUlJDWnlVV3R3TzZtb0tLeDd6dmVqSENBSlNrZGdFaUtFcjNqSHNVNTRkbHkydnlqRGhsV0xaOGp4XzkxQ3hCMnNJaDhPbUZMemNqSDdSN2txSkpEeGZSMTdLdFIwZTlVYnh1WndabnFrcE9WTEJkQkZqdWtpb24yNnFWbUFOYnl5LUZFYkFuY0hTZDNCYmU4TUdIVXQxYXczY2JrWkNEWFE?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Ending the spreadsheet era: ReferOn’s crypto automation to ‘transform iGaming payments’",
-    "meta": "SBC News | 20 May 2026",
-    "summary": "Operator-affiliate relationships run on trust, but they are frequently derailed by the payment delays and human errors inherent to manual spreadsheet management. With operators reporting that up to 20% of their affiliate...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Operator-affiliate relationships run on trust, but they are frequently derailed by the payment delays and human errors inherent to manual spreadsheet management. With operators reporting that up to 20% of their affiliate... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://sbcnews.co.uk/features/2026/05/20/referon-crypto-automation-igaming-payments/",
-    "tags": [
-      "Payments"
+      "Regulation",
+      "AI"
     ]
   }
 ];

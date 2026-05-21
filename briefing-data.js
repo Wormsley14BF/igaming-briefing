@@ -21,6 +21,17 @@ window.briefingMeta = {
       ]
     },
     {
+      "title": "Xtremepush introduces ‘XpertOS’, the future operating system for CRM teams",
+      "text": "Xtremepush, the category leader in igaming CRM and loyalty marketing, today announced the launch of XpertOS, a seamlessly integrated and fully-live AI platform that has the potential to totally upend the industry and change how...",
+      "source": "https://next.io/news/b2b-news/xtremepush-introduces-xpertos-the-future-operating-system-for-crm-teams/",
+      "tags": [
+        "Regulation",
+        "KYC",
+        "AI",
+        "CRM"
+      ]
+    },
+    {
       "title": "Kalshi Partnership with National Council on Problem Gambling Raises Questions About Policy Gaps",
       "text": "The announcement that the NCPG and Kalshi have partnered to create a new council membership category for financial services and trading is raising eyebrows. Whether prediction markets, particularly their popular sports...",
       "source": "https://www.gamblinginsider.com/news/161542/kalshi-partnership-ncpg-raises-questions-about-policy-gaps",
@@ -30,21 +41,12 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Kalshi joins National Council on Problem Gambling",
-      "text": "The company will support a strategic initiative focused on trader health and safety with a $2m investment. US.- The National Council on Problem Gambling (NCPG) has announced a $2m, two-year investment from prediction market...",
-      "source": "https://focusgn.com/kalshi-joins-national-council-on-problem-gambling",
+      "title": "SOFTSWISS shares prediction markets report for iGaming operators",
+      "text": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
+      "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
       "tags": [
         "Prediction markets",
-        "US"
-      ]
-    },
-    {
-      "title": "Minnesota becomes first US state to outlaw prediction markets",
-      "text": "Governor Tim Walz has signed a bill that criminalises platforms like Kalshi and Polymarket. U.S.- Minnesota has formally outlawed prediction markets, becoming the first US state to criminalise platforms that allow the buying and...",
-      "source": "https://focusgn.com/minnesota-becomes-first-state-to-outlaw-prediction-markets",
-      "tags": [
-        "Prediction markets",
-        "US"
+        "Regulation"
       ]
     }
   ],
@@ -58,8 +60,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://sbcnews.co.uk/features/2026/05/21/player-protection-igaming-webinar/",
-      "sourceLabel": "SBC News"
+      "source": "https://next.io/news/b2b-news/xtremepush-introduces-xpertos-the-future-operating-system-for-crm-teams/",
+      "sourceLabel": "NEXT.io"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -105,6 +107,21 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Xtremepush introduces ‘XpertOS’, the future operating system for CRM teams",
+    "meta": "NEXT.io | 20 May 2026",
+    "summary": "Xtremepush, the category leader in igaming CRM and loyalty marketing, today announced the launch of XpertOS, a seamlessly integrated and fully-live AI platform that has the potential to totally upend the industry and change how...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "Xtremepush, the category leader in igaming CRM and loyalty marketing, today announced the launch of XpertOS, a seamlessly integrated and fully-live AI platform that has the potential to totally upend the industry and change how... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://next.io/news/b2b-news/xtremepush-introduces-xpertos-the-future-operating-system-for-crm-teams/",
+    "tags": [
+      "Regulation",
+      "KYC",
+      "AI",
+      "CRM"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Kalshi Partnership with National Council on Problem Gambling Raises Questions About Policy Gaps",
     "meta": "Gambling Insider | 20 May 2026",
@@ -115,6 +132,31 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Regulation"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "SOFTSWISS shares prediction markets report for iGaming operators",
+    "meta": "NEXT.io | 19 May 2026",
+    "summary": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "SOFTSWISS, an international software provider, has released a research report on prediction markets, examining how the category has developed and what it means for iGaming operators considering entry. The ‘Prediction Markets:... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://next.io/news/b2b-news/softswiss-shares-prediction-markets-report-for-igaming-operators/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Oddsgate launches a free igaming Business Plan rooted in real operations",
+    "meta": "Focus Gaming News | 21 May 2026",
+    "summary": "Oddsgate’s new Business Plan package gives operators, affiliates, and investors the structured framework the industry has been missing, and it’s free of charge. Press release.- The igaming industry generated over $643bn globally...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Oddsgate’s new Business Plan package gives operators, affiliates, and investors the structured framework the industry has been missing, and it’s free of charge. Press release.- The igaming industry generated over $643bn globally... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/oddsgate-launches-a-free-igaming-business-plan-rooted-in-real-operations",
+    "tags": [
+      "Bally's"
     ]
   },
   {
@@ -302,6 +344,18 @@ window.briefingStories = [
     "tags": []
   },
   {
+    "section": "Product",
+    "title": "Dutch Lottery slams ‘counterproductive’ tax rises",
+    "meta": "NEXT.io | 20 May 2026",
+    "summary": "The Dutch Lottery said higher gambling taxes risks accelerating black market activity and reducing funding for good causes.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The Dutch Lottery said higher gambling taxes risks accelerating black market activity and reducing funding for good causes. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/regulation/dutch-lottery-slams-counterproductive-tax-rises/",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
     "section": "North America",
     "title": "EveryMatrix Secures Alberta License Ahead of iGaming Market Launch - GamblingNews",
     "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
@@ -329,19 +383,6 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Kalshi Discovers Responsible Gambling, Minus The Gambling - ingame.com",
-    "meta": "Google News: regulation | 19 May 2026",
-    "summary": "Kalshi Discovers Responsible Gambling, Minus The Gambling ingame.com",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Kalshi Discovers Responsible Gambling, Minus The Gambling ingame.com Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ReldVRmVyb3c1SVBYU0hkVlRvYlQtS3Q0cXBhVVQzVHV2UUt5Q2t2VW1Wdk8xV3JEdHEzdkhNaHEyV0VfYU1QNUJRQmdHM3JDaDdHb1U0dmgzbkRqQUpTemRtODZ2bFVzNTJTZXBaYXR1MlBC?oc=5",
-    "tags": [
-      "Prediction markets",
-      "RG"
-    ]
-  },
-  {
-    "section": "North America",
     "title": "Iowa expands enforcement capacities against unlicensed gambling operators",
     "meta": "Focus Gaming News | 20 May 2026",
     "summary": "Governor Kim Reynolds has signed SF 2289, granting the Iowa Racing and Gaming Commission authority to pursue illegal sweepstakes and other unlicensed gambling activities. US.- Iowa has enacted Senate File 2289, a law that...",
@@ -365,44 +406,6 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "US"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "JP Morgan Chase reduces stake in Entain",
-    "meta": "Focus Gaming News | 20 May 2026",
-    "summary": "The banking giant briefly held an increased 7 per cent state in the UK gambling giant. UK.- JP Morgan Chase has cut its holding in the London-listed gambling operator Entain to under 3 per cent only 10 days after upping its...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The banking giant briefly held an increased 7 per cent state in the UK gambling giant. UK.- JP Morgan Chase has cut its holding in the London-listed gambling operator Entain to under 3 per cent only 10 days after upping its... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/jp-morgan-chase-reduces-stake-in-entain",
-    "tags": [
-      "Regulation",
-      "UK"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Alberta iGaming Corporation names Dan Keene as CEO",
-    "meta": "Focus Gaming News | 20 May 2026",
-    "summary": "The Canadian province’s regulated online sports betting and igaming will launch on July 13. Canada.- Dan Keene has been named permanent CEO of the Alberta iGaming Corporation (AiGC) after occupying the position on an interim...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The Canadian province’s regulated online sports betting and igaming will launch on July 13. Canada.- Dan Keene has been named permanent CEO of the Alberta iGaming Corporation (AiGC) after occupying the position on an interim... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/alberta-igaming-corporation-names-dan-keene-as-ceo",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Tangam Systems sees rising demand for reliable AI-powered casino analytics",
-    "meta": "GGRAsia | 21 May 2026",
-    "summary": "Artificial intelligence (AI) is rapidly reshaping casino operations, but for operators in a heavily regulated industry, the challenge is balancing innovation with trust and reliable outcomes, says Maulin Gandhi, president of...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Artificial intelligence (AI) is rapidly reshaping casino operations, but for operators in a heavily regulated industry, the challenge is balancing innovation with trust and reliable outcomes, says Maulin Gandhi, president of... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://www.ggrasia.com/tangam-systems-sees-rising-demand-for-reliable-ai-powered-casino-analytics?utm_source=rss&utm_medium=rss&utm_campaign=tangam-systems-sees-rising-demand-for-reliable-ai-powered-casino-analytics",
-    "tags": [
-      "Regulation",
-      "AI"
     ]
   }
 ];

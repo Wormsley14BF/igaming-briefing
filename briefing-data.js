@@ -216,16 +216,17 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Why player education is at the heart of player protection in iGaming",
-    "meta": "SBC News | 21 May 2026",
-    "summary": "In the safer gambling discourse, much is made of the responsibility that each stakeholder has towards player protection. Operators, regulators, suppliers, affiliates and even the players themselves hold a responsibility to...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "In the safer gambling discourse, much is made of the responsibility that each stakeholder has towards player protection. Operators, regulators, suppliers, affiliates and even the players themselves hold a responsibility to... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://sbcnews.co.uk/features/2026/05/21/player-protection-igaming-webinar/",
+    "section": "North America",
+    "title": "Minnesota Lawsuit, Louisiana Sweeps Bills Lead Gambling Bills This Week",
+    "meta": "Gambling Insider | 22 May 2026",
+    "summary": "Minnesota’s new prediction market ban immediately triggered a federal lawsuit, while governors in Louisiana and Iowa signed gambling-related bills, and Tennessee’s sweeps deadline arrived. Despite legislative sessions winding...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Minnesota’s new prediction market ban immediately triggered a federal lawsuit, while governors in Louisiana and Iowa signed gambling-related bills, and Tennessee’s sweeps deadline arrived. Despite legislative sessions winding... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/162212/minnesota-lawsuit-louisiana-sweeps-bills-gambling-week",
     "tags": [
+      "Prediction markets",
       "Regulation",
-      "RG"
+      "US"
     ]
   },
   {
@@ -286,19 +287,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFVvUEFBRjFYQjJLczRnX3ZnZHNCcHZwQUdHdTlLUkdtWlJmQXRIMC0tWTFLU3BXUFdRbk9RMFRyOU9aSVNtT1ZWMGZlWGlWUGNoVEJZODZiNGxVcVRtVjhQSmFOTzE1bU0zT1ozNGZ3YlZzU0lKS2hDY2ltZ0FYeG5HODZBSTQycVhWRFFpYTJuRV9yX1Q2N0lR?oc=5",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Coinbase sued over prediction markets alleged as illegal gambling; Shares slide - equiti.com",
-    "meta": "Google News: regulation | 21 May 2026",
-    "summary": "Coinbase sued over prediction markets alleged as illegal gambling; Shares slide equiti.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Coinbase sued over prediction markets alleged as illegal gambling; Shares slide equiti.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOXZxUk1VckNDWmZidXhMRmFpeVdrVmI4S2xyTVplWDJXU09kaEhnQXJFRjJRTmhTMXU2cXVUdXNZTFdoNGJib2ZWMXdXWlo5NXVIMnRwVFA4U2ZJampuSER1ajVNTE9zYWhlRFBDYVNHRGk4Ny1udTFsYzhjQVM1SFAxVGZMN3Q4c1ZnczdpTzlmQjZxaTlYS2FWQWlaekNCcTdMbTZGT1AzWk5FSHZwdzFzWkhGSTRteHN0Q1VkbmtpZw?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
     ]
   },
   {
@@ -408,5 +396,18 @@ window.briefingStories = [
     "expanded": "Australia-listed slot machine supplier Ainsworth Game Technology Ltd said it expects first-half profit before tax for the six months to June 30 to fall sharply, citing weaker performance in North America amid softer market... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://www.ggrasia.com/ainsworth-flags-1h-profit-decline-as-north-america-weakness-weighs?utm_source=rss&utm_medium=rss&utm_campaign=ainsworth-flags-1h-profit-decline-as-north-america-weakness-weighs",
     "tags": []
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Altenar enters Philippine market through ArenaPlus sportsbook deal",
+    "meta": "GGRAsia | 21 May 2026",
+    "summary": "Sportsbook technology supplier Altenar says it has entered the regulated sports betting market in the Philippines via a partnership with ArenaPlus, the sports-betting brand of Philippines-listed DigiPlus Interactive Corp. Under...",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "Sportsbook technology supplier Altenar says it has entered the regulated sports betting market in the Philippines via a partnership with ArenaPlus, the sports-betting brand of Philippines-listed DigiPlus Interactive Corp. Under... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://www.ggrasia.com/altenar-enters-philippine-market-through-arenaplus-sportsbook-deal?utm_source=rss&utm_medium=rss&utm_campaign=altenar-enters-philippine-market-through-arenaplus-sportsbook-deal",
+    "tags": [
+      "Regulation",
+      "Asia"
+    ]
   }
 ];

@@ -216,19 +216,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "South Korea launches review into Polymarket over illegal gambling - Business Post",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "South Korea launches review into Polymarket over illegal gambling Business Post",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "South Korea launches review into Polymarket over illegal gambling Business Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
     "section": "Europe",
     "title": "Hot Copy: Situation monitored",
     "meta": "NEXT.io | 22 May 2026",
@@ -240,6 +227,19 @@ window.briefingStories = [
       "Prediction markets",
       "RG",
       "UK"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korea launches review into Polymarket over illegal gambling - Business Post",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "South Korea launches review into Polymarket over illegal gambling Business Post",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea launches review into Polymarket over illegal gambling Business Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
     ]
   },
   {

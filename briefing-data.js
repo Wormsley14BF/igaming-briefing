@@ -60,8 +60,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://sbcnews.co.uk/featurednews/2026/05/21/uk-gambling-commission-affordability/",
-      "sourceLabel": "SBC News"
+      "source": "https://next.io/news/features/hot-copy-22-may/",
+      "sourceLabel": "NEXT.io"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -214,6 +214,16 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Premier League rule change with £80million blackhole forces eight clubs to act - Daily Express",
+    "meta": "Google News: EveryMatrix watchlist | 23 May 2026",
+    "summary": "Premier League rule change with £80million blackhole forces eight clubs to act Daily Express",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Premier League rule change with £80million blackhole forces eight clubs to act Daily Express Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW50ZTNRYnc2WWdTbkZZeG9ZRjhZNmszQWpsRDlkMkpiM1JvRFUzdFFfaENVRmtuWE5yd1ZubkN1VnV2dURzRmRjT3FnTTk2bkhIU1p3bnVBTC1kU3YtdFhVMGZpNjBBM0RuUXNZSzJwUXc4ZzQwVnFLTl9PYVYtSVJGYTRNUmM20gGOAUFVX3lxTE5lSHA0T04tX2I2bk8tR1VaWVR5MlJaNWx6T25XWUdtMnV2VzBPVlJJdXdfVkJPeGpUNVFCazQ4RlRHSHVYNHhjX2NKM00zLW5aVnNMcXdiTjNuNjJMMlNNcHFJRlVzT0V3MW5FRThVdDkxOGctWTN6UTVhbXpWUHpwNE5Fc1NCMWdhVTZnaEE?oc=5",
+    "tags": []
+  },
+  {
     "section": "North America",
     "title": "Kalshi Sues Rhode Island Before State Files Lawsuit Against Kalshi and Polymarket",
     "meta": "Gambling Insider | 22 May 2026",
@@ -250,6 +260,20 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NEJSSmpNN2VwUkcyZl9KWDBJeXRVSEFuRGJod05qQ0Y5bGFzZU9LNzNJbk45UGhuVnBRcDhsWkRWTGo5NS1uVWsxLXpJeUFhOER5d3p2Sk0wUU40b1FpSWd3b2Q5cWhxRWxtTWd4VnlKLWIzS3B4TWN0UQ?oc=5",
     "tags": [
       "Black market"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Hot Copy: Situation monitored",
+    "meta": "NEXT.io | 22 May 2026",
+    "summary": "The culture surrounding prediction markets, UK affordability checks and the National Lottery overhaul all hit headlines this week.",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The culture surrounding prediction markets, UK affordability checks and the National Lottery overhaul all hit headlines this week. Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://next.io/news/features/hot-copy-22-may/",
+    "tags": [
+      "Prediction markets",
+      "RG",
+      "UK"
     ]
   },
   {
@@ -369,49 +393,23 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "BetMGM lambasts prediction markets as gambling ‘bad actors’ - iGaming Expert",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "BetMGM lambasts prediction markets as gambling ‘bad actors’ iGaming Expert",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "BetMGM lambasts prediction markets as gambling ‘bad actors’ iGaming Expert Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbjBPNTRsVG1ZUmd0czBuZ1cyUTNQUHpKU25yV1lkaFpXeXh5N1g0WE95Nnh2YjBWb0h3UkdzZk1jRmhYSlowOVFlZTlwczRXd0phUW9obDZVRzZFNlNZUjNvaUNNTVA5eXJvV0YxWVhCWnppN0NreDg1OUdINGvSAYcBQVVfeXFMTmMxOUJpTG9wQ1RlMUxtdERDWms4cnVGc3Z4M1BacnQ2Q2hjVm9pOC1yTGM1Z2ctbURQcWVLaGxDOHlpWkc2cTVjZ0dOZkYxdlM1THN2alZ3N2dsNDNZWWkyS2dIYTRGSnBvYnJyNnlsSkZmbEdydktmdnJyVjdUMzZqX255VHRF?oc=5",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
     "section": "Product",
-    "title": "Coaching Rumors: Kidd, Bryant, Klei, Bailey, Cook - Hoops Rumors",
-    "meta": "Google News: regulation | 23 May 2026",
-    "summary": "Coaching Rumors: Kidd, Bryant, Klei, Bailey, Cook Hoops Rumors",
+    "title": "Mohamed Salah explains when Liverpool are ‘worst club in the world’ as Egyptian superstar delivers farewell speech to Anfield team-mates - Goal.com",
+    "meta": "Google News: regulation | 24 May 2026",
+    "summary": "Mohamed Salah explains when Liverpool are ‘worst club in the world’ as Egyptian superstar delivers farewell speech to Anfield team-mates Goal.com",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Coaching Rumors: Kidd, Bryant, Klei, Bailey, Cook Hoops Rumors Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMGxlV2tIOTdjSUZhalVEb1RwYVlQUjJ4LUx5S19PTWZQc3RnYk5LSC1sektLQV81TFZpYUliUUQ4LTBaNU1LMWtXNXJjcnRyQUVzNnVBaU5oRjcwaktWSlljN0tRRU54Smt0blZYMDlsTnVnZ3pCRGpZajNaOENZcnNHdmtLRG45QmRqSGNR?oc=5",
+    "expanded": "Mohamed Salah explains when Liverpool are ‘worst club in the world’ as Egyptian superstar delivers farewell speech to Anfield team-mates Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHlrUUFUdkx6M0NYYkZtZmtkczdTWW9xM3JQcEROZG9aMWIzR1FhMmk4MXZKS1ZaTHJxa0NPVUFrdVQ2R1d4VDNvMUd2NEZOX0FnOHU0TkZ3amFtdE5hNFBubEw3SjY5bklYMWVYUEZTN2tYRzhrZk1wQzJfVDJXSGt0dlluemdhVkpRWml6WGJqdDB4emxDQjViTUFMUXJINi1GelVrQktmRnM5Y0E?oc=5",
     "tags": []
   },
   {
-    "section": "Other / Global",
-    "title": "Italian Football Federation defends end to law banning betting sponsorship. - BNLData",
+    "section": "Product",
+    "title": "Another award for Bruno Fernandes! Man Utd midfielder claims Premier League Player of the Season as Nico O'Reilly takes Young Player gong - Goal.com",
     "meta": "Google News: regulation | 23 May 2026",
-    "summary": "Italian Football Federation defends end to law banning betting sponsorship. BNLData",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Italian Football Federation defends end to law banning betting sponsorship. BNLData Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmNjRGxQSmhDRTlqMnE3VkEzSnp1Tk5qcFRXUnN3MzdHbUx4em9qRFVUSUsxcVhKUUM2cXBhbkFRUUVkeFA3REdSb2RTSWNrZnBqRE5vYkZEa3dYcmROUDRzamo5alFwc2RsRjMxY1p0S1JMWjlMSDlqOW1nbVExblZJVTEtOU9iUVY0TXBtQXBuLTlCek1yMEEyYTZVQ3hscklmaVhHbnBWN3lE?oc=5",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Is there an appetite for federal gambling regulation in Argentina? - igamingbusiness.com",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "Is there an appetite for federal gambling regulation in Argentina? igamingbusiness.com",
+    "summary": "Another award for Bruno Fernandes! Man Utd midfielder claims Premier League Player of the Season as Nico O'Reilly takes Young Player gong Goal.com",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Is there an appetite for federal gambling regulation in Argentina? igamingbusiness.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFVvUEFBRjFYQjJLczRnX3ZnZHNCcHZwQUdHdTlLUkdtWlJmQXRIMC0tWTFLU3BXUFdRbk9RMFRyOU9aSVNtT1ZWMGZlWGlWUGNoVEJZODZiNGxVcVRtVjhQSmFOTzE1bU0zT1ozNGZ3YlZzU0lKS2hDY2ltZ0FYeG5HODZBSTQycVhWRFFpYTJuRV9yX1Q2N0lR?oc=5",
-    "tags": [
-      "Regulation"
-    ]
+    "expanded": "Another award for Bruno Fernandes! Man Utd midfielder claims Premier League Player of the Season as Nico O'Reilly takes Young Player gong Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQenNFeHdWNGFfS2pvajJNcDNROE1TSlFBaEtoWklHME1OYkdmSXRKVWstQUhpUlcyd09YUk5rSTZBN3BYTU9aZkJsaDF0WjR5dS1sX20weVlvcmJINnhGZ09ialhxTTZ4OUdMNWNTd05IbGJmcG81bFJSNnZiV1J1c1ctSTMzLTRmc09RRHd0OVdONXkzYmtDMWQ3T2JQZnVpOGRwaURmSkY0THdITUEwU3l1QXFyLXRMUWRGMm04RUo?oc=5",
+    "tags": []
   }
 ];

@@ -1,5 +1,5 @@
 window.briefingMeta = {
-  "dateLabel": "Saturday, 23 May 2026 | automated public-site edition",
+  "dateLabel": "Sunday, 24 May 2026 | automated public-site edition",
   "atAGlance": [
     {
       "title": "Ireland, India Cases Highlight How Prediction Market Integrity Concerns Are Expanding Globally",
@@ -32,12 +32,11 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Third of Finns support payment blocks against illegal gambling, survey reveals - igamingbusiness.com",
-      "text": "Third of Finns support payment blocks against illegal gambling, survey reveals igamingbusiness.com",
-      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG5jS2wyWEttSThiZ3pFNlVTVlZXYS1IVElHZE9hdUkxSm42Z3luVS1yS2VnRWZuVEdBc295UmVPZ3YwSHN5cjJuTWJpYkRoaHNjT3hsR1lvTVYzUldxeDU5R01pUHMyX013MW5zZW00VUVKeXJGam1nRk41djFpdzN4TXdHcmRTLWFpZWVxNXgxdDJaTDdNbHBwWGswNTJEOTdndlFTNndrekxn?oc=5",
+      "title": "Kalshi fights back as RI sues to block prediction market sports betting - MSN",
+      "text": "Kalshi fights back as RI sues to block prediction market sports betting MSN",
+      "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1BBVlVYaXMyV1lMc3RNSVNMMEJ6d1JCY3oxajdUWVdpV3JxdWJQVEtnOG9FOUJCVFFOVUIxUmc1MkV2ZkpzdGhvZWtFRVYyNXVDLUJqcUlBeU5NVkpxcElBTnNnX3dMZEFRTmhWUVFiSC1zRkpoWGg3UWFlNUlYR2RKZUdFTXE1U09RemdDb3UwZ1JTbzNSdlVuNk5nejhYS3F1X21NN1JHdkl5TG9NQ01uRTBDYl94TkV3SA?oc=5",
       "tags": [
-        "Black market",
-        "Payments"
+        "Prediction markets"
       ]
     },
     {
@@ -123,16 +122,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Third of Finns support payment blocks against illegal gambling, survey reveals - igamingbusiness.com",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "Third of Finns support payment blocks against illegal gambling, survey reveals igamingbusiness.com",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Third of Finns support payment blocks against illegal gambling, survey reveals igamingbusiness.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG5jS2wyWEttSThiZ3pFNlVTVlZXYS1IVElHZE9hdUkxSm42Z3luVS1yS2VnRWZuVEdBc295UmVPZ3YwSHN5cjJuTWJpYkRoaHNjT3hsR1lvTVYzUldxeDU5R01pUHMyX013MW5zZW00VUVKeXJGam1nRk41djFpdzN4TXdHcmRTLWFpZWVxNXgxdDJaTDdNbHBwWGswNTJEOTdndlFTNndrekxn?oc=5",
+    "section": "North America",
+    "title": "Kalshi fights back as RI sues to block prediction market sports betting - MSN",
+    "meta": "Google News: EveryMatrix watchlist | 22 May 2026",
+    "summary": "Kalshi fights back as RI sues to block prediction market sports betting MSN",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Kalshi fights back as RI sues to block prediction market sports betting MSN Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1BBVlVYaXMyV1lMc3RNSVNMMEJ6d1JCY3oxajdUWVdpV3JxdWJQVEtnOG9FOUJCVFFOVUIxUmc1MkV2ZkpzdGhvZWtFRVYyNXVDLUJqcUlBeU5NVkpxcElBTnNnX3dMZEFRTmhWUVFiSC1zRkpoWGg3UWFlNUlYR2RKZUdFTXE1U09RemdDb3UwZ1JTbzNSdlVuNk5nejhYS3F1X21NN1JHdkl5TG9NQ01uRTBDYl94TkV3SA?oc=5",
     "tags": [
-      "Black market",
-      "Payments"
+      "Prediction markets"
     ]
   },
   {
@@ -151,6 +149,19 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Third of Finns support payment blocks against illegal gambling, survey reveals - igamingbusiness.com",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "Third of Finns support payment blocks against illegal gambling, survey reveals igamingbusiness.com",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Third of Finns support payment blocks against illegal gambling, survey reveals igamingbusiness.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdG5jS2wyWEttSThiZ3pFNlVTVlZXYS1IVElHZE9hdUkxSm42Z3luVS1yS2VnRWZuVEdBc295UmVPZ3YwSHN5cjJuTWJpYkRoaHNjT3hsR1lvTVYzUldxeDU5R01pUHMyX013MW5zZW00VUVKeXJGam1nRk41djFpdzN4TXdHcmRTLWFpZWVxNXgxdDJaTDdNbHBwWGswNTJEOTdndlFTNndrekxn?oc=5",
+    "tags": [
+      "Black market",
+      "Payments"
+    ]
+  },
+  {
+    "section": "Product",
     "title": "SBC Summit Americas: North America Payments & Tech Track to examine AI, crypto, and the future of transactions",
     "meta": "Focus Gaming News | 22 May 2026",
     "summary": "The upcoming SBC Summit Americas in Fort Lauderdale will feature the North America Payments & Tech track to examine how operators balance innovation with regulation. Press release.- In North America’s tightly regulated gaming...",
@@ -161,6 +172,45 @@ window.briefingStories = [
       "Regulation",
       "Payments",
       "AI"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "State Court Denies Bid to Suspend Enforcement in Kalshi-Polymarket Case - Bitget",
+    "meta": "Google News: regulation | 23 May 2026",
+    "summary": "State Court Denies Bid to Suspend Enforcement in Kalshi-Polymarket Case Bitget",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "State Court Denies Bid to Suspend Enforcement in Kalshi-Polymarket Case Bitget Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRQjJQMXJTTFB4ZURyN3FQSkJ5M2RkUlhwMzJXWk56N29wX0FxRmx1a0RoWmdaVWdwLVpBYWJZajZqN0ZTN2VUUWhybVpMN0p5Tkh2c0ozVXF2V1ZwZnY2MVRidVIwT2dYTmfSAWpBVV95cUxQUUIyUDFyU0xQeGVEcjdxUEpCeTNkZFJYcDMyV1pOejdvcF9BcUZsdWtEaFpnWlVncC1aQWFiWWo2ajdGUzdlVFFocm1aTDdKeU5IdnNKM1VxdldWcGZ2NjFUYnVSME9nWE5n?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "U.S. Senators Push Bill To Ban Sports Betting on Prediction Markets, WSJ Reports - CoinMarketCap",
+    "meta": "Google News: iGaming | 23 May 2026",
+    "summary": "U.S. Senators Push Bill To Ban Sports Betting on Prediction Markets, WSJ Reports CoinMarketCap",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "U.S. Senators Push Bill To Ban Sports Betting on Prediction Markets, WSJ Reports CoinMarketCap Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeEdlaWNyYlV6czAtcEpIQ0FScndNWkY4SkUxamFUN2xFUl8xUFpSUmplNFdVaVFMVDBlRnczZFpmVXZ0dDFTM2FwcVdrQUlCdzc1dTBCamRWeWYtTlZ2UGJEZzlRZURfcS1aZldlOWNjQ01qVm85U0g4eFZIOU5IZkJTcFdxUkhPckZNd1hzR1JIZFFmSzRvZHFySW5kMnNoMEVpYWxIWjBETFU5MFN3dmNqcTc3dmVDREtn?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Rhode Island joins state crackdown on prediction market platforms - gamingintelligence.com",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "Rhode Island joins state crackdown on prediction market platforms gamingintelligence.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Rhode Island joins state crackdown on prediction market platforms gamingintelligence.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalk2cjNUbHl4cW0zdmlqQW1rQk5JaTR5a0hwdVZzdmZWay1xc1Rscjh0czZ6WjRlczE4U2Z4WTVYTEl3eDBTVHNxVERTdHdIU3NtTklaVGVfbVczdjdRMkd4TEpiVnFqMFJuTVgyS3RTdHJSQUpSWW83aVdzUUVnNmU4a3NndTdDS2FsZlB1cGRYUXU0c19sY2IzS3VZLWRPQjktbjBhMEp0em5DQzNXaS1sU3M?oc=5",
+    "tags": [
+      "Prediction markets",
+      "US"
     ]
   },
   {
@@ -179,26 +229,27 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Kalshi fights back as RI sues to block prediction market sports betting - MSN",
-    "meta": "Google News: EveryMatrix watchlist | 22 May 2026",
-    "summary": "Kalshi fights back as RI sues to block prediction market sports betting MSN",
+    "title": "Kalshi Promo Code NOLA: Claim $10 Bonus for Knicks-Cavs - NOLA.com",
+    "meta": "Google News: iGaming | 24 May 2026",
+    "summary": "Kalshi Promo Code NOLA: Claim $10 Bonus for Knicks-Cavs NOLA.com",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Kalshi fights back as RI sues to block prediction market sports betting MSN Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1BBVlVYaXMyV1lMc3RNSVNMMEJ6d1JCY3oxajdUWVdpV3JxdWJQVEtnOG9FOUJCVFFOVUIxUmc1MkV2ZkpzdGhvZWtFRVYyNXVDLUJqcUlBeU5NVkpxcElBTnNnX3dMZEFRTmhWUVFiSC1zRkpoWGg3UWFlNUlYR2RKZUdFTXE1U09RemdDb3UwZ1JTbzNSdlVuNk5nejhYS3F1X21NN1JHdkl5TG9NQ01uRTBDYl94TkV3SA?oc=5",
+    "expanded": "Kalshi Promo Code NOLA: Claim $10 Bonus for Knicks-Cavs NOLA.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWozSkNLWmk5YVFIWUZ2NE5KZ3o2SGFWMURsQ2c2U1F0Mk9Mb2YtUEZpWk5vbFJJUTNsR2IzeUtMS25ZbWNaWmZCRmhQTktYYjBXNTdDdE5GTW5GVGJIdXhSVmRFYzFNSmd4VEMxS1VHYTRBZUNvbm9mcko4U0w3V0xlZlRrZXF5Y1E4ZG55Y21ZRS1RbTZyX20tZTFrSTc5TklLWGUtUmxELTVuRDB6dGpmRl9JY25EY3ZuVTVHc05BMmdMNDE4TC1Xd3hITG1qUDUzTjl0anR5bVk?oc=5",
     "tags": [
-      "Prediction markets"
+      "Prediction markets",
+      "CRM"
     ]
   },
   {
-    "section": "North America",
-    "title": "Kalshi Becomes First Prediction Platform to Join the NCPG - casino.com",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "Kalshi Becomes First Prediction Platform to Join the NCPG casino.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Kalshi Becomes First Prediction Platform to Join the NCPG casino.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYW9YeXlpX3RhQWdwWkNXNENCQlFYek5rY0psVnVmZmdleHkyNllmeXp2bVR0NWpldUVJOUhCMFhzNVRSUGt5aEU2U1ZEWElSdllkLXdkbUVsamVjUmhDUWI1bV81U2E0QjgtcVJTVnpMS3hWcy11VEQ5STFDdl8wWWM4V1ZsdEpnV0tkaVFVbEJXUXhmYzkyQTFkaFh0RHBYQk9HV0I5M01IMUE?oc=5",
+    "section": "Product",
+    "title": "Repeat LI Offender Busted Again For Illegal Gambling At Same Roosevelt Business: Cops - AOL.com",
+    "meta": "Google News: regulation | 24 May 2026",
+    "summary": "Repeat LI Offender Busted Again For Illegal Gambling At Same Roosevelt Business: Cops AOL.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Repeat LI Offender Busted Again For Illegal Gambling At Same Roosevelt Business: Cops AOL.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50NEJSSmpNN2VwUkcyZl9KWDBJeXRVSEFuRGJod05qQ0Y5bGFzZU9LNzNJbk45UGhuVnBRcDhsWkRWTGo5NS1uVWsxLXpJeUFhOER5d3p2Sk0wUU40b1FpSWd3b2Q5cWhxRWxtTWd4VnlKLWIzS3B4TWN0UQ?oc=5",
     "tags": [
-      "Prediction markets"
+      "Black market"
     ]
   },
   {
@@ -216,30 +267,55 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Hot Copy: Situation monitored",
-    "meta": "NEXT.io | 22 May 2026",
-    "summary": "The culture surrounding prediction markets, UK affordability checks and the National Lottery overhaul all hit headlines this week.",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "The culture surrounding prediction markets, UK affordability checks and the National Lottery overhaul all hit headlines this week. Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://next.io/news/features/hot-copy-22-may/",
+    "section": "Product",
+    "title": "Betr acquires Ascent Capital to fast-track prediction market launch",
+    "meta": "iGaming Business | 22 May 2026",
+    "summary": "The company, founded by Jake Paul, will move to harbour in-app prediction market access powered by Polymarket technology.",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The company, founded by Jake Paul, will move to harbour in-app prediction market access powered by Polymarket technology. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/prediction-markets/betr-acquires-ascent-capital-launch-us-prediction-markets/",
     "tags": [
-      "Prediction markets",
-      "RG",
-      "UK"
+      "Prediction markets"
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "South Korea launches review into Polymarket over illegal gambling - Business Post",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "South Korea launches review into Polymarket over illegal gambling Business Post",
+    "section": "LatAm",
+    "title": "NFL asks regulator to ban easily manipulated bets on prediction markets - iGaming Brazil",
+    "meta": "Google News: iGaming | 22 May 2026",
+    "summary": "NFL asks regulator to ban easily manipulated bets on prediction markets iGaming Brazil",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "South Korea launches review into Polymarket over illegal gambling Business Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
+    "expanded": "NFL asks regulator to ban easily manipulated bets on prediction markets iGaming Brazil Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2k0OTBnbUR4NlBremVOVEFPbHJyMHVWamdtZW5LRHQ2Rm5SYjhCU2owMGs2NE51dkNYZXl4ZkhBMmhLUWdkSDV2SkNjOWZYY01yWDUxa20tTnoyWDZxWkQ1NDMwSW5vTkhkeXdSX01ERlF2OVBsd2JxTmY2QnZJNUxaYTl5eU4teUxNTDY3U2p2UmQxbkRXWDVSMlBHN3VnbTlXYTVJVDZrbzkwYnZFc0d6SVNnYkxnNU16YWlMVXY0UdIBygFBVV95cUxOOFhPalo1SWRPSDJtYmRVLTBqcUxuTndKN3pTUng0SEtCMUZEaFRBaFFTbkM1T1hXcmFSTzBpdFRoc29UVjQwY2JBWV9pbVMzNGhaSjFBS2U4SXBsU1lZc2xLU3k5NDFJUzVyY0lFcWxEOElHeUpSTU0wUGVoX1h6M1pRS1VHalJXVFM1SFBsZDd1MEhBY00yRHc5STI3OHI3U05tSDlIamtMMW0yQm1FTG94T0RtaWtETGhKS1ozcVFNc2pUbGNpb3J3?oc=5",
     "tags": [
       "Prediction markets",
-      "Black market"
+      "Regulation",
+      "Brazil"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "TOPBET9 OFFICIAL AUS 🛵 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland VIP baccarat tables well-reviewed by Asian gamblers Special event promo 2026 for AU members Fast profit 100% safe onli - CEMDA",
+    "meta": "Google News: iGaming | 23 May 2026",
+    "summary": "TOPBET9 OFFICIAL AUS 🛵 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland VIP baccarat tables well-reviewed by Asian gamblers Special event promo 2026 for AU members Fast...",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "TOPBET9 OFFICIAL AUS 🛵 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland VIP baccarat tables well-reviewed by Asian gamblers Special event promo 2026 for AU members Fast... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFSGJpVUE1alRfNkYweXI2NzdIaXp3Z1pEMHJ5dmplOUtNc05jQU9PQjJmMFYzNGNxZUR0RW5ncDA5ZnlHSXl2a19qamFFdTFnSV9TbVdpdjFUbmVVU1RMVGdpXzdaTnd2YW9Dbg?oc=5",
+    "tags": [
+      "Payments",
+      "CRM",
+      "Asia"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases - The Block",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases The Block",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases The Block Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkNQUVVRSjlVbnRyVTVvc2VMdmRiZXNDMEs4NkRHeTJfQzh3OFJNc2JwOV90TzA3bVRpTzFzQmtRYVE0MHlRczAxUnlBRENMVzVOYXZhNHA1d05jRDlOalFPeTJCenR3WENTOGc5Z21DZk5UU19JMm9oZnNIdW9QT0l6eG0xckVnUUMwLTNpV2duYTJQX0RrZHpyVmpkQVFQY1Q5UUp3LTNjRHFJ?oc=5",
+    "tags": [
+      "Prediction markets"
     ]
   },
   {
@@ -258,69 +334,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Kyiv court orders liquidation of Premier Palace Casino amid creditors’ claims",
-    "meta": "iGaming Business | 22 May 2026",
-    "summary": "The court’s decision, published last week, marks the end of a two-year legal bankruptcy proceeding that began in April 2024.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The court’s decision, published last week, marks the end of a two-year legal bankruptcy proceeding that began in April 2024. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/legal-compliance/kyiv-court-orders-liquidation-premier-palace-casino-creditors-claims/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Is there an appetite for federal gambling regulation in Argentina?",
-    "meta": "iGaming Business | 22 May 2026",
-    "summary": "Argentina can be a headache for gambling operators due to its fragmented province-by-province regulations. But is there really an appetite for a federal system? Industry experts consider whether a truly unified system is either...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Argentina can be a headache for gambling operators due to its fragmented province-by-province regulations. But is there really an appetite for a federal system? Industry experts consider whether a truly unified system is either... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/legal-compliance/regulation/federal-gambling-regulation-argentina/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Crystal Palace becomes latest Premier League club to ditch gambling sponsor ahead of ban",
-    "meta": "SBC News | 22 May 2026",
-    "summary": "Crystal Palace has become the latest Premier League club to secure a new front-of-shirt sponsor ahead of the Premier League’s incoming voluntary ban on gambling companies. The Eagles have confirmed a deal with US-based AI firm...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Crystal Palace has become the latest Premier League club to secure a new front-of-shirt sponsor ahead of the Premier League’s incoming voluntary ban on gambling companies. The Eagles have confirmed a deal with US-based AI firm... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/sport-business/football/2026/05/22/crystal-palace-becomes-latest-premier-league-club-to-ditch-gambling-sponsor-ahead-of-ban/",
-    "tags": [
-      "Regulation",
-      "AI",
-      "US"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Is there an appetite for federal gambling regulation in Argentina? - igamingbusiness.com",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "Is there an appetite for federal gambling regulation in Argentina? igamingbusiness.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Is there an appetite for federal gambling regulation in Argentina? igamingbusiness.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFVvUEFBRjFYQjJLczRnX3ZnZHNCcHZwQUdHdTlLUkdtWlJmQXRIMC0tWTFLU3BXUFdRbk9RMFRyOU9aSVNtT1ZWMGZlWGlWUGNoVEJZODZiNGxVcVRtVjhQSmFOTzE1bU0zT1ozNGZ3YlZzU0lKS2hDY2ltZ0FYeG5HODZBSTQycVhWRFFpYTJuRV9yX1Q2N0lR?oc=5",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "South Korea reviews whether Polymarket is illegal gambling - CDC Gaming",
-    "meta": "Google News: regulation | 22 May 2026",
-    "summary": "South Korea reviews whether Polymarket is illegal gambling CDC Gaming",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "South Korea reviews whether Polymarket is illegal gambling CDC Gaming Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdTZOQlp6MXRBM1NrbXFqN3BVc1JlSWIwdWtYeEtfSHVuSFZzM1FhRFJ6TDNWQ2Izd3NrS1B3SjY1YnFoVWhJSmxrOHZheG93dmRoV1VPd0JvQ0YtT1VzQ09GVHYwQU8tUHp1WmZkeXZESnExa3JrQ2UyaHRIMHpJQ05UTWFaX0ItSDV0aGx5M1A?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "Illegal gambling raids intensify across Southwest Florida - Gulfshore Business",
     "meta": "Google News: regulation | 22 May 2026",
     "summary": "Illegal gambling raids intensify across Southwest Florida Gulfshore Business",
@@ -332,94 +345,72 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Minnesota Lawsuit, Louisiana Sweeps Bills Lead Gambling Bills This Week",
-    "meta": "Gambling Insider | 22 May 2026",
-    "summary": "Minnesota’s new prediction market ban immediately triggered a federal lawsuit, while governors in Louisiana and Iowa signed gambling-related bills, and Tennessee’s sweeps deadline arrived. Despite legislative sessions winding...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Minnesota’s new prediction market ban immediately triggered a federal lawsuit, while governors in Louisiana and Iowa signed gambling-related bills, and Tennessee’s sweeps deadline arrived. Despite legislative sessions winding... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/162212/minnesota-lawsuit-louisiana-sweeps-bills-gambling-week",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "CFTC Sues Minnesota Over Prediction Market Ban, Calling Law “Most Aggressive” State Crackdown Yet",
-    "meta": "Gambling Insider | 20 May 2026",
-    "summary": "The CFTC says Minnesota’s new prediction market law unlawfully criminalizes federally regulated event contracts, including weather and crop-related markets used by farmers and commercial hedgers. The Commodity Futures Trading...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The CFTC says Minnesota’s new prediction market law unlawfully criminalizes federally regulated event contracts, including weather and crop-related markets used by farmers and commercial hedgers. The Commodity Futures Trading... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/161147/cftc-sues-minnesota-prediction-market-ban-derivatives-markets",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "PIX, AI, and digital wallets take centre stage at SBC Summit Americas’ LatAm payments & tech track",
-    "meta": "SBC News | 22 May 2026",
-    "summary": "Pix, digital wallets, and embedded finance are forcing Latin America’s gaming industry into a new phase of competition. With operators increasingly judged on payment experience as much as product offering,SBC Summit Americas...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Pix, digital wallets, and embedded finance are forcing Latin America’s gaming industry into a new phase of competition. With operators increasingly judged on payment experience as much as product offering,SBC Summit Americas... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://sbcnews.co.uk/events/2026/05/22/pix-ai-and-digital-wallets-take-centre-stage-at-sbc-summit-americas-latam-payments-tech-track/",
-    "tags": [
-      "Payments",
-      "AI"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "UKGC delays financial risk checks decision as review continues",
-    "meta": "NEXT.io | 22 May 2026",
-    "summary": "The Gambling Commission said it has not yet reached a decision on whether to implement so-called “affordability checks” on a wider scale.",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "The Gambling Commission said it has not yet reached a decision on whether to implement so-called “affordability checks” on a wider scale. Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://next.io/news/regulation/ukgc-delays-financial-checks-decision/",
-    "tags": [
-      "RG",
-      "UK"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Michigan Gaming Control Board purchases additional Gamban licences for residents",
-    "meta": "Focus Gaming News | 22 May 2026",
-    "summary": "The purchase follows an extraordinary demand for the gambling block software since its launch in April. US.- The Michigan Gaming Control Board (MGCB) has announced the purchase of an additional 100 free Gamban licences for...",
+    "section": "Asia / Oceania",
+    "title": "22 defendants plead not guilty in gambling, extortion ring after NW Indiana restaurant raids - MSN",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "22 defendants plead not guilty in gambling, extortion ring after NW Indiana restaurant raids MSN",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The purchase follows an extraordinary demand for the gambling block software since its launch in April. US.- The Michigan Gaming Control Board (MGCB) has announced the purchase of an additional 100 free Gamban licences for... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/michigan-gaming-control-board-purchases-additional-gamban-licences-for-residents",
+    "expanded": "22 defendants plead not guilty in gambling, extortion ring after NW Indiana restaurant raids MSN Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWFVSOXAtN0JuSW52MXdLeHdlM0lsV3VFWVBQUk8ydm9JWXhQWDhqVkEtWE9hdE1uNlJ1OGZDeVpUaldiSmo2b1Z4b2xUTEc3dFNjaGNIRWNBMjh6WDBkWXowMDc2LVpPclQyVlZuZjkzTC1SNnFUbnU5b1BmdnFKNDlOYTZFOG81ZTVCUXREa0M1NzZJUldhSXA1YVBnUWRwd2l0ZVU5NnhRTGFiSHpoQlJZNHhHRUIyd3hYUzMzOWo0dDl6dEZ5ZWN0M1R5UmNhejRScVgtVQ?oc=5",
     "tags": [
-      "Regulation",
-      "US"
+      "Asia"
     ]
   },
   {
-    "section": "Europe",
-    "title": "Monika Zlateva, CT Interactive: “Winning a new client is a huge success but retaining them is a true victory”",
-    "meta": "Focus Gaming News | 22 May 2026",
-    "summary": "Monika Zlateva, Chief Commercial Officer of CT Interactive, emphasised the key role of authentic storytelling and building trust within highly regulated igaming markets at SBC Summit Malta. Press release.- “Building authentic...",
+    "section": "Product",
+    "title": "Kyiv court orders liquidation of Premier Palace Casino amid creditors’ claims",
+    "meta": "iGaming Business | 22 May 2026",
+    "summary": "The court’s decision, published last week, marks the end of a two-year legal bankruptcy proceeding that began in April 2024.",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Monika Zlateva, Chief Commercial Officer of CT Interactive, emphasised the key role of authentic storytelling and building trust within highly regulated igaming markets at SBC Summit Malta. Press release.- “Building authentic... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/winning-a-new-client-is-a-huge-success-but-retaining-them-is-a-true-victory-ct-interactive",
+    "expanded": "The court’s decision, published last week, marks the end of a two-year legal bankruptcy proceeding that began in April 2024. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/legal-compliance/kyiv-court-orders-liquidation-premier-palace-casino-creditors-claims/",
     "tags": [
       "Regulation"
     ]
   },
   {
-    "section": "North America",
-    "title": "EveryMatrix Gets Alberta iGaming License Approval — Canada's Second Regulated Market Targets July 2026 Launch - Bettors Insider",
-    "meta": "Google News: EveryMatrix watchlist | 19 May 2026",
-    "summary": "EveryMatrix Gets Alberta iGaming License Approval — Canada's Second Regulated Market Targets July 2026 Launch Bettors Insider",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "EveryMatrix Gets Alberta iGaming License Approval — Canada's Second Regulated Market Targets July 2026 Launch Bettors Insider Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcmszYmY4NWppR0w2U0xTUE9pWE5BbmZSSFRSYmU1UTlTbGVUd3JFQkExZDdheHFQSGpJNlltaUl6MEpiTzBZM0lmSWk3YTR4bUV5TWdyR0RpZ0JjMW9CYlNwTWJNNmdPSlF0NEJSSnI3YXhqQmdtZVdxY0I5QkloMWhybUdQYm1odlA0bG91bS1Ub0IzaDEzR19DSGtZbUZWN3NwMDRFXzdlVW9neXZwc09OXzJEZkVtdEdSV3QzRXVBWHJ6eExhU05mRWdtVHNvS3Q2WGhIbWVPczI4TmtmZnFESFVXckZETWI0WlRsSmdYcHFCcGV2bEVnZFNlZ0I0ZHlWTWN3?oc=5",
+    "section": "Other / Global",
+    "title": "BetMGM lambasts prediction markets as gambling ‘bad actors’ - iGaming Expert",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "BetMGM lambasts prediction markets as gambling ‘bad actors’ iGaming Expert",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "BetMGM lambasts prediction markets as gambling ‘bad actors’ iGaming Expert Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbjBPNTRsVG1ZUmd0czBuZ1cyUTNQUHpKU25yV1lkaFpXeXh5N1g0WE95Nnh2YjBWb0h3UkdzZk1jRmhYSlowOVFlZTlwczRXd0phUW9obDZVRzZFNlNZUjNvaUNNTVA5eXJvV0YxWVhCWnppN0NreDg1OUdINGvSAYcBQVVfeXFMTmMxOUJpTG9wQ1RlMUxtdERDWms4cnVGc3Z4M1BacnQ2Q2hjVm9pOC1yTGM1Z2ctbURQcWVLaGxDOHlpWkc2cTVjZ0dOZkYxdlM1THN2alZ3N2dsNDNZWWkyS2dIYTRGSnBvYnJyNnlsSkZmbEdydktmdnJyVjdUMzZqX255VHRF?oc=5",
     "tags": [
-      "EveryMatrix",
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Coaching Rumors: Kidd, Bryant, Klei, Bailey, Cook - Hoops Rumors",
+    "meta": "Google News: regulation | 23 May 2026",
+    "summary": "Coaching Rumors: Kidd, Bryant, Klei, Bailey, Cook Hoops Rumors",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Coaching Rumors: Kidd, Bryant, Klei, Bailey, Cook Hoops Rumors Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMGxlV2tIOTdjSUZhalVEb1RwYVlQUjJ4LUx5S19PTWZQc3RnYk5LSC1sektLQV81TFZpYUliUUQ4LTBaNU1LMWtXNXJjcnRyQUVzNnVBaU5oRjcwaktWSlljN0tRRU54Smt0blZYMDlsTnVnZ3pCRGpZajNaOENZcnNHdmtLRG45QmRqSGNR?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Other / Global",
+    "title": "Italian Football Federation defends end to law banning betting sponsorship. - BNLData",
+    "meta": "Google News: regulation | 23 May 2026",
+    "summary": "Italian Football Federation defends end to law banning betting sponsorship. BNLData",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Italian Football Federation defends end to law banning betting sponsorship. BNLData Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmNjRGxQSmhDRTlqMnE3VkEzSnp1Tk5qcFRXUnN3MzdHbUx4em9qRFVUSUsxcVhKUUM2cXBhbkFRUUVkeFA3REdSb2RTSWNrZnBqRE5vYkZEa3dYcmROUDRzamo5alFwc2RsRjMxY1p0S1JMWjlMSDlqOW1nbVExblZJVTEtOU9iUVY0TXBtQXBuLTlCek1yMEEyYTZVQ3hscklmaVhHbnBWN3lE?oc=5",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "Is there an appetite for federal gambling regulation in Argentina? - igamingbusiness.com",
+    "meta": "Google News: regulation | 22 May 2026",
+    "summary": "Is there an appetite for federal gambling regulation in Argentina? igamingbusiness.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Is there an appetite for federal gambling regulation in Argentina? igamingbusiness.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFVvUEFBRjFYQjJLczRnX3ZnZHNCcHZwQUdHdTlLUkdtWlJmQXRIMC0tWTFLU3BXUFdRbk9RMFRyOU9aSVNtT1ZWMGZlWGlWUGNoVEJZODZiNGxVcVRtVjhQSmFOTzE1bU0zT1ozNGZ3YlZzU0lKS2hDY2ltZ0FYeG5HODZBSTQycVhWRFFpYTJuRV9yX1Q2N0lR?oc=5",
+    "tags": [
       "Regulation"
     ]
   }

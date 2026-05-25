@@ -319,13 +319,26 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "SCOOBYWIN OFFICIAL SIGN IN 💊 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland Online baccarat accumulated jackpot by AU players Special event promo 2026 for AU members Real profit from pla - CEMDA",
+    "section": "Other / Global",
+    "title": "Indonesia blocks Polymarket on grounds of illegal online gambling - Bitget",
     "meta": "Google News: iGaming | 25 May 2026",
-    "summary": "SCOOBYWIN OFFICIAL SIGN IN 💊 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland Online baccarat accumulated jackpot by AU players Special event promo 2026 for AU members...",
+    "summary": "Indonesia blocks Polymarket on grounds of illegal online gambling Bitget",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Indonesia blocks Polymarket on grounds of illegal online gambling Bitget Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ybnp0SXRiWmpMNVd0QkFzQzlQYVlfcFktTHFYOFgwTUFrdlp4NkpBcVJLd3ZTWmVRQ0FWNmt4ZTVNVGo1ZUZGUHI1ZVNsTHQ0WGNjUndNNmJPZTBuRGNZLVN1VdIBY0FVX3lxTE5ybnp0SXRiWmpMNVd0QkFzQzlQYVlfcFktTHFYOFgwTUFrdlp4NkpBcVJLd3ZTWmVRQ0FWNmt4ZTVNVGo1ZUZGUHI1ZVNsTHQ0WGNjUndNNmJPZTBuRGNZLVN1VQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "OFFICIAL APK CREATIVE GAMING 🈵 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland Online baccarat accumulated jackpot by AU players Special event promo 2026 for AU members Real profit from - CEMDA",
+    "meta": "Google News: iGaming | 24 May 2026",
+    "summary": "OFFICIAL APK CREATIVE GAMING 🈵 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland Online baccarat accumulated jackpot by AU players Special event promo 2026 for AU members...",
     "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "SCOOBYWIN OFFICIAL SIGN IN 💊 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland Online baccarat accumulated jackpot by AU players Special event promo 2026 for AU members... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xUDAxZkVWOXJTLTZuS2s0S3ZwUjM0dzJTYWVoV1lTWmpPa0ozbUw4bDN3Qk1HNVY4MmJyTDJTb1NQUzV0b21qdS1iS3pQTlg0MFNVeUFQRE9wNWp6QkVUYy03Rld5UW9Na1hjQkgtdzVjcG9pUUhqdA?oc=5",
+    "expanded": "OFFICIAL APK CREATIVE GAMING 🈵 Online gambling slots and baccarat hot promotions for AUs Mobile online slot wallet deposit 1 baht AUland Online baccarat accumulated jackpot by AU players Special event promo 2026 for AU members... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rLWZ6bXYtMy1YeUJ4WGF1S2VXSGJfWExIS1VEM3l4WjVWSV9TNlFlZWRhMVc4YWJCdnp1NS0zX1lZeElWUHY4SGRuUUF2T1Y3WEE3dEZfdzBFWkZGRjlaMUkybGhJTGxSTDRSWXFod2xxZHJtSGh0eklB?oc=5",
     "tags": [
       "Payments",
       "CRM"
@@ -394,19 +407,6 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "US"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Polymarket Invite Code DIME: Claim $50 Bonus in May 2026 - Sports Betting Dime",
-    "meta": "Google News: iGaming | 23 May 2026",
-    "summary": "Polymarket Invite Code DIME: Claim $50 Bonus in May 2026 Sports Betting Dime",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Polymarket Invite Code DIME: Claim $50 Bonus in May 2026 Sports Betting Dime Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pb1ZfN3d0eEZ3a3JQVmNHVlVoNU1rNllhYVlvUEYyQV9Qc3VWQnhLYnE1YXIta1dfUzhoajJfQWFNc1dPTWltamxjTjNoS1daSEdTbF9kLTJXd3VzOW1XektadlhSclZwazdxLVYtaV9Ldw?oc=5",
-    "tags": [
-      "Prediction markets",
-      "CRM"
     ]
   }
 ];

@@ -206,18 +206,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Sacramento casino cannabis fraud case reaches federal level - ReadWrite",
-    "meta": "Google News: EveryMatrix watchlist | 26 May 2026",
-    "summary": "Sacramento casino cannabis fraud case reaches federal level ReadWrite",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Sacramento casino cannabis fraud case reaches federal level ReadWrite Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUdLWW9qbXNkQk1BUm4tN0NHOEYwdUxudGhPM2luQzVpa0loM05pSWlGNFhyR3dmRURXaC0wMmlyY0J0UzNDQnQzc3BtMlBXTmk3dmk0Y1k3Q0UyQ0dwbzBLT1ZleTRPRGYwaF9DNURTdGdHQnYyTUZMS0JMbGgzMDRHbklCOGJMMUx1UHVCOFRBR21NYlE?oc=5",
-    "tags": [
-      "KYC"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Global forecasting market platform Polymarket has been engulfed by global regulatory headwinds. Alth.. - 매일경제",
     "meta": "Google News: regulation | 26 May 2026",
@@ -228,6 +216,21 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Commission pushes back deposit limit deadline in midst of UK affordability debate",
+    "meta": "SBC News | 27 May 2026",
+    "summary": "British betting companies have been given more time to get their houses in order around deposit limits, with the deadline to implement new policies pushed back by three months. The Gambling Commission’s latest announcement comes...",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "British betting companies have been given more time to get their houses in order around deposit limits, with the deadline to implement new policies pushed back by three months. The Gambling Commission’s latest announcement comes... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://sbcnews.co.uk/social-responsibility/2026/05/27/gambling-commission-deposit-limits/",
+    "tags": [
+      "Regulation",
+      "RG",
+      "Payments",
+      "UK"
     ]
   },
   {
@@ -357,6 +360,18 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
+    "title": "Man accused of dealing drugs at Bally’s Casino in Evansville - AOL.com",
+    "meta": "Google News: EveryMatrix watchlist | 26 May 2026",
+    "summary": "Man accused of dealing drugs at Bally’s Casino in Evansville AOL.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Man accused of dealing drugs at Bally’s Casino in Evansville AOL.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5obElNNnBONVNsMGhONW1ocVVsWlRmRm1CNGppYzR5Q2dKQ0xhTnRId1REMnV5LVF4VWlMbTRDdUVRck9lQXFYSWkzeHFVZWJwbUVvZk5HR2hsUmxqMktJbVNBdXFBQUxETnpORDBYX2dmZ1EzS3NsQ0dadw?oc=5",
+    "tags": [
+      "Bally's"
+    ]
+  },
+  {
+    "section": "Other / Global",
     "title": "Man found dead in KCK street Tuesday morning, 1 in custody - KCTV",
     "meta": "Google News: EveryMatrix watchlist | 26 May 2026",
     "summary": "Man found dead in KCK street Tuesday morning, 1 in custody KCTV",
@@ -388,19 +403,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeE4zeEpXSHZyT1pURExIc2s4SW16MkVZSHRWaGgyb0wwRm5pZ3Fpdy1hbDFfdGI4VnZkTVFldUg5dlBIRHpoZ2ZPc0ItSHd0T19wc1VqQkgzTmlzTVJFSXVoMHFuQVdvN21idWZpc01XM3o3NmlTMWdBZzdGeG81MVktOXZKNWU1dzFBUGs3enZBRkhZVldLX3ljNmZZQzZYanFkZWdwUF9ieWs?oc=5",
     "tags": [
       "Black market"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "How are Premier League clubs replacing their gambling sponsors?",
-    "meta": "Focus Gaming News | 26 May 2026",
-    "summary": "Crystal Palace is the latest club to confirm a replacement as the Premier League’s voluntary ban on front-of-shirt gambling sponsors approaches. UK.- The last Premier League football season with front-of-shirt gambling...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Crystal Palace is the latest club to confirm a replacement as the Premier League’s voluntary ban on front-of-shirt gambling sponsors approaches. UK.- The last Premier League football season with front-of-shirt gambling... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/how-are-premier-league-clubs-replacing-their-gambling-sponsors",
-    "tags": [
-      "Regulation",
-      "UK"
     ]
   }
 ];

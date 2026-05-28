@@ -2,6 +2,16 @@ window.briefingMeta = {
   "dateLabel": "Thursday, 28 May 2026 | automated public-site edition",
   "atAGlance": [
     {
+      "title": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat”",
+      "text": "Robeson Reeves, Bally’s Intralot Chief Executive Officer, remains confident in the firm’s resilience to UK taxation and regulatory headwinds as the business prepares to close its first full H1 as a new, combined entity. Formed...",
+      "source": "https://sbcnews.co.uk/featurednews/2026/05/28/ballys-intralot-ceo-uk-taxes/",
+      "tags": [
+        "Bally's",
+        "Regulation",
+        "UK"
+      ]
+    },
+    {
       "title": "Rhode Island Approves Bally’s for Mobile Betting License - casino.com",
       "text": "Rhode Island Approves Bally’s for Mobile Betting License casino.com",
       "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVFHM0ZzamZWLWg3dGEwNDlQSUoyR0s4SXhKOEZDQ1NMMk1kdHNKX3NFUi10OGlKVlB4Y2l5dVA3S0FNWC1NbzIzYTl0ZzR5bDYxZVAtdWYyVVdtaC1HZGFEc2NSNzZnVWI2aTNZNGVHYzNEY3cxd2dLMDZPVmZyVndlSW51TlFTT0x4UXBiMXFiUVBnN0tqZ19UUWZiYVRX?oc=5",
@@ -22,31 +32,20 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "British gambling operators granted more time to prepare for new deposit limit requirements",
-      "text": "Licensees have been given another three months to make technical changes. UK.- The Gambling Commission has announced that licensed gambling operators in Britain will have more time to make the technical changes necessary to...",
-      "source": "https://focusgn.com/british-gambling-operators-granted-more-time-to-prepare-for-new-deposit-limit-requirements",
+      "title": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat” - sbcnews.co.uk",
+      "text": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat” sbcnews.co.uk",
+      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTlzdUp2UlFCQlhQVXZXUXcwOGJiMlZwWTRlb0V1NmdtOVVjb0NybWJIZHhIbTZTSU9EWHhRN3AxaTJjdldxcnB5bXJNZUFQb25MdEV4VUxmV2VlSDBfVjljR0c2SmkzNkZXa3ZkZ1c1b2FyMFhCMGZuWGtFQnFrOQ?oc=5",
       "tags": [
-        "Regulation",
-        "Payments",
+        "Bally's",
         "UK"
       ]
     },
     {
-      "title": "Prediction Markets Present Major Opportunity for Gibraltar, Minister of Justice Nigel Feetham Says",
-      "text": "While eyebrows were raised when Gibraltar licensed Predictstreet just before the upstart exchange announced a deal as a FIFA World Cup sponsor, Nigel Feetham says his country is well-positioned to take advantage of the rising...",
-      "source": "https://www.gamblinginsider.com/news/162976/prediction-markets-gibraltar-minister-of-justice-nigel-feetham",
+      "title": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation - egr.global",
+      "text": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation egr.global",
+      "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNlVWZCNEMwUW5TVG0xTEMzN0VRaUpqbHVsT01jcWo3RjFGS2s4cDVBdmRSQVdoMXdYdzRTbzE5V3NOV21mX3U0ajVVTTFRLVNuZ2lkRkRadVBSRFNUSmVRQnA3akRLcHpBQ19yak1QMVhPQmNhNFlJa0VBOGJuLWQyV2tycXdLREYzSWJBNjBBZGpEUkVZWnRLb0cyMlRRekgyMFJ3RlJaakQwMEJZanR4RnNUTG15V0E?oc=5",
       "tags": [
-        "Prediction markets",
-        "Regulation"
-      ]
-    },
-    {
-      "title": "DGOJ blocks Polymarket and Kalshi over unauthorised operations",
-      "text": "The temporary block will last three to four months as the regulator launches a formal investigation against the two prediction market platforms.",
-      "source": "https://igamingbusiness.com/legal-compliance/dgoj-blocks-polymarket-kalshi-unauthorised-operations/",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
+        "UK"
       ]
     }
   ],
@@ -72,13 +71,27 @@ window.briefingMeta = {
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVFHM0ZzamZWLWg3dGEwNDlQSUoyR0s4SXhKOEZDQ1NMMk1kdHNKX3NFUi10OGlKVlB4Y2l5dVA3S0FNWC1NbzIzYTl0ZzR5bDYxZVAtdWYyVVdtaC1HZGFEc2NSNzZnVWI2aTNZNGVHYzNEY3cxd2dLMDZPVmZyVndlSW51TlFTT0x4UXBiMXFiUVBnN0tqZ19UUWZiYVRX?oc=5",
-      "sourceLabel": "Google News: EveryMatrix watchlist"
+      "source": "https://sbcnews.co.uk/featurednews/2026/05/28/ballys-intralot-ceo-uk-taxes/",
+      "sourceLabel": "SBC News"
     }
   ]
 };
 
 window.briefingStories = [
+  {
+    "section": "Europe",
+    "title": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat”",
+    "meta": "SBC News | 28 May 2026",
+    "summary": "Robeson Reeves, Bally’s Intralot Chief Executive Officer, remains confident in the firm’s resilience to UK taxation and regulatory headwinds as the business prepares to close its first full H1 as a new, combined entity. Formed...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Robeson Reeves, Bally’s Intralot Chief Executive Officer, remains confident in the firm’s resilience to UK taxation and regulatory headwinds as the business prepares to close its first full H1 as a new, combined entity. Formed... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/featurednews/2026/05/28/ballys-intralot-ceo-uk-taxes/",
+    "tags": [
+      "Bally's",
+      "Regulation",
+      "UK"
+    ]
+  },
   {
     "section": "North America",
     "title": "Rhode Island Approves Bally’s for Mobile Betting License - casino.com",
@@ -105,6 +118,31 @@ window.briefingStories = [
       "Prediction markets",
       "Regulation",
       "AI"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat” - sbcnews.co.uk",
+    "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
+    "summary": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat” sbcnews.co.uk",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally’s Intralot CEO: we took on UK taxes “from position of strength, not retreat” sbcnews.co.uk Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTlzdUp2UlFCQlhQVXZXUXcwOGJiMlZwWTRlb0V1NmdtOVVjb0NybWJIZHhIbTZTSU9EWHhRN3AxaTJjdldxcnB5bXJNZUFQb25MdEV4VUxmV2VlSDBfVjljR0c2SmkzNkZXa3ZkZ1c1b2FyMFhCMGZuWGtFQnFrOQ?oc=5",
+    "tags": [
+      "Bally's",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation - egr.global",
+    "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
+    "summary": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation egr.global",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation egr.global Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNlVWZCNEMwUW5TVG0xTEMzN0VRaUpqbHVsT01jcWo3RjFGS2s4cDVBdmRSQVdoMXdYdzRTbzE5V3NOV21mX3U0ajVVTTFRLVNuZ2lkRkRadVBSRFNUSmVRQnA3akRLcHpBQ19yak1QMVhPQmNhNFlJa0VBOGJuLWQyV2tycXdLREYzSWJBNjBBZGpEUkVZWnRLb0cyMlRRekgyMFJ3RlJaakQwMEJZanR4RnNUTG15V0E?oc=5",
+    "tags": [
+      "UK"
     ]
   },
   {
@@ -281,6 +319,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "Google Employee Charged Over $1.2m Polymarket ‘Year in Search’ Trading Scheme",
+    "meta": "Gambling Insider | 28 May 2026",
+    "summary": "Federal authorities allege a Google software engineer used confidential “Year in Search” data to generate more than $1.2 million trading Polymarket event contracts. Federal authorities have charged a Google software engineer...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Federal authorities allege a Google software engineer used confidential “Year in Search” data to generate more than $1.2 million trading Polymarket event contracts. Federal authorities have charged a Google software engineer... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/163425/google-polymarket-insider-trading-alpharaccoon-jpg",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
     "section": "North America",
     "title": "DraftKings Self-Certifies Sports Event Contracts for New DKeX Platform",
     "meta": "Gambling Insider | 27 May 2026",
@@ -290,19 +340,6 @@ window.briefingStories = [
     "source": "https://www.gamblinginsider.com/news/163174/draftkings-self-certifies-sports-event-contracts-dkex-platform",
     "tags": [
       "Prediction markets"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "NEXT Valletta: Prediction markets under threat, Fanatics on the rise, and AI won’t wait 12 months",
-    "meta": "NEXT.io | 27 May 2026",
-    "summary": "Gaming leaders gathered at a NEXT Summit Valletta panel discussion to debate the sector's biggest winners and losers for the year ahead.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Gaming leaders gathered at a NEXT Summit Valletta panel discussion to debate the sector's biggest winners and losers for the year ahead. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://next.io/news/features/next-valletta-prediction-markets-under-threat-fanatics-rise/",
-    "tags": [
-      "Prediction markets",
-      "AI"
     ]
   },
   {
@@ -345,18 +382,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "SOFTSWISS uses NEXT Valletta 2026 to spotlight products beyond its Casino Platform",
-    "meta": "Focus Gaming News | 27 May 2026",
-    "summary": "SOFTSWISS has launched a multichannel campaign at NEXT Valletta 2026 to spotlight its broader product portfolio, including its Sportsbook, Game Aggregator, and Prediction Markets Platform. Press release.- SOFTSWISS launched a...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "SOFTSWISS has launched a multichannel campaign at NEXT Valletta 2026 to spotlight its broader product portfolio, including its Sportsbook, Game Aggregator, and Prediction Markets Platform. Press release.- SOFTSWISS launched a... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/softswiss-uses-next-valletta-2026-to-spotlight-products-beyond-its-casino-platform",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
     "section": "North America",
     "title": "Rhode Island Sports Betting Shift: Bally’s Targets November Launch for Mobile App - Casino.org",
     "meta": "Google News: iGaming | 27 May 2026",
@@ -391,30 +416,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNjgxdmswQ09oSGFvSmsyRWlBZmNBU21WOHRjVFE3ZHlYckZkX3NwemcwT2tKUDBjX2NGZ0sxbmtLR2Z6bnV5VTdZSGdJVzJpUm5qZW5TUWlINFFQeGkwcTRaRURBV29ENXVQcTMtSWtZWm9iTURiZlgtcE9YOVIyanpMb2o3b3BUeVd0WnZscUVDMm5WUFhNZlNTYngxODBOeHY3MjZPQ3ZSX0s3T3dVNWNIQzB2QUljaFF0Q05aenZjN0gzZU9TVUxPUUJZLTJ1SGRnZmx0ajVEVzlHZ3Jtb0R5MndZNE5jc3RvVkhHNA?oc=5",
     "tags": [
       "RG"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "French gambling regulator issues updated GDPR guide for operators",
-    "meta": "NEXT.io | 27 May 2026",
-    "summary": "France's ANJ has developed new GDPR guidelines in terms of data protection applicable to gambling operators.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "France's ANJ has developed new GDPR guidelines in terms of data protection applicable to gambling operators. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/french-gambling-regulator-issues-updated-gdpr-guide/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Bally's pushes forward on its Chicago casino amid tangible signs the downturn is recovering - MSN",
-    "meta": "Google News: EveryMatrix watchlist | 27 May 2026",
-    "summary": "Bally's pushes forward on its Chicago casino amid tangible signs the downturn is recovering MSN",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Bally's pushes forward on its Chicago casino amid tangible signs the downturn is recovering MSN Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ0NuZHRUYThPR3Y0X0lTQzZ3MjZ4TTZ2MnBzS25kQzBJM2Z2YUphWnZfdnlJMzVvREtpSEdqTnh6d1huNk9qcWxKN09YNC14QzFxOUNITUpIdXo2aVNRb2dNTnl2MU5DVnlZS0dtQXAxcUZxMm5KSDhXOUE2ZGFRUDVTR1piYS1ubnJIMDNBWDJqcEtoYTBZeXVROVRKMGFrNGdaaWhGeTFxWF91c1NXZWduRGNoSTlOREtrcDJNV1hRSmpSRnZDbmx1NFNETFo5UFVCdlQ1Nk1FOEtrUEE?oc=5",
-    "tags": [
-      "Bally's"
     ]
   }
 ];

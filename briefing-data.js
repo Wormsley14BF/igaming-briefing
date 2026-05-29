@@ -146,15 +146,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation - egr.global",
+    "section": "Other / Global",
+    "title": "Illegal gambling ads on Meta reached 38 million Dutch users, says new research - igamingbusiness.com",
     "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
-    "summary": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation egr.global",
+    "summary": "Illegal gambling ads on Meta reached 38 million Dutch users, says new research igamingbusiness.com",
     "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Last ones standing: how UK gaming tax hikes could accelerate market consolidation egr.global Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHNlVWZCNEMwUW5TVG0xTEMzN0VRaUpqbHVsT01jcWo3RjFGS2s4cDVBdmRSQVdoMXdYdzRTbzE5V3NOV21mX3U0ajVVTTFRLVNuZ2lkRkRadVBSRFNUSmVRQnA3akRLcHpBQ19yak1QMVhPQmNhNFlJa0VBOGJuLWQyV2tycXdLREYzSWJBNjBBZGpEUkVZWnRLb0cyMlRRekgyMFJ3RlJaakQwMEJZanR4RnNUTG15V0E?oc=5",
+    "expanded": "Illegal gambling ads on Meta reached 38 million Dutch users, says new research igamingbusiness.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNjZlbktfajZHS0dPOWxCOVBSQjB2MlprZDFqckd2cndNR1lUaUNGbU9zYTViNVBjSC1GdFZvR2NieGROUFRDWG9CbzdGQnFhVTVEcmx5SnhPWHRuT2IwVGc3TW5mdjZBT0w3NWJScjQ0ZnhNZVBMZlBDYmRQWDhPVjdCTG1rTkNCVDkyUVRMeGswNUp6WnNSam8xTlFyR0d1X1E?oc=5",
     "tags": [
-      "UK"
+      "Black market"
     ]
   },
   {
@@ -200,18 +200,6 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Bet365 joins Alberta’s regulated iGaming market one month after entering Michigan - Tribuna.com",
-    "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
-    "summary": "Bet365 joins Alberta’s regulated iGaming market one month after entering Michigan Tribuna.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Bet365 joins Alberta’s regulated iGaming market one month after entering Michigan Tribuna.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWhfejFHX1BNdHhCUnZMMkw4MWc4bEl4TDh0YkVQVEcxdnVEd1MxdVdMTVJnWWdHQ21jNUxyellvUnVQWUpHV0tiN3hoSmZKQ2U1TjFEZUNDNFZiRkVWQ2h1Y0NyOUU0TVVYcmhVV3JLSmx3bE5taF9QZGJwNC13VDJNU3Foa1hGUHpPY3dPT25uclFLMEFDT3lxQ24tNUNDejV4ZHc1bWI0LXpyNEQ2dGxMemdrWGFEYUJlcHRfbzJOX3pIVVNlSTlQVdIBywFBVV95cUxQWWhfejFHX1BNdHhCUnZMMkw4MWc4bEl4TDh0YkVQVEcxdnVEd1MxdVdMTVJnWWdHQ21jNUxyellvUnVQWUpHV0tiN3hoSmZKQ2U1TjFEZUNDNFZiRkVWQ2h1Y0NyOUU0TVVYcmhVV3JLSmx3bE5taF9QZGJwNC13VDJNU3Foa1hGUHpPY3dPT25uclFLMEFDT3lxQ24tNUNDejV4ZHc1bWI0LXpyNEQ2dGxMemdrWGFEYUJlcHRfbzJOX3pIVVNlSTlQVQ?oc=5",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
     "title": "EveryMatrix Receives Conditional iGaming License in Alberta - casinoreports.ca",
     "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
     "summary": "EveryMatrix Receives Conditional iGaming License in Alberta casinoreports.ca",
@@ -221,19 +209,6 @@ window.briefingStories = [
     "tags": [
       "EveryMatrix",
       "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Prediction market combo bets lead to bigger losses than parlays",
-    "meta": "NEXT.io | 28 May 2026",
-    "summary": "A new analyst report from Citizens found that users of prediction market combo bets lost significantly more of their wallet than those placing traditional parlays.",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "A new analyst report from Citizens found that users of prediction market combo bets lost significantly more of their wallet than those placing traditional parlays. Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://next.io/news/prediction-markets/prediction-market-combos-bigger-losses-than-parlays/",
-    "tags": [
-      "Prediction markets",
-      "Payments"
     ]
   },
   {
@@ -352,16 +327,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Snap up big wins in BGaming’s Shark & Spark Hold & Win - Casino & games - iGB - igamingbusiness.com",
-    "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
-    "summary": "Snap up big wins in BGaming’s Shark & Spark Hold & Win - Casino & games - iGB igamingbusiness.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Snap up big wins in BGaming’s Shark & Spark Hold & Win - Casino & games - iGB igamingbusiness.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTVBOHJmdjl5LUV4b3FrSmRVOUNESFluYlYwZHJhTW5OQjZWOFJaWnRHcTFGcnU3Y2RYLTVZeTM0WTlLdW03T3VEdTMzNWM2eUVBU3dTcTBpVjZIaEtOMEhuenZ0Y2ZmREtFTHhBS0hjMEFCazR2amUtZmxpaDJoaGdKNXZzSVNjZGNWUWtaUGhtMVpaX3c?oc=5",
-    "tags": []
-  },
-  {
     "section": "North America",
     "title": "New window to open for Arizona sports betting licences",
     "meta": "Focus Gaming News | 28 May 2026",
@@ -384,6 +349,20 @@ window.briefingStories = [
     "source": "https://focusgn.com/french-gambling-regulator-launches-new-data-protection-guidelines",
     "tags": [
       "Regulation"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "DigiPlus chairman calls for listing requirement for licensed online gaming operators in the Philippines",
+    "meta": "GGRAsia | 29 May 2026",
+    "summary": "The chairman of Philippines-listed DigiPlus Interactive Corp, Eusebio Tanco, says the country’s authorities should consider requiring all licensed online gaming operators in the nation to be publicly-listed companies. Such a...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The chairman of Philippines-listed DigiPlus Interactive Corp, Eusebio Tanco, says the country’s authorities should consider requiring all licensed online gaming operators in the nation to be publicly-listed companies. Such a... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.ggrasia.com/digiplus-chairman-calls-for-listing-requirement-for-licensed-online-gaming-operators-in-the-philippines?utm_source=rss&utm_medium=rss&utm_campaign=digiplus-chairman-calls-for-listing-requirement-for-licensed-online-gaming-operators-in-the-philippines",
+    "tags": [
+      "Regulation",
+      "Black market",
+      "Asia"
     ]
   },
   {
@@ -410,6 +389,32 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Black market"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Bally’s Approved to Launch Mobile Sportsbook in Rhode Island - WSN.com",
+    "meta": "Google News: EveryMatrix watchlist | 27 May 2026",
+    "summary": "Bally’s Approved to Launch Mobile Sportsbook in Rhode Island WSN.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Bally’s Approved to Launch Mobile Sportsbook in Rhode Island WSN.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXUzSWI2LUF4RU9CRjl0ZFVXc2tUdHptZ3pMdm1pcU1kel80SHJlRGRybXJKMVZmeVJwOGFISFI3Tjk2NjdBUERvLWlnODVZQlVCM1dRcEtWX1NIdHBrRGE5MzVSdnB5bXZhV0NwWjhta3lIM1doZmlNblpKWVEzbzhOSnFqWnlHRDhoVC1Cd0RyQQ?oc=5",
+    "tags": [
+      "Bally's",
+      "US"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "SAFE PLAY ALERT: Why Responsible Gambling Tools Matter In The Age Of Mobile Slots - uknip.co.uk",
+    "meta": "Google News: regulation | 28 May 2026",
+    "summary": "SAFE PLAY ALERT: Why Responsible Gambling Tools Matter In The Age Of Mobile Slots uknip.co.uk",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "SAFE PLAY ALERT: Why Responsible Gambling Tools Matter In The Age Of Mobile Slots uknip.co.uk Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFFxOHBHaVlBU0pBV3Z4bnRSbUxINFJST0lGdHNxUHlUYm9aX2F4TThlSHJxdWxTZE5CSXo4aEdibG44WF9IV29HdkpBWWFtbTVXLWNva2VhVWtEa0F2Y29XU1g2Q3VUZ0hlYzVCTWNhZ3EtUUp4U2dLQnpvME9LVURyNzdCd29FbmN4bTZNak11UkFVZi1UZk9PWDZlS281N0FZQ283Y0xDYTkyZk5PdFNDWm43SjZY?oc=5",
+    "tags": [
+      "RG",
+      "UK"
     ]
   }
 ];

@@ -214,6 +214,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "South Korea launches review into Polymarket over illegal gambling - Business Post",
+    "meta": "Google News: regulation | 29 May 2026",
+    "summary": "South Korea launches review into Polymarket over illegal gambling Business Post",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea launches review into Polymarket over illegal gambling Business Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
     "section": "Europe",
     "title": "Bally’s Intralot CEO: When a customer is ready to move, we’re ready to catch them",
     "meta": "iGaming Business | 28 May 2026",
@@ -261,6 +274,18 @@ window.briefingStories = [
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "expanded": "Sheila Bangalore brings over two decades of experience spanning gaming, hospitality and technology sectors. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://igamingbusiness.com/people/entain-appoints-independent-non-executive-director/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Bet365 joins Alberta’s regulated iGaming market one month after entering Michigan - Tribuna.com",
+    "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
+    "summary": "Bet365 joins Alberta’s regulated iGaming market one month after entering Michigan Tribuna.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bet365 joins Alberta’s regulated iGaming market one month after entering Michigan Tribuna.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWhfejFHX1BNdHhCUnZMMkw4MWc4bEl4TDh0YkVQVEcxdnVEd1MxdVdMTVJnWWdHQ21jNUxyellvUnVQWUpHV0tiN3hoSmZKQ2U1TjFEZUNDNFZiRkVWQ2h1Y0NyOUU0TVVYcmhVV3JLSmx3bE5taF9QZGJwNC13VDJNU3Foa1hGUHpPY3dPT25uclFLMEFDT3lxQ24tNUNDejV4ZHc1bWI0LXpyNEQ2dGxMemdrWGFEYUJlcHRfbzJOX3pIVVNlSTlQVdIBywFBVV95cUxQWWhfejFHX1BNdHhCUnZMMkw4MWc4bEl4TDh0YkVQVEcxdnVEd1MxdVdMTVJnWWdHQ21jNUxyellvUnVQWUpHV0tiN3hoSmZKQ2U1TjFEZUNDNFZiRkVWQ2h1Y0NyOUU0TVVYcmhVV3JLSmx3bE5taF9QZGJwNC13VDJNU3Foa1hGUHpPY3dPT25uclFLMEFDT3lxQ24tNUNDejV4ZHc1bWI0LXpyNEQ2dGxMemdrWGFEYUJlcHRfbzJOX3pIVVNlSTlQVQ?oc=5",
     "tags": [
       "Regulation"
     ]
@@ -382,19 +407,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "EveryMatrix Receives Conditional iGaming License in Alberta - casinoreports.ca",
-    "meta": "Google News: EveryMatrix watchlist | 28 May 2026",
-    "summary": "EveryMatrix Receives Conditional iGaming License in Alberta casinoreports.ca",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix Receives Conditional iGaming License in Alberta casinoreports.ca Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMEVWZGk4ek5kWHdYaXRVZ2RtZFo1UXFnZkRvSVJrOTdsc2VKaTFiN05aX0JCSks1UTEyX0IwZmVIT2lZakp6YWF4Zmhqa1pjQmRzNUR6Y2hBVTdnc2x5ckZLVjdkemIzb3BKY2tUZ3BVQWdqRFJpaUkwMURQSXRIeGxURk5CeXd2Qi14OEJma1RMWW1TSGdSTVJ1TVRhWUVtUGc?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "Regulation"
-    ]
-  },
-  {
     "section": "Europe",
     "title": "European iGaming Shifts: Spain Enforces Bans, Sportradar Faces Lawsuit, Austria Considers Market Expansion - Casino Guardian",
     "meta": "Google News: iGaming | 29 May 2026",
@@ -404,18 +416,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSmpucllrbTc5UnlrNDdfLS03anM3UU5JWC1lTW14MnBIc0N3ajdSWkc1TnZwcUZBWWNISThpMzJwd2ZpTzhiS2JidlZHczhPR3JnaU4wZlVXaWhvbTZyZExzaGtaQkdrRzE2Wko4NjZRU0xqdXV3ZE1PU2tUWGNFMWFxbFpUTTVFSUpWd2ZQZWNwV1JUNjl1ck1ZYmNma21UUll5dVRPTTB0aGc1SmtjVEIzYXp3Q2pjZ3pmNE9TeDJDeHE4RHdhSTczVE1QdjFDN1JlUXFyZHNldkt6TVFJMHV3?oc=5",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "The Supreme Court of India approved a retrospective tax on online gambling - WN Hub",
-    "meta": "Google News: iGaming | 29 May 2026",
-    "summary": "The Supreme Court of India approved a retrospective tax on online gambling WN Hub",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The Supreme Court of India approved a retrospective tax on online gambling WN Hub Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aQ2NyVU52MUtnVTlpUm54WDdMQUY4bjU2LUwyZjhyb3E4b241MHNkdmtQdDZnWnFUaU52dkxkdFRnRjhCbURNZktrNkVlYTg?oc=5",
-    "tags": [
-      "Asia"
     ]
   }
 ];

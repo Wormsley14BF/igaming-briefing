@@ -42,11 +42,12 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Instant withdrawal casino guide: Fast payout casinos available online now in May 2026 - NJ.com",
-      "text": "Instant withdrawal casino guide: Fast payout casinos available online now in May 2026 NJ.com",
-      "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyc3Nwbjg1cmowV1hBc2dKSjFxcUhoX291M05ncm5sb2o0TWtNOFliVnRnTldyajdCbXdWRDZvNzVhQXI5aXMtZXdkXzhicDdsMzNlY3lRbTlEQQ?oc=5",
+      "title": "South Korea launches review into Polymarket over illegal gambling - Business Post",
+      "text": "South Korea launches review into Polymarket over illegal gambling Business Post",
+      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
       "tags": [
-        "Payments"
+        "Prediction markets",
+        "Black market"
       ]
     }
   ],
@@ -54,8 +55,8 @@ window.briefingMeta = {
     {
       "title": "Payments and channelisation",
       "text": "Payment flows, illegal-market blocking and cashier restrictions remain core platform-control areas.",
-      "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyc3Nwbjg1cmowV1hBc2dKSjFxcUhoX291M05ncm5sb2o0TWtNOFliVnRnTldyajdCbXdWRDZvNzVhQXI5aXMtZXdkXzhicDdsMzNlY3lRbTlEQQ?oc=5",
-      "sourceLabel": "Google News: EveryMatrix watchlist"
+      "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Risk checks are becoming product workflows",
@@ -133,6 +134,19 @@ window.briefingStories = [
       "Bally's",
       "Regulation",
       "US"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korea launches review into Polymarket over illegal gambling - Business Post",
+    "meta": "Google News: regulation | 31 May 2026",
+    "summary": "South Korea launches review into Polymarket over illegal gambling Business Post",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea launches review into Polymarket over illegal gambling Business Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzlidU9CVkZpMkhrNmFwejNTSjlFem1WQ214UkVaeklZcXUwMXJwT2diY1VKWE00T0VJb01WVjVQOW5Da1E4dmVnNWYtQ0puVVNhQnZOYW1wZGVEdWdjdkd6UHVPZWpyS0k5YlVpZ1htWDNKY3gtV0l3cWRjMFEwNEI0NjlCUkdyRGdSRTZKY19oTjBoLUhOVXJ4blI4Y0wxQjRUTQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
     ]
   },
   {
@@ -320,18 +334,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Two arrested as police raid illegal gambling den - BBC",
-    "meta": "Google News: regulation | 30 May 2026",
-    "summary": "Two arrested as police raid illegal gambling den BBC",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Two arrested as police raid illegal gambling den BBC Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Oai1HZnA4aFJ3d05ZTS04eVB1V0VDYlZ0SXhQbnBoUmE0Ym9pTEg0Qnc3b3l5RDVUTmRLcm41dW9maFZOWmJPY2YybWNfanFkcXVFWWZ6NGJtRzZU?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "Hundreds of illegal gambling machines seized in Manatee raids, officials say - AOL.com",
     "meta": "Google News: regulation | 30 May 2026",
     "summary": "Hundreds of illegal gambling machines seized in Manatee raids, officials say AOL.com",
@@ -350,6 +352,18 @@ window.briefingStories = [
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "expanded": "Two arrested as police raid illegal gambling den AOL.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeG9JeTYyM241bHAyTEd4U0NILVhFRm9aN0pjTHg4dDVHa2ZlVTNEdkRJMktfOGY2aDcyV05leGRkNnJkZ0NFSlAzMkE1UVRxekdkQkx0ZGZCWndlYkNUcUhlNDVQSExTdlYyUEZVeGw0aE8tUl9Sa0g5SUxfTm5Jbm9R?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Two arrested as police raid illegal gambling den - BBC",
+    "meta": "Google News: regulation | 30 May 2026",
+    "summary": "Two arrested as police raid illegal gambling den BBC",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Two arrested as police raid illegal gambling den BBC Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Oai1HZnA4aFJ3d05ZTS04eVB1V0VDYlZ0SXhQbnBoUmE0Ym9pTEg0Qnc3b3l5RDVUTmRLcm41dW9maFZOWmJPY2YybWNfanFkcXVFWWZ6NGJtRzZU?oc=5",
     "tags": [
       "Black market"
     ]
@@ -390,19 +404,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
     "tags": [
       "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Dutch gambling regulator launches World Cup campaign with Glenn Helder and Noah Zeeuw",
-    "meta": "Focus Gaming News | 29 May 2026",
-    "summary": "The KSA has launched a campaign that aims to raise awareness of sports betting risks among young adults. The Netherlands.- With the FIFA World Cup 2026 approaching, the Dutch gambling regulator Kansspelautoriteit (KSA) is...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "The KSA has launched a campaign that aims to raise awareness of sports betting risks among young adults. The Netherlands.- With the FIFA World Cup 2026 approaching, the Dutch gambling regulator Kansspelautoriteit (KSA) is... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://focusgn.com/dutch-gambling-regulator-launches-world-cup-campaign-with-glenn-helder-and-noah-zeeuw",
-    "tags": [
-      "Regulation",
-      "RG"
     ]
   }
 ];

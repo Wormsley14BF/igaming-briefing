@@ -37,11 +37,11 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Best instant withdrawal casinos to win real money at this weekend - NJ.com",
-      "text": "Best instant withdrawal casinos to win real money at this weekend NJ.com",
-      "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXdldFI0QW1hbENVNzY4ak16Y1JSRzE2T2Fia3ZfZWk2OEdEREx5cmtSQmRKT3psSzVtQ2Z1WEF6UUk2NnJteGFnOWxKZm5hbWhCVVhKeVFqSDFPQzlhaUlJWGN3NE5MbW5WRk96eDVqLVpSNWlBdUNYc3YxUFNhX1I2TS1QNGdJUHhILVVzbmdaTTBSNEZjT1l0MUhDX1BPTms2Mm9WUDJMY3Z5V1R4R1lR?oc=5",
+      "title": "The 'Delivery Platform Fraudulent Employment' Case Nearly Buried... Uncovered by Prosecutors' Supplementary Investigation - 아시아경제",
+      "text": "The 'Delivery Platform Fraudulent Employment' Case Nearly Buried... Uncovered by Prosecutors' Supplementary Investigation 아시아경제",
+      "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41TUZpY2lCLXRuaEhnV1psdno1Ni1tNWVZRXJUdUFqZHNsYW8xM0hNUXUzSkhUV2k1WkZ4N0ZUZTgyS0xqZlJHQkVVdGM0YkZzUVhxUnZOZ1JDWmtmbnpvcnEtWDBRZmZpcDRvaA?oc=5",
       "tags": [
-        "Payments"
+        "KYC"
       ]
     }
   ],
@@ -126,18 +126,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Best instant withdrawal casinos to win real money at this weekend - NJ.com",
-    "meta": "Google News: EveryMatrix watchlist | 31 May 2026",
-    "summary": "Best instant withdrawal casinos to win real money at this weekend NJ.com",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Best instant withdrawal casinos to win real money at this weekend NJ.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTXdldFI0QW1hbENVNzY4ak16Y1JSRzE2T2Fia3ZfZWk2OEdEREx5cmtSQmRKT3psSzVtQ2Z1WEF6UUk2NnJteGFnOWxKZm5hbWhCVVhKeVFqSDFPQzlhaUlJWGN3NE5MbW5WRk96eDVqLVpSNWlBdUNYc3YxUFNhX1I2TS1QNGdJUHhILVVzbmdaTTBSNEZjT1l0MUhDX1BPTms2Mm9WUDJMY3Z5V1R4R1lR?oc=5",
-    "tags": [
-      "Payments"
-    ]
-  },
-  {
     "section": "Product",
     "title": "The 'Delivery Platform Fraudulent Employment' Case Nearly Buried... Uncovered by Prosecutors' Supplementary Investigation - 아시아경제",
     "meta": "Google News: regulation | 1 Jun 2026",
@@ -163,6 +151,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Prediction Market Deadlines, Sorsby Hearing Lead the Gambling Stories to Watch This Week",
+    "meta": "Gambling Insider | 1 Jun 2026",
+    "summary": "Filing deadlines in several prediction market cases and a Texas court hearing on Brendan Sorsby’s NCAA eligibility challenge highlight the gambling industry stories this week. Prediction markets remain the gambling industry’s...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Filing deadlines in several prediction market cases and a Texas court hearing on Brendan Sorsby’s NCAA eligibility challenge highlight the gambling industry stories this week. Prediction markets remain the gambling industry’s... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/164401/prediction-market-deadlines-sorsby-hearing-gambling-stories-watch",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
     "section": "Europe",
     "title": "Soo Kim’s British gamble: what does Bally’s really want in Europe? - igamingbusiness.com",
     "meta": "Google News: EveryMatrix watchlist | 1 Jun 2026",
@@ -176,6 +176,18 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Two arrested in illegal gambling raid in Manchester - igamingbusiness.com",
+    "meta": "Google News: regulation | 1 Jun 2026",
+    "summary": "Two arrested in illegal gambling raid in Manchester igamingbusiness.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Two arrested in illegal gambling raid in Manchester igamingbusiness.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSktSRHRsc3pWYUNXYS1hTUF1eUZFVlkzUlVnajhHdkFuNFdGbFlhZkx2UGxBcmV0SWlBVXBqeGxfMVlUelQ0WUsxSTVvNUVoMmsyNDBWTExiaXB6b3luYzM5NEtURFFyel84cGpXZTFXZC1aeDdKeUxfeElxcGI0NkVOVXA4NGxheVJ6RzhsdE8xUk8yQVE?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
     "title": "FGCC Leads Another Bust Against Illegal Gambling, Seizes 69 Machines - GamblingNews",
     "meta": "Google News: regulation | 1 Jun 2026",
     "summary": "FGCC Leads Another Bust Against Illegal Gambling, Seizes 69 Machines GamblingNews",
@@ -184,6 +196,18 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT01YWGpvYXQtMUNWNzZEWjBtM1dVSy00OHB4bG9yejdCQ2RYb0gtQWdBRFd3dW81TVRRMC1MSkJobWhTM3JCYkZzUVBMVW5kZnJVbng0OTF6aHJDRkJiXzBOZHpvcGlMaGxEb3l5U3BFd1lrRGdUcTlIcTRWeWRHTlBCdmVyTTZGWURfQWdXbEg2Q2t1NjJ5aFRtWDlLSTNBVWhoMw?oc=5",
     "tags": [
       "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Manchester gambling raid sparks wider enforcement focus - ReadWrite",
+    "meta": "Google News: regulation | 1 Jun 2026",
+    "summary": "Manchester gambling raid sparks wider enforcement focus ReadWrite",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Manchester gambling raid sparks wider enforcement focus ReadWrite Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxdWxqVFA5bTZEc2laYktlcHRjNnNjRnI3MU52NFBnMktGUWhzTnU2WlBoU2ZMZTkyVXRuRTl2Wk1xUTNxNGkzR0gwN1BHRldnT1M1TDFQaWU3M05PeHZnNmliQTJHSzdmUjNuekpvQkJ6dVJZSVE0?oc=5",
+    "tags": [
+      "Regulation"
     ]
   },
   {
@@ -201,16 +225,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "More than $350K in cash seized during SWAT raid at Houston social club - MSN",
-    "meta": "Google News: regulation | 1 Jun 2026",
-    "summary": "More than $350K in cash seized during SWAT raid at Houston social club MSN",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "More than $350K in cash seized during SWAT raid at Houston social club MSN Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGhQZkk5dXE3aHFRdzBfbFFLdWZCLTBzcUg5MkZDTldURGhuTHNacS1yaTRobTVBbFB6blBXajNuaExzekRoRktOTElPbFdINGVzZ05fSlRkdi1SZ3VwakgyNWxtZnJzMy0yc1FOdi01WThrbGpON1p0TFhTZFNTMnhab3hZbUlUU3Q3dXlZOUJIb3F1LXBPUGlobUpoMEdCT1pNNzhHTF9JSjVBRnhPWEU3eDJZZw?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
     "title": "Houston Police Raid Lucky J Social Club Over Illegal Gambling Claims - iGaming.org",
     "meta": "Google News: regulation | 31 May 2026",
     "summary": "Houston Police Raid Lucky J Social Club Over Illegal Gambling Claims iGaming.org",
@@ -222,6 +236,16 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "Shining a Light on Accessibility with bet99 ontario’s Platform - apmagazine.it",
+    "meta": "Google News: regulation | 1 Jun 2026",
+    "summary": "Shining a Light on Accessibility with bet99 ontario’s Platform apmagazine.it",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "Shining a Light on Accessibility with bet99 ontario’s Platform apmagazine.it Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS01sYWtmWHh6em02WlQ5S2xZMFdOTlJpNjVGa3dvVDBwbGpqeHhRYWNDOERSajg4X3hyOUZSbTlIcEgwcjFodVRtZ0NSQlpuN0xibUd5V0U1Wk1mUVdHU3pUeDhySElWd1lNc284R3o5ektVeXVzOHJYemZoZFE0Nk8wdVE5bWo3cV9tbDVOYnBjZ9IBkgFBVV95cUxNS01sYWtmWHh6em02WlQ5S2xZMFdOTlJpNjVGa3dvVDBwbGpqeHhRYWNDOERSajg4X3hyOUZSbTlIcEgwcjFodVRtZ0NSQlpuN0xibUd5V0U1Wk1mUVdHU3pUeDhySElWd1lNc284R3o5ektVeXVzOHJYemZoZFE0Nk8wdVE5bWo3cV9tbDVOYnBjZw?oc=5",
+    "tags": []
+  },
+  {
     "section": "Product",
     "title": "\"Did Cha Ga Won Give MC Mong Tens of Billions of Won?\" Chairman Says: \"If I Speak, the Entertainment Industry Could Be Turned Upside Down\" - KbizoOm",
     "meta": "Google News: regulation | 31 May 2026",
@@ -230,20 +254,6 @@ window.briefingStories = [
     "expanded": "\"Did Cha Ga Won Give MC Mong Tens of Billions of Won?\" Chairman Says: \"If I Speak, the Entertainment Industry Could Be Turned Upside Down\" KbizoOm Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONUhQRGRkS01aTW1lbXBTX3Y4SExVSTE2blZ2ZHAyMTEyRkZ5R2o5UEtlWkttbEFHR1hnVGhLTW9IZkNPNFMwdTl2Ym4yU251cXYtRjV6V1NJZDRLSllfT2hHd1BjVnVRT0p5UHVMa19JYnB3czktdnFmdnVfSUtDM3VSM2xQcGlmaXVnU1F3?oc=5",
     "tags": []
-  },
-  {
-    "section": "North America",
-    "title": "North Carolina governor bans state employees from using insider information on prediction markets",
-    "meta": "Focus Gaming News | 29 May 2026",
-    "summary": "Governor Josh Stein has signed an executive order extending the state’s Ethics Act. US.- North Carolina Governor Josh Stein has signed an executive order that prohibits state employees from using information they gained at work...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Governor Josh Stein has signed an executive order extending the state’s Ethics Act. US.- North Carolina Governor Josh Stein has signed an executive order that prohibits state employees from using information they gained at work... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/north-carolina-governor-bans-state-employees-from-using-insider-information-on-prediction-markets",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
   },
   {
     "section": "Product",
@@ -311,6 +321,34 @@ window.briefingStories = [
   },
   {
     "section": "North America",
+    "title": "North Carolina governor bans state employees from using insider information on prediction markets",
+    "meta": "Focus Gaming News | 29 May 2026",
+    "summary": "Governor Josh Stein has signed an executive order extending the state’s Ethics Act. US.- North Carolina Governor Josh Stein has signed an executive order that prohibits state employees from using information they gained at work...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Governor Josh Stein has signed an executive order extending the state’s Ethics Act. US.- North Carolina Governor Josh Stein has signed an executive order that prohibits state employees from using information they gained at work... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/north-carolina-governor-bans-state-employees-from-using-insider-information-on-prediction-markets",
+    "tags": [
+      "Prediction markets",
+      "Regulation",
+      "US"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Minnesota Prediction Market Ban Targets Sports Betting - Yahoo Finance",
+    "meta": "Google News: iGaming | 31 May 2026",
+    "summary": "Minnesota Prediction Market Ban Targets Sports Betting Yahoo Finance",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Minnesota Prediction Market Ban Targets Sports Betting Yahoo Finance Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjNrTXRGY25ScHVPbERWZlRSR0M1eC1TYVVMejAzQUx5Y3BBNjZJYk1lNWpkbzZiTGpoSWNmVGZRbGdNRUE5N2RiNzFSU0pBOTZybDVBSHlDaXBTWXFyYnoxNHpuc2lnYmdBaURISUVvazZDM3Q3ZzNhV2k2bnJTT3ZGNkV0REN6eHl2Z28wZW5PNndpMzhNM2RnZ0NiZWxjVlhPM3JPQQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Regulation",
+      "US"
+    ]
+  },
+  {
+    "section": "North America",
     "title": "Bally's Got Rhode Island's Second Sportsbook License Mostly Because Almost No One Else Wanted It - Gaming America",
     "meta": "Google News: EveryMatrix watchlist | 29 May 2026",
     "summary": "Bally's Got Rhode Island's Second Sportsbook License Mostly Because Almost No One Else Wanted It Gaming America",
@@ -338,20 +376,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Minnesota Prediction Market Ban Targets Sports Betting - Yahoo Finance",
-    "meta": "Google News: iGaming | 31 May 2026",
-    "summary": "Minnesota Prediction Market Ban Targets Sports Betting Yahoo Finance",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Minnesota Prediction Market Ban Targets Sports Betting Yahoo Finance Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjNrTXRGY25ScHVPbERWZlRSR0M1eC1TYVVMejAzQUx5Y3BBNjZJYk1lNWpkbzZiTGpoSWNmVGZRbGdNRUE5N2RiNzFSU0pBOTZybDVBSHlDaXBTWXFyYnoxNHpuc2lnYmdBaURISUVvazZDM3Q3ZzNhV2k2bnJTT3ZGNkV0REN6eHl2Z28wZW5PNndpMzhNM2RnZ0NiZWxjVlhPM3JPQQ?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Top Court Upholds 1-Year Prison Term for Misusing 796 Personal Data Records on Illegal Gambling Site - Seoul Economic Daily",
     "meta": "Google News: regulation | 31 May 2026",
@@ -364,35 +388,16 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Estimates say EU gambling levy would raise less than half of original €28bn forecast",
-    "meta": "NEXT.io | 1 Jun 2026",
-    "summary": "A proposed European Union-wide tax on online gambling could generate up to €13.3bn during its first seven years, less than half the amount initially forecast.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "A proposed European Union-wide tax on online gambling could generate up to €13.3bn during its first seven years, less than half the amount initially forecast. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/estimates-eu-gambling-levy-raise-under-half-original-forecast/",
-    "tags": []
-  },
-  {
-    "section": "LatAm",
-    "title": "Stake continues Latam expansion with Buenos Aires launch",
-    "meta": "NEXT.io | 1 Jun 2026",
-    "summary": "Stake has launched in Argentina's Buenos Aires Province, adding another regulated market to its Latin American operations.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Stake has launched in Argentina's Buenos Aires Province, adding another regulated market to its Latin American operations. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/betting/stake-latam-expansion-buenos-aires-launch/",
+    "section": "North America",
+    "title": "“How is That not gambling?” Ohio takes on Kalshi for dodging sports betting regulations - MSN",
+    "meta": "Google News: iGaming | 31 May 2026",
+    "summary": "“How is That not gambling?” Ohio takes on Kalshi for dodging sports betting regulations MSN",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "“How is That not gambling?” Ohio takes on Kalshi for dodging sports betting regulations MSN Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPR0gtOWxoWXVKT3lXbGVGWFdLazRqUUlCSk00TkIxSDBBWTl1WkJtMzVJSWV2c3Z0SnZZVFRPTEpZMWpLYzVIMi05OGlUUWRxMnFKT011aFNiWlRNZXYzcGRnYU9wT3FCWlpoeGN0REMyTXU3dFJLMkZlR0lKUktrSDg3X0h0LTUxRm8yal9YSFJRTzZoMWc5SVNNMnpaMHdlb0FaSFd6c2lrWDRMX1hOQVVSSjN5OWtYZFA5YW9JTmhMeXpMeXpDd0N0Uy1KdllaUzc2dGtaamJ6TGs2OW5KOFhKTTdHX0xCdF90X04xYnZPTDlsVEFINHdnZkYzOFU3cWRFamhES0JIU1FMYU0xS2ZpdTVkcmcxNkZMSzlkQkhIMmxLVm5Hdl9PRTlPNnlCcjFOdHJ5ZWlqenNZZXNLRjhJemxELVhpRUJvdTAzOHRUSFZoX2x1bmV4N0laM2xkNG9FZFdIQk4zamNMNzFnMXluYU15bV8wVlBHTDFrbw?oc=5",
     "tags": [
+      "Prediction markets",
       "Regulation"
     ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Private equity giant reported to be in talks to help finance the £225 million takeover of William Hill owner Evoke - Racing Post",
-    "meta": "Google News: EveryMatrix watchlist | 31 May 2026",
-    "summary": "Private equity giant reported to be in talks to help finance the £225 million takeover of William Hill owner Evoke Racing Post",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Private equity giant reported to be in talks to help finance the £225 million takeover of William Hill owner Evoke Racing Post Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLWNGR2pWWWdRRDlTTU8yQVlVN3hNZEEtNVFFNG81Q2JaS1BLQWkyelNBNEl6VEtHaEZUR3FCczVxSjJ2czZSZHhlM3JRMnExYmc0QTdtbjRJY1ZWOTIxRF93TDdvaWlSRXI3R1NkOVlRVk95TEY4Z3JzUl9NSTlmdDBYdHE3LWtrbzNSbkZnUHNrSTVaazZMUzBLQWVBc0l0a0p0aUxUR0pLWDdxWUpLSk4tZWlKT0tTZVhGaEg1TkZWX1M1eUw3LUc4TVY3UHh0RlNiOUlUUlNNb3lWbjdZRmwtemo0SjVTYVRVRnhpbHJrUGl5STR4dVl1SQ?oc=5",
-    "tags": []
   }
 ];

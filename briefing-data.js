@@ -180,6 +180,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Illinois Budget Imposes New Tax on Sports Prediction Markets, Creates DFS Framework",
+    "meta": "Gambling Insider | 2 Jun 2026",
+    "summary": "Illinois’ newly approved budget includes a new tax on sports-event prediction market contracts, which could lead to further litigation; it also establishes a DFS framework. Illinois lawmakers have approved a new tax on...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Illinois’ newly approved budget includes a new tax on sports-event prediction market contracts, which could lead to further litigation; it also establishes a DFS framework. Illinois lawmakers have approved a new tax on... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/164681/illinois-prediction-market-tax-dfs-framework-budget-2027",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Polymarket secures partnership with Germany-headquartered OneFootball",
     "meta": "SBC News | 1 Jun 2026",
@@ -253,19 +265,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Arizona files criminal charges against Kalshi for illegal gambling operations - MSN",
-    "meta": "Google News: regulation | 31 May 2026",
-    "summary": "Arizona files criminal charges against Kalshi for illegal gambling operations MSN",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Arizona files criminal charges against Kalshi for illegal gambling operations MSN Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQR2xnVUlXalBCNDQwYW5kdGxyOUJGekY0M3pvWTBXRjJNQkxRNnJLUG9LaGdLX2IzV19qZnhyNkd5NXpnbHlTWVlQbGxtb3p6OFBZUlV6WV8yR245WVZCTS1nR2FSVnZVdUhCTldQdkJoWW9Ia3p2dGFpRnFfZjVUQXpNcjZiQU9LM3JQUzdVb29zeEVRREs1OGhSYnhZbDlTWmxDelpZUi1PeXNZbVNWdG00VGdTVEZtdF9PZ3UtZFd4TEJWMXl0eU9zV2ZIOE5HYlREenBCd2ctclhCSE1tV0lldHQ3YlFqT0puX19HWm8yMms0U2ZGUEdFSm5kYkNtS3d6NjUyNWRsTFJLQ3JsbEgtNjIyS1RMQkFxYTJBTGtUbWwyQndKUV9UR2ptMXpVMk5BbzNVUFB6X2RNQWVUYVBBX0E4dkpqRzBDb0RELWt4X2dZeXEtNUl5UkpFM2stSjN6LTRFMFVaeGxKUXZaSg?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
     "section": "LatAm",
     "title": "Stake makes Argentina its fifth Latin American market",
     "meta": "SBC News | 1 Jun 2026",
@@ -275,32 +274,6 @@ window.briefingStories = [
     "source": "https://sbcnews.co.uk/sportsbook/2026/06/01/stake-launches-in-argentina/",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Betty marks expansion beyond Canada with UK launch",
-    "meta": "NEXT.io | 2 Jun 2026",
-    "summary": "Mobile casino operator Betty has gone live in the UK after being granted a Gambling Commission licence in Q1 2026.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Mobile casino operator Betty has gone live in the UK after being granted a Gambling Commission licence in Q1 2026. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/casino/betty-expansion-uk-launch/",
-    "tags": [
-      "Regulation",
-      "UK"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Zenith’s Gustavo Hiroshi: In Brazil, only the localised will survive",
-    "meta": "NEXT.io | 2 Jun 2026",
-    "summary": "Brazil’s gold rush is officially over – and in a new reality defined by saturation and tightening tax burdens, Gustavo Hiroshi, business development manager at Zenith, offers an unfiltered view of what it now takes to survive....",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "Brazil’s gold rush is officially over – and in a new reality defined by saturation and tightening tax burdens, Gustavo Hiroshi, business development manager at Zenith, offers an unfiltered view of what it now takes to survive.... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://next.io/news/promoted/zeniths-gustavo-hiroshi-in-brazil-only-the-localised-will-survive/",
-    "tags": [
-      "Regulation",
-      "Brazil"
     ]
   },
   {
@@ -365,18 +338,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Manchester gambling raid sparks wider enforcement focus - ReadWrite",
-    "meta": "Google News: regulation | 1 Jun 2026",
-    "summary": "Manchester gambling raid sparks wider enforcement focus ReadWrite",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Manchester gambling raid sparks wider enforcement focus ReadWrite Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxdWxqVFA5bTZEc2laYktlcHRjNnNjRnI3MU52NFBnMktGUWhzTnU2WlBoU2ZMZTkyVXRuRTl2Wk1xUTNxNGkzR0gwN1BHRldnT1M1TDFQaWU3M05PeHZnNmliQTJHSzdmUjNuekpvQkJ6dVJZSVE0?oc=5",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "Malaysia’s ID checks for social media ads come into effect as part of measures against illegal gambling",
     "meta": "Google News: regulation | 1 Jun 2026",
     "summary": "Malaysia’s ID checks for social media ads come into effect as part of measures against illegal gambling Focus Gaming News",
@@ -385,6 +346,18 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ3NFVXh3T0R4N3lyMEhqeUpMXzFIRnFxSUR6b3JGbFl0ZWtRSFlIY2VGdDlrck94SFFUVUJ3eW5OTFRabUJRWUNLc2dDNkRINGVBLW5iX2Z4VXFBZXhzcGtZWHdXUWtfS3dfX2duU3pKWHFrSnZtWDZHYjREaHIyeW1EYkRQWWlpZm8yUFBQU3phcGV4dE10cHZHeVN0ODRxVlNaU2VLSVZvYmJHcG5PaW80NGx4eUZfWHBDVTdPUXc2WXJkdFI3UE1lWk44UUFR?oc=5",
     "tags": [
       "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Manchester gambling raid sparks wider enforcement focus - ReadWrite",
+    "meta": "Google News: regulation | 1 Jun 2026",
+    "summary": "Manchester gambling raid sparks wider enforcement focus ReadWrite",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Manchester gambling raid sparks wider enforcement focus ReadWrite Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxdWxqVFA5bTZEc2laYktlcHRjNnNjRnI3MU52NFBnMktGUWhzTnU2WlBoU2ZMZTkyVXRuRTl2Wk1xUTNxNGkzR0gwN1BHRldnT1M1TDFQaWU3M05PeHZnNmliQTJHSzdmUjNuekpvQkJ6dVJZSVE0?oc=5",
+    "tags": [
+      "Regulation"
     ]
   },
   {
@@ -397,6 +370,30 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlpEc2I4SUlqcHZCZ0pJR1Bnblh5NlNFQzd3bWJBNjQ3SWZtb0pzODR6OGVRcXNJbWxfRmFNdEdvUnZvNGIwVm5vLXFoUmU4TDh2WGZibkVscEFXdHk1ekc0dmJ5UWM5dHFhbmg1ZGFFYzF1cDltUlFEVmtmZEpaVS1NeTg2aG8?oc=5",
     "tags": [
       "Bally's"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Shining a Light on Accessibility with bet99 ontario’s Platform - apmagazine.it",
+    "meta": "Google News: regulation | 1 Jun 2026",
+    "summary": "Shining a Light on Accessibility with bet99 ontario’s Platform apmagazine.it",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "Shining a Light on Accessibility with bet99 ontario’s Platform apmagazine.it Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS01sYWtmWHh6em02WlQ5S2xZMFdOTlJpNjVGa3dvVDBwbGpqeHhRYWNDOERSajg4X3hyOUZSbTlIcEgwcjFodVRtZ0NSQlpuN0xibUd5V0U1Wk1mUVdHU3pUeDhySElWd1lNc284R3o5ektVeXVzOHJYemZoZFE0Nk8wdVE5bWo3cV9tbDVOYnBjZ9IBkgFBVV95cUxNS01sYWtmWHh6em02WlQ5S2xZMFdOTlJpNjVGa3dvVDBwbGpqeHhRYWNDOERSajg4X3hyOUZSbTlIcEgwcjFodVRtZ0NSQlpuN0xibUd5V0U1Wk1mUVdHU3pUeDhySElWd1lNc284R3o5ektVeXVzOHJYemZoZFE0Nk8wdVE5bWo3cV9tbDVOYnBjZw?oc=5",
+    "tags": []
+  },
+  {
+    "section": "LatAm",
+    "title": "5 Leaders – 1 Question: Brazil’s illegal gambling market and the tools to move players to licensed platforms",
+    "meta": "Focus Gaming News | 2 Jun 2026",
+    "summary": "Five key figures in the igaming industry share their views on the regulatory tools that Brazil needs in order to encourage players to move from illegal gambling to licensed environments. Special report.- Although the regulated...",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "Five key figures in the igaming industry share their views on the regulatory tools that Brazil needs in order to encourage players to move from illegal gambling to licensed environments. Special report.- Although the regulated... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://focusgn.com/5-leaders-1-question-brazils-illegal-gambling-market-and-the-tools-to-move-players-to-licensed-platforms",
+    "tags": [
+      "Regulation",
+      "Black market",
+      "Brazil"
     ]
   }
 ];

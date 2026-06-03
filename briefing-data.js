@@ -40,11 +40,11 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Illinois Budget Imposes New Tax on Sports Prediction Markets, Creates DFS Framework",
-      "text": "Illinois’ newly approved budget includes a new tax on sports-event prediction market contracts, which could lead to further litigation; it also establishes a DFS framework. Illinois lawmakers have approved a new tax on...",
-      "source": "https://www.gamblinginsider.com/news/164681/illinois-prediction-market-tax-dfs-framework-budget-2027",
+      "title": "New York opens its first full-service casino, generating US$17,6 billion in investments. - BNLData",
+      "text": "New York opens its first full-service casino, generating US$17,6 billion in investments. BNLData",
+      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0xWcUFxTGxCUUtZQW40MHR3ZV9kMTZuS19CbTV4akFUNUF3UE9pTGVQcmk2NS03cDAtSlVlWERxeXowZWd5SXA3V0FFWFR4Z2JMcTNkY1J0Yl9SaTlCeWZqVlZKM3Q4RWhuSHJRYWM4M0ZuMjhqSFk0X01sUnZkZ1k0RndUem5uQzhGQVlkNnpUaGE5MGlNSTBtR1NvTHFudWp5UDRrSERyZTVlQkJ3?oc=5",
       "tags": [
-        "Prediction markets"
+        "US"
       ]
     }
   ],
@@ -132,6 +132,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "New York opens its first full-service casino, generating US$17,6 billion in investments. - BNLData",
+    "meta": "Google News: EveryMatrix watchlist | 2 Jun 2026",
+    "summary": "New York opens its first full-service casino, generating US$17,6 billion in investments. BNLData",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "New York opens its first full-service casino, generating US$17,6 billion in investments. BNLData Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc0xWcUFxTGxCUUtZQW40MHR3ZV9kMTZuS19CbTV4akFUNUF3UE9pTGVQcmk2NS03cDAtSlVlWERxeXowZWd5SXA3V0FFWFR4Z2JMcTNkY1J0Yl9SaTlCeWZqVlZKM3Q4RWhuSHJRYWM4M0ZuMjhqSFk0X01sUnZkZ1k0RndUem5uQzhGQVlkNnpUaGE5MGlNSTBtR1NvTHFudWp5UDRrSERyZTVlQkJ3?oc=5",
+    "tags": [
+      "US"
+    ]
+  },
+  {
     "section": "Product",
     "title": "Illinois Budget Imposes New Tax on Sports Prediction Markets, Creates DFS Framework",
     "meta": "Gambling Insider | 2 Jun 2026",
@@ -153,6 +165,18 @@ window.briefingStories = [
     "source": "https://next.io/news/technology/comeon-group-daniela-vella-ai-adoption-igaming/",
     "tags": [
       "AI"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Instant withdrawal casino guide: Fast payout casinos available online now in June 2026 - NJ.com",
+    "meta": "Google News: EveryMatrix watchlist | 1 Jun 2026",
+    "summary": "Instant withdrawal casino guide: Fast payout casinos available online now in June 2026 NJ.com",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Instant withdrawal casino guide: Fast payout casinos available online now in June 2026 NJ.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyc3Nwbjg1cmowV1hBc2dKSjFxcUhoX291M05ncm5sb2o0TWtNOFliVnRnTldyajdCbXdWRDZvNzVhQXI5aXMtZXdkXzhicDdsMzNlY3lRbTlEQQ?oc=5",
+    "tags": [
+      "Payments"
     ]
   },
   {
@@ -182,6 +206,19 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
+    "title": "Bally's Intralot - Evoke deal closing in London – Surge in figures for BYLOT, significant added value for Intracom - Bankingnews",
+    "meta": "Google News: EveryMatrix watchlist | 2 Jun 2026",
+    "summary": "Bally's Intralot - Evoke deal closing in London – Surge in figures for BYLOT, significant added value for Intracom Bankingnews",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally's Intralot - Evoke deal closing in London – Surge in figures for BYLOT, significant added value for Intracom Bankingnews Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQTBDODRPMS1tZ0NtdGJIU3J6dllfQUVSbzdYMVRGV0FuWXdkZE01YmdBTmJnR3cwLUVXQ1dydmZIdllvenViek03OGVRWFVzcTlYWDFpTS1vUGZySGpXUFhBdzR3alR4WENMREtxbnp3TEhtdElReDZsR0Q2YVc4ZWFFWjRjV2tNTGJFSVhlNzBfc2dSMzNKZzhWdHQ1RkFkVkRhYmgwNklGdGJWdTU4UjExcHZfdmpiLUVuTDV1S1VzYkU1ajh0OUxfdXpWMTJsaWhpSGVpbTV5UUNLMXluRWh0OTVhZjRwNGRhejlyV240ZVd6QnQ1d2MxM3lqdDZNMG4wdTFtRThxLURVNkhtQVJIbXRVSDg?oc=5",
+    "tags": [
+      "Bally's",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Other / Global",
     "title": "WLA pushes to regulate prediction markets as sports betting - sigma.world",
     "meta": "Google News: iGaming | 3 Jun 2026",
     "summary": "WLA pushes to regulate prediction markets as sports betting sigma.world",
@@ -202,6 +239,19 @@ window.briefingStories = [
     "expanded": "Star Sydney betting on turnaround despite latest $10m fine The Australian Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
     "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZVV5VUoyTDJ6NGxGdjZ3UWJRZ2NSeE5Gb0tJSENxYzQtRkg1UFNJSDhhM0Rkbk0yU3dFUU84WU5UcXVDTHloSjhybVFTY3VLc2VIcUwtaFVRTU1PTUh6Zm5LMHAzM09WelVwcXV3MXRKbUw4Mk1Nc2RCMXVtcE5yVVlQOFVHeURTTnJ0OG8xMm5tdmVZb2ctMVdhbTdRMW8zN2hsMWQ1YlhxV1RXZ1FQLXphUTlCQVczZ3pfV0NwWWtmcHpaaGhoVXpwZnlfNXdKeWhzc1h6UEpwUFpLQjdUbHNNNlYyU0pfeEZmSklZbmlOcm5Fd1dHMlNvaVfSAYICQVVfeXFMTjFqRTNvWTlDT2hlVDExbks5RDVrMkFmRU85MTBDaHJvc0EtTHo3RzFEY1lCMGVwUHhXSGVPZFo1YmZVNVFzU08wendrVWtxXzNjVmVROXExOUl4WjExNGN5UnhtY29IYVlHcjVQZF8xak0ySm1wYkhaejItMGVLN0xHRlY4a2VfVnNkN2p4b2FWOURMcjZXc1lKZ1FXMXJZUUdwSHVGRU43ZWx1d0NsZzRyM1ZjUU5YelQ4MGJfS3hnYXpBOGFmcTBNWEhBRTNMVjlqRTdwNmVlNVZEM3lXRFBucms1YXE1NXlHRl81ckU0SXBhVlk2RDF6a3JlZktXZ0R3?oc=5",
     "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Ex-Bally’s and Aristocrat counsel Sheila Bangalore joins Entain board - CDC Gaming",
+    "meta": "Google News: EveryMatrix watchlist | 31 May 2026",
+    "summary": "Ex-Bally’s and Aristocrat counsel Sheila Bangalore joins Entain board CDC Gaming",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Ex-Bally’s and Aristocrat counsel Sheila Bangalore joins Entain board CDC Gaming Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOV8tVGZyQ3hHWVZEQXdEMDFCNEt3ekpDc2tXSExaa0xBSUJyUEE1Q1J3R3FvQlc0TExUSGFYdjFGbHh1eWJ5VWNkNk14WEJZU2tuQWZnc0twX1dUbTZ6eE5UN25hamZoV2hLWWFyNlRNYzl6cTNvTk8zNnZtV2NzU0ZYRGs1TDBEcFUwbGdTMVJrcEhuY0M1N2pnV0dlZw?oc=5",
+    "tags": [
+      "Bally's",
       "Regulation"
     ]
   },
@@ -231,6 +281,16 @@ window.briefingStories = [
       "Bally's",
       "UK"
     ]
+  },
+  {
+    "section": "Europe",
+    "title": "French Prime Minister proposes veteran civil servant for gambling top job",
+    "meta": "SBC News | 3 Jun 2026",
+    "summary": "The French government has proposed a new President of the Autorité Nationale des Jeux (ANJ), the National Gambling Authority, to replace the outgoing Isabelle Falque-Pierrotin. Falque-Pierrotin’s six-year term as ANJ President...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The French government has proposed a new President of the Autorité Nationale des Jeux (ANJ), the National Gambling Authority, to replace the outgoing Isabelle Falque-Pierrotin. Falque-Pierrotin’s six-year term as ANJ President... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/sportsbook/2026/06/03/french-gambling-regulation-president/",
+    "tags": []
   },
   {
     "section": "Europe",
@@ -338,73 +398,6 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "UK"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "World Cup Readiness in Brazil: real-world sportsbook testing across Brazil’s PIX ecosystem",
-    "meta": "NEXT.io | 2 Jun 2026",
-    "summary": "TESTA benchmarked real-money user journeys across Brazil to identify where payment speed, live-betting stability, and operational UX create meaningful differences in the player experience.",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "TESTA benchmarked real-money user journeys across Brazil to identify where payment speed, live-betting stability, and operational UX create meaningful differences in the player experience. Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://next.io/news/promoted/testa-brazil-world-cup-readiness/",
-    "tags": [
-      "Payments",
-      "Brazil"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "RGB said to be awarded gaming-vendor licence in UAE",
-    "meta": "GGRAsia | 3 Jun 2026",
-    "summary": "Gaming equipment supplier RGB International Bhd has been granted a gaming-related vendor licence in the United Arab Emirates (UAE). That is according to comments by RGB executive director Ganaser Kaliappen, cited by The Edge...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Gaming equipment supplier RGB International Bhd has been granted a gaming-related vendor licence in the United Arab Emirates (UAE). That is according to comments by RGB executive director Ganaser Kaliappen, cited by The Edge... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://www.ggrasia.com/rgb-said-to-be-awarded-gaming-vendor-licence-in-uae?utm_source=rss&utm_medium=rss&utm_campaign=rgb-said-to-be-awarded-gaming-vendor-licence-in-uae",
-    "tags": [
-      "Regulation",
-      "US"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "DigiPlus clinches subscription to US$200mln in International Ent’s convertible notes",
-    "meta": "GGRAsia | 3 Jun 2026",
-    "summary": "Hong Kong-listed International Entertainment Ltd said on Tuesday that Philippines-licensed online gaming operator DigiPlus Interactive Corp has completed a second subscription to convertible notes in International Entertainment,...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Hong Kong-listed International Entertainment Ltd said on Tuesday that Philippines-licensed online gaming operator DigiPlus Interactive Corp has completed a second subscription to convertible notes in International Entertainment,... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://www.ggrasia.com/digiplus-clinches-subscription-to-us200mln-in-international-ents-convertible-notes?utm_source=rss&utm_medium=rss&utm_campaign=digiplus-clinches-subscription-to-us200mln-in-international-ents-convertible-notes",
-    "tags": [
-      "Regulation",
-      "US",
-      "Asia"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "5 Leaders – 1 Question: Brazil’s illegal gambling market and the tools to move players to licensed platforms",
-    "meta": "Google News: regulation | 2 Jun 2026",
-    "summary": "5 Leaders – 1 Question: Brazil’s illegal gambling market and the tools to move players to licensed platforms Focus Gaming News",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "5 Leaders – 1 Question: Brazil’s illegal gambling market and the tools to move players to licensed platforms Focus Gaming News Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREJtMWsxUXczOEtNVm92NTIydjlhb2t5dERPQVpmQnRMM084c2RlcjJNVUxjbzd3OUd0ZGU0OG9vSDFVM0szZE5EVkhEQW15cU5VV0g0RlFmTWwtOVJXMDhEdThXWWNQSTQ3UExBYlhDWDJTZXBKTk9rQTVPZVl1NTVBOHJyRDdGaUFjeFlsdzRzWkI2c1Vqb1dieW9TUDVDZXhiR0NaYlpuV2E4V3R2b1ZlU3VlblpJVTZ4OWx3LWRpZw?oc=5",
-    "tags": [
-      "Regulation",
-      "Black market",
-      "Brazil"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "World Lottery Association calls for prediction markets to be regulated as sports betting",
-    "meta": "Google News: iGaming | 1 Jun 2026",
-    "summary": "World Lottery Association calls for prediction markets to be regulated as sports betting Focus Gaming News",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "World Lottery Association calls for prediction markets to be regulated as sports betting Focus Gaming News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2FmTVpfTGk2Z25pNUNCSGFxTEtUVHlSaUtrdThqVU5aN1E4UXdGV3FpV25HYTJzSjVjQ3VoVTNZWWdoOENYS2xZalNXQTEtZVZDLVR6dExJVXBIeXhoMFBGeHk0VmxaNzNyN3ZHYWNvcE1ocjAtbTB2Y0dUX0tTQW9xQmtiU3U4SVNacFBzOW1LX1dtRHdHWFdkQThhRHVSVjBiSkNLR09DclRLVWlEZA?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
     ]
   }
 ];

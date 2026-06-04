@@ -55,8 +55,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://www.gamblinginsider.com/news/164923/robinhood-rothera-launch-event-contracts",
-      "sourceLabel": "Gambling Insider"
+      "source": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbXZOYzE0TGF5N0NUNkZ3aVhaMXRZRjBfcEpjQ284eFhYOHNOY0thOVJUY0dVVVJya2lqRmtDb1pBRmItZFI3b1dOMjV3Sk8wTVNNSk5xVWVOUzRqbk5sV1NUMEczQktldjBreFhKbDk0N25wZmVicU55VlRDWVhibzg4YUNWenI2c2ZJQk1FbVloXzZ0eWxjZERsRTMyVHRiYlZJb3V4UXNiRGJSVU1lSXdJWi1zLUZ1UUpDT1c2SmtINWVXQ3AtblFpQmNwTjNreWNHOTlILU5sdkhfd2VtdmdNRExfM0lEZWRJems3cl84WHJkUE1LSTJMYUd2a3hJX0JNMDNxRDFxTTFVcTV5emh4QzNRQTBnY3RfT1FZdXBKRlBWVklhR0VjWmo?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -138,6 +138,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "SRAD Court Notice: BFA Law Reminds Sportradar Investors that Suffered Losses of the Imminent July 17 Legal Deadline in Securities Fraud Class Action - Business Wire",
+    "meta": "Google News: regulation | 4 Jun 2026",
+    "summary": "SRAD Court Notice: BFA Law Reminds Sportradar Investors that Suffered Losses of the Imminent July 17 Legal Deadline in Securities Fraud Class Action Business Wire",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "SRAD Court Notice: BFA Law Reminds Sportradar Investors that Suffered Losses of the Imminent July 17 Legal Deadline in Securities Fraud Class Action Business Wire Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbXZOYzE0TGF5N0NUNkZ3aVhaMXRZRjBfcEpjQ284eFhYOHNOY0thOVJUY0dVVVJya2lqRmtDb1pBRmItZFI3b1dOMjV3Sk8wTVNNSk5xVWVOUzRqbk5sV1NUMEczQktldjBreFhKbDk0N25wZmVicU55VlRDWVhibzg4YUNWenI2c2ZJQk1FbVloXzZ0eWxjZERsRTMyVHRiYlZJb3V4UXNiRGJSVU1lSXdJWi1zLUZ1UUpDT1c2SmtINWVXQ3AtblFpQmNwTjNreWNHOTlILU5sdkhfd2VtdmdNRExfM0lEZWRJems3cl84WHJkUE1LSTJMYUd2a3hJX0JNMDNxRDFxTTFVcTV5emh4QzNRQTBnY3RfT1FZdXBKRlBWVklhR0VjWmo?oc=5",
+    "tags": [
+      "KYC"
+    ]
+  },
+  {
     "section": "North America",
     "title": "New York opens its first full-service casino, generating US$17,6 billion in investments. - BNLData",
     "meta": "Google News: EveryMatrix watchlist | 2 Jun 2026",
@@ -163,20 +175,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Colorado governor signs sports betting bill into law",
-    "meta": "Focus Gaming News | 3 Jun 2026",
-    "summary": "Senate Bill 26-131 introduces new sports betting restrictions in Colorado. US.- Colorado Governor Jared Polis has signed Senate Bill 26-131 into law, introducing new sports betting restrictions from August 12. The legislation...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Senate Bill 26-131 introduces new sports betting restrictions in Colorado. US.- Colorado Governor Jared Polis has signed Senate Bill 26-131 into law, introducing new sports betting restrictions from August 12. The legislation... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://focusgn.com/colorado-governor-signs-sports-betting-bill-into-law",
-    "tags": [
-      "Regulation",
-      "Payments",
-      "US"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Illinois Budget Imposes New Tax on Sports Prediction Markets, Creates DFS Framework",
     "meta": "Gambling Insider | 2 Jun 2026",
@@ -199,18 +197,6 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "Black market"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Instant withdrawal casino guide: Fast payout casinos available online now in June 2026 - NJ.com",
-    "meta": "Google News: EveryMatrix watchlist | 1 Jun 2026",
-    "summary": "Instant withdrawal casino guide: Fast payout casinos available online now in June 2026 NJ.com",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Instant withdrawal casino guide: Fast payout casinos available online now in June 2026 NJ.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyc3Nwbjg1cmowV1hBc2dKSjFxcUhoX291M05ncm5sb2o0TWtNOFliVnRnTldyajdCbXdWRDZvNzVhQXI5aXMtZXdkXzhicDdsMzNlY3lRbTlEQQ?oc=5",
-    "tags": [
-      "Payments"
     ]
   },
   {
@@ -274,19 +260,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "LatAm",
-    "title": "Laura Carneiro files for urgent consideration of bill against illegal gambling in Brazil. - BNLData",
-    "meta": "Google News: regulation | 3 Jun 2026",
-    "summary": "Laura Carneiro files for urgent consideration of bill against illegal gambling in Brazil. BNLData",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Laura Carneiro files for urgent consideration of bill against illegal gambling in Brazil. BNLData Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFJjUEdodW04RTBBMElhZnFGODBwbmtGbjh1bWVmMXBheDBqalZPRkJWSEQ5WkwwYThoNmh3d1YxdTlESlltc3VZSVprQ3pSenlrRmdmc1g0dFJmUGlucWtEZHh2V1ZYeklrVFkzMnNHMGM0Ri04WElYeVBrUGwzUDdYdUU0YTZDbFl1bzd6WG1tRjFBWHU1cnlHUlB2NG1IamcyaW1iQWtoQQ?oc=5",
-    "tags": [
-      "Black market",
-      "Brazil"
-    ]
-  },
-  {
     "section": "Europe",
     "title": "PlayCity Ukraine issues 250 licences in new regulator’s first year - igamingbusiness.com",
     "meta": "Google News: regulation | 3 Jun 2026",
@@ -335,14 +308,14 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Star Entertainment fined A$10 million for historical failings at The Star Sydney - gamingintelligence.com",
-    "meta": "Google News: EveryMatrix watchlist | 1 Jun 2026",
-    "summary": "Star Entertainment fined A$10 million for historical failings at The Star Sydney gamingintelligence.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Star Entertainment fined A$10 million for historical failings at The Star Sydney gamingintelligence.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbEtRTlBXSHVnNGhFSDROQmNQUTF0bl84S3AwLVE1WUkwTHNzLU5Ba3FQR0dOaWpyTjVVcFJua3hKRzdKQ1JiNTJxUnhSa0NGeVM2eWFiN1J3UVFDemY4TUtYTU9TSHFNMWJZdmtfaUdpeVJ4cXBGM1RGRmQwSG4ycGp0a2xHTHVXYVV2dXNWRUJVOFg3U0EzUHc3b0o0Y3JjM2M2dFVzUXY4cWhsYUdhTG8wZW84OEo2bVpSLUUwaHNjaHJySl9xdkx3?oc=5",
+    "title": "Andrew Rhodes’ new advisory role garners critics from many figures in the gambling industry",
+    "meta": "SBC News | 4 Jun 2026",
+    "summary": "“Politics is rotten,” “incompetence rewarded,” and an “affordability checks shambles” – those are just some of the reactions to the news that Andrew Rhodes has landed a new role in the industry. Rhodes, the former Gambling...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "“Politics is rotten,” “incompetence rewarded,” and an “affordability checks shambles” – those are just some of the reactions to the news that Andrew Rhodes has landed a new role in the industry. Rhodes, the former Gambling... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://sbcnews.co.uk/europe/uk/2026/06/04/reaction-to-andrew-rhodes-new-role/",
     "tags": [
-      "Regulation"
+      "RG"
     ]
   },
   {
@@ -393,6 +366,31 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "UK"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Gaming veteran Patrick Ramsey joins board of IGT parent",
+    "meta": "GGRAsia | 4 Jun 2026",
+    "summary": "Gaming industry executive Patrick Ramsey (pictured in a file photo) has been named to the board of directors of Voyager TopCo GP LLC, the parent company of casino equipment supplier IGT. The appointment is subject to the receipt...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Gaming industry executive Patrick Ramsey (pictured in a file photo) has been named to the board of directors of Voyager TopCo GP LLC, the parent company of casino equipment supplier IGT. The appointment is subject to the receipt... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.ggrasia.com/gaming-veteran-patrick-ramsey-joins-board-of-igt-parent?utm_source=rss&utm_medium=rss&utm_campaign=gaming-veteran-patrick-ramsey-joins-board-of-igt-parent",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "RGB said to be awarded gaming-vendor licence in UAE",
+    "meta": "GGRAsia | 3 Jun 2026",
+    "summary": "Gaming equipment supplier RGB International Bhd has been granted a gaming-related vendor licence in the United Arab Emirates (UAE). That is according to comments by RGB executive director Ganaser Kaliappen, cited by The Edge...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Gaming equipment supplier RGB International Bhd has been granted a gaming-related vendor licence in the United Arab Emirates (UAE). That is according to comments by RGB executive director Ganaser Kaliappen, cited by The Edge... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.ggrasia.com/rgb-said-to-be-awarded-gaming-vendor-licence-in-uae?utm_source=rss&utm_medium=rss&utm_campaign=rgb-said-to-be-awarded-gaming-vendor-licence-in-uae",
+    "tags": [
+      "Regulation",
+      "US"
     ]
   }
 ];

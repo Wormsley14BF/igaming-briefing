@@ -1,5 +1,5 @@
 window.briefingMeta = {
-  "dateLabel": "Friday, 5 June 2026 | automated public-site edition",
+  "dateLabel": "Saturday, 6 June 2026 | automated public-site edition",
   "atAGlance": [
     {
       "title": "Prediction Markets Gain Traction Ahead of 2026 FIFA World Cup, Survey Finds",
@@ -9,6 +9,24 @@ window.briefingMeta = {
         "Prediction markets",
         "Regulation",
         "KYC"
+      ]
+    },
+    {
+      "title": "South Korea police probe Polymarket users over illegal gambling claims: Report - Binance",
+      "text": "South Korea police probe Polymarket users over illegal gambling claims: Report Binance",
+      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWHAtUUpETzNNUUV3cjV1cVVSLTNhN1NGQ1FXMldWanVxY0pDSWJfZUdzWWdsdjQzZGVmSVF0cVpHVVFaQmwySkJqQkpmSE1oR1RkWUNYU1ZjT1lldThXektyN04?oc=5",
+      "tags": [
+        "Prediction markets",
+        "Black market"
+      ]
+    },
+    {
+      "title": "South Korea Investigates Polymarket Users for Illegal Gambling - blockchain.news",
+      "text": "South Korea Investigates Polymarket Users for Illegal Gambling blockchain.news",
+      "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1famtkb01Pc1RJc3o4bVJIUV9mbEZFdHhwMzZvUWphV3pIWmpuYTd2Vk9MdmREamNDR3NkWlFreWVhcm43VG9ySDIyTlVhQjY2QjBuc2publh3MEpNOTFHbUVFeVJTSUV5LTkybFFkYzZMSzd2b2g2dlh4Q3d4Snc?oc=5",
+      "tags": [
+        "Prediction markets",
+        "Black market"
       ]
     },
     {
@@ -22,15 +40,6 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Affilka achieves Google Certified Click Tracker status",
-      "text": "Affilka has officially achieved a major milestone by becoming a Certified Google Click Tracker. As major advertising networks like Google tighten compliance policies to combat fraud, this certification ensures that Affilka’s...",
-      "source": "https://next.io/news/b2b-news/affilka-achieves-google-certified-click-tracker-status/",
-      "tags": [
-        "Regulation",
-        "KYC"
-      ]
-    },
-    {
       "title": "New Mexico AG files illegal gambling lawsuit against Kalshi - gamingintelligence.com",
       "text": "New Mexico AG files illegal gambling lawsuit against Kalshi gamingintelligence.com",
       "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pZWUt4RmNjOVVZbWlrTUxuMTZpRlMtaVBweFlNVGVjX00wb0FrZHFpMk90MzU1Q0dfYkJwQ2VtOGFUcVZxX2VmZVhSUGlkZTU0UDNLeXVGWE1pdEQ1ZlZIblRCa3Q5bGpTNllzNFRsWUlfWE93cXlGYkwxRFF0U3BvVEV0VnVfc3VPR3MxNXN1bVFZMEpsU3VRM0ZFUGVMaEk3Zk85TFpMTmo2?oc=5",
@@ -38,23 +47,13 @@ window.briefingMeta = {
         "Prediction markets",
         "Black market"
       ]
-    },
-    {
-      "title": "Polymarket Follows Kalshi, CFTC With Lawsuit Against Minnesota",
-      "text": "(The exchange became the third plaintiff to challenge Minnesota’s prediction market ban after the CFTC and Kalshi filed similar lawsuits.) Polymarket has sued Minnesota in federal court, becoming the third plaintiff to challenge...",
-      "source": "https://www.gamblinginsider.com/news/165116/polymarket-sues-minnesota-prediction-market-ban",
-      "tags": [
-        "Prediction markets",
-        "Regulation",
-        "US"
-      ]
     }
   ],
   "platformLens": [
     {
       "title": "Payments and channelisation",
       "text": "Payment flows, illegal-market blocking and cashier restrictions remain core platform-control areas.",
-      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0pZWUt4RmNjOVVZbWlrTUxuMTZpRlMtaVBweFlNVGVjX00wb0FrZHFpMk90MzU1Q0dfYkJwQ2VtOGFUcVZxX2VmZVhSUGlkZTU0UDNLeXVGWE1pdEQ1ZlZIblRCa3Q5bGpTNllzNFRsWUlfWE93cXlGYkwxRFF0U3BvVEV0VnVfc3VPR3MxNXN1bVFZMEpsU3VRM0ZFUGVMaEk3Zk85TFpMTmo2?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWHAtUUpETzNNUUV3cjV1cVVSLTNhN1NGQ1FXMldWanVxY0pDSWJfZUdzWWdsdjQzZGVmSVF0cVpHVVFaQmwySkJqQkpmSE1oR1RkWUNYU1ZjT1lldThXektyN04?oc=5",
       "sourceLabel": "Google News: regulation"
     },
     {
@@ -94,6 +93,32 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "South Korea police probe Polymarket users over illegal gambling claims: Report - Binance",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "South Korea police probe Polymarket users over illegal gambling claims: Report Binance",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea police probe Polymarket users over illegal gambling claims: Report Binance Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fWHAtUUpETzNNUUV3cjV1cVVSLTNhN1NGQ1FXMldWanVxY0pDSWJfZUdzWWdsdjQzZGVmSVF0cVpHVVFaQmwySkJqQkpmSE1oR1RkWUNYU1ZjT1lldThXektyN04?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "South Korea Investigates Polymarket Users for Illegal Gambling - blockchain.news",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "South Korea Investigates Polymarket Users for Illegal Gambling blockchain.news",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea Investigates Polymarket Users for Illegal Gambling blockchain.news Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1famtkb01Pc1RJc3o4bVJIUV9mbEZFdHhwMzZvUWphV3pIWmpuYTd2Vk9MdmREamNDR3NkWlFreWVhcm43VG9ySDIyTlVhQjY2QjBuc2publh3MEpNOTFHbUVFeVJTSUV5LTkybFFkYzZMSzd2b2g2dlh4Q3d4Snc?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Prediction Markets, Responsible Gambling, Micro Betting Lead Gambling Bills That Mattered This Week",
     "meta": "Gambling Insider | 5 Jun 2026",
@@ -105,19 +130,6 @@ window.briefingStories = [
       "Prediction markets",
       "RG",
       "US"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Affilka achieves Google Certified Click Tracker status",
-    "meta": "NEXT.io | 4 Jun 2026",
-    "summary": "Affilka has officially achieved a major milestone by becoming a Certified Google Click Tracker. As major advertising networks like Google tighten compliance policies to combat fraud, this certification ensures that Affilka’s...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Affilka has officially achieved a major milestone by becoming a Certified Google Click Tracker. As major advertising networks like Google tighten compliance policies to combat fraud, this certification ensures that Affilka’s... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://next.io/news/b2b-news/affilka-achieves-google-certified-click-tracker-status/",
-    "tags": [
-      "Regulation",
-      "KYC"
     ]
   },
   {
@@ -134,30 +146,29 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Polymarket Follows Kalshi, CFTC With Lawsuit Against Minnesota",
-    "meta": "Gambling Insider | 4 Jun 2026",
-    "summary": "(The exchange became the third plaintiff to challenge Minnesota’s prediction market ban after the CFTC and Kalshi filed similar lawsuits.) Polymarket has sued Minnesota in federal court, becoming the third plaintiff to challenge...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "(The exchange became the third plaintiff to challenge Minnesota’s prediction market ban after the CFTC and Kalshi filed similar lawsuits.) Polymarket has sued Minnesota in federal court, becoming the third plaintiff to challenge... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/165116/polymarket-sues-minnesota-prediction-market-ban",
+    "section": "Other / Global",
+    "title": "Evoke Enters £225 Million Takeover Talks With Bally's Intralot - streamlinefeed.co.ke",
+    "meta": "Google News: EveryMatrix watchlist | 6 Jun 2026",
+    "summary": "Evoke Enters £225 Million Takeover Talks With Bally's Intralot streamlinefeed.co.ke",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "Evoke Enters £225 Million Takeover Talks With Bally's Intralot streamlinefeed.co.ke Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOVE0SHJVRG1hWGlRRXBYU1EwS3JfcFZfNjlST1hKR1htSllNNV9nbE5kVzBmYks2RVBER3M3MkFMMDd2Z1FHbFhXUlFwSGVWazlsY0xvZlNjMndaS2E3U0RjcXJxVndWN2JCTTJERU1idG5DSkk2UzIxdG8zeG5MOWhIaWZlYU15RS1VQzN5MGRtY3hCREVkQkxB?oc=5",
     "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
+      "Bally's",
+      "KYC"
     ]
   },
   {
-    "section": "North America",
-    "title": "Robinhood’s Rothera Launch Reshapes Its Role in the Event Contract Market",
-    "meta": "Gambling Insider | 3 Jun 2026",
-    "summary": "Robinhood has begun routing customer prediction-market trades through Rothera, its new exchange with Susquehanna. Early volumes remain modest, but the launch signals a broader shift in strategy. When Robinhood Markets traders...",
+    "section": "Other / Global",
+    "title": "South Korean police investigate Polymarket users for illegal gambling - Crypto Briefing",
+    "meta": "Google News: regulation | 6 Jun 2026",
+    "summary": "South Korean police investigate Polymarket users for illegal gambling Crypto Briefing",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Robinhood has begun routing customer prediction-market trades through Rothera, its new exchange with Susquehanna. Early volumes remain modest, but the launch signals a broader shift in strategy. When Robinhood Markets traders... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/164923/robinhood-rothera-launch-event-contracts",
+    "expanded": "South Korean police investigate Polymarket users for illegal gambling Crypto Briefing Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpWVUta3lLX3pTTjNDV0FOVzRqWVpOLTB6dVZvdVBDVjRCcFNGdlgtQnFSNWRidE9SME5BS2FvSzNoRVNUUjlydkwwVDN0bHI3Y3hyX3dTdnVySWFSanE0RFpBYlBBNDZMaGdyUDdDTWVNZmoyNEM1d3E1ZEpJUQ?oc=5",
     "tags": [
       "Prediction markets",
-      "Regulation"
+      "Black market"
     ]
   },
   {
@@ -174,13 +185,63 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Gangwon Police Summon South Korean Polymarket Users in Illegal Gambling Probe - bloomingbit",
+    "section": "LatAm",
+    "title": "New Mexico sues prediction market Kalshi as legal battle over gaming authority erupts - The Business Journals",
     "meta": "Google News: regulation | 5 Jun 2026",
-    "summary": "Gangwon Police Summon South Korean Polymarket Users in Illegal Gambling Probe bloomingbit",
+    "summary": "New Mexico sues prediction market Kalshi as legal battle over gaming authority erupts The Business Journals",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Gangwon Police Summon South Korean Polymarket Users in Illegal Gambling Probe bloomingbit Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SLXlFUzkzWkJleTAyUVItOWphUkNYelAzSVU2TVJUVHNVSjhUU1QwdzNGYUdGLWRuQzE4bVJUbmJUdm1GMm1MWUZ3OGZNcG1MTUFMSA?oc=5",
+    "expanded": "New Mexico sues prediction market Kalshi as legal battle over gaming authority erupts The Business Journals Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQWVKOWN5TURRUjFBSVgwWkR4dXBaYTVLcmlzQ1R4V0Z2VFU5VlZzZmNWbm5FWl9CY3JwQVNVNFFhVmhsNnE1WE9kZnlJWkV0M1M3aURFYUlaVTYwbnVkdzVGbENSNnczUFFFWlU0TU1qX1BkQldTeGVHZWxaWl83QnFaRHJyNng4NjlzSlZ5QlBDRkc5dEJ6X0ZCWQ?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korea Probes Polymarket Users in First-Ever Illegal Gambling Case - MEXC",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "South Korea Probes Polymarket Users in First-Ever Illegal Gambling Case MEXC",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea Probes Polymarket Users in First-Ever Illegal Gambling Case MEXC Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5HOUl6T011RUQ4Z1l3MWlfMk4tVXZCM094cGJ6cEtnc1BNVlVBLW54c0R3NXhTdFNZcElOOXgzSGd5VEdEcVoxdA?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korea Launches First Probe into Polymarket Users - Live Bitcoin News",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "South Korea Launches First Probe into Polymarket Users Live Bitcoin News",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korea Launches First Probe into Polymarket Users Live Bitcoin News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUlmd1QtNGVEQUpwbUxKOGE1OS11NXZCZVBpclprdFRHM1N6OTRaMHB4U0hDS1ctd0R4RS0wMi00UU85d1h3c3FQSF9OZzlTNWxNUldZcDA2TzhLankxY1pNeVBaNDFqR2hObXJ2a0tiVFJrWHFTYzhpenNzaHpfVm5JQnh0SDdRMUUyekw3YUE?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korean Police Opens First Criminal Probe into Domestic Polymarket Users Over Illegal Gambling - Blockonomi",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "South Korean Police Opens First Criminal Probe into Domestic Polymarket Users Over Illegal Gambling Blockonomi",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korean Police Opens First Criminal Probe into Domestic Polymarket Users Over Illegal Gambling Blockonomi Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2ZiNGJ6a3NhSTNPX1p6dXllckVvRWpXQXhsU3NGWEtSclRUVTMxQ3E4My0wd25RbEo5cTZQTDRobHBWY0N5QzNyVExmZXBGVUprMlVuWEI3ajJwcTF3a2VXV3JlTWpEdTlYQ1FwR2ZjLWNwVjJhdEFQZXhwTWVpSGIyeWl6aTRyb2lBWHZCWFdvcnZmUHNmdURmQ21sWGtCekRsTWVWbVdiRmtabXN6SmY4RlJHVndBWWE2MjdGaXo?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "South Korean Police Open First Illegal Gambling Probe Into Local Polymarket Users - FinanceFeeds",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "South Korean Police Open First Illegal Gambling Probe Into Local Polymarket Users FinanceFeeds",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "South Korean Police Open First Illegal Gambling Probe Into Local Polymarket Users FinanceFeeds Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTdieWtiREVsT0NERW1kWERDSUhWd0d1LWlhaTVDVGxBbi1hQ2UzNHY3X3E1Unp2TnpZb01VSXhMLWZ5b2ZKR21iWjljUUlwdXRBOHNOQUhIY1FtNXlCZTBsV1pSVUJKR0htZlUwRUFBZFE4VXlhbE1lNG8wSjRxWGllSUlqaWxLWVVDSzc2ZzdXSTlnRHBYTV9BVXBWbG02dldwUDJBakd3U2c?oc=5",
     "tags": [
       "Prediction markets",
       "Black market"
@@ -200,32 +261,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Police probe Korea Polymarket users over illegal gambling tied to elections - CHOSUNBIZ - Chosunbiz",
-    "meta": "Google News: regulation | 5 Jun 2026",
-    "summary": "Police probe Korea Polymarket users over illegal gambling tied to elections - CHOSUNBIZ Chosunbiz",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Police probe Korea Polymarket users over illegal gambling tied to elections - CHOSUNBIZ Chosunbiz Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVFhYk5xYlh3dEJ1c3lYTEhYdm45c3pmTHNEOElpd25aNTBzSjRLU0RNR1l4SDBjVUVhMkNjSjl6a3JZdjQwQ09WWGM1YmxLc3VBbUZ1WHRUWHZkYjZYOFR2c1hieTdpV1pPV3MzMDNLLVFFa1FqOUJrNTR0TUt0M9IBlAFBVV95cUxPdDRkQ25ST1BWVmRGLWluX0xfTFlmSVdDZ1hESm9wZXBXaXliOXhuYzZtaEVNQk1kMnJIdWxyWnctbWNqczBMMUM4cFhJa05KRnU1Z3hncGxxa0JxRzk2RmFoVnVZODdOQnBIVFRZZWZvSk5WQ1YzY1E5U1o3MkZISHF5TEFLb2RrMWdkRjdmajRTcjNF?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "South Korean Police Opens First Criminal Probe into Domestic Polymarket Users Over Illegal Gambling - Blockonomi",
-    "meta": "Google News: regulation | 5 Jun 2026",
-    "summary": "South Korean Police Opens First Criminal Probe into Domestic Polymarket Users Over Illegal Gambling Blockonomi",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "South Korean Police Opens First Criminal Probe into Domestic Polymarket Users Over Illegal Gambling Blockonomi Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa2ZiNGJ6a3NhSTNPX1p6dXllckVvRWpXQXhsU3NGWEtSclRUVTMxQ3E4My0wd25RbEo5cTZQTDRobHBWY0N5QzNyVExmZXBGVUprMlVuWEI3ajJwcTF3a2VXV3JlTWpEdTlYQ1FwR2ZjLWNwVjJhdEFQZXhwTWVpSGIyeWl6aTRyb2lBWHZCWFdvcnZmUHNmdURmQ21sWGtCekRsTWVWbVdiRmtabXN6SmY4RlJHVndBWWE2MjdGaXo?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
     "section": "Product",
     "title": "China, Sri Lanka strengthen law enforcement cooperation against telecom fraud and illegal gambling - Ada Derana",
     "meta": "Google News: regulation | 5 Jun 2026",
@@ -241,43 +276,28 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
-    "title": "South Korean Police Open First Illegal Gambling Probe Into Local Polymarket Users - FinanceFeeds",
+    "title": "Gangwon Police Summon South Korean Polymarket Users in Illegal Gambling Probe - bloomingbit",
     "meta": "Google News: regulation | 5 Jun 2026",
-    "summary": "South Korean Police Open First Illegal Gambling Probe Into Local Polymarket Users FinanceFeeds",
+    "summary": "Gangwon Police Summon South Korean Polymarket Users in Illegal Gambling Probe bloomingbit",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "South Korean Police Open First Illegal Gambling Probe Into Local Polymarket Users FinanceFeeds Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTdieWtiREVsT0NERW1kWERDSUhWd0d1LWlhaTVDVGxBbi1hQ2UzNHY3X3E1Unp2TnpZb01VSXhMLWZ5b2ZKR21iWjljUUlwdXRBOHNOQUhIY1FtNXlCZTBsV1pSVUJKR0htZlUwRUFBZFE4VXlhbE1lNG8wSjRxWGllSUlqaWxLWVVDSzc2ZzdXSTlnRHBYTV9BVXBWbG02dldwUDJBakd3U2c?oc=5",
+    "expanded": "Gangwon Police Summon South Korean Polymarket Users in Illegal Gambling Probe bloomingbit Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SLXlFUzkzWkJleTAyUVItOWphUkNYelAzSVU2TVJUVHNVSjhUU1QwdzNGYUdGLWRuQzE4bVJUbmJUdm1GMm1MWUZ3OGZNcG1MTUFMSA?oc=5",
     "tags": [
       "Prediction markets",
       "Black market"
     ]
   },
   {
-    "section": "LatAm",
-    "title": "North Carolina Governor Bans Use of Insider Information in Prediction Markets - iGaming Brazil",
-    "meta": "Google News: iGaming | 5 Jun 2026",
-    "summary": "North Carolina Governor Bans Use of Insider Information in Prediction Markets iGaming Brazil",
+    "section": "Other / Global",
+    "title": "Police probe Korea Polymarket users over illegal gambling tied to elections - CHOSUNBIZ - Chosunbiz",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "Police probe Korea Polymarket users over illegal gambling tied to elections - CHOSUNBIZ Chosunbiz",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "North Carolina Governor Bans Use of Insider Information in Prediction Markets iGaming Brazil Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb2MzRHJ6THNXeHdTVHB4ZnB1ZkVYT0NMOUFLVS1LaFlYSDBiTGE5UUtid1pJaHBpUG9rd2YtcUtxMnNDT2FFdFJFeFkwRnJyeVJ2S3U2QVJWNzNGcTR1MlNBaW9SRGRITHVIbE9pdUd6NXFKR001RzlsYmhEdVFSNXRzUm5pSHRnOTQ0dlY1dVBFWUoyLWdCVVVoc0VlTmhVMzkxelVqaUhablhNNnNVTUpVTEpsWUZoSktCZGdxUmtRZTBsTWFUTE15bU5fZ9IBlgJBVV95cUxQbFh4RTJINGVvN00zRHM1ZHBYMlNjX2JDbGVoYzdxclV2Q3liYXExRjMzWU9LeTM2ZU1SUjVJbGVaMmFWVFlxNS1pdkdibzFvcFh6bWZyeEF3eVE4XzhXTERNYVM4bHY2dldyQW4tTUlzRDREN3RYRVZYOGRTMXFiVzNoZUN6SFFKOUpwdmVVWVVkMWxHdUtDc2VNZHd0VTQ4dWhkTzB1MHZ1TEQ1R1N2VUtqMFFfcXExNDc2VU9mZkdKRDMxQ1pOblVNM0dpeTEwMHpPU1plejduZDVFNEdtM0J2RjlDelU0dGNhVGlTdTdMbXdYTFBIVGgxanFCWlJ1d2M3ZHFmUzFVMm9uZkRwME5jdHlpZw?oc=5",
+    "expanded": "Police probe Korea Polymarket users over illegal gambling tied to elections - CHOSUNBIZ Chosunbiz Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZVFhYk5xYlh3dEJ1c3lYTEhYdm45c3pmTHNEOElpd25aNTBzSjRLU0RNR1l4SDBjVUVhMkNjSjl6a3JZdjQwQ09WWGM1YmxLc3VBbUZ1WHRUWHZkYjZYOFR2c1hieTdpV1pPV3MzMDNLLVFFa1FqOUJrNTR0TUt0M9IBlAFBVV95cUxPdDRkQ25ST1BWVmRGLWluX0xfTFlmSVdDZ1hESm9wZXBXaXliOXhuYzZtaEVNQk1kMnJIdWxyWnctbWNqczBMMUM4cFhJa05KRnU1Z3hncGxxa0JxRzk2RmFoVnVZODdOQnBIVFRZZWZvSk5WQ1YzY1E5U1o3MkZISHF5TEFLb2RrMWdkRjdmajRTcjNF?oc=5",
     "tags": [
       "Prediction markets",
-      "Regulation",
-      "Brazil"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Pagcor chief says Philippine GGR could fall by as much as 19pct this year: reports",
-    "meta": "GGRAsia | 4 Jun 2026",
-    "summary": "The Philippine gambling sector could see gross gaming revenue (GGR) decline by as much as 19 percent this year, amid the impact of tighter online-gaming payment restrictions, and economic pressures linked to the conflict in the...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "The Philippine gambling sector could see gross gaming revenue (GGR) decline by as much as 19 percent this year, amid the impact of tighter online-gaming payment restrictions, and economic pressures linked to the conflict in the... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://www.ggrasia.com/pagcor-chief-says-philippine-ggr-could-fall-by-as-much-as-19pct-this-year-reports?utm_source=rss&utm_medium=rss&utm_campaign=pagcor-chief-says-philippine-ggr-could-fall-by-as-much-as-19pct-this-year-reports",
-    "tags": [
-      "Regulation",
-      "Payments",
-      "Asia"
+      "Black market"
     ]
   },
   {
@@ -307,117 +327,94 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Kalshi Data Highlights Unusual George Santos Trading Before Federal Investigation",
-    "meta": "Gambling Insider | 4 Jun 2026",
-    "summary": "Kalshi market data shows suspicious trading activity tied to George Santos as federal authorities open an investigation into his State of the Union bets. Former Republican congressman George Santos is under federal investigation...",
+    "section": "LatAm",
+    "title": "New Mexico Sues Kalshi, Says It ‘Looks and Quacks Like a Sportsbook’",
+    "meta": "Gambling Insider | 5 Jun 2026",
+    "summary": "The lawsuit follows a separate federal challenge from four New Mexico tribes and marks the latest state effort to restrict sports event prediction markets. New Mexico has become the latest state to target Kalshi, after the...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Kalshi market data shows suspicious trading activity tied to George Santos as federal authorities open an investigation into his State of the Union bets. Former Republican congressman George Santos is under federal investigation... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/165245/george-santos-kalshi-trading-investigation",
+    "expanded": "The lawsuit follows a separate federal challenge from four New Mexico tribes and marks the latest state effort to restrict sports event prediction markets. New Mexico has become the latest state to target Kalshi, after the... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/165413/new-mexico-sues-kalshi",
     "tags": [
       "Prediction markets"
     ]
   },
   {
-    "section": "Product",
-    "title": "Breaking: Bally’s Intralot agrees terms on £243m evoke acquisition",
-    "meta": "NEXT.io | 5 Jun 2026",
-    "summary": "Bally’s Intralot is set to proceed with its acquisition of evoke after agreeing terms on an all-share deal worth £243.1m for the owner of William Hill and 888. Detailing the agreement today (5 June), evoke said the combination...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally’s Intralot is set to proceed with its acquisition of evoke after agreeing terms on an all-share deal worth £243.1m for the owner of William Hill and 888. Detailing the agreement today (5 June), evoke said the combination... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/investment/ballys-intralot-agrees-terms-243m-evoke-acquisition/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Nigeria’s states race to reshape gambling regulation, but questions remain",
-    "meta": "iGaming Business | 4 Jun 2026",
-    "summary": "Following a landmark Supreme Court ruling in 2024, Nigeria’s gambling industry is being reshaped, but religious regions have caused grey areas for regulation.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Following a landmark Supreme Court ruling in 2024, Nigeria’s gambling industry is being reshaped, but religious regions have caused grey areas for regulation. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/legal-compliance/regulation/nigeria-states-race-to-reshape-gambling-regulation/",
-    "tags": [
-      "Regulation",
-      "Africa"
-    ]
-  },
-  {
     "section": "Europe",
-    "title": "Amsterdam turns into mission control for black market fight",
-    "meta": "SBC News | 5 Jun 2026",
-    "summary": "Dutch gambling stakeholders have congregated in Amsterdam to speak against some of the country’s controversial gambling restrictions, reasserting that the government has hindered the competitiveness of the licensed market. Since...",
+    "title": "The VPN dilemma: A regulatory loophole or gambling’s red herring?",
+    "meta": "iGaming Business | 5 Jun 2026",
+    "summary": "The UK Gambling Commission is struggling to measure illegal gambling as VPN use grows, raising questions about visibility, enforcement and the true scale of the black market.",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Dutch gambling stakeholders have congregated in Amsterdam to speak against some of the country’s controversial gambling restrictions, reasserting that the government has hindered the competitiveness of the licensed market. Since... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/europe/2026/06/05/dutch-gambling/",
+    "expanded": "The UK Gambling Commission is struggling to measure illegal gambling as VPN use grows, raising questions about visibility, enforcement and the true scale of the black market. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/legal-compliance/regulation/vpn-dilemma-gambling-loophole-red-herring/",
     "tags": [
       "Regulation",
-      "Black market"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Imagine Live partners with Novibet in Greece and across Latin American Markets",
-    "meta": "NEXT.io | 5 Jun 2026",
-    "summary": "Imagine Live has agreed a partnership with Novibet, bringing its live casino content to one of the most recognized GameTech operators across Europe and Latin America. Founded in 2010 in Greece, Novibet has grown into an...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Imagine Live has agreed a partnership with Novibet, bringing its live casino content to one of the most recognized GameTech operators across Europe and Latin America. Founded in 2010 in Greece, Novibet has grown into an... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/imagine-live-partners-with-novibet-in-greece-and-across-latin-american-markets/",
-    "tags": [
-      "Regulation",
-      "Brazil"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Polymarket Faces South Korea Police Probe Over Illegal Gambling Allegations - CoinGape",
-    "meta": "Google News: regulation | 5 Jun 2026",
-    "summary": "Polymarket Faces South Korea Police Probe Over Illegal Gambling Allegations CoinGape",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Polymarket Faces South Korea Police Probe Over Illegal Gambling Allegations CoinGape Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQUFDTl9SdS1LbTBxSUkwazlpb1Z6a1FtWkdiUHRtQXI3MVROMEZ2QWhhTmNhYmJCSHFadU4yNzR0UEtXOTFndlp0WnZNS2Zjdmc5WUVMOHhKSDRDcG9FV19hSnVzbjN1SmJxbWtoTmtfY2w4cm83STlDOGpUVGZYR0ExU1BucXhjZW15YTlCQnNtVmVPQUxrTEgxLWw3dw?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Illegal gambling raids net 334 slot machines in Sarasota-Manatee - Business Observer",
-    "meta": "Google News: regulation | 4 Jun 2026",
-    "summary": "Illegal gambling raids net 334 slot machines in Sarasota-Manatee Business Observer",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Illegal gambling raids net 334 slot machines in Sarasota-Manatee Business Observer Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGpJV080VmhqRVNsSXZ6YkxHcy1hV3puMEIzYlV0NXFOMFFDbHpxdlZOX2NEQ09KdG9nMlc2TWhiVXl6cDJjcEpWWE5pU2dtbDI3VUZSUFNUa3RxOEhKYXFnOWx6WV9Oc3NzcnJqNVhKNnFSZmpmTmZoU19MRW16eWNySGdzTUlfQUlEeUsya0RWb3JaNm1z?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "UK Gambling Commission raids illegal gambling den, arresting two - PressGiochi",
-    "meta": "Google News: regulation | 4 Jun 2026",
-    "summary": "UK Gambling Commission raids illegal gambling den, arresting two PressGiochi",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "UK Gambling Commission raids illegal gambling den, arresting two PressGiochi Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMnFqNVpONllKMDYtQ2tnTGtnYmI4U3FGM1RwWHowMy1YS2hXSE9PSUU1N3FMZGl2VjVCbDRKVTNWb3FOajdha3RVbzZiWERtUDI4Q0ZTVHYxdFdHV0NTYnhZa2I2S1lLX0JhOUh4Y0J4MjIyZ2NlVFlTUTY4OTdNQk4wTGxhZXpGcW8zNnZtT0ZzdVl2eFpNZDZDQUJWQ1ZxM2pGLXUzRmlDRlkx?oc=5",
-    "tags": [
       "Black market",
       "UK"
     ]
   },
   {
-    "section": "Asia / Oceania",
-    "title": "Singapore Gambling Regulation Tightens as GRA Overhauls Leadership and Targets Polymarket - brightsideofnews.com",
-    "meta": "Google News: regulation | 5 Jun 2026",
-    "summary": "Singapore Gambling Regulation Tightens as GRA Overhauls Leadership and Targets Polymarket brightsideofnews.com",
+    "section": "North America",
+    "title": "US lawmakers seek FTC review of prediction market marketing and consumer messaging",
+    "meta": "Focus Gaming News | 5 Jun 2026",
+    "summary": "Nine Democratic representatives have asked the Federal Trade Commission to examine whether prediction market operators are promoting their offerings as gambling. US.- A group of lawmakers in the US House of Representatives has...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Singapore Gambling Regulation Tightens as GRA Overhauls Leadership and Targets Polymarket brightsideofnews.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejRzNEw2YTB4M3BQREpaY2dnakNMLTJEMXhXQURCdkQyM29iWXFGZmNvUjRRMDhxektiTGVwZjBEdVg4U3FIY1gtaUhwc1VUUGoxRE9wVW9sRV9iclFFRmQ5TXdLbXFMNnhMNWNCUmhpb09NNXZLWWlOTjdQclJlVUhyRmxwV1Q0b2lr?oc=5",
+    "expanded": "Nine Democratic representatives have asked the Federal Trade Commission to examine whether prediction market operators are promoting their offerings as gambling. US.- A group of lawmakers in the US House of Representatives has... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/us-lawmakers-seek-ftc-review-of-prediction-market-marketing-and-consumer-messaging",
     "tags": [
       "Prediction markets",
-      "Regulation"
+      "US"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "New Mexico files lawsuit against Kalshi",
+    "meta": "Focus Gaming News | 5 Jun 2026",
+    "summary": "The lawsuit alleges that the operator is unlawfully offering online sports betting in the state. US.- New Mexico Attorney General Raúl Torrez has announced that the New Mexico Department of Justice (NMDOJ) has filed a lawsuit...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The lawsuit alleges that the operator is unlawfully offering online sports betting in the state. US.- New Mexico Attorney General Raúl Torrez has announced that the New Mexico Department of Justice (NMDOJ) has filed a lawsuit... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/new-mexico-attorney-general-announces-lawsuit-against-kalshi",
+    "tags": [
+      "Prediction markets",
+      "US"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Polymarket Follows Kalshi, CFTC With Lawsuit Against Minnesota",
+    "meta": "Gambling Insider | 4 Jun 2026",
+    "summary": "(The exchange became the third plaintiff to challenge Minnesota’s prediction market ban after the CFTC and Kalshi filed similar lawsuits.) Polymarket has sued Minnesota in federal court, becoming the third plaintiff to challenge...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "(The exchange became the third plaintiff to challenge Minnesota’s prediction market ban after the CFTC and Kalshi filed similar lawsuits.) Polymarket has sued Minnesota in federal court, becoming the third plaintiff to challenge... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/165116/polymarket-sues-minnesota-prediction-market-ban",
+    "tags": [
+      "Prediction markets",
+      "Regulation",
+      "US"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Bally’s Intralot strikes £243 million deal for Evoke takeover",
+    "meta": "iGaming Business | 5 Jun 2026",
+    "summary": "After months of exploring strategic options, struggling operator Evoke has agreed to an all-share takeover by Bally's Intralot.",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "After months of exploring strategic options, struggling operator Evoke has agreed to an all-share takeover by Bally's Intralot. Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://igamingbusiness.com/strategy/ma/ballys-intralot-strikes-243-million-deal-for-evoke-takeover/",
+    "tags": [
+      "Bally's"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "UK gambling adverts under more regulatory pressure – but could it be progression?",
+    "meta": "SBC News | 5 Jun 2026",
+    "summary": "UK gambling operators are facing increased regulatory scrutiny after the Committee of Advertising Practice (CAP) and the Advertising Standards Authority (ASA) announced a new compliance initiative. The initiative targets social...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "UK gambling operators are facing increased regulatory scrutiny after the Committee of Advertising Practice (CAP) and the Advertising Standards Authority (ASA) announced a new compliance initiative. The initiative targets social... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/marketing/2026/06/05/social-media-gambling-advertising/",
+    "tags": [
+      "Regulation",
+      "UK"
     ]
   }
 ];

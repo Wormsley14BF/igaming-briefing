@@ -187,19 +187,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Gaming workers’ union warns ‘illegal’ prediction markets pose risk to jobs",
-    "meta": "NEXT.io | 5 Jun 2026",
-    "summary": "UNITE HERE said the rise of prediction markets could lead to job losses across the country’s land-based commercial and tribal casino sectors.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "UNITE HERE said the rise of prediction markets could lead to job losses across the country’s land-based commercial and tribal casino sectors. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://next.io/news/regulation/gaming-workers-union-prediction-markets-risk-jobs/",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "Bally Casino Bonus for 2026 - Claim Free Spins Today! - City AM",
     "meta": "Google News: EveryMatrix watchlist | 5 Jun 2026",
     "summary": "Bally Casino Bonus for 2026 - Claim Free Spins Today! City AM",
@@ -285,19 +272,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Affilka achieves Google Certified Click Tracker status",
-    "meta": "NEXT.io | 4 Jun 2026",
-    "summary": "Affilka has officially achieved a major milestone by becoming a Certified Google Click Tracker. As major advertising networks like Google tighten compliance policies to combat fraud, this certification ensures that Affilka’s...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Affilka has officially achieved a major milestone by becoming a Certified Google Click Tracker. As major advertising networks like Google tighten compliance policies to combat fraud, this certification ensures that Affilka’s... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://next.io/news/b2b-news/affilka-achieves-google-certified-click-tracker-status/",
-    "tags": [
-      "Regulation",
-      "KYC"
-    ]
-  },
-  {
     "section": "Other / Global",
     "title": "Fil-Am lands on FBI’s Most Wanted Fraudsters list - The Manila Times",
     "meta": "Google News: regulation | 7 Jun 2026",
@@ -349,18 +323,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Bally’s CEO rules out immediate break-up of evoke",
-    "meta": "NEXT.io | 5 Jun 2026",
-    "summary": "Robeson Reeves, CEO of Bally’s Intralot, said the company has “no intention” of immediately selling off any assets in evoke post-acquisition.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Robeson Reeves, CEO of Bally’s Intralot, said the company has “no intention” of immediately selling off any assets in evoke post-acquisition. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/investment/ballys-rules-out-break-up-evoke-after-takeover/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
     "section": "Europe",
     "title": "Greek government lays out proposed overhaul of gambling regulations",
     "meta": "Focus Gaming News | 5 Jun 2026",
@@ -371,6 +333,19 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "Black market"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Betting Bonuses and Promotions in Sweden: Regulation vs User Engagement - The Football Faithful",
+    "meta": "Google News: regulation | 5 Jun 2026",
+    "summary": "Betting Bonuses and Promotions in Sweden: Regulation vs User Engagement The Football Faithful",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Betting Bonuses and Promotions in Sweden: Regulation vs User Engagement The Football Faithful Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHF3UWlidS1DR0xudU1fc2FCcmVxOTNXTXZyWWhvdDJKSWpWNWRuVHVjNGdBazJYZlJCTF9rQ19pckRIWEV3RXRtWUdhVlJoZ1V5RVVRTEZ0UE1hMU14VDExYmpjOW5yOUVGTk5QZkg0Nl9lMmZ6Q2o0NUFSdVVPbWpIT0JhVmdrNUE?oc=5",
+    "tags": [
+      "Regulation",
+      "CRM"
     ]
   },
   {
@@ -409,6 +384,32 @@ window.briefingStories = [
       "Regulation",
       "RG",
       "Payments"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "The VPN dilemma: A regulatory loophole or gambling’s red herring?",
+    "meta": "iGaming Business | 5 Jun 2026",
+    "summary": "The UK Gambling Commission is struggling to measure illegal gambling as VPN use grows, raising questions about visibility, enforcement and the true scale of the black market.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The UK Gambling Commission is struggling to measure illegal gambling as VPN use grows, raising questions about visibility, enforcement and the true scale of the black market. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/legal-compliance/regulation/vpn-dilemma-gambling-loophole-red-herring/",
+    "tags": [
+      "Regulation",
+      "Black market",
+      "UK"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "IN PICTURES: Police raid illegal Phnom Penh gambling dens, arrest 6 - Khmer Times",
+    "meta": "Google News: regulation | 7 Jun 2026",
+    "summary": "IN PICTURES: Police raid illegal Phnom Penh gambling dens, arrest 6 Khmer Times",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "IN PICTURES: Police raid illegal Phnom Penh gambling dens, arrest 6 Khmer Times Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN3VvYkVDaGpFWXAyY3ltYk5ybXctYWlkSmt0R2JzWGREMVdNc1N0VVltMjBvQmpqYlB3ZjJKNU1sMEZ2YU1ISWVIbHFUMFBtbnpVZGZXQ1JFa1dsUkhDX2t2dnloaUhPM2dKdlI2ZnhMN2N2Ulo5VkNzeDh3c010Wnd5MUdzUkNUZXpzUjFyMnJScTlEYnp5UGtHSjh0ckdYSkVialFXbVA?oc=5",
+    "tags": [
+      "Black market"
     ]
   }
 ];

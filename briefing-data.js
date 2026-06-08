@@ -22,14 +22,6 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Bally’s acquisition buys evoke time, but growth questions remain",
-      "text": "Analysts have welcomed Bally’s Intralot’s acquisition of evoke, though questions remain over long-term revenue growth potential.",
-      "source": "https://next.io/news/investment/ballys-acquisition-buys-evoke-time-growth-questions-remain/",
-      "tags": [
-        "Bally's"
-      ]
-    },
-    {
       "title": "Bipartisan bills to propose safer gambling measures in Pennsylvania",
       "text": "A trio of legislative proposals would introduce deposit and marketing rules and ban credit card gambling in Pennsylvania. US.- Two Pennsylvania house representatives are preparing to put forward a set of bills intended to tackle...",
       "source": "https://focusgn.com/bipartisan-bills-to-propose-safer-gambling-measures-in-pennsylvania",
@@ -41,12 +33,19 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "MGA urges ‘heightened vigilance’ of suspicious betting during World Cup",
-      "text": "The Malta Gaming Authority has urged licensees to maintain “heightened vigilance” of suspicious betting activity during the FIFA World Cup.",
-      "source": "https://next.io/news/regulation/mga-heightened-vigilance-suspicious-betting-world-cup/",
+      "title": "Coinbase, Gemini Sued Get Sued Over ‘Illegal Gambling’ After Kalshi Gets Into Hot Water - Stocktwits",
+      "text": "Coinbase, Gemini Sued Get Sued Over ‘Illegal Gambling’ After Kalshi Gets Into Hot Water Stocktwits",
+      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHRIY0tIYWJGX1RiaGJFNVk3V3hEclBld3BmYkR4ZVRaR19JSjJ0SUFpSEI1VkJsQnN2YV8wMlkxaFdpSzZYd2d5X09CMWxPd05Wc3J0NkVmdmVUQzJoendRZWNMTUxuMWRhVjU5N21pR1oxRTlSOGxmZFBZcTZ5aGNUbHlWTzlMRFo4RTZsbFRlWHVLbUhHTExqRkFhUC1HSE5yUEhTejE0dUxjVUFR?oc=5",
       "tags": [
-        "Regulation"
+        "Prediction markets",
+        "Black market"
       ]
+    },
+    {
+      "title": "Hong Kong police issued a warning against the use of overseas betting sites ahead of the opening of - 매일경제",
+      "text": "Hong Kong police issued a warning against the use of overseas betting sites ahead of the opening of 매일경제",
+      "source": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTWFsNW5ub0FyLThqakNYVHNGZWk5VldYWi1ZaVZvY1lXOHdxS3BjczRkdUR2Q2VRY01YaDN1Z0h5OFdJY04wbnZqNnNrWVE?oc=5",
+      "tags": []
     }
   ],
   "platformLens": [
@@ -107,18 +106,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Bally’s acquisition buys evoke time, but growth questions remain",
-    "meta": "NEXT.io | 8 Jun 2026",
-    "summary": "Analysts have welcomed Bally’s Intralot’s acquisition of evoke, though questions remain over long-term revenue growth potential.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Analysts have welcomed Bally’s Intralot’s acquisition of evoke, though questions remain over long-term revenue growth potential. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/investment/ballys-acquisition-buys-evoke-time-growth-questions-remain/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
     "section": "North America",
     "title": "Bipartisan bills to propose safer gambling measures in Pennsylvania",
     "meta": "Focus Gaming News | 7 Jun 2026",
@@ -131,18 +118,6 @@ window.briefingStories = [
       "RG",
       "Payments",
       "US"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "MGA urges ‘heightened vigilance’ of suspicious betting during World Cup",
-    "meta": "NEXT.io | 8 Jun 2026",
-    "summary": "The Malta Gaming Authority has urged licensees to maintain “heightened vigilance” of suspicious betting activity during the FIFA World Cup.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The Malta Gaming Authority has urged licensees to maintain “heightened vigilance” of suspicious betting activity during the FIFA World Cup. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/mga-heightened-vigilance-suspicious-betting-world-cup/",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -259,18 +234,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "LatAm",
-    "title": "New Mexico AG Sues Kalshi Over Sports Betting Claims - Betting News",
-    "meta": "Google News: iGaming | 8 Jun 2026",
-    "summary": "New Mexico AG Sues Kalshi Over Sports Betting Claims Betting News",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "New Mexico AG Sues Kalshi Over Sports Betting Claims Betting News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmZPYzN6MDYzb3FZY3Z4UDZ3b0sxaG8xb0VhSTdLLU1Tc3NMOERjWEtQaGctaEQtMXJ0X0ZxdzZxUUUwNlREZTNxOU9lU1E1Skw3NU9OSThxVVdNVTdvUnZRaDFlZS1JeEEwV3NGYVJOTUdiMlFQSGwtZWZnMTNlZXVYX3FRVG02SUxZVnY2dUxWRXowV3FzNXplMEgwblhI?oc=5",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
     "section": "Other / Global",
     "title": "Crackdown on Online Frauds: Demolishing illegal buildings in Shwe Kokko - Myanmar International TV",
     "meta": "Google News: regulation | 7 Jun 2026",
@@ -331,16 +294,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Raid at east Charlotte arcade leads to arrests - WCNC",
-    "meta": "Google News: regulation | 7 Jun 2026",
-    "summary": "Raid at east Charlotte arcade leads to arrests WCNC",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Raid at east Charlotte arcade leads to arrests WCNC Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlpxcE9zMXlzbHA3RHZ4QnFkcjZBUU1hSG9NcGMtLUE3RjlJeWVBd0JlM1RHbVV2cGEyWE5HWF9UTExwYWJWcmIxdFQyT2ExQy1Wb0RWcS1wQWZGNHVrQWRscU8tMnljdi1RWURyTkZ4OFVVZ04yNEo2Mk85bmowZVM4em5oejkxOV82M3liTXhDOXVackF5VVdUTWhCdlJ2S29rV2JIdEtCZUVpdGZtUGdQNUJVLUthUEVoOVJoYmdXWjQ?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
     "title": "Illegal gambling cases hit HK$1.1bn in Hong Kong as World Cup looms - Dimsum Daily",
     "meta": "Google News: regulation | 8 Jun 2026",
     "summary": "Illegal gambling cases hit HK$1.1bn in Hong Kong as World Cup looms Dimsum Daily",
@@ -387,6 +340,16 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Raid at east Charlotte arcade leads to arrests - WCNC",
+    "meta": "Google News: regulation | 7 Jun 2026",
+    "summary": "Raid at east Charlotte arcade leads to arrests WCNC",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Raid at east Charlotte arcade leads to arrests WCNC Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlpxcE9zMXlzbHA3RHZ4QnFkcjZBUU1hSG9NcGMtLUE3RjlJeWVBd0JlM1RHbVV2cGEyWE5HWF9UTExwYWJWcmIxdFQyT2ExQy1Wb0RWcS1wQWZGNHVrQWRscU8tMnljdi1RWURyTkZ4OFVVZ04yNEo2Mk85bmowZVM4em5oejkxOV82M3liTXhDOXVackF5VVdUTWhCdlJ2S29rV2JIdEtCZUVpdGZtUGdQNUJVLUthUEVoOVJoYmdXWjQ?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
     "title": "Rewa Gambling Den Video Raises Questions Over Police Vigilance - Dainik Jagran MP CG",
     "meta": "Google News: regulation | 7 Jun 2026",
     "summary": "Rewa Gambling Den Video Raises Questions Over Police Vigilance Dainik Jagran MP CG",
@@ -394,5 +357,44 @@ window.briefingStories = [
     "expanded": "Rewa Gambling Den Video Raises Questions Over Police Vigilance Dainik Jagran MP CG Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUjUySEFUUExlVlZhVFJ1TDBCRDZkRW9VeVdXNE41d2k4Tl9LR3pZSklOaGhSNmhaOS1ObVVELS1xWXlKREtEMVc3MUwzQ2w4UXh5NEVTNElXbE5BMzVRelNyOHprVE15YWpYaENxd3JyajFyOEk5aUd6S0YzOV9Vc2Z3T0U0Wi1RSnJkRXRfT2d6bXZHR2VYbll0dlJoNm9saUx5aVNzd1ZOYUx5OHpaYkFXV2JEeHFQd2hyeVBDeXJoQWo3RjVNRTRhMk5NV1NN?oc=5",
     "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "Bally Casino Bonus for 2026 - Claim Free Spins Today! - City AM",
+    "meta": "Google News: EveryMatrix watchlist | 5 Jun 2026",
+    "summary": "Bally Casino Bonus for 2026 - Claim Free Spins Today! City AM",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Bally Casino Bonus for 2026 - Claim Free Spins Today! City AM Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SYmV3Mmp0LW4xSzItMmNvRFhwMmdLdVBwak5KT3VoVzA4U2ZTMmZxajh0NS1oVWpPeW1IMFE1X0dpdENGZnZNZGVoNmE0NWxacjJPaEFnNnRYTnc?oc=5",
+    "tags": [
+      "Bally's",
+      "CRM"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Polymarket Promo Code NOLA: Get $50 Bonus for Giants-Cubs - NOLA.com",
+    "meta": "Google News: iGaming | 8 Jun 2026",
+    "summary": "Polymarket Promo Code NOLA: Get $50 Bonus for Giants-Cubs NOLA.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Polymarket Promo Code NOLA: Get $50 Bonus for Giants-Cubs NOLA.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSnVIWUlWOHNvYjU0LUVxSlRlMFZNd3h5NGJsNzR6X2FEU2tPeDhuSVN5TGlTS3ZuSl8yMTgyNGNJTlcwUFZ3OUNic201TllrX1JxU0dyU0pQQkxGcmRXT2REUVRvbE9yZG9mRTlxZ0l4QkhLekVOOTJnSHYyMFU1eXNvT0NWbXlVa2tMQmFBR2kyNFlFcDJRV3g0dW5adTZOTm01T3U0b2dJTl8tZ2xNWlRVd3c0ZEc0VW1ZRHMyM0NtTG1UeUdSUjVxcGNqUlp6WmhzMjEyWGZydGdMUkE?oc=5",
+    "tags": [
+      "Prediction markets",
+      "CRM"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Kalshi Promo Code NOLA: Score $10 Bonus for Giants vs. Cubs - NOLA.com",
+    "meta": "Google News: iGaming | 8 Jun 2026",
+    "summary": "Kalshi Promo Code NOLA: Score $10 Bonus for Giants vs. Cubs NOLA.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Kalshi Promo Code NOLA: Score $10 Bonus for Giants vs. Cubs NOLA.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXFSUnB4MGJkLWhjcWdmcERnXzBqckQwLTlBRW43bllKVjBPLUhZOVFoMEhqYWQ4MFA5NGs2Q21Bbm1SMjFveXBnQjRHQlRRTExnOExpdHB6TVlicmVMTHF1bHJtSjA0dWk4TGFfU1oyaExvUUpDQ0kyZWlXUWFXSmN1SnVsSEVrRVl4WmN4Slpvb1Y0djAtdGM4OXRLWHpYbGZJY0lEZnhsV0pHNWNTdGxNbnJuYXlLcEhyT3hxTEMzM3doYkZYMHdNcTlhV2Q3NFZIOWpnb3B3UWFWR29Z?oc=5",
+    "tags": [
+      "Prediction markets",
+      "CRM"
+    ]
   }
 ];

@@ -39,11 +39,13 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Sportradar continues to expand offering with Wimbledon agreement ahead of busy period",
-      "text": "Sportradar has signed a multi-year extension to its data and audiovisual betting rights agreement with the All England Club for Wimbledon. The deal, which became part of the company’s portfolio following its acquisition of IMG...",
-      "source": "https://sbcnews.co.uk/sport-business/2026/06/08/sportradar-wimbledon-deal/",
+      "title": "South Korea police investigate Polymarket users for illegal gambling - Asia Gaming Brief",
+      "text": "South Korea police investigate Polymarket users for illegal gambling Asia Gaming Brief",
+      "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1cyRjhRUVpfOE1wc2hnbWZMaDJBeENGNF9YY2pXZFZlUTc2OElYcTFtaGRKMVNXcnRKNmctLUFuV3hBWXZXbG5KUFVOODVaR2V1a3p0WkpEcnB3MkRVbFRUSlM4UWRGWWlPSl9VMU53UTR3YVlfNDdSTk4zY0pFanpCWFJCWTNKa1RaX0ZEM2k2MHY2QkxBWG50WnQ5SU4zNmJxbFk1M3FYWVdiRUQzemczWk1XYnR2?oc=5",
       "tags": [
-        "Bally's"
+        "Prediction markets",
+        "Black market",
+        "Asia"
       ]
     }
   ],
@@ -127,18 +129,6 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Sportradar continues to expand offering with Wimbledon agreement ahead of busy period",
-    "meta": "SBC News | 8 Jun 2026",
-    "summary": "Sportradar has signed a multi-year extension to its data and audiovisual betting rights agreement with the All England Club for Wimbledon. The deal, which became part of the company’s portfolio following its acquisition of IMG...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Sportradar has signed a multi-year extension to its data and audiovisual betting rights agreement with the All England Club for Wimbledon. The deal, which became part of the company’s portfolio following its acquisition of IMG... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/sport-business/2026/06/08/sportradar-wimbledon-deal/",
-    "tags": [
-      "Bally's"
     ]
   },
   {
@@ -383,6 +373,19 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQl9jYldOd1hnT3FDTjM4eWt5X3A5NHZJaDR4VXg5V2dVN09hdGtBU1F1aVpuN0xLV1Rncmp1SlpJdnVEWHpuZnhnUHU1ek4yUU5jclcwdHhvSktEU2FNc1JHUXNQRWU0RGEyV0p5cWRheDlmaTdUQmR0TTAyNVpIVFdSVUpNTWdRVElpWHpPSFQ4LTNUXzEzeWFzUGVTLUdCV1FRMnFXczc?oc=5",
     "tags": [
       "Regulation"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Expert says Philippines to remain Asia's key regulated market - sigma.world",
+    "meta": "Google News: iGaming | 9 Jun 2026",
+    "summary": "Expert says Philippines to remain Asia's key regulated market sigma.world",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Expert says Philippines to remain Asia's key regulated market sigma.world Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa2Jycm9UbHlDMm1haGxXM0xMTGwwV0pnZkoyYXdXUXdQNENCZ0k3NUpPVXNyaUlZNjdZN1lqQng5MkkwelZKVnUtVEs5SVlDbG5HdUVkTGR6Uk8tRjVNejl1OGxpSVNHVm15RVE2c0RvMFNJaWU3WHJQM21WcG9FRkRyM0llZw?oc=5",
+    "tags": [
+      "Regulation",
+      "Asia"
     ]
   },
   {

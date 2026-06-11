@@ -31,21 +31,23 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Second prediction market platform set for approval in Gibraltar",
-      "text": "Gibraltar has granted an “approval in principle” to WagerWire operator Wire Industries. Gibraltar.- Just two months after the first approval of a gambling licence for a prediction market operator in Gibraltar, another company...",
-      "source": "https://focusgn.com/second-prediction-market-platform-set-for-approval-in-gibraltar",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
-      ]
-    },
-    {
       "title": "WagerWire Expands to Prediction Markets via Approval in Principle for Gibraltar License",
       "text": "WagerWire sees a Gibraltar license as a passport to bring its prediction market platform to countries all over the world. The first big idea arced on the couch of the Sigma Nu house at UCLA, Travis Geiger, Zach Doctor and Guy...",
       "source": "https://www.gamblinginsider.com/news/166093/wagerwire-prediction-markets-gibraltar-license",
       "tags": [
         "Prediction markets",
         "Regulation"
+      ]
+    },
+    {
+      "title": "Gambling Commission sounds money laundering ‘wake up call’ to UK operators",
+      "text": "British bookmakers’ anti-money laundering standards are slipping according to the Gambling Commission, which has taken aim at the over-use of AI by operators. Failure to comply with AML standards has led to some hefty...",
+      "source": "https://sbcnews.co.uk/technology/2026/06/11/gambling-money-laundering-uk/",
+      "tags": [
+        "Regulation",
+        "KYC",
+        "AI",
+        "UK"
       ]
     }
   ],
@@ -59,8 +61,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://www.gamblinginsider.com/news/166266/cftc-proposed-rules-prediction-market-contracts-exchanges",
-      "sourceLabel": "Gambling Insider"
+      "source": "https://sbcnews.co.uk/technology/2026/06/11/gambling-money-laundering-uk/",
+      "sourceLabel": "SBC News"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -121,19 +123,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Second prediction market platform set for approval in Gibraltar",
-    "meta": "Focus Gaming News | 10 Jun 2026",
-    "summary": "Gibraltar has granted an “approval in principle” to WagerWire operator Wire Industries. Gibraltar.- Just two months after the first approval of a gambling licence for a prediction market operator in Gibraltar, another company...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Gibraltar has granted an “approval in principle” to WagerWire operator Wire Industries. Gibraltar.- Just two months after the first approval of a gambling licence for a prediction market operator in Gibraltar, another company... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/second-prediction-market-platform-set-for-approval-in-gibraltar",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "WagerWire Expands to Prediction Markets via Approval in Principle for Gibraltar License",
     "meta": "Gambling Insider | 10 Jun 2026",
     "summary": "WagerWire sees a Gibraltar license as a passport to bring its prediction market platform to countries all over the world. The first big idea arced on the couch of the Sigma Nu house at UCLA, Travis Geiger, Zach Doctor and Guy...",
@@ -143,6 +132,21 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Gambling Commission sounds money laundering ‘wake up call’ to UK operators",
+    "meta": "SBC News | 11 Jun 2026",
+    "summary": "British bookmakers’ anti-money laundering standards are slipping according to the Gambling Commission, which has taken aim at the over-use of AI by operators. Failure to comply with AML standards has led to some hefty...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "British bookmakers’ anti-money laundering standards are slipping according to the Gambling Commission, which has taken aim at the over-use of AI by operators. Failure to comply with AML standards has led to some hefty... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://sbcnews.co.uk/technology/2026/06/11/gambling-money-laundering-uk/",
+    "tags": [
+      "Regulation",
+      "KYC",
+      "AI",
+      "UK"
     ]
   },
   {
@@ -186,32 +190,6 @@ window.briefingStories = [
       "Prediction markets",
       "Regulation",
       "RG"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Yggdrasil launches Giga Zombies GigaBlox™: Summer’s must-play slot",
-    "meta": "NEXT.io | 11 Jun 2026",
-    "summary": "The Horror Blockbuster of the Summer is here. The renowned game supplier, celebrated for its striking visuals and innovative mechanics, has launched Giga Zombies GigaBlox™ globally, a thrilling video slot designed for fans of...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The Horror Blockbuster of the Summer is here. The renowned game supplier, celebrated for its striking visuals and innovative mechanics, has launched Giga Zombies GigaBlox™ globally, a thrilling video slot designed for fans of... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/yggdrasil-launches-giga-zombies-gigablox-summers-must-play-slot/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Regulators move to allow most sports betting, bar war wagers on prediction platforms like Kalshi, Polymarket - New York Post",
-    "meta": "Google News: iGaming | 10 Jun 2026",
-    "summary": "Regulators move to allow most sports betting, bar war wagers on prediction platforms like Kalshi, Polymarket New York Post",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Regulators move to allow most sports betting, bar war wagers on prediction platforms like Kalshi, Polymarket New York Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOWR4X2hxRTJJOFZVdGhwd3dtWXBYbE5yNmhEN0hLSjZGMXJSTjBNUmhyTGR5R3FJRXF2WXF5ckpIeE9aRHdNZWdqc3JtUU1LWDhmMkpFTDc2SVNtdFk3Smc2RGx6VWVVX19zRDVVZ1JJU1JtU1FqRzZPUUpjWldqdlZadUxrWkRZa3BtWTZmMzZ4WXNtc0hrcXNqNzB6VWIzWk1kRlVQOFBYTWNMUU00a0ZaVWxPZWRIbUt6dnZwS1hMTVFmMEZqeFZvOHYzSUhOYktZVmYya3lLZVhDcmxz?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
     ]
   },
   {
@@ -277,31 +255,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Multi-level Power Play elevates a classic in Blueprint Gaming’s Cash Strike™ Power Force 5 Megaways™",
-    "meta": "NEXT.io | 11 Jun 2026",
-    "summary": "Scorching gameplay awaits in Blueprint Gaming’s latest release, Cash Strike™ Power Force 5 Megaways™, as a new multi-level Power Play option intensifies the heat alongside bonus upgrades and a dual bonus offering. With various...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Scorching gameplay awaits in Blueprint Gaming’s latest release, Cash Strike™ Power Force 5 Megaways™, as a new multi-level Power Play option intensifies the heat alongside bonus upgrades and a dual bonus offering. With various... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/blueprint-gaming-cash-strike-power-force-5-megaways/",
-    "tags": [
-      "Regulation",
-      "CRM"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Oddin.gg expands partnership with AdmiralBet.ba to power esports betting in Bosnia",
-    "meta": "NEXT.io | 10 Jun 2026",
-    "summary": "Oddin.gg, a leading esports betting infrastructure and solutions provider, today announced an expanded partnership with AdmiralBet.ba, bringing Oddin.gg’s esports betting technology to AdmiralBet’s platform in Bosnia. Following...",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "Oddin.gg, a leading esports betting infrastructure and solutions provider, today announced an expanded partnership with AdmiralBet.ba, bringing Oddin.gg’s esports betting technology to AdmiralBet’s platform in Bosnia. Following... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://next.io/news/b2b-news/oddin-gg-expands-partnership-with-admiralbet-ba/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
     "section": "Other / Global",
     "title": "Bally’s CFO discusses progress on A’s stadium site, Chicago and NYC casinos - CDC Gaming",
     "meta": "Google News: EveryMatrix watchlist | 11 Jun 2026",
@@ -351,18 +304,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Director-General of NLA calls for concerted effort against illegal gambling at EL Industry Days 2026 - Adomonline.com",
-    "meta": "Google News: regulation | 10 Jun 2026",
-    "summary": "Director-General of NLA calls for concerted effort against illegal gambling at EL Industry Days 2026 Adomonline.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Director-General of NLA calls for concerted effort against illegal gambling at EL Industry Days 2026 Adomonline.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdzR4Y2h3MElwYU1uWW5SUE5MelpGT2RMT1NrdzQ0QUZXTUNiNG9wZ3FsTjRPSnZNZWtYUExqVXV6QlJLaDJZZmkteXlCM3Y1MzRoRU1VbW1kSXBOMmI5aUprS1EyR0hDaFRad0kwN3BhWEFZbGJwdW1yMUFuaEw2QzkxZHVPODB6ZDNBMUJzQkxXNHJSRUlQRW9kLWpzN1ExaVdoam43TUx6RnVac1NxQ1BfYUNUajdndFF1NUk3Zk05UjNsNTlj?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
     "section": "Asia / Oceania",
     "title": "Anjouan gambling regulator responds to global criticism of licensing regime",
     "meta": "Focus Gaming News | 10 Jun 2026",
@@ -402,16 +343,79 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "FairGambling launches crypto casino review and analytics platform with provably fair tools and extra rewards",
-    "meta": "NEXT.io | 10 Jun 2026",
-    "summary": "FairGambling, a new transparency and rewards platform for crypto casino players and Bitcoin gamblers, today announced its public launch. The platform combines on-chain analytics, provably fair verification tools, independent...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "FairGambling, a new transparency and rewards platform for crypto casino players and Bitcoin gamblers, today announced its public launch. The platform combines on-chain analytics, provably fair verification tools, independent... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://next.io/news/b2b-news/fairgambling-launches-crypto-casino-review-and-analytics-platform/",
+    "section": "Asia / Oceania",
+    "title": "UAE’s first licensed sports betting platform Play971 names Australian cricket great Brett Lee as first official brand ambassador - IAG – Inside Asian Gaming",
+    "meta": "Google News: iGaming | 10 Jun 2026",
+    "summary": "UAE’s first licensed sports betting platform Play971 names Australian cricket great Brett Lee as first official brand ambassador IAG – Inside Asian Gaming",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "UAE’s first licensed sports betting platform Play971 names Australian cricket great Brett Lee as first official brand ambassador IAG – Inside Asian Gaming Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaUdVYTRDeTBYUmNfSUtnWVpDRURGTWhMUWZWNE5leUlvbnh6VUJTMnRCWDE1SVpacDhjblVhbTl3ajV3eU5HcGhEaHZ0dDEwMTZ3dFZkRno5bjFkZEtIbEpzSldtU2p4TVJ1WXZrNG9LZGRPNEJWelJvQi1iQzlSNkROdF91aXBjaW0temFCU2FaOWRkX1hBU1ROcUs5STlydGxQc2pidjYxVkZTRE9XS21qa2dDVDdFMWFXYXE1WUhUaHEzc0tBVnkyNUhGd0U4OWU4Tm1LY29JaXdOM2dRY1VHcW12THR0WXhwM1hB?oc=5",
     "tags": [
-      "Payments",
-      "CRM"
+      "Regulation",
+      "Asia"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "New Mexico Attorney General sues Kalshi for allowing allegedly illegal sports betting - ictnews.org",
+    "meta": "Google News: iGaming | 11 Jun 2026",
+    "summary": "New Mexico Attorney General sues Kalshi for allowing allegedly illegal sports betting ictnews.org",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "New Mexico Attorney General sues Kalshi for allowing allegedly illegal sports betting ictnews.org Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOb0lFX1dDam51dFBldVp1cndWR1N1MVAzTkQwWHpUNmxIT0RONENjZlZLUzN3cG9aeEVjR3dyVFlSOHlHVk11WFVQcWdBemREVDVaNkltX3NyTjRMN0dKWnhmT0ZFb3RHa3VNUV9FWEV0TWRtSExIaUN0QU9KcTdJREZjR2Q3NlpLaDBOZ0ZjYzEzQW9mT3VIV1UtOWNMeDBma1o3dHhfcw?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "British industry demands stronger action on illegal gambling - The Straight",
+    "meta": "Google News: regulation | 10 Jun 2026",
+    "summary": "British industry demands stronger action on illegal gambling The Straight",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "British industry demands stronger action on illegal gambling The Straight Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR1JmeTVvaDVrN3Y1UVRvZHV6ZWJ4ZDhzOGhTUmh0NHpzQU5XYnQycWc1cndmd0VtLVpZS1RzQU9uRndDanN6ajhPQlhFNlc1M3luVmEwZnRYWnlmYm9JZkgyU0h5WlJsOUp5T2xyTUtxYkcxSEhsUm9SX3NqUV9EajREcmNKaWdTYVZLcWtZVHk5UQ?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Swiss gambling turnover remains below CHF4bn in 2025, reports Gespa",
+    "meta": "iGaming Business | 9 Jun 2026",
+    "summary": "The data also revealed that online sales contributed to almost a quarter of Switzerland's regulated lottery and sports-betting sector.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The data also revealed that online sales contributed to almost a quarter of Switzerland's regulated lottery and sports-betting sector. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/finance/swiss-gambling-turnover-drops-below-chf4bn-2025-reports-gespa/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Kazakhstan’s Crackdown Hits Illegal Gambling Where It Hurts Most: Payments - iGamingToday.com",
+    "meta": "Google News: regulation | 11 Jun 2026",
+    "summary": "Kazakhstan’s Crackdown Hits Illegal Gambling Where It Hurts Most: Payments iGamingToday.com",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Kazakhstan’s Crackdown Hits Illegal Gambling Where It Hurts Most: Payments iGamingToday.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZFpfcENaWUR1WjB1blpKUXVGbHViZVVHdFpwSHYtbFJFRmttcHJncllwTXRhVkZvd2NfUVhydE8wSmRkNkdqX2hNd2dfaE5jbEtONjRNaTdBRjFGaVV2cTZTczZrS3plWmxLamgwQUY2ajB1bERmeTh2cFdJaUJDNWVmT1ZTZ2dEN3llby1GYjNjWnJlTmdNUzlSd0ZWeXhoVlQ2Yg?oc=5",
+    "tags": [
+      "Black market",
+      "Payments"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "AG Uthmeier announces crackdown on payment processors tied to illegal gambling sites - Florida’s Voice",
+    "meta": "Google News: regulation | 10 Jun 2026",
+    "summary": "AG Uthmeier announces crackdown on payment processors tied to illegal gambling sites Florida’s Voice",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "AG Uthmeier announces crackdown on payment processors tied to illegal gambling sites Florida’s Voice Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQTh2S292QTJHYng4UFdaS1BuUkZ4ZVNTdzh0dmtpQTdzSTI5VHREYWZKbHc3N3VkX0NLei1YWlpEc01FSDBXSTBicDVrU0ROSVFLQXdnSTNmM1NGNW5hN2xuUURPdVBMQjY2ekxLMXBoRG5vY0xfS2NGTEJYaVkySmFXUDdPaFNrRE4tdU9ZeVpWYV92Qlk4ektaRmdGWEZ3eWJ4dFJBX3MzMEJuN1E?oc=5",
+    "tags": [
+      "Black market",
+      "Payments"
     ]
   }
 ];

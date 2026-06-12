@@ -166,18 +166,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Yggdrasil launches Giga Zombies GigaBlox™: Summer’s must-play slot",
-    "meta": "NEXT.io | 11 Jun 2026",
-    "summary": "The Horror Blockbuster of the Summer is here. The renowned game supplier, celebrated for its striking visuals and innovative mechanics, has launched Giga Zombies GigaBlox™ globally, a thrilling video slot designed for fans of...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The Horror Blockbuster of the Summer is here. The renowned game supplier, celebrated for its striking visuals and innovative mechanics, has launched Giga Zombies GigaBlox™ globally, a thrilling video slot designed for fans of... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/yggdrasil-launches-giga-zombies-gigablox-summers-must-play-slot/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
     "section": "North America",
     "title": "Former CFTC Chair Gary Gensler on regulating sports betting: Let the states do it - CNBC",
     "meta": "Google News: iGaming | 11 Jun 2026",
@@ -417,6 +405,18 @@ window.briefingStories = [
     "source": "https://sbcnews.co.uk/sportsbook/2026/06/12/wildz-group-latest-launch/",
     "tags": [
       "KYC"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Gambling licensing seen as “most important cultural political issue” for Norway’s Progress Party",
+    "meta": "Focus Gaming News | 11 Jun 2026",
+    "summary": "Himanshu Gulati has reaffirmed the party’s commitment to campaigning for an end to the state monopoly on gambling in Norway. Norway.- The right-wing populist Progress Party (FrP) has restated its commitment to campaigning for an...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Himanshu Gulati has reaffirmed the party’s commitment to campaigning for an end to the state monopoly on gambling in Norway. Norway.- The right-wing populist Progress Party (FrP) has restated its commitment to campaigning for an... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/gambling-licensing-is-most-important-cultural-political-issue-in-norway-progress-party-says",
+    "tags": [
+      "Regulation"
     ]
   }
 ];

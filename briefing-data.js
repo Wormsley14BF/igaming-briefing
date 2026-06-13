@@ -26,21 +26,21 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "ProphetX Gets CFTC Approval to Operate Prediction Market",
-      "text": "Move from sweepstakes comes as questions remain over prediction markets and market share ProphetX is ready to transform again. The former state-licensed sports betting operator (then known as Prophet Exchange) that became a...",
-      "source": "https://www.gamblinginsider.com/news/166600/prophetx-gets-cftc-approval-to-operate-prediction-market",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
-      ]
-    },
-    {
       "title": "UK Gambling Commission launches AI-powered sweep to crack down on ads appealing to under-18s - AOL.com",
       "text": "UK Gambling Commission launches AI-powered sweep to crack down on ads appealing to under-18s AOL.com",
       "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM0hOQzNBRlphbkhXUjg0U1VyX1RsYzlxdjNlQzQxczRZU2czN2FKMkdac29BM3dLVlVpVTRPTG5MS2x3T0JUcVdfOVktd21Cb0l2MGdzaDExYlNGOER3d3NLeWZnR2RseXZlLUVhSnpQWGo5UTV1ODQ1Y2JFQzI3OHlFZXp1YkE?oc=5",
       "tags": [
         "AI",
         "UK"
+      ]
+    },
+    {
+      "title": "Bally’s CFO Updates Nevada Regulators on Chicago Casino Timeline, A’s Stadium Retail, and Bronx Mega-Casino - Bettors Insider",
+      "text": "Bally’s CFO Updates Nevada Regulators on Chicago Casino Timeline, A’s Stadium Retail, and Bronx Mega-Casino Bettors Insider",
+      "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNXZJZTdTaWtnNFNnVjdYeWtfc3ZfSE4wQVBhY25FWkw1ZVhQQ29WbWNtZGtrdTNaOFBUQ2o2S1NHWTR2S3RLdnpWSHo5em5zVVQ4eDRtUGVKRVlxQUdUYWZGRC1OYlB1amN0ZC1fUzl2cmpTd3pmRGpJcWFzTDhOU0ZxTVRMVmZ4M29ZbGNtNkFfQ09DNW50ejNPS2hBUnBQNU11NExRLWphdmd1bjVRcGdTWlVkd2ZTRWotOF9rM0N6UEhGYll6UkZ4aTJDY2JlU2lwalY2Q1VLYmx4Nzl1MnVQaw?oc=5",
+      "tags": [
+        "Bally's",
+        "Regulation"
       ]
     }
   ],
@@ -106,19 +106,6 @@ window.briefingStories = [
     "expanded": "First 6 Chicago video gambling licenses approved Audacy Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa19GVUxZbVBob2dkX0d6SnBCYzlSelIxOUZQWGptRHVCeTBPa1RQNlFUMW9hQk1kU21NR1ZlbDhYSTUwVnhzS0c3MEl6RldmT25iZmUwenRiWTRMN3NMeEJCLWJHckN1dVliaWhEYlZfSVllTjlQNDByNkRSX2gxTw?oc=5",
     "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "ProphetX Gets CFTC Approval to Operate Prediction Market",
-    "meta": "Gambling Insider | 12 Jun 2026",
-    "summary": "Move from sweepstakes comes as questions remain over prediction markets and market share ProphetX is ready to transform again. The former state-licensed sports betting operator (then known as Prophet Exchange) that became a...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Move from sweepstakes comes as questions remain over prediction markets and market share ProphetX is ready to transform again. The former state-licensed sports betting operator (then known as Prophet Exchange) that became a... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/166600/prophetx-gets-cftc-approval-to-operate-prediction-market",
-    "tags": [
-      "Prediction markets",
       "Regulation"
     ]
   },
@@ -293,16 +280,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Canada's World Cup 2026 Betting Boom Fuels Gambling Ad Debate - casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 12 Jun 2026",
-    "summary": "Canada's World Cup 2026 Betting Boom Fuels Gambling Ad Debate casino.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Canada's World Cup 2026 Betting Boom Fuels Gambling Ad Debate casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWUpyQ2NGRWtKZkVLQXVmY3dwU2dnSWdsTXlzOUdjZFFEZVJZSVpKSDR4Y05wRTlmV3RJdks0S1puU3ZOVFNUVEdocUhPRUVDWHpNWF9Yc3NzN3NpRHpZRENxcmxyajFZRTN0MU1zZFBHT05mNGMzODlWRHJEblVGNkhUOWpWcGdSbmIwdDBlbGpKUnZzV0VtcDRFWkRrVzA?oc=5",
-    "tags": []
-  },
-  {
     "section": "Europe",
     "title": "Entain Calls on UKIPO to Tighten Trademark Rules to Fight Illegal Gambling - newsnet5.com",
     "meta": "Google News: regulation | 12 Jun 2026",
@@ -312,6 +289,18 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdkU3Nk43M1Q5UTZXRTNwejhHRW51cGdDODJOb2p5bTJ5WFN5aWExbjhPamozNEdmdG9JSUxpQWVaUURRNEdRT25YTkliXzNoQ19SbVNaODhwbDUyQVRIV1JXX1R6WUF5X3o5dmZVcU4wWGdJalBqQnJYNTR4UTB5ZDVsdDVac1drN092Q0ZB?oc=5",
     "tags": [
       "Black market",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Isabelle Falque-Pierrotin: iCasino tricky landing in France - sbcnews.co.uk",
+    "meta": "Google News: EveryMatrix watchlist | 12 Jun 2026",
+    "summary": "Isabelle Falque-Pierrotin: iCasino tricky landing in France sbcnews.co.uk",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Isabelle Falque-Pierrotin: iCasino tricky landing in France sbcnews.co.uk Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzZtNjEwd010eURXX0hHbWhsRDRURXFnamdXZ0Vqa3pQWnZfcGU1Vk5BRlMwSWdxanJ6b0tlYXpUUDRTdl9nSnRZWXoybXpnbGZ1VENjcHRvYUVXXzAwZF95UjhxUVFZcjA4ekY1R3FzSWdsdDFsMDNRaVRNU1RQVFAwekpQVDVfS3RQRFVpR2FtMTRUbWpz?oc=5",
+    "tags": [
       "UK"
     ]
   },
@@ -398,6 +387,19 @@ window.briefingStories = [
     "source": "https://next.io/news/features/hot-copy-12-june/",
     "tags": [
       "Prediction markets"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Florida AG warns credit card companies over illegal gambling payments - MSN",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "Florida AG warns credit card companies over illegal gambling payments MSN",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Florida AG warns credit card companies over illegal gambling payments MSN Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUZkemh5ZlN3NnBGNDR4RnhhNlNpM1J0MEZGUWhJRFFDWk9xNHJyYWVXaXU3UXJOMXoyVVhiTEJ6TDhqVVZIU2RvYXdXRlhsUXQzdVFfbkVmSnd6SThFOG9scXBwaG5jMnQ1S2V2MVZBM3ZZTnhQU0dIMU5Pd3hEeHNKbDQ5RS1iMEoxRkxXMjhJY0ZYQkxyaGpBQXZfWFJqQzc2QzBMUWJCZENzUFJJOXQ5aVVVcjJSd1kzQlgtYnk?oc=5",
+    "tags": [
+      "Black market",
+      "Payments"
     ]
   }
 ];

@@ -2,14 +2,6 @@ window.briefingMeta = {
   "dateLabel": "Sunday, 14 June 2026 | automated public-site edition",
   "atAGlance": [
     {
-      "title": "Netherlands gambling regulator issues latest fine for duty of care failings - gamingintelligence.com",
-      "text": "Netherlands gambling regulator issues latest fine for duty of care failings gamingintelligence.com",
-      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzluVVh6NGE1NTlMb0xlT3ZTSWhrV0R4TGlFcU1meXJJNXBSdkM5LVk0c1dQUmR6czUwaE5tNnZzZmxpY2NjaXMwWjFqamRDVmphTktMOThQdFpkcWZtdGk4ektQSUktNFM4THVrVjF3YnVONjlqaURmX0JseWxEOGNOeUJMYjJmdVMzSXc3cmEyVmF3ZWwwcV9wNTFaWUtibVpiVHo3Q2liREpJcVYyN3JFWjdhZnBEbW44SU04dEZ2UQ?oc=5",
-      "tags": [
-        "Regulation"
-      ]
-    },
-    {
       "title": "As State Approves 1st Video Gambling Licenses in Chicago, Mayor Asks City Council to Reverse Course - WTTW News",
       "text": "As State Approves 1st Video Gambling Licenses in Chicago, Mayor Asks City Council to Reverse Course WTTW News",
       "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3lBVFJwdjAxQlZSUm5TRDVraDVkX0tCV2N3dUZOeHI1V1U0cDlhZUk2c0NqZTRIb29MYUZzcnkyNEo3Y19JTW1RNWFoZ0Jyd3o3UVhmSDM2OUY0SER1R1FZRVZwQUtWN3V6c3RENGh1Q21rcEExQlpwNDcyQzFjalpoc0g1dG9jd3FWajA1YVViR3d0ZGJBRklzTDlVNmpPdXpsWWU5Y0lUU2t0VG1tSWhqdFpQZw?oc=5",
@@ -41,6 +33,12 @@ window.briefingMeta = {
       "tags": [
         "Regulation"
       ]
+    },
+    {
+      "title": "2026 Torch Awards celebrate integrity and ethics among businesses, students - The Quad-City Times",
+      "text": "2026 Torch Awards celebrate integrity and ethics among businesses, students The Quad-City Times",
+      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWVTNFNwY0ZFV29ZQzEzRUIzZ1Q3RlJqbTByLUFaOXQ5cTY4a1FZakt4ZW9yQUZVSkJjQ0phQ0NUYXp5T0VSamFGS1oxUEFnY0I2WERQZVlLNXZYTzlvU05YcngybEZnTUtJZTBwdUpNVG5tRTlnUC1iSDFFNllwNnp6QlYxdXYyUFp0RTJfRm9XTlk?oc=5",
+      "tags": []
     }
   ],
   "platformLens": [
@@ -53,37 +51,25 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzluVVh6NGE1NTlMb0xlT3ZTSWhrV0R4TGlFcU1meXJJNXBSdkM5LVk0c1dQUmR6czUwaE5tNnZzZmxpY2NjaXMwWjFqamRDVmphTktMOThQdFpkcWZtdGk4ektQSUktNFM4THVrVjF3YnVONjlqaURmX0JseWxEOGNOeUJMYjJmdVMzSXc3cmEyVmF3ZWwwcV9wNTFaWUtibVpiVHo3Q2liREpJcVYyN3JFWjdhZnBEbW44SU04dEZ2UQ?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3lBVFJwdjAxQlZSUm5TRDVraDVkX0tCV2N3dUZOeHI1V1U0cDlhZUk2c0NqZTRIb29MYUZzcnkyNEo3Y19JTW1RNWFoZ0Jyd3o3UVhmSDM2OUY0SER1R1FZRVZwQUtWN3V6c3RENGh1Q21rcEExQlpwNDcyQzFjalpoc0g1dG9jd3FWajA1YVViR3d0ZGJBRklzTDlVNmpPdXpsWWU5Y0lUU2t0VG1tSWhqdFpQZw?oc=5",
       "sourceLabel": "Google News: EveryMatrix watchlist"
     },
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT1NQbGxhSF9wQnBtRWZNU2p1Y0FIUmtDTWdabzc1bnRfaWZfMkRZbGtfeEJkc3Y4M1lEYUZPbkpZZ01jdnk4U2FDY2ZseC10bWJDY2l4eC1uWllIYVE5Z1NfenplYlZvTGxQLTRCakdOSGtBVUtnSV9sc3JWV1pYVHRjUG1MMDhiN3hVbkhNZG9reG5GVTJpQXpOSjgxM3FfTjJIVXZqcFZrMlBMUUpIaUhNQTZaRDZfX2piYmlGQ09uWWxhbUpCRzBsYjh3SUJua19jMzJIaWVuR3dvcGNvM1hwMjZlNXkwZ2FORzdhMGNEYkVQNzNKQ2tXeWpJSVU?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllCeldrTTVxaHkxRWpDdGwwRm9YekZldzh4RWowczJoRExSOTNLeVR0NFd1aXl3VkxXRmpJRnF5M3dxN1g4cm9LMzA5LU10dG9NNUJCVkRVWlNOSmt1SG5taWg2RF80aFo3bThDX2hRM0dDZERXMDBJUWRwUjg5ZDU0R2F4cXpCbWpGNEo5RUp4SVQ0WDhCanNveDVVbHZ5RVBGbURHYmxmR09MVURwQmU4ZlZhbDNFOXZQdmlQTkNkY2M?oc=5",
       "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzluVVh6NGE1NTlMb0xlT3ZTSWhrV0R4TGlFcU1meXJJNXBSdkM5LVk0c1dQUmR6czUwaE5tNnZzZmxpY2NjaXMwWjFqamRDVmphTktMOThQdFpkcWZtdGk4ektQSUktNFM4THVrVjF3YnVONjlqaURmX0JseWxEOGNOeUJMYjJmdVMzSXc3cmEyVmF3ZWwwcV9wNTFaWUtibVpiVHo3Q2liREpJcVYyN3JFWjdhZnBEbW44SU04dEZ2UQ?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3lBVFJwdjAxQlZSUm5TRDVraDVkX0tCV2N3dUZOeHI1V1U0cDlhZUk2c0NqZTRIb29MYUZzcnkyNEo3Y19JTW1RNWFoZ0Jyd3o3UVhmSDM2OUY0SER1R1FZRVZwQUtWN3V6c3RENGh1Q21rcEExQlpwNDcyQzFjalpoc0g1dG9jd3FWajA1YVViR3d0ZGJBRklzTDlVNmpPdXpsWWU5Y0lUU2t0VG1tSWhqdFpQZw?oc=5",
       "sourceLabel": "Google News: EveryMatrix watchlist"
     }
   ]
 };
 
 window.briefingStories = [
-  {
-    "section": "Europe",
-    "title": "Netherlands gambling regulator issues latest fine for duty of care failings - gamingintelligence.com",
-    "meta": "Google News: EveryMatrix watchlist | 12 Jun 2026",
-    "summary": "Netherlands gambling regulator issues latest fine for duty of care failings gamingintelligence.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Netherlands gambling regulator issues latest fine for duty of care failings gamingintelligence.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzluVVh6NGE1NTlMb0xlT3ZTSWhrV0R4TGlFcU1meXJJNXBSdkM5LVk0c1dQUmR6czUwaE5tNnZzZmxpY2NjaXMwWjFqamRDVmphTktMOThQdFpkcWZtdGk4ektQSUktNFM4THVrVjF3YnVONjlqaURmX0JseWxEOGNOeUJMYjJmdVMzSXc3cmEyVmF3ZWwwcV9wNTFaWUtibVpiVHo3Q2liREpJcVYyN3JFWjdhZnBEbW44SU04dEZ2UQ?oc=5",
-    "tags": [
-      "Regulation"
-    ]
-  },
   {
     "section": "Product",
     "title": "As State Approves 1st Video Gambling Licenses in Chicago, Mayor Asks City Council to Reverse Course - WTTW News",
@@ -134,6 +120,48 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "2026 Torch Awards celebrate integrity and ethics among businesses, students - The Quad-City Times",
+    "meta": "Google News: EveryMatrix watchlist | 13 Jun 2026",
+    "summary": "2026 Torch Awards celebrate integrity and ethics among businesses, students The Quad-City Times",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "2026 Torch Awards celebrate integrity and ethics among businesses, students The Quad-City Times Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRWVTNFNwY0ZFV29ZQzEzRUIzZ1Q3RlJqbTByLUFaOXQ5cTY4a1FZakt4ZW9yQUZVSkJjQ0phQ0NUYXp5T0VSamFGS1oxUEFnY0I2WERQZVlLNXZYTzlvU05YcngybEZnTUtJZTBwdUpNVG5tRTlnUC1iSDFFNllwNnp6QlYxdXYyUFp0RTJfRm9XTlk?oc=5",
+    "tags": []
+  },
+  {
+    "section": "North America",
+    "title": "$10 Kalshi Referral Code SILIVE Increased for Yankees-Blue Jays in CA, FL, NY, and TX - SILive.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "$10 Kalshi Referral Code SILIVE Increased for Yankees-Blue Jays in CA, FL, NY, and TX SILive.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "$10 Kalshi Referral Code SILIVE Increased for Yankees-Blue Jays in CA, FL, NY, and TX SILive.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllCeldrTTVxaHkxRWpDdGwwRm9YekZldzh4RWowczJoRExSOTNLeVR0NFd1aXl3VkxXRmpJRnF5M3dxN1g4cm9LMzA5LU10dG9NNUJCVkRVWlNOSmt1SG5taWg2RF80aFo3bThDX2hRM0dDZERXMDBJUWRwUjg5ZDU0R2F4cXpCbWpGNEo5RUp4SVQ0WDhCanNveDVVbHZ5RVBGbURHYmxmR09MVURwQmU4ZlZhbDNFOXZQdmlQTkNkY2M?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Two suspects detained after Harry Kane & Jude Bellingham's boots stolen from England team ahead of World Cup - Goal.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "Two suspects detained after Harry Kane & Jude Bellingham's boots stolen from England team ahead of World Cup Goal.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Two suspects detained after Harry Kane & Jude Bellingham's boots stolen from England team ahead of World Cup Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkx3T2UxRGVRTkJRWnVjNldseERrdUU3VmxCRHF1a3FIQW9HbkJvMkxodC1EQ2Z5ZE1FbGpQU09BWGloS2xLalRScnVxWWdZUXdmS2hnVUVHdllvZUw4eF91WmxwZjJPd19UTVFINVpuTkNfbGI5VEwxSndDangxRXhGclR0cGl6TFZDYm9SU1g5MjMyWXE0c1Y0YlRWX0VlOFhtV1ZuTHRMVy1PbWVVaU9aYTVzTmRhMENkMVhaRkRPbW9xd3lj?oc=5",
+    "tags": []
+  },
+  {
+    "section": "North America",
+    "title": "Planes, trains & automobiles! Ryan Reynolds’ epic trip to Canada’s 2026 World Cup opener was all worth it as Wrexham co-owner reacts to historic atmosphere - Goal.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "Planes, trains & automobiles! Ryan Reynolds’ epic trip to Canada’s 2026 World Cup opener was all worth it as Wrexham co-owner reacts to historic atmosphere Goal.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Planes, trains & automobiles! Ryan Reynolds’ epic trip to Canada’s 2026 World Cup opener was all worth it as Wrexham co-owner reacts to historic atmosphere Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYmFyWm1LU0ctSXBKaDhpQlN2VjJMeUxqMjJOUVlQbW96R1BmakN2a3B0bmVxVWJ3dDM1NGsyTXp4M2hmYmM1Z09pSnVfVjl4Nm1NaDJrREdGWlhKOE9TelpzV1YwR2N5OC1YSzhidms1elY5d0twRXhnSzZuVmJ2VlRuVFBLNjI4VjBPYzFOUmFsTWZaSmJYSVhsS2xlVGVTZWJxWE9MTzY1SERtQVF2TEFQUXp3b0ZpUVNn?oc=5",
+    "tags": []
+  },
+  {
     "section": "Product",
     "title": "Dutch government to put final nail in online gambling advertising coffin",
     "meta": "SBC News | 12 Jun 2026",
@@ -149,26 +177,29 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Washington AG Sues Kalshi, Calls Prediction Markets ‘Illegal Gambling’ - Stocktwits",
-    "meta": "Google News: regulation | 13 Jun 2026",
-    "summary": "Washington AG Sues Kalshi, Calls Prediction Markets ‘Illegal Gambling’ Stocktwits",
+    "title": "New Polymarket promo code “SILIVE” enhances $50 referral promo for USA-Paraguay in the 2026 World Cup - SILive.com",
+    "meta": "Google News: regulation | 12 Jun 2026",
+    "summary": "New Polymarket promo code “SILIVE” enhances $50 referral promo for USA-Paraguay in the 2026 World Cup SILive.com",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Washington AG Sues Kalshi, Calls Prediction Markets ‘Illegal Gambling’ Stocktwits Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT1NQbGxhSF9wQnBtRWZNU2p1Y0FIUmtDTWdabzc1bnRfaWZfMkRZbGtfeEJkc3Y4M1lEYUZPbkpZZ01jdnk4U2FDY2ZseC10bWJDY2l4eC1uWllIYVE5Z1NfenplYlZvTGxQLTRCakdOSGtBVUtnSV9sc3JWV1pYVHRjUG1MMDhiN3hVbkhNZG9reG5GVTJpQXpOSjgxM3FfTjJIVXZqcFZrMlBMUUpIaUhNQTZaRDZfX2piYmlGQ09uWWxhbUpCRzBsYjh3SUJua19jMzJIaWVuR3dvcGNvM1hwMjZlNXkwZ2FORzdhMGNEYkVQNzNKQ2tXeWpJSVU?oc=5",
+    "expanded": "New Polymarket promo code “SILIVE” enhances $50 referral promo for USA-Paraguay in the 2026 World Cup SILive.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1pOaHU1Y0wzd3h2R0tRUDFMQ19iVjI3UGl1X20yX3M4QVFKNlFkVHByMGZwa19iNHh5NW9taUl2TVo2X09YX1NXZjltOWpfbjBIX3hXRmJrajlmZmdDdzRfdWdncTJIZVlPQnYwOVkyVzNyZGxwYm1VRTVGR3pkSGJSRWlTRnRVVVEzdTEteENiODNDSlV4WmhnLVRWbU5TV1o3UVpJSlZNbHVfblVkVkt5ZEI3MjUxTEdmREdNUjRTbDdDY1p1MHRFaU9ZSzRsSmR0M1pjSTU3Zw?oc=5",
     "tags": [
       "Prediction markets",
-      "Black market"
+      "US"
     ]
   },
   {
     "section": "Product",
-    "title": "World Cup 2026 Golden Boot standings: USMNT star Folarin Balogun leads as Harry Kane & Kylian Mbappe tipped to battle it out for FIFA award - Goal.com",
-    "meta": "Google News: regulation | 13 Jun 2026",
-    "summary": "World Cup 2026 Golden Boot standings: USMNT star Folarin Balogun leads as Harry Kane & Kylian Mbappe tipped to battle it out for FIFA award Goal.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "World Cup 2026 Golden Boot standings: USMNT star Folarin Balogun leads as Harry Kane & Kylian Mbappe tipped to battle it out for FIFA award Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWxnMmxNdG1pY18zV2tEVXU1VldjV19TcjM2RWZmeUl6c2s0RThndVJFN3VwaWhraGM0Y2NzZzZQTVJYRWdva1NpTlJwT2FMZnM1RWVULVdva2NiRHR6V3RSTXl1X00zTFNkMUpFNUpCY1hkdHlncVhtNWxaQy1KWG1jdFpkaTB2aHltZFpaZnpMYXdielVKdDB0TUFjZDB5TlE?oc=5",
-    "tags": []
+    "title": "SOFTSWISS hosts live panel on prediction markets for iGaming operators",
+    "meta": "NEXT.io | 12 Jun 2026",
+    "summary": "SOFTSWISS, a global iGaming software provider, will host a LinkedIn Live Panel titled Prediction Markets for iGaming: Risks and Opportunities on 25 June at 14:00 CET. The session brings together experts from NEXT.io, and...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "SOFTSWISS, a global iGaming software provider, will host a LinkedIn Live Panel titled Prediction Markets for iGaming: Risks and Opportunities on 25 June at 14:00 CET. The session brings together experts from NEXT.io, and... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://next.io/news/b2b-news/softswiss-hosts-live-panel-on-prediction-markets-for-igaming-operators/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
   },
   {
     "section": "LatAm",
@@ -211,6 +242,20 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Beyond SEO and affiliates : Why iGaming is shifting from traffic acquisition to product-led retention",
+    "meta": "NEXT.io | 11 Jun 2026",
+    "summary": "An interview with Yoel Zuckerberg, chief product officer, Soft2Bet The iGaming sector has long been shaped by a familiar growth equation: affiliates, SEO, and paid media driving user acquisition at scale. For years, that model...",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "An interview with Yoel Zuckerberg, chief product officer, Soft2Bet The iGaming sector has long been shaped by a familiar growth equation: affiliates, SEO, and paid media driving user acquisition at scale. For years, that model... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://next.io/news/b2b-news/beyond-seo-and-affiliates-soft2bet/",
+    "tags": [
+      "Regulation",
+      "Payments",
+      "CRM"
+    ]
+  },
+  {
+    "section": "Product",
     "title": "Illinois Gaming Board approves extensions for Bally’s, American Place temporary casinos - The Daily Line",
     "meta": "Google News: EveryMatrix watchlist | 12 Jun 2026",
     "summary": "Illinois Gaming Board approves extensions for Bally’s, American Place temporary casinos The Daily Line",
@@ -236,12 +281,12 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Is Sports Betting Becoming Americas New Addiction Or Is It Just Entertainment? - fitguru.training",
+    "title": "Is Sports Betting Becoming Americas New Addiction Or Is It Just Entertainment? - MSN",
     "meta": "Google News: regulation | 12 Jun 2026",
-    "summary": "Is Sports Betting Becoming Americas New Addiction Or Is It Just Entertainment? fitguru.training",
+    "summary": "Is Sports Betting Becoming Americas New Addiction Or Is It Just Entertainment? MSN",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Is Sports Betting Becoming Americas New Addiction Or Is It Just Entertainment? fitguru.training Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0dWaFBvanlhYmFodVZVMFYtOUtKTnhNUWZUMTlIbDRwaGlCNXRhLXNCSFRvSDBFbnBlRTdqOHAtNW9na09xRDdTZExsVmhZaXZscDZCNXNnWnBRNE83cnd2UTNXVU5GWUZXazRUc1NfN19SdUhIbjEtSzBMQjhtVnpSaUR4UjloOWx1ajc1VXROeVhQOGd4OU4xVW1HWGoxVEo5ZlFIR3VhcDR0cldFb3UyN015UFJIXzRuMUk3LTZCTkVCbkJabXh6N0FVOWs?oc=5",
+    "expanded": "Is Sports Betting Becoming Americas New Addiction Or Is It Just Entertainment? MSN Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzNGSEtRSDlvT2ZhejBUSzh2OUZENVNWdDlkMERYaldTUjIybGIzbmlVU2hHal9LS21CbHVjdjNFRGc2OFRWeXZoUGdFVGRfb195SWxYOFctMXMtYTdmUXJWUzloTzZMbDJKYVNYaVNDU0EtRHdxek1xVWlnOFhBYUZrSzdtOG1EYmF6dEdzZXR1ZUdhMUNqTnpfZHRlQkJNUzZ4ZUd5cktjZDBZR3NsLUQwc05VLWlvQWJjQndaRjNEaTFt?oc=5",
     "tags": []
   },
   {
@@ -258,6 +303,56 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Stop treating social media influencers as innocent advertisers - Daily Express Malaysia",
+    "meta": "Google News: regulation | 14 Jun 2026",
+    "summary": "Stop treating social media influencers as innocent advertisers Daily Express Malaysia",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Stop treating social media influencers as innocent advertisers Daily Express Malaysia Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFpTVG02U2VqMmxnanB4VE1CSUw1cUM0d3BPOElPZTR6UnpLc2dYamJlTmlMUTgxTEhKQ0l2NlZRUlo5YnpyNjBGV3R2dElmQU50Nk85T3lkVl92TF83MlVqNlB4bmVfZkhVaDFJZ2R5dWh6UlQ1a0g5Tng5M0JEUV9uZ3gya2FyU1cwMHd1VmVGLUhkVkVtYi1xRkFPOHlBejI3TkE5ejY?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "‘Can’t wait for next season’ - Alisha Lehmann vows to ‘come back stronger than ever’ from ‘most difficult year’ that delivered Leicester transfer & relegation out of the WSL - Goal.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "‘Can’t wait for next season’ - Alisha Lehmann vows to ‘come back stronger than ever’ from ‘most difficult year’ that delivered Leicester transfer & relegation out of the WSL Goal.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "‘Can’t wait for next season’ - Alisha Lehmann vows to ‘come back stronger than ever’ from ‘most difficult year’ that delivered Leicester transfer & relegation out of the WSL Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEVVZWF0dm82UGdPWTUzeE04ZE5JeE8xX19xSGNGaEV3OUtIWkZ3OFJmWW03TUdZWlk0UmQ1MFpuRUFiZUdsZjB4WHA4bWUxb0ljeGNHdkZYaWVuMjVTMC0ya2hXZENfX1NqZzR0QmE3WmVWc0doMVJUa2pXeV9PUkMyMG5ZaWZ0YXM0YWVVbFdDQVB2a3FMWFBkbWZ1MEVEeGEzYUVqdlBLYTM0aHpfQXlzbjlVcGxRZGc?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "‘Lionel Messi is welcome to it’ - World Cup history-maker Miroslav Klose happy to pass goal record on to Argentine GOAT - Goal.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "‘Lionel Messi is welcome to it’ - World Cup history-maker Miroslav Klose happy to pass goal record on to Argentine GOAT Goal.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "‘Lionel Messi is welcome to it’ - World Cup history-maker Miroslav Klose happy to pass goal record on to Argentine GOAT Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRHVmeG5oY1NVMTR1RHBBdTJySjN0NVZ0OHFBbGQza2pQR3hOOG9tSWxhNVF1SUdrcFB2dlloeXBteFNTMkl4Q0ltT3EwU2dGZXRDbE93M0tHYmtZSTZfVC1STjJlWUd5dlFKTGVob2IzaGkzV1J3VXh6Y2pSLWNueDBNSGxwSWpsWE1BRVpoOXQyNEMyUmg5STR2cWdzQUlQOXZkSHBmVFJqRkdpZnRBb1FIZUlPNzE1WDJod2p4NUtnclNJY2pV?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "Steve Komphela reveals how Mamelodi Sundowns' PSL campaign fell apart - 'All these weighed heavily on the players' - Goal.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "Steve Komphela reveals how Mamelodi Sundowns' PSL campaign fell apart - 'All these weighed heavily on the players' Goal.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Steve Komphela reveals how Mamelodi Sundowns' PSL campaign fell apart - 'All these weighed heavily on the players' Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUHJrN0VuRGJzRTJVSHNWZTRIZDJVc1RfMWRHUHhfZlJkU2VBNy1KUjhrUzhFYUxScnVUMU1yS0dSZ3lKeWhGM3VTRmxub09ySm1DSTBVSnlSR01IdzJyZllKNUl4ZGM3ZmhlM1RQb0lYVXJPejR2d05tM051YmEwaU8zc1NJUm1XbUFqWllPeXpBcWpVdkdTYU42NkJKNU1LR0xjVGVIMGxPeGE2a2lKUFpteEdxZ3dhQ2FvSllJMUI2YW94bjU1VXVjUy1rYmpZVWJieHZfczZzbEZDbUQ0TkVGU0lUaXZ1TDIxZ1RJeVI2T2Ix?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "Tshegofatso Mabasa reacts to Kaizer Chiefs rumours - 'I have a job to do, and I have to be ready at all times' - Goal.com",
+    "meta": "Google News: regulation | 13 Jun 2026",
+    "summary": "Tshegofatso Mabasa reacts to Kaizer Chiefs rumours - 'I have a job to do, and I have to be ready at all times' Goal.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Tshegofatso Mabasa reacts to Kaizer Chiefs rumours - 'I have a job to do, and I have to be ready at all times' Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN2NSbXFZUW16ME5tUTZ6SmFsZXlFSVkxbm1BT2tSb1d0bnFUOHN4TXFGQXdPekRKRzRGY09LVVBlUTBsZm9EMG5SekMxdkwtc0FjYmNiYnFtNE9PcDVWdTAwSFRNdnBjM244b3V3bDlYTnJCdDluSVhEd2RuWUM1VkRscE1GT0duckZnZFNBRTNjeTc4VUpTNlJNajVCQmR4a3hjVkhYSWVMeHpBcHhRZ1JjTU9DN2FoelRPNXlEWXZIZUZYOTNTN0kzLXROMmNIanBUY0dpZXdKYlA5VV9TN19EVVoydlYtbndLNzBuYw?oc=5",
+    "tags": []
+  },
+  {
     "section": "Other / Global",
     "title": "Illegal gambling battle will define global regulatory success, says Mpumalanga regulator",
     "meta": "iGaming Business | 12 Jun 2026",
@@ -272,120 +367,12 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Stop treating social media influencers as innocent advertisers - Daily Express Malaysia",
-    "meta": "Google News: regulation | 14 Jun 2026",
-    "summary": "Stop treating social media influencers as innocent advertisers Daily Express Malaysia",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Stop treating social media influencers as innocent advertisers Daily Express Malaysia Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFpTVG02U2VqMmxnanB4VE1CSUw1cUM0d3BPOElPZTR6UnpLc2dYamJlTmlMUTgxTEhKQ0l2NlZRUlo5YnpyNjBGV3R2dElmQU50Nk85T3lkVl92TF83MlVqNlB4bmVfZkhVaDFJZ2R5dWh6UlQ1a0g5Tng5M0JEUV9uZ3gya2FyU1cwMHd1VmVGLUhkVkVtYi1xRkFPOHlBejI3TkE5ejY?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Europe",
-    "title": "Dutch gambling regulator raps operators over advertising and duty-of-care failings",
-    "meta": "Focus Gaming News | 12 Jun 2026",
-    "summary": "Toto Online has been warned over ad breaches while 711 has been fined over duty-of-care failings. The Netherlands.- The Dutch gambling regulator Kansspelautoriteit (KSA) has taken action against two of its licensees in separate...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Toto Online has been warned over ad breaches while 711 has been fined over duty-of-care failings. The Netherlands.- The Dutch gambling regulator Kansspelautoriteit (KSA) has taken action against two of its licensees in separate... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/ksa-raps-operators-over-advertising-and-duty-of-care-failings",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Finland online gambling regulations revealed",
-    "meta": "Focus Gaming News | 12 Jun 2026",
-    "summary": "Operators had been calling for clarity over the player protection measures since Finland started taking online gambling licence applications. Finland. The Ministry of the Interior has provided more clarity on the regulations...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Operators had been calling for clarity over the player protection measures since Finland started taking online gambling licence applications. Finland. The Ministry of the Interior has provided more clarity on the regulations... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/finland-online-gambling-sector-regulations-revealed",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Caesars is getting taken over. These casino stocks are acting like they could be next. - MSN",
-    "meta": "Google News: EveryMatrix watchlist | 13 Jun 2026",
-    "summary": "Caesars is getting taken over. These casino stocks are acting like they could be next. MSN",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Caesars is getting taken over. These casino stocks are acting like they could be next. MSN Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPcHNPMFJEMDFLMG1xaE5IZWQ1N0VycU1NTHpVNzlRNFlld1M2NXQxdmhtZVJFcjNGT3NyUWQtaU9yQWtBRkgzMDlicjJsTWZOdXF3aFIyRjF4VFdIaEpzX3VwZGZYUFEwRWhUX043UWtka3BEQS1RSFMzYmU5VFhWdnhYNXhuZTdPTm4zWG1HWlRhR2VTRzdpWWY3Rjc2WjhaeU5odVNnV1U1ZTJfVGZON3ZrMVB4LUUtemR0WHJLZk5fX3VpNVZZYVEzendWc3JKX3dNaGtsQmJQVEV0TFUyenQ1VXlhbHhJTkE5Rks3S19WcGJlaWk4OVRDa0RyeFpOWkhuQWpYdWVGYzh6NWN6VW9vTGxZRUU0TlBoMXRPRGRNLUswNXAtcUJ4QUNudjdGX0xqaUJYamM1eDR2SUxqQ0s0R29KRldVNHdEeTNnbUE4QV91NllPcmIxc05oY0pRZkNrSGZKNThjRHhHMi1qb2k4THB5RGZMMzNIcVl2WHJSek5NQ1h3OGZpZmNhQQ?oc=5",
-    "tags": []
-  },
-  {
-    "section": "North America",
-    "title": "ADI Predictstreet launches prediction market ahead of World Cup 2026",
-    "meta": "iGaming Business | 10 Jun 2026",
-    "summary": "The prediction market operator received a licence in Gibraltar back in March, and its offering will now be available in 23 US states.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The prediction market operator received a licence in Gibraltar back in March, and its offering will now be available in 23 US states. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://igamingbusiness.com/prediction-markets/adi-predictstreet-launches-prediction-market-ahead-world-cup-2026/",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "The World Cup increases the demand for sports betting: do you know how to identify an illegal bet? - BNLData",
-    "meta": "Google News: iGaming | 13 Jun 2026",
-    "summary": "The World Cup increases the demand for sports betting: do you know how to identify an illegal bet? BNLData",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "The World Cup increases the demand for sports betting: do you know how to identify an illegal bet? BNLData Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0RQeDZIVjlyWUpLSnRlVk1YZ1hhbFoxZFZYUmZ4Q3gxT0NpeWxDdFpqX0c0QmY5ejhwV1hVLWRqVW9SbHBtQTRWdV9sQ3VQTS1Qc3V3V2xxLWdHTE1aeHJlWTF4LVg4ZFo4NTd2WElDaF9lM1ZUWXRZaFlrRkdHY0xubTVIeDFxNU9MWG8zMHpVa19WM3dXT3RWRF9nTnJsWVN0MTB5UC16N3NkNVVWTnNzWG1mUG80NWVBcDJ3?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Evoke shares rise after board agrees to $326 million takeover by Bally’s Intralot - MSN",
-    "meta": "Google News: EveryMatrix watchlist | 13 Jun 2026",
-    "summary": "Evoke shares rise after board agrees to $326 million takeover by Bally’s Intralot MSN",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Evoke shares rise after board agrees to $326 million takeover by Bally’s Intralot MSN Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQR1VwdU1rdXp0Uk4yRXQ2d0hMQ1VfNjRkRU1SdHF5U1BGbjRoaGpOTkFYNnMwQTFqbk82S2NQUDFQRFRKQnpRMW1WNkVSNWRTa19lcE4yRktFdUhvdU5yd05Gb0xBU2tLMzhveHBwVjM0Zm9zd3hkTmpnR1pnNTNkZUJkWU95b0plZkpFdW9EZk82UW91dzV4bGwtS1BjeDZmUzBLdkozUUUzaUViekVNREtTRUd0NEtRcFM2ckZvQWpIRF9JZk5XcWpZRXlnakJDWFl2ZGh0dTJvZWg1T1dTemE3SW92YVZxUjJuSVpUZ1hOZmJQcl85Y0duX0NIeGQ1RHU3Wk91UXE0S1FzcTlua3k0QzNBVGdMb3NJenJNaVRvNlU1a3hNNjZaX256bU9MQkE0WldvQklUam5TTkVMeWR4ajJuR0FSdUpNZldOaHlwa3pFLTJwOGZhcjRsYmJhanlYYnBEeWk3MDI5WlZ5QQ?oc=5",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "HPD catches illegal gambling - Harrison Daily",
+    "title": "Revealed: Stunning salary Bruno Fernandes will be offered in new Man Utd contract - with Red Devils desperate to keep record-breaking captain at Old Trafford - Goal.com",
     "meta": "Google News: regulation | 13 Jun 2026",
-    "summary": "HPD catches illegal gambling Harrison Daily",
+    "summary": "Revealed: Stunning salary Bruno Fernandes will be offered in new Man Utd contract - with Red Devils desperate to keep record-breaking captain at Old Trafford Goal.com",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "HPD catches illegal gambling Harrison Daily Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04ckNFUDMwaERiNUg2NFpGblM1Y2lLNFlKZkdOSGdJZ1hjYTk5bDhGVU1DdllYVndoSVRnUVh0X3ItZ3JwZ3NjQ2hHMFFtbWw4T3daZ244SFdFX200Ylk1dUdtSlRBQ0oxSXhrTkxOMndodXlwNWpDdw?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Why 1xBet invests in global licensing and long-term stability",
-    "meta": "Focus Gaming News | 12 Jun 2026",
-    "summary": "Press release.- Rapid growth alone is no longer a convincing argument in the betting industry. An operator may expand its geographic reach, grow its audience, and forge high-profile partnerships — which can provide platforms for...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Press release.- Rapid growth alone is no longer a convincing argument in the betting industry. An operator may expand its geographic reach, grow its audience, and forge high-profile partnerships — which can provide platforms for... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://focusgn.com/why-1xbet-invests-in-global-licensing-and-long-term-stability",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Bangkok authorities detain 19 suspects in Ole777-linked gambling probe as 2026 World Cup begins",
-    "meta": "Google News: iGaming | 12 Jun 2026",
-    "summary": "Bangkok authorities detain 19 suspects in Ole777-linked gambling probe as 2026 World Cup begins Focus Gaming News",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bangkok authorities detain 19 suspects in Ole777-linked gambling probe as 2026 World Cup begins Focus Gaming News Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSWotWU5CMEYtOFp4SG02NTMxUjdFLTE2c21JZFY2WGxjTjZnU0RfbHV3YXZFWFRueF9TVEppOWFSX2RQYlBuSkxjbGtXMENucm9fOHRIWXRhYWpvYmtDOEhzYW5Fcmx1WVlOZ0NlSDlzSnZvd3dCekY2dTQ2Zm1TNWcxdXRmakRiZm4wOTB3ME5VandOYWhIV21fby0tTDE0TkVR?oc=5",
-    "tags": [
-      "Regulation"
-    ]
+    "expanded": "Revealed: Stunning salary Bruno Fernandes will be offered in new Man Utd contract - with Red Devils desperate to keep record-breaking captain at Old Trafford Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTm5kMllVYXc0UFpVX005VWs2WUExOTVqQmpSTmNiQnBwbXhBbU1OX0JPek1FNDhTTTVpdmJYVFI3NmxrUXJGcElVc0Y3bkRpZmhPd1I4ZTVkZmZnZ0dHXzRsV3hBOTJ2X3ZtOWNFbEd0V1lRYlg0RTYyUFRvdFpqNFZfVGVobzBkbUlXUFg5ZHVIdFl2dENvcVlnejB3cHpaUkxlVjBueGZsSWhC?oc=5",
+    "tags": []
   }
 ];

@@ -36,11 +36,11 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Dream Vegas Promo Code UK June 2026: Claim up to £50 + 50 Free Spins - Bookies.com",
-      "text": "Dream Vegas Promo Code UK June 2026: Claim up to £50 + 50 Free Spins Bookies.com",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96ODc1VjBXNEVvaXkwei01WFhzcWJwY1pGOWUyLWxXU0RwcW95a2JOZ3E1X1ppQzNYSWtwaS1mdWYxZlpOSGcxS1hqTVd0SmhvRng0UzZ5X21VNy1JbkxuMVhIR2c2VkNYenkwNWZmY1ZYbHFMNDBrX2ZGRQ?oc=5",
+      "title": "Claim $10 MLB Kalshi Referral Code SILIVE for Yankees-Blue Jays in CA, FL, and NY - SILive.com",
+      "text": "Claim $10 MLB Kalshi Referral Code SILIVE for Yankees-Blue Jays in CA, FL, and NY SILive.com",
+      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3h1a2ZkejRheWYwMUlCWnIxYnUyYjZzXzd4WDlrN1VtQmQtQ1pNdDVVR2VaUFVDMWxZQnBUWkVBaUpuaVNIbHQ1QnJ4YXJuWFBWMTM2S296UlFPSlkxbHlYWTl6OGZ3LUFpcjR5T1Bpc182NFBBeXl4UjJJSVc3UTY4ZkxVQkFkVHp6X0U4NGFMQzN0Q3ItV3M3aHpCdDhpUHp2dk1KLWhFTTdOdS1sRFZOaVhLelNUOGlEV1piOA?oc=5",
       "tags": [
-        "UK"
+        "Prediction markets"
       ]
     }
   ],
@@ -124,6 +124,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "Claim $10 MLB Kalshi Referral Code SILIVE for Yankees-Blue Jays in CA, FL, and NY - SILive.com",
+    "meta": "Google News: regulation | 14 Jun 2026",
+    "summary": "Claim $10 MLB Kalshi Referral Code SILIVE for Yankees-Blue Jays in CA, FL, and NY SILive.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Claim $10 MLB Kalshi Referral Code SILIVE for Yankees-Blue Jays in CA, FL, and NY SILive.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3h1a2ZkejRheWYwMUlCWnIxYnUyYjZzXzd4WDlrN1VtQmQtQ1pNdDVVR2VaUFVDMWxZQnBUWkVBaUpuaVNIbHQ1QnJ4YXJuWFBWMTM2S296UlFPSlkxbHlYWTl6OGZ3LUFpcjR5T1Bpc182NFBBeXl4UjJJSVc3UTY4ZkxVQkFkVHp6X0U4NGFMQzN0Q3ItV3M3aHpCdDhpUHp2dk1KLWhFTTdOdS1sRFZOaVhLelNUOGlEV1piOA?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
     "section": "Europe",
     "title": "Dream Vegas Promo Code UK June 2026: Claim up to £50 + 50 Free Spins - Bookies.com",
     "meta": "Google News: EveryMatrix watchlist | 14 Jun 2026",
@@ -173,15 +185,14 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Regulators moving to allow most sports betting, barring war wagers on prediction platforms like Kalshi, Polymarket - MSN",
-    "meta": "Google News: iGaming | 14 Jun 2026",
-    "summary": "Regulators moving to allow most sports betting, barring war wagers on prediction platforms like Kalshi, Polymarket MSN",
+    "title": "Dina Titus Accuses CFTC of 'Blatant Corruption' Over Prediction Markets - casino.com",
+    "meta": "Google News: regulation | 14 Jun 2026",
+    "summary": "Dina Titus Accuses CFTC of 'Blatant Corruption' Over Prediction Markets casino.com",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Regulators moving to allow most sports betting, barring war wagers on prediction platforms like Kalshi, Polymarket MSN Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZDNGcy1lZTRnQjQ5Y3RKSTBJbWFJb2U3OXZOV1NscTNidnJXNHlCWUlVdXBLOGxzaTE4ZnRwVVMwUzlqTEhEd1lwZ2FtbEN2SThqOHpWYWhqZDJHeGNtTzFLMG5nbG5ISDlIVEJKNTVnc1FnZWRhbk1DYXhzMVBLM2lkZkJ2Q0J0WWZNQ0QtU3Baaks4N1pkYnNiTG9ZQWJrTEswZWh2SjB3cGtMZlFyN0lmc0FFYkdib0RmR0pEM05zXzFtaWMyT24yWGpxUUcyY3dpWWRKb1FwcTNJNjNYeUpGVUpYZFVOaS11REl6YTN4dVlMVGxn?oc=5",
+    "expanded": "Dina Titus Accuses CFTC of 'Blatant Corruption' Over Prediction Markets casino.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUVlT2s2MHBEbGg5WUJGc0tteG9PcVFRRElLNTJBbEhwRFdXY3RzSjRhVnlRcFZ4QlMwRlVYUVladDN3QTQtaElYbmtOeXB6T1VSLXVHazgxT05oRkFUWlRGUHN2QW5RYWJtTzdaa3NORGJSX2U2ZV9wN2t6S1FQZXV4eVhQLVAybWF2OWJhSW1hZ2JZZDFnMjdkUEJySS1pMHBncHJvdw?oc=5",
     "tags": [
-      "Prediction markets",
-      "Regulation"
+      "Prediction markets"
     ]
   },
   {
@@ -194,18 +205,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzluVVh6NGE1NTlMb0xlT3ZTSWhrV0R4TGlFcU1meXJJNXBSdkM5LVk0c1dQUmR6czUwaE5tNnZzZmxpY2NjaXMwWjFqamRDVmphTktMOThQdFpkcWZtdGk4ektQSUktNFM4THVrVjF3YnVONjlqaURmX0JseWxEOGNOeUJMYjJmdVMzSXc3cmEyVmF3ZWwwcV9wNTFaWUtibVpiVHo3Q2liREpJcVYyN3JFWjdhZnBEbW44SU04dEZ2UQ?oc=5",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "New Mexico Files Lawsuit Against Kalshi Over Sports Markets - casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 12 Jun 2026",
-    "summary": "New Mexico Files Lawsuit Against Kalshi Over Sports Markets casino.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "New Mexico Files Lawsuit Against Kalshi Over Sports Markets casino.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYjREYUVNOTZQSDhmYjl0ZzNnNzItVjJERlpNMGN5a2pEbUdzclgwVXk3VWNjOEdTZ3dMVnBrc1pzclowa1otSXFfejlYU2JEb1FSamdhZGNHQks4YWlvSXpGbFBHd1FKcXBMd25mcWw2RkxSc1dWTl9CTlg5dHgtNEpRUi1fUkpsZ2Vtcm1vQWpfMktjRVNiOXBSaDJGamJURlVCZkRn?oc=5",
-    "tags": [
-      "Prediction markets"
     ]
   },
   {
@@ -297,34 +296,16 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "EPD logs 42% drop in focus crimes - Daily Tribune",
+    "section": "Other / Global",
+    "title": "Polymarket launches $50 promo code “SILIVE” for UFC Freedom 250 - SILive.com",
     "meta": "Google News: regulation | 14 Jun 2026",
-    "summary": "EPD logs 42% drop in focus crimes Daily Tribune",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "EPD logs 42% drop in focus crimes Daily Tribune Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBSzY3dkExUlVzbGFlREgxbUNhQlcwRnFIcmJXZEV0bThackNQQXNha1VyajZkczFuajB4Mjc5TzJyRjdvdUN0cWh5Ymh1ZnducG9Bb3A5Sk9CN0x3d21jeUZaa3VDa0IxYXhyd0lFVVo0RGgy0gGCAUFVX3lxTFBlUzE0alpRczFaTlJBMXlfTVZDVVR1c29GYjR0WF9Zel9YTm1VVC1CRXllQnprNy14RGlPa0k1SndrUkxzUDdBa2hob25WWDZ5eWV4U1N0V29kc0pKNk1pRnMzU2FpeDY2c3E2YTFlVmFmcEFrelJoUGRGN3NTUGxuOEE?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Europe",
-    "title": "'I'm ready to do things right' - Kylian Mbappe admits he needs to 'take another step forward defensively' for France to win 2026 World Cup - Goal.com",
-    "meta": "Google News: regulation | 15 Jun 2026",
-    "summary": "'I'm ready to do things right' - Kylian Mbappe admits he needs to 'take another step forward defensively' for France to win 2026 World Cup Goal.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "'I'm ready to do things right' - Kylian Mbappe admits he needs to 'take another step forward defensively' for France to win 2026 World Cup Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPamEwdUFZZ29oZ3ljam5vb2Q1MTRwd0ZKOVZjQ3RERExsUGtzMzdrZFZsYVFFNFl1cF9OZUpBUm5MNS1nOU5XdFdSZ1lNc19CODJlTWlhWGFzV2NKUDI4WWp6YWJkWURaazl4NUtWTWhMVGFFVFN6S3hialZTbDRKYlppVW5JcUQyUnZrY2NxVDRQa0xzSm43VFlWOGV2STBxLUlFQ09lZ29ibk1XQUR3Zg?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Europe",
-    "title": "Alexander Isak & Viktor Gyokeres among the goals as Sweden thrash Tunisia to open World Cup campaign in style - Goal.com",
-    "meta": "Google News: regulation | 15 Jun 2026",
-    "summary": "Alexander Isak & Viktor Gyokeres among the goals as Sweden thrash Tunisia to open World Cup campaign in style Goal.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Alexander Isak & Viktor Gyokeres among the goals as Sweden thrash Tunisia to open World Cup campaign in style Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQUxscDVrX0VOZV9LMDFSYjlMOE9EVm1kX19LS2RKekJnbXV6SGMzUUd0bFdTZmFESVo1M1JRZGxHYjkyaE1memJlblFoYXNXelNwWnllUm9teGtXMGJ1aWtTT2txWjAyQ0NQTEFqVTMzN1F5bjJfZ00zd0hXQlA5UFRVMG5mSUhnQzBjNjFaVWhuMUltRF8yUUlxLWhpT3ZaRzMxM1l6d2J4djByVzg0MU9uTlFRQ3R1RlN1a0dILVUtelNWT0NJcW9WQ09nNnRheV9idTRGMFRPVWMwNjdBdFE4a2Y5YUVjbkFJbzlR?oc=5",
-    "tags": []
+    "summary": "Polymarket launches $50 promo code “SILIVE” for UFC Freedom 250 SILive.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Polymarket launches $50 promo code “SILIVE” for UFC Freedom 250 SILive.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNzRhN01UV0xTc3NqUnBMNnFJdGhxNDdSQkhHTzUtRGFKZnZJaEcyck1YMVJrOGNDanl4c2Q4dWNYdjFSU21WVF85UVQ0NnN3cWFuRS1TV3RkM3FONzNncGlQckJyMVpibF82eE5fdVBuZUZrTGR5a2lMT1NEMVYyRFRLLTJudk05T3oyYVAwN1F3RmJjeDd6MnlqMzQwMk82OURsWDJacHJRd2VrMkEwaTJ0S043QVZIcUo4?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
   },
   {
     "section": "Product",
@@ -338,15 +319,13 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Detailed_analysis_reveals_winspirit_casino_bonuses_and_a_comprehensive_gaming_pl - apmagazine.it",
-    "meta": "Google News: regulation | 15 Jun 2026",
-    "summary": "Detailed_analysis_reveals_winspirit_casino_bonuses_and_a_comprehensive_gaming_pl apmagazine.it",
+    "title": "EPD logs 42% drop in focus crimes - Daily Tribune",
+    "meta": "Google News: regulation | 14 Jun 2026",
+    "summary": "EPD logs 42% drop in focus crimes Daily Tribune",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Detailed_analysis_reveals_winspirit_casino_bonuses_and_a_comprehensive_gaming_pl apmagazine.it Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGcyeUcxZE53QU9Ra2V2X2R2TWxLeGdvT1lVd2NCMGNRNHhhQkhDa2dJcUh4SU8zZTdxX050TUloUzhPN21Lb3ZTZUFUMk0wUG1xV3pRVUFITl8tc1ZtR2xWWGtqRC1mOXZhVzRLWWFLT0NSNWhmM3VhdFhyU29yMS04QnJGUldsOHcw0gGLAUFVX3lxTE1sZzJ5RzFkTndBT1FrZXZfZHZNbEt4Z29PWVV3Y0IwY1E0eGFCSENrZ0lxSHhJTzNlN3FfTnRNSWhTOE83bUtvdlNlQVQyTTBQbXFXelFVQUhOXy1zVm1HbFZYa2pELWY5dmFXNEtZYUtPQ1I1aGYzdWF0WHJTb3IxLThCckZSV2w4dzA?oc=5",
-    "tags": [
-      "CRM"
-    ]
+    "expanded": "EPD logs 42% drop in focus crimes Daily Tribune Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBSzY3dkExUlVzbGFlREgxbUNhQlcwRnFIcmJXZEV0bThackNQQXNha1VyajZkczFuajB4Mjc5TzJyRjdvdUN0cWh5Ymh1ZnducG9Bb3A5Sk9CN0x3d21jeUZaa3VDa0IxYXhyd0lFVVo0RGgy0gGCAUFVX3lxTFBlUzE0alpRczFaTlJBMXlfTVZDVVR1c29GYjR0WF9Zel9YTm1VVC1CRXllQnprNy14RGlPa0k1SndrUkxzUDdBa2hob25WWDZ5eWV4U1N0V29kc0pKNk1pRnMzU2FpeDY2c3E2YTFlVmFmcEFrelJoUGRGN3NTUGxuOEE?oc=5",
+    "tags": []
   },
   {
     "section": "Europe",
@@ -356,6 +335,19 @@ window.briefingStories = [
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "expanded": "GRAI Licences Go Live 1 July 2026: Ireland's New Era westminsterpimliconews.co.uk Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3pyWGM3SHFpT3pfSFBGSG9tbjNvZllJeU9NQzVyWjlrOHF2VzdHQTJUTFlKZzRrRnNaYzZxTHlSM1U4R25Rd0xDeE8zaXUxLXVNV3YtWWFpbXp1YVVqOWhVQzNwVUFwcU54STZYR25sM3kzUzZyZ0dKb1RiMnJOX1NoSzU3VzBCaWtaSlRR?oc=5",
+    "tags": [
+      "Regulation",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Altenar extends sportsbook partnership with Anakatech following strong growth",
+    "meta": "Focus Gaming News | 15 Jun 2026",
+    "summary": "The deal spans key regulated markets, with a strong focus on the UK. Press release.- Altenar and Anakatech Interactive Limited have agreed to extend their long-term sportsbook technology partnership, reinforcing continued...",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "The deal spans key regulated markets, with a strong focus on the UK. Press release.- Altenar and Anakatech Interactive Limited have agreed to extend their long-term sportsbook technology partnership, reinforcing continued... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://focusgn.com/altenar-extends-sportsbook-partnership-with-anakatech-following-strong-growth",
     "tags": [
       "Regulation",
       "UK"
@@ -384,6 +376,20 @@ window.briefingStories = [
     "source": "https://www.ggrasia.com/pagcor-sends-relief-aid-to-people-affected-by-mindanao-earthquake?utm_source=rss&utm_medium=rss&utm_campaign=pagcor-sends-relief-aid-to-people-affected-by-mindanao-earthquake",
     "tags": [
       "Regulation",
+      "Asia"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Macau June GGR pace slows amid World Cup, Citi keeps forecast at US$2.4bln",
+    "meta": "GGRAsia | 15 Jun 2026",
+    "summary": "Macau’s casino gross gaming revenue (GGR) was estimated at about MOP9.00 billion (US$1.12 billion) in the first 14 days of June, according to investment bank Citigroup, citing industry sources. In a Monday note, the institution...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Macau’s casino gross gaming revenue (GGR) was estimated at about MOP9.00 billion (US$1.12 billion) in the first 14 days of June, according to investment bank Citigroup, citing industry sources. In a Monday note, the institution... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.ggrasia.com/macau-june-ggr-pace-slows-amid-world-cup-citi-keeps-forecast-at-us2-4bln?utm_source=rss&utm_medium=rss&utm_campaign=macau-june-ggr-pace-slows-amid-world-cup-citi-keeps-forecast-at-us2-4bln",
+    "tags": [
+      "Regulation",
+      "US",
       "Asia"
     ]
   }

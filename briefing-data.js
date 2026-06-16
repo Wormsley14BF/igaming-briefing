@@ -158,20 +158,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Nevada regulator asks court to hold Kalshi in contempt",
-    "meta": "Focus Gaming News | 15 Jun 2026",
-    "summary": "The NGCB has also asked the First Judicial District Court to impose monetary penalties for continuing to offer its services in the state. US.- The Nevada Gaming Control Board (NGCB) has asked the First Judicial District Court...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The NGCB has also asked the First Judicial District Court to impose monetary penalties for continuing to offer its services in the state. US.- The Nevada Gaming Control Board (NGCB) has asked the First Judicial District Court... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/nevada-regulator-asks-court-to-hold-kalshi-in-contempt",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Dutch regulator raps Betnation over self-exclusion failures",
     "meta": "NEXT.io | 15 Jun 2026",
@@ -258,6 +244,16 @@ window.briefingStories = [
     "tags": [
       "Regulation"
     ]
+  },
+  {
+    "section": "Product",
+    "title": "Spotting Winners: PENN Entertainment (NASDAQ:PENN) And Consumer Discretionary - Casino Operator Stocks In Q1 - TradingView",
+    "meta": "Google News: EveryMatrix watchlist | 16 Jun 2026",
+    "summary": "Spotting Winners: PENN Entertainment (NASDAQ:PENN) And Consumer Discretionary - Casino Operator Stocks In Q1 TradingView",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Spotting Winners: PENN Entertainment (NASDAQ:PENN) And Consumer Discretionary - Casino Operator Stocks In Q1 TradingView Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTHM5a09VS1ZFTkVXQktsQTRSOFhRMlJSVERJcjg0YVVmZERXeGh6MXAyS01JZHY5ekdZblR6blI3MlNiTVBNR3g4OHduTXNrWTI3YzRlQl94ellHTGpPQUgwM2RIbzFmUGYzNTU4MW9WOWdCYWw0RUJwV005Q2Nva2hjY2ZwdG5rTHJUd05PNTdBaE12MVZ2REtUdmZjaUxiVHhFN3RnRTBxS0lsR0EyMEEtZ3E0aEliV2kwblU2SnlJZlBYc3NuZWgzU0tfRTMwZ0VPV2RVYTZER3ZBaERWT2UyUVExLWtKWW1scTF5Q1QycmlrVnhF?oc=5",
+    "tags": []
   },
   {
     "section": "Product",

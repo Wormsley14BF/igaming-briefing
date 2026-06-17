@@ -22,32 +22,30 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Nevada seeks enforcement of court order against Kalshi as California ramps up legal efforts",
-      "text": "Two west coast heavyweights, Nevada and California, are exerting new legal pressure on Kalshi, and the figures behind both efforts have a lot at stake.",
-      "source": "https://igamingbusiness.com/legal-compliance/kalshi-nevada-california-legal-battles/",
+      "title": "Former Bally’s exec appointed as CEO of Star Brisbane and Gold Coast",
+      "text": "Ameet Patel has been announced as the new dual CEO of two properties owned by The Star Entertainment.",
+      "source": "https://next.io/news/people/former-ballys-exec-ceo-star-brisbane-gold-coast/",
+      "tags": [
+        "Bally's",
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Are prediction markets the perfect vertical for the attention economy?",
+      "text": "A mix of cultural, regulatory, and technological factors have made prediction markets perfectly suited to the modern attention economy, argues Slotegrator COO Olga Ivanchik, in the wake of the company’s release of an ebook on...",
+      "source": "https://next.io/news/promoted/are-prediction-markets-the-perfect-vertical-for-the-attention-economy/",
       "tags": [
         "Prediction markets",
         "Regulation"
       ]
     },
     {
-      "title": "5 Leaders – 1 Question: Are digital payments enough to unlock regulated igaming in Asia?",
-      "text": "Five industry experts from across Asia share whether advances in digital payments have finally made regulated igaming viable in the region or if political barriers remain the decisive bottleneck. Special report.- Over the past...",
-      "source": "https://focusgn.com/5-leaders-1-question-are-digital-payments-enough-to-unlock-regulated-igaming-in-asia-pacific",
+      "title": "Vyking Ventures announces strategic investment in PrizeKings",
+      "text": "Vyking Ventures, the investment arm of Vyking, today announced a strategic investment in PrizeKings, a technology-led prize draw business building transparent, locally relevant competition platforms for fast-growing...",
+      "source": "https://next.io/news/promoted/vyking-ventures-announces-strategic-investment-prizekings/",
       "tags": [
-        "Regulation",
-        "Payments",
-        "Asia"
-      ]
-    },
-    {
-      "title": "Dutch gambling regulator issues warning to Betnation over CRUKS self-exclusion check failures",
-      "text": "A technical fault allowed at least one self-excluded player to keep gambling on the site for months. The Netherlands.- The Dutch gambling regulator Kansspelautoriteit (KSA) has issued a formal warning to Smart Gaming, the...",
-      "source": "https://focusgn.com/ksa-issues-warning-to-betnation-over-cruks-self-exclusion-check-failures",
-      "tags": [
-        "Regulation",
-        "RG",
-        "UK"
+        "Bally's",
+        "Regulation"
       ]
     }
   ],
@@ -106,6 +104,45 @@ window.briefingStories = [
       "Prediction markets",
       "Regulation",
       "US"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Former Bally’s exec appointed as CEO of Star Brisbane and Gold Coast",
+    "meta": "NEXT.io | 16 Jun 2026",
+    "summary": "Ameet Patel has been announced as the new dual CEO of two properties owned by The Star Entertainment.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Ameet Patel has been announced as the new dual CEO of two properties owned by The Star Entertainment. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/people/former-ballys-exec-ceo-star-brisbane-gold-coast/",
+    "tags": [
+      "Bally's",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Are prediction markets the perfect vertical for the attention economy?",
+    "meta": "NEXT.io | 16 Jun 2026",
+    "summary": "A mix of cultural, regulatory, and technological factors have made prediction markets perfectly suited to the modern attention economy, argues Slotegrator COO Olga Ivanchik, in the wake of the company’s release of an ebook on...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "A mix of cultural, regulatory, and technological factors have made prediction markets perfectly suited to the modern attention economy, argues Slotegrator COO Olga Ivanchik, in the wake of the company’s release of an ebook on... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://next.io/news/promoted/are-prediction-markets-the-perfect-vertical-for-the-attention-economy/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Vyking Ventures announces strategic investment in PrizeKings",
+    "meta": "NEXT.io | 15 Jun 2026",
+    "summary": "Vyking Ventures, the investment arm of Vyking, today announced a strategic investment in PrizeKings, a technology-led prize draw business building transparent, locally relevant competition platforms for fast-growing...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Vyking Ventures, the investment arm of Vyking, today announced a strategic investment in PrizeKings, a technology-led prize draw business building transparent, locally relevant competition platforms for fast-growing... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/promoted/vyking-ventures-announces-strategic-investment-prizekings/",
+    "tags": [
+      "Bally's",
+      "Regulation"
     ]
   },
   {
@@ -218,6 +255,55 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Dutch regulator raps Betnation over self-exclusion failures",
+    "meta": "NEXT.io | 15 Jun 2026",
+    "summary": "The KSA has warned Smart Gaming, the company behind the Betnation brand, for failing to comply with self-exclusion rules.",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The KSA has warned Smart Gaming, the company behind the Betnation brand, for failing to comply with self-exclusion rules. Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://next.io/news/regulation/dutch-regulator-raps-betnation-self-exclusion-failures/",
+    "tags": [
+      "Regulation",
+      "RG"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "BYD Stock News Today | Earnings, Events & Price Alerts - Intellectia AI",
+    "meta": "Google News: EveryMatrix watchlist | 16 Jun 2026",
+    "summary": "BYD Stock News Today | Earnings, Events & Price Alerts Intellectia AI",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "BYD Stock News Today | Earnings, Events & Price Alerts Intellectia AI Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LakpIRWMxR043c05HYzhnS0JjeDhYc3Ricl9ncUo0STJHY0U3Y3laemxhWWFBUlE0M1hpTTFQNHBOUGhMYWhjQ2lrb3daRHZFWlE?oc=5",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Slotegrator bringing prediction market engine to iGB L!VE",
+    "meta": "NEXT.io | 17 Jun 2026",
+    "summary": "Slotegrator, a leading iGaming software and business solution provider, will be providing demos of its solutions at stand S44 at this year’s iGB L!VE, held on 1-2 July at ExCeL London. The highlight will be the demo of Predictor...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Slotegrator, a leading iGaming software and business solution provider, will be providing demos of its solutions at stand S44 at this year’s iGB L!VE, held on 1-2 July at ExCeL London. The highlight will be the demo of Predictor... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://next.io/news/b2b-news/slotegrator-bringing-prediction-market-engine-to-igb-lve/",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Elections, Bitcoin, and the Australian Open: Slotegrator breaks down prediction markets in new ebook",
+    "meta": "NEXT.io | 16 Jun 2026",
+    "summary": "Annual trading volume in the prediction market vertical grew from $500 million to $64 billion in only three years. What’s behind their explosive popularity? In a new ebook, Slotegrator lays out why this latest evolution in...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Annual trading volume in the prediction market vertical grew from $500 million to $64 billion in only three years. What’s behind their explosive popularity? In a new ebook, Slotegrator lays out why this latest evolution in... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://next.io/news/b2b-news/slotegrator-breaks-down-prediction-markets-in-new-ebook/",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
     "section": "Europe",
     "title": "IGB Approves Extensions of Chicago and Waukegan Temporary Casino Operations - RiverBender.com",
     "meta": "Google News: EveryMatrix watchlist | 15 Jun 2026",
@@ -267,16 +353,6 @@ window.briefingStories = [
       "Payments",
       "Asia"
     ]
-  },
-  {
-    "section": "Product",
-    "title": "Spotting Winners: PENN Entertainment (NASDAQ:PENN) And Consumer Discretionary - Casino Operator Stocks In Q1 - TradingView",
-    "meta": "Google News: EveryMatrix watchlist | 16 Jun 2026",
-    "summary": "Spotting Winners: PENN Entertainment (NASDAQ:PENN) And Consumer Discretionary - Casino Operator Stocks In Q1 TradingView",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Spotting Winners: PENN Entertainment (NASDAQ:PENN) And Consumer Discretionary - Casino Operator Stocks In Q1 TradingView Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTHM5a09VS1ZFTkVXQktsQTRSOFhRMlJSVERJcjg0YVVmZERXeGh6MXAyS01JZHY5ekdZblR6blI3MlNiTVBNR3g4OHduTXNrWTI3YzRlQl94ellHTGpPQUgwM2RIbzFmUGYzNTU4MW9WOWdCYWw0RUJwV005Q2Nva2hjY2ZwdG5rTHJUd05PNTdBaE12MVZ2REtUdmZjaUxiVHhFN3RnRTBxS0lsR0EyMEEtZ3E0aEliV2kwblU2SnlJZlBYc3NuZWgzU0tfRTMwZ0VPV2RVYTZER3ZBaERWT2UyUVExLWtKWW1scTF5Q1QycmlrVnhF?oc=5",
-    "tags": []
   },
   {
     "section": "Europe",
@@ -332,90 +408,17 @@ window.briefingStories = [
   },
   {
     "section": "Europe",
-    "title": "BetAhoy steps up UK operations with EveryMatrix link-up - iGaming Expert",
-    "meta": "Google News: EveryMatrix watchlist | 16 Jun 2026",
-    "summary": "BetAhoy steps up UK operations with EveryMatrix link-up iGaming Expert",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "BetAhoy steps up UK operations with EveryMatrix link-up iGaming Expert Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zTmVQTzg0WlJvSUhRVWMzWmpqNnJXT05HdVVYdzBkbnBVTUUwR0t1TzJISmJsWGVYLXNEMkltLVNuWG96X3dlZktnWmNocHhCaWNLdE1ZOGo5NVA4ODBfaWl0RkREOG9WZUM0Tk50dUZiQ0lHTHFhVVlHeThVS2PSAYcBQVVfeXFMT0FZaUxxMVcyQzNNZlNDbXFtUzFPcjFZaDMwSGN3U1dxV2dLZnBWckJrMU5yMVliQzlURllpemtVeWYtQjI5Smh4Y2gxaDNDT0RwTTZ4UjZfR1RNbkV1SUltYXc5SjJ4YVR6VHhfU1dMNlZjV1hKakhRcjIxemo2WWt3RTlRV3FR?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Best new casino sites in the UK (June 2026) – Find top new casinos - talkSPORT",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
-    "tags": [
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Revealed: sophisticated network driving illegal gambling promotion across UK social media - Entain",
-    "meta": "Google News: regulation | 17 Jun 2026",
-    "summary": "Revealed: sophisticated network driving illegal gambling promotion across UK social media Entain",
+    "title": "Entain: Illegal operators targeting young UK men amid World Cup",
+    "meta": "NEXT.io | 17 Jun 2026",
+    "summary": "Entain has published research laying bare the scale of unregulated gambling promotion embedded in social media for young people in the UK.",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Revealed: sophisticated network driving illegal gambling promotion across UK social media Entain Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNblF3R1dnXzQ2X3N5WmwtUi1ZNHJlZm9zblBzTEhPbjg0MkZLaWF6Vkd0eklwU25oSkFRWU5FOGRTaXBZWVRXY0Z4V19ZQ3FvU25OQzhvY0NnTFpNYWlMWWpkTTYycG5obVM3S1BEZ1pLblY1d2dsWHZoeEx0cjNCUklpUHFCZWtmNzFuZHlNUG02RmZQUVl4NDBJQ3dHMmswcG1oUnEwTTZKZV84U1BfY3otVFAtSkJGYVZFVXpVT2FzSnNlQ3Zram1tM0JzNVJmWmNXdTI4cTNnUG9MbXdHM01B?oc=5",
+    "expanded": "Entain has published research laying bare the scale of unregulated gambling promotion embedded in social media for young people in the UK. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/regulation/entain-illegal-operators-targeting-young-men-world-cup/",
     "tags": [
+      "Regulation",
       "Black market",
       "CRM",
       "UK"
     ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "OpenBet and Veikkaus advance responsible gambling efforts with Neccton AI integration - Asia Gaming Brief",
-    "meta": "Google News: regulation | 17 Jun 2026",
-    "summary": "OpenBet and Veikkaus advance responsible gambling efforts with Neccton AI integration Asia Gaming Brief",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "OpenBet and Veikkaus advance responsible gambling efforts with Neccton AI integration Asia Gaming Brief Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbXN5cm9WNzJ3ZzdYR2RwcVVNWkxsNGtMcjVGLTJGeldUR2htT0pwNzB2cDFmM3VEbGx6a3ozejRKcHk3VGUxWE8xVzd4LXZIRnlXNzhobGVhNzJDdGNsWUlEakZ6QXhVTHVyQmctOGhscXdRdXRQTGRiM011a2NtR2g1ZUF4RUV0c0lGY09LUDFMSEcxUkwxT0hnU0gtb1ZkUWtaUU9qUFo3azFJVXZBVGFkcEo3Y1JoaFhkZHplaTN5b0pmNVRFZg?oc=5",
-    "tags": [
-      "RG",
-      "AI",
-      "Asia"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "UK's Betting and Gaming Council urges tougher action against illegal gambling market",
-    "meta": "Google News: regulation | 16 Jun 2026",
-    "summary": "UK's Betting and Gaming Council urges tougher action against illegal gambling market Yogonet",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "UK's Betting and Gaming Council urges tougher action against illegal gambling market Yogonet Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUlJvQU1abnd3RS1CZWpEYTJWYm4tSnFTclAyYWRrV0pmUm9tQUtDN2xNWG1adXNsLWpYS0FJVVF0SWlobW5PN3lPX01fVG96LWZKX0JWdk1KUnYxa045d2IxVGlUSDJoUnVNVWxSeGVpdFY4ZXNKbnRNWEdpeVVRaW8zc19Ec0RhR3ZjR01lMlkxa3d6aXdTWUludk1JN2JoT3ZiQ2xMV0pndWJCSHlnLU9yaS1Nbk1NNlk2WUlBRUZwWDJzOGZBeUZJVmtPN05la1VEZVlDTXZuUHJJMXdGbA?oc=5",
-    "tags": [
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Police raid illegal gambling operation in Waianae, suspect arrested, $8K seized - KITV",
-    "meta": "Google News: regulation | 16 Jun 2026",
-    "summary": "Police raid illegal gambling operation in Waianae, suspect arrested, $8K seized KITV",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Police raid illegal gambling operation in Waianae, suspect arrested, $8K seized KITV Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd1AxTTI4NmNRSG9aVFRvUjQ4TXFLWUxtQ1NUZGdiWG5IbjNvWUQ0cjBtMkk5X0ZET2JiQi16Q0lBdXY1VXozQ3BtdzJjUkhZRnBhRDJ0ZF9fMHJMSUxyMXVUQXFlbDBvRnZvaHR3aGpJSHhFdDMycnk3d0NYQkJRV0xaMVhwaG5KZmZQdTFIVDFpRUtXMkxTTy1NNFpuQmk3Ymlockk1X19IVXE2NGdwczhfaW5mSFFRejFOQUNNeEhOYzF6VEhNYzlpNlVnQjZ4SzlMZGVQdkwycmc1azVteDJoN3RjVmxqemp6Wg?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Veikkaus deploys OpenBet Neccton RG platform",
-    "meta": "Google News: regulation | 16 Jun 2026",
-    "summary": "Veikkaus deploys OpenBet Neccton RG platform European Gaming",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "Veikkaus deploys OpenBet Neccton RG platform European Gaming Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNHZGOFFVM2VQLWRiUFdET3RnWGNQRV9QU2pYSWQ4RmhHeDlsWVRBTGRKTFlQLWR3U2ItRVRLVGI0eGYyT0s4R2JRaU52Q1NWUWZlc01td3ZBVEpxdnJXZ2lHUXU2VzhrQjhET0NJN1U2czZKV2RLWGUyWVRJNzJhZXdBa20xQnlBWXBsVmU4VXI0SkVZMG84V2tBT0p6dTBDemZlTnJtRUdjNlVZNmxCNi10TjJOMkZfdHZHYlRMaGk1RG9HdXV0d3dvZUhJU0VlX0k0R1JadVRjMGRaaWVz?oc=5",
-    "tags": []
   }
 ];

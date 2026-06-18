@@ -2,6 +2,14 @@ window.briefingMeta = {
   "dateLabel": "Thursday, 18 June 2026 | automated public-site edition",
   "atAGlance": [
     {
+      "title": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks - Casino.org",
+      "text": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks Casino.org",
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
+      "tags": [
+        "Prediction markets"
+      ]
+    },
+    {
       "title": "Double Dutch drama as regulator fends off black market and predictions",
       "text": "The Dutch gambling regulator has made good on its word to hit predictions market giant Polymarket with financial penalties, charging the company €420,000 (£363,000). Back in February, Polymarket was warned that it would be hit...",
       "source": "https://sbcnews.co.uk/europe/2026/06/17/polymarket-penalised-netherlands/",
@@ -13,11 +21,14 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Betting and Gaming Council urges tech giants to join illegal gambling fight - igamingbusiness.com",
-      "text": "Betting and Gaming Council urges tech giants to join illegal gambling fight igamingbusiness.com",
-      "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXZ5NlQ4Rko3a0JRMzlqSC16VW5GdF8zQ2REYVMxNl80UnR2TWNwaU5pWHVocWhzSjlMZWR3Uzh6QnMyMzZrY2Z1aXM1bUlKN2FmUmItbUJKSFdaaE4tWFJpdGk3NVRrYl9lSlgwOFZlenNYTFJvbUo4b3BDQVhmbHQ4T3YwalVyNVBfYzZtYUFBZ0Iwa1F3Yk5ITWhTeXdXUlA4WWZ3b28yZ3lsQ0xfWmp3ZmpJcXZQYUxaN2Vn?oc=5",
+      "title": "Cayuga Nation Sues Caesars Over Reservation Betting, Cites Kalshi Ruling",
+      "text": "The lawsuit seeks damages for wagers allegedly accepted on Cayuga reservation land and relies in part on the recent Ho-Chunk v. Kalshi ruling. New York’s Cayuga Nation has sued Caesars Sportsbook in federal court, alleging the...",
+      "source": "https://www.gamblinginsider.com/news/167433/cayuga-nation-sues-caesars-tribal-gaming-dispute",
       "tags": [
-        "Black market"
+        "Prediction markets",
+        "Black market",
+        "US",
+        "Asia"
       ]
     },
     {
@@ -33,15 +44,6 @@ window.briefingMeta = {
       "title": "Kentucky AG sues Kalshi, Polymarket for running 'illegal gambling’ platforms - Lexington Herald Leader",
       "text": "Kentucky AG sues Kalshi, Polymarket for running 'illegal gambling’ platforms Lexington Herald Leader",
       "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZG9pd2NidXpWSkJzYThkYlhJdEsyRTVfMndBNXVrMWg3dndGMFFEZ3pFcjRZUVNURUJyTkswalpSYUI3VG9wZzU2VjVnUHRWRWhyX1FtbG1kZUZaMFVtNjVWcnZuUmF3eE1yNNIBbEFVX3lxTE9pZjNmU25QSUgtcHR2ZWdJc2VHMkhVZjFFYm5GQXZaTUNCeUlFc1ZLNVlrb0xuVk1rOGhGRFFicks4VDZGYkI1VnJ4akpkZUxnYmxlb2ViVmhxbEhVUlNqWHh0T1lWUnNWQ2dHQg?oc=5",
-      "tags": [
-        "Prediction markets",
-        "Black market"
-      ]
-    },
-    {
-      "title": "Kentucky attorney general sues Kalshi, Polymarket and VGW over illegal gambling claims - LEX18",
-      "text": "Kentucky attorney general sues Kalshi, Polymarket and VGW over illegal gambling claims LEX18",
-      "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORUlfNkVMTjMtN3Jpb3BEVjVwY1BZbGZQTlNmRmNhb01KRFh3TE00akhCSVpESHZFTXgtUEFvU3JkZmdLU3JnSWU5WVY3WVJELVJkYTUtTk1VWWFRZnZlN2U4UURBVWNvM2VxWC1oTmlfOEpNdVAzT1F3WFBTbXo5RjR3d21HZGlySVQyVVlOM3M2Y2dGU0xUSlBIX29BYUM0TndQVFZ3YlNKVnAtMWc5Y0dFV0E2TklyNVd4UVN1RHB6elN5VmtPRXd3?oc=5",
       "tags": [
         "Prediction markets",
         "Black market"
@@ -64,19 +66,31 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://sbcnews.co.uk/europe/2026/06/17/polymarket-penalised-netherlands/",
-      "sourceLabel": "SBC News"
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
+      "sourceLabel": "Google News: EveryMatrix watchlist"
     },
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://www.ggrasia.com/former-star-entertainment-ceo-legal-chief-fined-and-banned-from-management-roles-over-aml-failures?utm_source=rss&utm_medium=rss&utm_campaign=former-star-entertainment-ceo-legal-chief-fined-and-banned-from-management-roles-over-aml-failures",
-      "sourceLabel": "GGRAsia"
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
+      "sourceLabel": "Google News: EveryMatrix watchlist"
     }
   ]
 };
 
 window.briefingStories = [
+  {
+    "section": "Product",
+    "title": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks - Casino.org",
+    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
+    "summary": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks Casino.org",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks Casino.org Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
   {
     "section": "North America",
     "title": "Double Dutch drama as regulator fends off black market and predictions",
@@ -93,15 +107,18 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Betting and Gaming Council urges tech giants to join illegal gambling fight - igamingbusiness.com",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "Betting and Gaming Council urges tech giants to join illegal gambling fight igamingbusiness.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Betting and Gaming Council urges tech giants to join illegal gambling fight igamingbusiness.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVXZ5NlQ4Rko3a0JRMzlqSC16VW5GdF8zQ2REYVMxNl80UnR2TWNwaU5pWHVocWhzSjlMZWR3Uzh6QnMyMzZrY2Z1aXM1bUlKN2FmUmItbUJKSFdaaE4tWFJpdGk3NVRrYl9lSlgwOFZlenNYTFJvbUo4b3BDQVhmbHQ4T3YwalVyNVBfYzZtYUFBZ0Iwa1F3Yk5ITWhTeXdXUlA4WWZ3b28yZ3lsQ0xfWmp3ZmpJcXZQYUxaN2Vn?oc=5",
+    "section": "Asia / Oceania",
+    "title": "Cayuga Nation Sues Caesars Over Reservation Betting, Cites Kalshi Ruling",
+    "meta": "Gambling Insider | 18 Jun 2026",
+    "summary": "The lawsuit seeks damages for wagers allegedly accepted on Cayuga reservation land and relies in part on the recent Ho-Chunk v. Kalshi ruling. New York’s Cayuga Nation has sued Caesars Sportsbook in federal court, alleging the...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The lawsuit seeks damages for wagers allegedly accepted on Cayuga reservation land and relies in part on the recent Ho-Chunk v. Kalshi ruling. New York’s Cayuga Nation has sued Caesars Sportsbook in federal court, alleging the... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/167433/cayuga-nation-sues-caesars-tribal-gaming-dispute",
     "tags": [
-      "Black market"
+      "Prediction markets",
+      "Black market",
+      "US",
+      "Asia"
     ]
   },
   {
@@ -348,19 +365,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "The many faces of bonus abuse – and the challenge of the organised syndicates",
-    "meta": "iGaming Business | 17 Jun 2026",
-    "summary": "Bonus abuse has many faces – and operators that believe it can be managed as a standalone and sporadic problem are underestimating the scale of the problem, according to EveryMatrix’s Tetiana Dychenko and Stian Enger Pettersen.",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Bonus abuse has many faces – and operators that believe it can be managed as a standalone and sporadic problem are underestimating the scale of the problem, according to EveryMatrix’s Tetiana Dychenko and Stian Enger Pettersen. Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://igamingbusiness.com/tech-innovation/fraud/many-faces-bonus-abuse/",
-    "tags": [
-      "EveryMatrix",
-      "CRM"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Bill Requiring Online Sportsbooks, Casinos to Geoblock Schools Introduced in Pennsylvania",
     "meta": "Gambling Insider | 17 Jun 2026",
@@ -385,21 +389,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Entain: Illegal operators targeting young UK men amid World Cup",
-    "meta": "NEXT.io | 17 Jun 2026",
-    "summary": "Entain has published research laying bare the scale of unregulated gambling promotion embedded in social media for young people in the UK.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Entain has published research laying bare the scale of unregulated gambling promotion embedded in social media for young people in the UK. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/entain-illegal-operators-targeting-young-men-world-cup/",
-    "tags": [
-      "Regulation",
-      "Black market",
-      "CRM",
-      "UK"
-    ]
-  },
-  {
     "section": "Other / Global",
     "title": "EveryMatrix powers another record-breaking €2 million jackpot win for ATG Casino - igamingbusiness.com",
     "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
@@ -409,6 +398,18 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0Q0SFY2MkZOS3FPOGR0Y2xBdkswSklrTC1tdkVDc3hrV3d0NTZHcEtPQXdlNl9QejJ3WU5yTFN2MFNwSGI3aVo0el9vaFhhQzRkWW9vNDU5bGZSWmRNd0Q3NTFqNEcyUktsNjJyX3U3OFdMc3g5Y0lvc2tDc3EtbUpOaklTYUhBVHRaajV5YmpJX0pLallBTDdUVDk3V3Rra1hiYjM2QzlNcGtwYUlRY3hDRjF2MDBNTUxtSFRIaw?oc=5",
     "tags": [
       "EveryMatrix"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Indiana sportsbooks take $428.2 million in May wagers - gamingintelligence.com",
+    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
+    "summary": "Indiana sportsbooks take $428.2 million in May wagers gamingintelligence.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Indiana sportsbooks take $428.2 million in May wagers gamingintelligence.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXl0VVUyOXlGaGgxdVNYWFllclZSQ0Niam82dUx3M2h2LTlHQnVWbzRZRVJhRTNxT2luSlRObWtWV1FLS0xtaDJVSjVESnRpMXZBdDRsaVhNQTR3ZklMRmVZSU1SMENsbkZZZDlVWjhwNGZtNXg0QzYtNm5jVnZXeGgySlZNeWFSRFFiOGxnY3hmS29ubFpEOXBFRUlOQmYyVnJTZjB3?oc=5",
+    "tags": [
+      "Asia"
     ]
   }
 ];

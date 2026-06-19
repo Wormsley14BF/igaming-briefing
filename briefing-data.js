@@ -1,23 +1,32 @@
 window.briefingMeta = {
-  "dateLabel": "Thursday, 18 June 2026 | automated public-site edition",
+  "dateLabel": "Friday, 19 June 2026 | automated public-site edition",
   "atAGlance": [
     {
-      "title": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks - Casino.org",
-      "text": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks Casino.org",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
+      "title": "Nine European regulators coordinate crackdown against prediction markets",
+      "text": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi.",
+      "source": "https://igamingbusiness.com/prediction-markets/nine-european-regulators-coordinate-crackdown-unlicensed-prediction-markets/",
       "tags": [
-        "Prediction markets"
+        "Prediction markets",
+        "Regulation"
       ]
     },
     {
-      "title": "Double Dutch drama as regulator fends off black market and predictions",
-      "text": "The Dutch gambling regulator has made good on its word to hit predictions market giant Polymarket with financial penalties, charging the company €420,000 (£363,000). Back in February, Polymarket was warned that it would be hit...",
-      "source": "https://sbcnews.co.uk/europe/2026/06/17/polymarket-penalised-netherlands/",
+      "title": "New networking formats and prediction market debates stole the spotlight at SBC Summit Americas 2026",
+      "text": "SBC Summit Americas 2026 welcomed industry professionals from across North and Latin America last week, with discussions around prediction markets and a series of new networking initiatives earning strong praise from attendees....",
+      "source": "https://sbcnews.co.uk/events/2026/06/18/new-networking-formats-and-prediction-market-debates-stole-the-spotlight-at-sbc-summit-americas-2026/",
+      "tags": [
+        "Prediction markets",
+        "Regulation"
+      ]
+    },
+    {
+      "title": "Kentucky AG Sues Kalshi, Polymarket, VGW Over Alleged Illegal Gambling Operations",
+      "text": "The lawsuits accuse Kalshi and Polymarket of operating unlicensed sportsbooks and target VGW’s sweepstakes casino brands, including Chumba Casino and LuckyLand Slots. Kentucky Attorney General Russell Coleman filed three...",
+      "source": "https://www.gamblinginsider.com/news/167600/kentucky-ag-sues-kalshi-polymarket-vgw-illegal-gambling",
       "tags": [
         "Prediction markets",
         "Regulation",
-        "Black market",
-        "US"
+        "Black market"
       ]
     },
     {
@@ -32,21 +41,13 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Former Star Entertainment CEO, legal chief fined and banned from management roles over AML failures",
-      "text": "Two former senior executives of casino operator The Star Entertainment Group Ltd have been fined and disqualified from managing companies after an Australian Federal Court judge found they breached their duties in relation to...",
-      "source": "https://www.ggrasia.com/former-star-entertainment-ceo-legal-chief-fined-and-banned-from-management-roles-over-aml-failures?utm_source=rss&utm_medium=rss&utm_campaign=former-star-entertainment-ceo-legal-chief-fined-and-banned-from-management-roles-over-aml-failures",
-      "tags": [
-        "Regulation",
-        "KYC"
-      ]
-    },
-    {
-      "title": "Kentucky AG sues Kalshi, Polymarket for running 'illegal gambling’ platforms - Lexington Herald Leader",
-      "text": "Kentucky AG sues Kalshi, Polymarket for running 'illegal gambling’ platforms Lexington Herald Leader",
-      "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QZG9pd2NidXpWSkJzYThkYlhJdEsyRTVfMndBNXVrMWg3dndGMFFEZ3pFcjRZUVNURUJyTkswalpSYUI3VG9wZzU2VjVnUHRWRWhyX1FtbG1kZUZaMFVtNjVWcnZuUmF3eE1yNNIBbEFVX3lxTE9pZjNmU25QSUgtcHR2ZWdJc2VHMkhVZjFFYm5GQXZaTUNCeUlFc1ZLNVlrb0xuVk1rOGhGRFFicks4VDZGYkI1VnJ4akpkZUxnYmxlb2ViVmhxbEhVUlNqWHh0T1lWUnNWQ2dHQg?oc=5",
+      "title": "Michigan judge allows state regulators to pursue action against Polymarket",
+      "text": "The ruling dismisses Polymarket’s argument that its event contracts qualify as financial derivatives subject to exclusive federal oversight. US.- Paul L. Maloney, a federal judge, has refused to grant a preliminary injunction...",
+      "source": "https://focusgn.com/michigan-judge-allows-state-regulators-to-pursue-action-against-polymarket",
       "tags": [
         "Prediction markets",
-        "Black market"
+        "Regulation",
+        "US"
       ]
     }
   ],
@@ -54,8 +55,8 @@ window.briefingMeta = {
     {
       "title": "Payments and channelisation",
       "text": "Payment flows, illegal-market blocking and cashier restrictions remain core platform-control areas.",
-      "source": "https://sbcnews.co.uk/europe/2026/06/17/polymarket-penalised-netherlands/",
-      "sourceLabel": "SBC News"
+      "source": "https://www.gamblinginsider.com/news/167600/kentucky-ag-sues-kalshi-polymarket-vgw-illegal-gambling",
+      "sourceLabel": "Gambling Insider"
     },
     {
       "title": "Risk checks are becoming product workflows",
@@ -66,44 +67,57 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
-      "sourceLabel": "Google News: EveryMatrix watchlist"
+      "source": "https://igamingbusiness.com/prediction-markets/nine-european-regulators-coordinate-crackdown-unlicensed-prediction-markets/",
+      "sourceLabel": "iGaming Business"
     },
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
-      "sourceLabel": "Google News: EveryMatrix watchlist"
+      "source": "https://igamingbusiness.com/prediction-markets/nine-european-regulators-coordinate-crackdown-unlicensed-prediction-markets/",
+      "sourceLabel": "iGaming Business"
     }
   ]
 };
 
 window.briefingStories = [
   {
-    "section": "Product",
-    "title": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks - Casino.org",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks Casino.org",
+    "section": "North America",
+    "title": "Nine European regulators coordinate crackdown against prediction markets",
+    "meta": "iGaming Business | 18 Jun 2026",
+    "summary": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi.",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Dreary Memorial Day Rains on Atlantic City, While Prediction Markets Batter NJ Sportsbooks Casino.org Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
+    "expanded": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/prediction-markets/nine-european-regulators-coordinate-crackdown-unlicensed-prediction-markets/",
     "tags": [
-      "Prediction markets"
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "New networking formats and prediction market debates stole the spotlight at SBC Summit Americas 2026",
+    "meta": "SBC News | 18 Jun 2026",
+    "summary": "SBC Summit Americas 2026 welcomed industry professionals from across North and Latin America last week, with discussions around prediction markets and a series of new networking initiatives earning strong praise from attendees....",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "SBC Summit Americas 2026 welcomed industry professionals from across North and Latin America last week, with discussions around prediction markets and a series of new networking initiatives earning strong praise from attendees.... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://sbcnews.co.uk/events/2026/06/18/new-networking-formats-and-prediction-market-debates-stole-the-spotlight-at-sbc-summit-americas-2026/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
     ]
   },
   {
     "section": "North America",
-    "title": "Double Dutch drama as regulator fends off black market and predictions",
-    "meta": "SBC News | 17 Jun 2026",
-    "summary": "The Dutch gambling regulator has made good on its word to hit predictions market giant Polymarket with financial penalties, charging the company €420,000 (£363,000). Back in February, Polymarket was warned that it would be hit...",
+    "title": "Kentucky AG Sues Kalshi, Polymarket, VGW Over Alleged Illegal Gambling Operations",
+    "meta": "Gambling Insider | 18 Jun 2026",
+    "summary": "The lawsuits accuse Kalshi and Polymarket of operating unlicensed sportsbooks and target VGW’s sweepstakes casino brands, including Chumba Casino and LuckyLand Slots. Kentucky Attorney General Russell Coleman filed three...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The Dutch gambling regulator has made good on its word to hit predictions market giant Polymarket with financial penalties, charging the company €420,000 (£363,000). Back in February, Polymarket was warned that it would be hit... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://sbcnews.co.uk/europe/2026/06/17/polymarket-penalised-netherlands/",
+    "expanded": "The lawsuits accuse Kalshi and Polymarket of operating unlicensed sportsbooks and target VGW’s sweepstakes casino brands, including Chumba Casino and LuckyLand Slots. Kentucky Attorney General Russell Coleman filed three... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/167600/kentucky-ag-sues-kalshi-polymarket-vgw-illegal-gambling",
     "tags": [
       "Prediction markets",
       "Regulation",
-      "Black market",
-      "US"
+      "Black market"
     ]
   },
   {
@@ -122,6 +136,33 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "Michigan judge allows state regulators to pursue action against Polymarket",
+    "meta": "Focus Gaming News | 19 Jun 2026",
+    "summary": "The ruling dismisses Polymarket’s argument that its event contracts qualify as financial derivatives subject to exclusive federal oversight. US.- Paul L. Maloney, a federal judge, has refused to grant a preliminary injunction...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The ruling dismisses Polymarket’s argument that its event contracts qualify as financial derivatives subject to exclusive federal oversight. US.- Paul L. Maloney, a federal judge, has refused to grant a preliminary injunction... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/michigan-judge-allows-state-regulators-to-pursue-action-against-polymarket",
+    "tags": [
+      "Prediction markets",
+      "Regulation",
+      "US"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "European gambling regulators issue joint warning over prediction market risks",
+    "meta": "Focus Gaming News | 18 Jun 2026",
+    "summary": "Nine European gambling regulators have pledged to cooperate across borders and increase monitoring throughout the 2026 FIFA World Cup. Gambling regulators from Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal,...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Nine European gambling regulators have pledged to cooperate across borders and increase monitoring throughout the 2026 FIFA World Cup. Gambling regulators from Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal,... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/european-gambling-regulators-issue-joint-warning-over-prediction-market-risks",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
     "section": "Asia / Oceania",
     "title": "Former Star Entertainment CEO, legal chief fined and banned from management roles over AML failures",
     "meta": "GGRAsia | 18 Jun 2026",
@@ -132,6 +173,55 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "KYC"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate",
+    "meta": "Google News: EveryMatrix watchlist | 19 Jun 2026",
+    "summary": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate Gambling Insider",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate Gambling Insider Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1ZMVFc0bjd6NU0wSFZWRGw5QXlvNWZDRnBvWnJCTTJzQkszbTRBVFQwcEFCMUdfb3VrTlNNbGpTa0ZiMW8yMkpMb3JEaWVfNzd3VTZVOFFCVERTdjUzUTN0a20wVF9Oc2l1amNMQmRCSjVsc3hfTWxvVUg2Ym1tbUhXaGI0T0pCZHZxc19IYnRTdmdJeG4ycDBIMDI?oc=5",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Chicago City Council rejects proposal to ban sweepstakes machines",
+    "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
+    "summary": "Chicago City Council rejects proposal to ban sweepstakes machines Yogonet",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Chicago City Council rejects proposal to ban sweepstakes machines Yogonet Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWkM3azBWTGdCVG84d2JmSmRuOW9tNUxFZUtTUUNrYW9KUFNKVUU5U0xac0F3RlRwMjMzeVBhT0M4TDBKZG1zMXRkNHZZU0w0OVNSR3hWT1JqTTFNbnJtYUc0UEJzeEJ5cGJKWmxReXMxYndDSmVwRUN1TGxRMkV6RlFWX3pnSC16N3duS19pNVdkdGFWY3pxblVKV1h4VGtJcFNJdTFPSlZjN3VodXhIS2hkcU02WndXd2ZrRDI3dDIwYlMy?oc=5",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Chicago discards proposed ban on unregulated ‘sweepstakes machines’ - The Center Square",
+    "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
+    "summary": "Chicago discards proposed ban on unregulated ‘sweepstakes machines’ The Center Square",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Chicago discards proposed ban on unregulated ‘sweepstakes machines’ The Center Square Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVY5bmExTmpBMkdSLVNGcG1lS1FKUGZsaWlpdzBoTm9ydktFWEJVVlpfSjZTa21jZUFnT1ZXYl9XYzlaMVlhLW1CRkw1WS04b0Jqcm5GbFhQMi1XZG45eG0zYXBIRy1SUE1YRGJJcXh0c2VqZHU2bWprVmptb1BaekpTZThpWHVRcHRidzZLZEpwZVo30gGaAUFVX3lxTE9HWUMycG5yV3hoZ0ZCUFp6RTQ0dTQ0cW1iRDk3Z1U5NXBITmI0bjViUXhpRzB4TjNRNmpObXNsMDRXR19NUlROajlWYXQ0VVlTWHQ5RXA1eG45Yy1ULVBaNE0wTDUtU18yVUQ3dlR0THBGMlZIRlItcWdJRXd6ZEpRcWIxZmo4RGZBVV8zYmRNLUEzcU1wOFZpdlE?oc=5",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Kentucky AG sues Kalshi, Polymarket for running illegal gambling platforms - MSN",
+    "meta": "Google News: regulation | 18 Jun 2026",
+    "summary": "Kentucky AG sues Kalshi, Polymarket for running illegal gambling platforms MSN",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Kentucky AG sues Kalshi, Polymarket for running illegal gambling platforms MSN Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN184YzYxcXo5N0Q1WE0xek9ySmJQTWpHWGp1bHByb0Y1M0g0dURCQWVDT19SS1ZWN3VRQ3prY2VZSy1ITTZBMWt5Z2RVV3U3UUpsS2ZhM2pwTUdPeWZDTUZBSjYyUnNVTHZUS0daaHJIc09KN3NZRFJzTmFUdHU5Z1A5Vi04amtrNHNXMTR1STFqYzZTT0dZdnZ2RmlDR291aXNMQmNfUHowd1NmNDN4UjZkalRNVkU5X01rRldNWQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
     ]
   },
   {
@@ -148,6 +238,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "Why the FATF matters to gambling operators",
+    "meta": "iGaming Business | 18 Jun 2026",
+    "summary": "The global AML watchdog sits outside gambling regulation, yet its decisions can reshape entire markets. How much influence does FATF really have?",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The global AML watchdog sits outside gambling regulation, yet its decisions can reshape entire markets. How much influence does FATF really have? Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://igamingbusiness.com/money-laundering/why-the-fatf-actually-matters-to-gambling-operators/",
+    "tags": [
+      "Regulation",
+      "KYC"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Kentucky attorney general sues Kalshi, Polymarket and VGW over illegal gambling claims - LEX18",
     "meta": "Google News: regulation | 17 Jun 2026",
@@ -161,53 +264,38 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "EveryMatrix powers BetAhoy platform in the United Kingdom - gamingintelligence.com",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFlaV3hnX29PM3JkYTV4aXktMlhPYkRtOURqcGZiRkZrUC03bmVmQWotcWNxOUNzb1g4a3FKTGhGMDlyR0ZtbFNiZXY4ZzMtVzJRSkR5ZkVQS0ZJTzJEdEpsZzdUcm45QkpfWUhfMGp6UnpwVmo2Q2hfZ3VZTHNzdUhhT1BuaWFIUi1UYUtVX0doR0hOVzdlS0NGdjd0ZERBT0gzVnNncFRkSXBNRlZOSTF4YVhMcXM?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "UK"
-    ]
-  },
-  {
     "section": "Product",
-    "title": "Former Bally’s exec appointed as CEO of Star Brisbane and Gold Coast",
-    "meta": "NEXT.io | 16 Jun 2026",
-    "summary": "Ameet Patel has been announced as the new dual CEO of two properties owned by The Star Entertainment.",
+    "title": "What’s Happening at Bally’s Lincoln Casino & Resort this June - WPRI.com",
+    "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
+    "summary": "What’s Happening at Bally’s Lincoln Casino & Resort this June WPRI.com",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Ameet Patel has been announced as the new dual CEO of two properties owned by The Star Entertainment. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/people/former-ballys-exec-ceo-star-brisbane-gold-coast/",
-    "tags": [
-      "Bally's",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "DELULU Gaming welcomes SOFTSWISS as Strategic Technology Partner for its Soft Launch Dinner in London",
-    "meta": "NEXT.io | 17 Jun 2026",
-    "summary": "The private event will introduce DELULU Gaming to a curated circle of C-level iGaming leaders, supported by SOFTSWISS’ technology expertise and trusted partner ecosystem. For DELULU Gaming, the collaboration marks an important...",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "The private event will introduce DELULU Gaming to a curated circle of C-level iGaming leaders, supported by SOFTSWISS’ technology expertise and trusted partner ecosystem. For DELULU Gaming, the collaboration marks an important... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://next.io/news/b2b-news/delulu-gaming-softswiss-strategic-technology-partner/",
+    "expanded": "What’s Happening at Bally’s Lincoln Casino & Resort this June WPRI.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUdGQmNBRUwwWTJoT2I1TjZpUXVMWlJvSHNMV0w0bFFJWi03VkZhMXphd05CXzVhVnBSSHNHQ3VadkFmZ0Z1Q1ozNjU1SmNGNGNmYUNBcFpjemNFdGJ0bEViRkU3QnQxZUhjaUpfRGhCdUp1dGV4Y09ZQWhaM0luWHJ1NnNNdURUWElmZEdGR2dzanNa0gGaAUFVX3lxTE1ad0doNmFfa2JiX0pkb05pTkZsVlpxRGt0YkNfUkg5WnFsYWxzc1Q1dlZhZTBUWWlRbGd6U25hX1BJeUowUV90aERpTHZIbHU4czFjOXRYXzlJNGcyLWF2SzVFT0twc09YaEVJcXVMRmUydjBRYmxaZmUxenBEQ1pJS0lRdWw2V25fM0FxRDN5WWd4cmtCUEZGSUE?oc=5",
     "tags": [
       "Bally's"
     ]
   },
   {
-    "section": "North America",
-    "title": "Gaming Industry Veteran Laila Mintas Seeks CFTC Approval for 365Prediction Exchange",
-    "meta": "Gambling Insider | 16 Jun 2026",
-    "summary": "Mintas has publicly advocated for prediction markets for months. Now, her startup is seeking federal approval to launch its own exchange. 365Prediction, a prediction market startup founded by gaming industry veteran Laila...",
+    "section": "Europe",
+    "title": "Europe forms international blockade against prediction markets",
+    "meta": "SBC News | 18 Jun 2026",
+    "summary": "Nine European countries have come together to monitor and prevent prediction market activity within their jurisdictions during the FIFA World Cup. Spain, France, Germany, Italy, Portugal, Belgium, the Netherlands, Poland, and...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Mintas has publicly advocated for prediction markets for months. Now, her startup is seeking federal approval to launch its own exchange. 365Prediction, a prediction market startup founded by gaming industry veteran Laila... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/167182/365prediction-laila-mintas-cftc-exchange",
+    "expanded": "Nine European countries have come together to monitor and prevent prediction market activity within their jurisdictions during the FIFA World Cup. Spain, France, Germany, Italy, Portugal, Belgium, the Netherlands, Poland, and... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://sbcnews.co.uk/europe/2026/06/18/europe-countries-prediction-markets/",
     "tags": [
-      "Prediction markets",
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Mayoral allies snuff out Ald. Beale's bid to ban sweepstakes machines to maximize take from video gambling - Chicago Sun-Times",
+    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
+    "summary": "Mayoral allies snuff out Ald. Beale's bid to ban sweepstakes machines to maximize take from video gambling Chicago Sun-Times",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Mayoral allies snuff out Ald. Beale's bid to ban sweepstakes machines to maximize take from video gambling Chicago Sun-Times Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY1lzdlh6cmdTMEdGX0p6TWZzbmRSal93Wklud2Zjd2tjWFVMZ3pmV0Nrc3JtWWFibkJuNHA5TnM5WnBZN2hadDdBc0l0UlVWVDJFbDFwZUZNcld0TUpSUnYxd0NORE96WmlnTm1mWlJjblYtWUUzTnZrTGdlcm5KbFVhTjh0SE82cE50OTBNX2NpLWhrSjdEbE5xMXdxNm5MU1ZjUEI4RWdrZ3U4MS1PbzBKZ0pTSGF4M3BNclpYYmJsRUNHVjFvTDdtcGFGRzdid0MwUDBpTjNTc0V2?oc=5",
+    "tags": [
       "Regulation"
     ]
   },
@@ -224,75 +312,63 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "GGL targets ADI Predictstreet, claiming its World Cup advertising breaches gambling ad rules",
+    "meta": "iGaming Business | 18 Jun 2026",
+    "summary": "The German regulator is reviewing the official predictions partner of FIFA's World Cup, as it does not have a licence to operate gambling services in the market.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The German regulator is reviewing the official predictions partner of FIFA's World Cup, as it does not have a licence to operate gambling services in the market. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/marketing-affiliates/ggl-launch-formal-review-adi-predictstreets-world-cup-advertising/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
     "section": "Other / Global",
-    "title": "Mayoral allies snuff out Ald. Beale's bid to ban sweepstakes machines to maximize take from video gambling - Chicago Sun-Times",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "Mayoral allies snuff out Ald. Beale's bid to ban sweepstakes machines to maximize take from video gambling Chicago Sun-Times",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Mayoral allies snuff out Ald. Beale's bid to ban sweepstakes machines to maximize take from video gambling Chicago Sun-Times Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY1lzdlh6cmdTMEdGX0p6TWZzbmRSal93Wklud2Zjd2tjWFVMZ3pmV0Nrc3JtWWFibkJuNHA5TnM5WnBZN2hadDdBc0l0UlVWVDJFbDFwZUZNcld0TUpSUnYxd0NORE96WmlnTm1mWlJjblYtWUUzTnZrTGdlcm5KbFVhTjh0SE82cE50OTBNX2NpLWhrSjdEbE5xMXdxNm5MU1ZjUEI4RWdrZ3U4MS1PbzBKZ0pTSGF4M3BNclpYYmJsRUNHVjFvTDdtcGFGRzdid0MwUDBpTjNTc0V2?oc=5",
+    "title": "PopOK Gaming enters Swiss igaming market with official game certification",
+    "meta": "Focus Gaming News | 18 Jun 2026",
+    "summary": "With this certification, Swiss operators can now seamlessly integrate PopOK Gaming’s portfolio. Press release.- PopOK Gaming has officially secured game certification for the regulated Swiss market. This milestone achievement...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "With this certification, Swiss operators can now seamlessly integrate PopOK Gaming’s portfolio. Press release.- PopOK Gaming has officially secured game certification for the regulated Swiss market. This milestone achievement... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://focusgn.com/popok-gaming-enters-swiss-igaming-market-with-official-game-certification",
     "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Nevada seeks enforcement of court order against Kalshi as California ramps up legal efforts",
-    "meta": "iGaming Business | 16 Jun 2026",
-    "summary": "Two west coast heavyweights, Nevada and California, are exerting new legal pressure on Kalshi, and the figures behind both efforts have a lot at stake.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Two west coast heavyweights, Nevada and California, are exerting new legal pressure on Kalshi, and the figures behind both efforts have a lot at stake. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://igamingbusiness.com/legal-compliance/kalshi-nevada-california-legal-battles/",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Slotegrator bringing prediction market engine to iGB L!VE",
-    "meta": "NEXT.io | 17 Jun 2026",
-    "summary": "Slotegrator, a leading iGaming software and business solution provider, will be providing demos of its solutions at stand S44 at this year’s iGB L!VE, held on 1-2 July at ExCeL London. The highlight will be the demo of Predictor...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Slotegrator, a leading iGaming software and business solution provider, will be providing demos of its solutions at stand S44 at this year’s iGB L!VE, held on 1-2 July at ExCeL London. The highlight will be the demo of Predictor... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://next.io/news/b2b-news/slotegrator-bringing-prediction-market-engine-to-igb-lve/",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Betting and Gaming Council urges tech giants to join illegal gambling fight",
-    "meta": "iGaming Business | 17 Jun 2026",
-    "summary": "The trade body's letter called for improved detection techniques and cross-platform information sharing as big tech features in DCMS Illegal Gambling Taskforce.",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "The trade body's letter called for improved detection techniques and cross-platform information sharing as big tech features in DCMS Illegal Gambling Taskforce. Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://igamingbusiness.com/sustainable-gambling/betting-gaming-council-urges-tech-giants-tackle-illegal-gambling-online/",
-    "tags": [
-      "Black market"
+      "Regulation",
+      "KYC"
     ]
   },
   {
     "section": "Europe",
-    "title": "Bally's Chicago casino gain extensions amid Waukegan lawsuit - ReadWrite",
-    "meta": "Google News: EveryMatrix watchlist | 16 Jun 2026",
-    "summary": "Bally's Chicago casino gain extensions amid Waukegan lawsuit ReadWrite",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally's Chicago casino gain extensions amid Waukegan lawsuit ReadWrite Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUw2YnFCbGYyU3RIdWhZQS1RTjNCaVhYRW0wVTMwaHhUMkZ0WlJ1QWNPV0dqQVN6RDBDMjVZTTBramZNMjIyMHdMc0F6YldBUi1UMFZ0VV9YTkQwdEMtNDhhTjZDdzAzbzBvWmx6VXpjeHROb2pKVW92SDU3S2tINDBuMURzOFJValFrUW9XSkM1UGpTY1E?oc=5",
+    "title": "EveryMatrix powers BetAhoy platform in the United Kingdom - gamingintelligence.com",
+    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
+    "summary": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFlaV3hnX29PM3JkYTV4aXktMlhPYkRtOURqcGZiRkZrUC03bmVmQWotcWNxOUNzb1g4a3FKTGhGMDlyR0ZtbFNiZXY4ZzMtVzJRSkR5ZkVQS0ZJTzJEdEpsZzdUcm45QkpfWUhfMGp6UnpwVmo2Q2hfZ3VZTHNzdUhhT1BuaWFIUi1UYUtVX0doR0hOVzdlS0NGdjd0ZERBT0gzVnNncFRkSXBNRlZOSTF4YVhMcXM?oc=5",
     "tags": [
-      "Bally's",
+      "EveryMatrix",
       "UK"
     ]
   },
   {
-    "section": "Product",
-    "title": "Swedish court upholds Spelinspektionen’s denial of bingo licence for retail terminals",
-    "meta": "iGaming Business | 17 Jun 2026",
-    "summary": "Operator Föreningen Idrottens Spel i Sverige applied for a licence to provide bingo in approximately 297 retail outlets in 2023.",
+    "section": "Europe",
+    "title": "Irish gambling scores low on financial risk scale",
+    "meta": "SBC News | 19 Jun 2026",
+    "summary": "Gambling in Ireland has been green lit as a low risk industry for financial crime, with the exception of online bookmakers and members clubs. The government’s rating comes amid a regulatory shift in Ireland, with the newly...",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Operator Föreningen Idrottens Spel i Sverige applied for a licence to provide bingo in approximately 297 retail outlets in 2023. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/legal-compliance/swedish-court-upholds-gambling-regulators-denial-bingo-licence-retail-terminals/",
+    "expanded": "Gambling in Ireland has been green lit as a low risk industry for financial crime, with the exception of online bookmakers and members clubs. The government’s rating comes amid a regulatory shift in Ireland, with the newly... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/europe/2026/06/19/irish-gambling-risk/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Gibraltar on the hunt for a new Executive Gambling Director",
+    "meta": "SBC News | 18 Jun 2026",
+    "summary": "Gibraltar’s Ministry of Justice, Trade and Industry has begun searching for a new Gambling Commissioner and Executive Director. The vacancy is based out of Europort, Gibraltar, and will involve the strategic overview and...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Gibraltar’s Ministry of Justice, Trade and Industry has begun searching for a new Gambling Commissioner and Executive Director. The vacancy is based out of Europort, Gibraltar, and will involve the strategic overview and... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/igaming/2026/06/18/gibraltar-gambling-director/",
     "tags": [
       "Regulation"
     ]
@@ -312,104 +388,29 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Betfred becomes latest to cool operations in Irish market as it takes “temporary pause”",
-    "meta": "SBC News | 18 Jun 2026",
-    "summary": "Betfred has confirmed to SBC News that it is “taking a temporary pause” in Ireland amid wholesale regulatory changes in the market. The move comes amid a regulatory shift in the country, with the Gambling Regulatory Authority of...",
+    "section": "North America",
+    "title": "New York Bill Banning Sports Betting on College Campuses Misses the Mark, Experts Say",
+    "meta": "Gambling Insider | 18 Jun 2026",
+    "summary": "It may be well-intentioned, but legislation requiring operators to block college kids from gambling on campus leaves multiple problems unresolved. While the language of a bill that finished the New York legislative calendar...",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Betfred has confirmed to SBC News that it is “taking a temporary pause” in Ireland amid wholesale regulatory changes in the market. The move comes amid a regulatory shift in the country, with the Gambling Regulatory Authority of... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/sportsbook/2026/06/18/betfred-temporarily-pauses-ireland-operations/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "UK minister puts crosshairs on illegal gambling advertising",
-    "meta": "SBC News | 18 Jun 2026",
-    "summary": "Baroness Twycross, the UK government’s Gambling Minister, has made an illegal gambling advertising crackdown priority number one in the government’s bid to preserve the licensed market. Her comments come amid plans for...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Baroness Twycross, the UK government’s Gambling Minister, has made an illegal gambling advertising crackdown priority number one in the government’s bid to preserve the licensed market. Her comments come amid plans for... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/marketing/2026/06/18/uk-government-illegal-gambling-advertising/",
+    "expanded": "It may be well-intentioned, but legislation requiring operators to block college kids from gambling on campus leaves multiple problems unresolved. While the language of a bill that finished the New York legislative calendar... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.gamblinginsider.com/news/167662/new-york-bill-banning-sports-betting-college-campuses-experts",
     "tags": [
       "Regulation",
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Legal affiliates can’t out-SEO the black market so they’ll have to out-trust it",
-    "meta": "SBC News | 18 Jun 2026",
-    "summary": "The battle for online gambling players is no longer being fought on sportsbooks and casino sites — it’s being fought on search engines. iGaming.com CEO Prof. Dr. Andreas Ditsche breaks down for SBC News the growing challenges...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The battle for online gambling players is no longer being fought on sportsbooks and casino sites — it’s being fought on search engines. iGaming.com CEO Prof. Dr. Andreas Ditsche breaks down for SBC News the growing challenges... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/features/2026/06/18/affiliates-seo-black-market/",
-    "tags": [
-      "Regulation",
-      "Black market"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Illegal market supply claims questioned by UK trade body",
-    "meta": "SBC News | 17 Jun 2026",
-    "summary": "The UK’s Betting and Gaming Council (BGC) has sternly defended its members amid a report accusing them of black market activity. Illegal gambling has become one of the biggest talking points in conversations around UK betting....",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The UK’s Betting and Gaming Council (BGC) has sternly defended its members amid a report accusing them of black market activity. Illegal gambling has become one of the biggest talking points in conversations around UK betting.... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/igaming/2026/06/17/illegal-gambling-uk/",
-    "tags": [
-      "Regulation",
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Bill Requiring Online Sportsbooks, Casinos to Geoblock Schools Introduced in Pennsylvania",
-    "meta": "Gambling Insider | 17 Jun 2026",
-    "summary": "Called a ‘good starting point’ by responsible gambling advocates, state Rep. Ortitay’s legislation would block gambling platforms from operating within Pennsylvania’s K-12 school zones. Pennsylvania Rep. Jason Ortitay...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Called a ‘good starting point’ by responsible gambling advocates, state Rep. Ortitay’s legislation would block gambling platforms from operating within Pennsylvania’s K-12 school zones. Pennsylvania Rep. Jason Ortitay... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://www.gamblinginsider.com/news/167372/bill-requiring-online-sportsbooks-casinos-to-geoblock-schools-introduced-pennsylvania",
-    "tags": [
-      "RG"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Former Star CEO and legal head fined total A$1.1m over risk failures",
-    "meta": "NEXT.io | 17 Jun 2026",
-    "summary": "Australia's Federal Court has barred former Star Entertainment CEO Matt Bekier from running companies and ordered him to pay a fine.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Australia's Federal Court has barred former Star Entertainment CEO Matt Bekier from running companies and ordered him to pay a fine. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/people/former-star-ceo-legal-head-fined-risk-failures/",
-    "tags": [
-      "Regulation"
+      "US"
     ]
   },
   {
     "section": "Other / Global",
-    "title": "EveryMatrix powers another record-breaking €2 million jackpot win for ATG Casino - igamingbusiness.com",
-    "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
-    "summary": "EveryMatrix powers another record-breaking €2 million jackpot win for ATG Casino igamingbusiness.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix powers another record-breaking €2 million jackpot win for ATG Casino igamingbusiness.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0Q0SFY2MkZOS3FPOGR0Y2xBdkswSklrTC1tdkVDc3hrV3d0NTZHcEtPQXdlNl9QejJ3WU5yTFN2MFNwSGI3aVo0el9vaFhhQzRkWW9vNDU5bGZSWmRNd0Q3NTFqNEcyUktsNjJyX3U3OFdMc3g5Y0lvc2tDc3EtbUpOaklTYUhBVHRaajV5YmpJX0pLallBTDdUVDk3V3Rra1hiYjM2QzlNcGtwYUlRY3hDRjF2MDBNTUxtSFRIaw?oc=5",
+    "title": "Michigan Judge Denies Polymarket and Robinhood Injunctions, Says Sports-Event Contracts Likely Are Not Swaps",
+    "meta": "Gambling Insider | 18 Jun 2026",
+    "summary": "The rulings concluded that sports-event contracts are likely not swaps and found no clear evidence that Congress intended to preempt state gambling laws. A federal judge in Michigan denied preliminary injunction requests by...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The rulings concluded that sports-event contracts are likely not swaps and found no clear evidence that Congress intended to preempt state gambling laws. A federal judge in Michigan denied preliminary injunction requests by... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/167546/michigan-judge-denies-polymarket-robinhood-injunctions",
     "tags": [
-      "EveryMatrix"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Indiana sportsbooks take $428.2 million in May wagers - gamingintelligence.com",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "Indiana sportsbooks take $428.2 million in May wagers gamingintelligence.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Indiana sportsbooks take $428.2 million in May wagers gamingintelligence.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXl0VVUyOXlGaGgxdVNYWFllclZSQ0Niam82dUx3M2h2LTlHQnVWbzRZRVJhRTNxT2luSlRObWtWV1FLS0xtaDJVSjVESnRpMXZBdDRsaVhNQTR3ZklMRmVZSU1SMENsbkZZZDlVWjhwNGZtNXg0QzYtNm5jVnZXeGgySlZNeWFSRFFiOGxnY3hmS29ubFpEOXBFRUlOQmYyVnJTZjB3?oc=5",
-    "tags": [
-      "Asia"
+      "Prediction markets",
+      "Regulation"
     ]
   }
 ];

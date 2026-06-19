@@ -20,6 +20,15 @@ window.briefingMeta = {
       ]
     },
     {
+      "title": "Prediction Markets Weekly Roundup: Michigan Ruling, CME Lawsuit and New Launches Shape Busy Week",
+      "text": "Michigan dealt a setback to Polymarket and Robinhood, Kentucky escalated its fight against prediction markets, and a wave of new launches and partnerships underscored continued industry growth. This week brought significant...",
+      "source": "https://www.gamblinginsider.com/news/167702/prediction-markets-weekly-roundup-litigation-launches",
+      "tags": [
+        "Prediction markets",
+        "Regulation"
+      ]
+    },
+    {
       "title": "Kentucky AG Sues Kalshi, Polymarket, VGW Over Alleged Illegal Gambling Operations",
       "text": "The lawsuits accuse Kalshi and Polymarket of operating unlicensed sportsbooks and target VGW’s sweepstakes casino brands, including Chumba Casino and LuckyLand Slots. Kentucky Attorney General Russell Coleman filed three...",
       "source": "https://www.gamblinginsider.com/news/167600/kentucky-ag-sues-kalshi-polymarket-vgw-illegal-gambling",
@@ -38,16 +47,6 @@ window.briefingMeta = {
         "Black market",
         "US",
         "Asia"
-      ]
-    },
-    {
-      "title": "Michigan judge allows state regulators to pursue action against Polymarket",
-      "text": "The ruling dismisses Polymarket’s argument that its event contracts qualify as financial derivatives subject to exclusive federal oversight. US.- Paul L. Maloney, a federal judge, has refused to grant a preliminary injunction...",
-      "source": "https://focusgn.com/michigan-judge-allows-state-regulators-to-pursue-action-against-polymarket",
-      "tags": [
-        "Prediction markets",
-        "Regulation",
-        "US"
       ]
     }
   ],
@@ -107,6 +106,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Prediction Markets Weekly Roundup: Michigan Ruling, CME Lawsuit and New Launches Shape Busy Week",
+    "meta": "Gambling Insider | 19 Jun 2026",
+    "summary": "Michigan dealt a setback to Polymarket and Robinhood, Kentucky escalated its fight against prediction markets, and a wave of new launches and partnerships underscored continued industry growth. This week brought significant...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Michigan dealt a setback to Polymarket and Robinhood, Kentucky escalated its fight against prediction markets, and a wave of new launches and partnerships underscored continued industry growth. This week brought significant... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/167702/prediction-markets-weekly-roundup-litigation-launches",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Kentucky AG Sues Kalshi, Polymarket, VGW Over Alleged Illegal Gambling Operations",
     "meta": "Gambling Insider | 18 Jun 2026",
@@ -137,7 +149,7 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Michigan judge allows state regulators to pursue action against Polymarket",
+    "title": "Michigan federal judge allows state regulators to pursue action against Polymarket",
     "meta": "Focus Gaming News | 19 Jun 2026",
     "summary": "The ruling dismisses Polymarket’s argument that its event contracts qualify as financial derivatives subject to exclusive federal oversight. US.- Paul L. Maloney, a federal judge, has refused to grant a preliminary injunction...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
@@ -163,6 +175,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate",
+    "meta": "Gambling Insider | 19 Jun 2026",
+    "summary": "The vote preserves an estimated 7,000 sweepstakes machines across Chicago as officials continue battling over VGT expansion, casino revenue, and Bally’s warnings of potential legal action. The Chicago City Council voted 33-15 on...",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "The vote preserves an estimated 7,000 sweepstakes machines across Chicago as officials continue battling over VGT expansion, casino revenue, and Bally’s warnings of potential legal action. The Chicago City Council voted 33-15 on... Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://www.gamblinginsider.com/news/167739/chicago-city-council-rejects-sweepstakes-machine-ban",
+    "tags": [
+      "Bally's",
+      "Regulation"
+    ]
+  },
+  {
     "section": "Asia / Oceania",
     "title": "Former Star Entertainment CEO, legal chief fined and banned from management roles over AML failures",
     "meta": "GGRAsia | 18 Jun 2026",
@@ -173,18 +198,6 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "KYC"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate",
-    "meta": "Google News: EveryMatrix watchlist | 19 Jun 2026",
-    "summary": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate Gambling Insider",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Chicago City Council Rejects Sweepstakes Ban Amid Ongoing VGT Debate Gambling Insider Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1ZMVFc0bjd6NU0wSFZWRGw5QXlvNWZDRnBvWnJCTTJzQkszbTRBVFQwcEFCMUdfb3VrTlNNbGpTa0ZiMW8yMkpMb3JEaWVfNzd3VTZVOFFCVERTdjUzUTN0a20wVF9Oc2l1amNMQmRCSjVsc3hfTWxvVUg2Ym1tbUhXaGI0T0pCZHZxc19IYnRTdmdJeG4ycDBIMDI?oc=5",
-    "tags": [
-      "Regulation"
     ]
   },
   {
@@ -337,16 +350,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "EveryMatrix powers BetAhoy platform in the United Kingdom - gamingintelligence.com",
-    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
-    "summary": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com",
+    "section": "Other / Global",
+    "title": "DELULU Gaming welcomes SOFTSWISS as Strategic Technology Partner for its Soft Launch Dinner in London",
+    "meta": "NEXT.io | 17 Jun 2026",
+    "summary": "The private event will introduce DELULU Gaming to a curated circle of C-level iGaming leaders, supported by SOFTSWISS’ technology expertise and trusted partner ecosystem. For DELULU Gaming, the collaboration marks an important...",
     "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFlaV3hnX29PM3JkYTV4aXktMlhPYkRtOURqcGZiRkZrUC03bmVmQWotcWNxOUNzb1g4a3FKTGhGMDlyR0ZtbFNiZXY4ZzMtVzJRSkR5ZkVQS0ZJTzJEdEpsZzdUcm45QkpfWUhfMGp6UnpwVmo2Q2hfZ3VZTHNzdUhhT1BuaWFIUi1UYUtVX0doR0hOVzdlS0NGdjd0ZERBT0gzVnNncFRkSXBNRlZOSTF4YVhMcXM?oc=5",
+    "expanded": "The private event will introduce DELULU Gaming to a curated circle of C-level iGaming leaders, supported by SOFTSWISS’ technology expertise and trusted partner ecosystem. For DELULU Gaming, the collaboration marks an important... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://next.io/news/b2b-news/delulu-gaming-softswiss-strategic-technology-partner/",
     "tags": [
-      "EveryMatrix",
-      "UK"
+      "Bally's"
     ]
   },
   {
@@ -375,15 +387,14 @@ window.briefingStories = [
   },
   {
     "section": "Europe",
-    "title": "UK regulator outlines key priorities for spending extra budget",
-    "meta": "SBC News | 18 Jun 2026",
-    "summary": "Tim Miller, Executive Director of Research and Policy at Britain’s Gambling Commission, has broken the secrecy seal around how it will roughly spend £26m as it seeks to contain the illegal gambling. The Commission received the...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Tim Miller, Executive Director of Research and Policy at Britain’s Gambling Commission, has broken the secrecy seal around how it will roughly spend £26m as it seeks to contain the illegal gambling. The Commission received the... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/europe/2026/06/18/ukgc-extra-funding/",
+    "title": "EveryMatrix powers BetAhoy platform in the United Kingdom - gamingintelligence.com",
+    "meta": "Google News: EveryMatrix watchlist | 17 Jun 2026",
+    "summary": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "EveryMatrix powers BetAhoy platform in the United Kingdom gamingintelligence.com Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFlaV3hnX29PM3JkYTV4aXktMlhPYkRtOURqcGZiRkZrUC03bmVmQWotcWNxOUNzb1g4a3FKTGhGMDlyR0ZtbFNiZXY4ZzMtVzJRSkR5ZkVQS0ZJTzJEdEpsZzdUcm45QkpfWUhfMGp6UnpwVmo2Q2hfZ3VZTHNzdUhhT1BuaWFIUi1UYUtVX0doR0hOVzdlS0NGdjd0ZERBT0gzVnNncFRkSXBNRlZOSTF4YVhMcXM?oc=5",
     "tags": [
-      "Regulation",
-      "Black market",
+      "EveryMatrix",
       "UK"
     ]
   },
@@ -398,19 +409,6 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "US"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Michigan Judge Denies Polymarket and Robinhood Injunctions, Says Sports-Event Contracts Likely Are Not Swaps",
-    "meta": "Gambling Insider | 18 Jun 2026",
-    "summary": "The rulings concluded that sports-event contracts are likely not swaps and found no clear evidence that Congress intended to preempt state gambling laws. A federal judge in Michigan denied preliminary injunction requests by...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The rulings concluded that sports-event contracts are likely not swaps and found no clear evidence that Congress intended to preempt state gambling laws. A federal judge in Michigan denied preliminary injunction requests by... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/167546/michigan-judge-denies-polymarket-robinhood-injunctions",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
     ]
   }
 ];

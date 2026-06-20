@@ -174,19 +174,6 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Nine European regulators coordinate crackdown against prediction markets",
-    "meta": "iGaming Business | 18 Jun 2026",
-    "summary": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://igamingbusiness.com/prediction-markets/nine-european-regulators-coordinate-crackdown-unlicensed-prediction-markets/",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
     "title": "Kentucky AG Files Lawsuits Against VGW, Kalshi, and Polymarket Over Alleged Illegal Gambling in the State - Bettors Insider",
     "meta": "Google News: regulation | 19 Jun 2026",
     "summary": "Kentucky AG Files Lawsuits Against VGW, Kalshi, and Polymarket Over Alleged Illegal Gambling in the State Bettors Insider",
@@ -196,6 +183,19 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Black market"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Nine European regulators coordinate crackdown against prediction markets",
+    "meta": "iGaming Business | 18 Jun 2026",
+    "summary": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi.",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Belgium, France, Germany, Italy, the Netherlands, Poland, Portugal and Spain were among the regions to push back against prediction markets. A number of the markets have already blocked popular operators Polymarket and Kalshi. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/prediction-markets/nine-european-regulators-coordinate-crackdown-unlicensed-prediction-markets/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
     ]
   },
   {
@@ -262,6 +262,18 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVmVEOWowSm5RVUtzX2g2Q0FnZUFibFpvYVF2YmhaLXBEMjJyRjY1dXM5encyVy1NWl9fRHpzR1VCU3E5WjBuS0wxWkVGZ3I2RjdCMk42Rm1xNVExOFBMaDFtcERvWGFBa2k5TzlQY2w1eF8tNEw3OHVhcnFMaGl3Q3JqN2RQdmFUYU5zSWRyTQ?oc=5",
     "tags": [
       "Prediction markets"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Former Star CEO Matt Bekier Fined Nearly $500K, Banned From Corporate Leadership for Six Years - Casino.org",
+    "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
+    "summary": "Former Star CEO Matt Bekier Fined Nearly $500K, Banned From Corporate Leadership for Six Years Casino.org",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Former Star CEO Matt Bekier Fined Nearly $500K, Banned From Corporate Leadership for Six Years Casino.org Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVSzlGVDVDWDZ6eElibElVdFJ6ZlFyQWFzN2NFWFFsdjE1V1F6RG5TVHZsb3NXSUMwdDVka04xaEdXQnFHRExPTTVEM2JXelQya2pCZ3VfY2RJN0pWRlVrQVZUcDE4NFAwRlpON1NNTnNjeEF4bjhIU28ydmxfTkE?oc=5",
+    "tags": [
+      "Regulation"
     ]
   },
   {
@@ -367,6 +379,20 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Europe",
+    "title": "Finnish streamer fined €2,480 for marketing offshore casinos",
+    "meta": "NEXT.io | 19 Jun 2026",
+    "summary": "A Finnish court found that a content creator using the handle \"pottukoira\" broke the law by promoting offshore casino bonuses.",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "A Finnish court found that a content creator using the handle \"pottukoira\" broke the law by promoting offshore casino bonuses. Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://next.io/news/regulation/finnish-streamer-fined-eur2480-marketing-offshore-casinos/",
+    "tags": [
+      "Regulation",
+      "CRM",
+      "UK"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Kentucky Attorney General sues Kalshi, Polymarket, and VGW over alleged illegal gambling",
     "meta": "Google News: regulation | 19 Jun 2026",
@@ -390,32 +416,6 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Black market"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Best new casino sites in the UK (June 2026) – Find top new casinos - talkSPORT",
-    "meta": "Google News: EveryMatrix watchlist | 19 Jun 2026",
-    "summary": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
-    "tags": [
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "UK Regulator Unveils £26m Offensive Against Illegal Gambling Sites - iGamingToday.com",
-    "meta": "Google News: regulation | 19 Jun 2026",
-    "summary": "UK Regulator Unveils £26m Offensive Against Illegal Gambling Sites iGamingToday.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "UK Regulator Unveils £26m Offensive Against Illegal Gambling Sites iGamingToday.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVNlUmxpZTlNZkxJRTAzc1BURDRTaUFSOEkzRUpyQWY0ckw0SHcyWE1EUXpDNlZpclBzLUQ4ZlVVdURsU3hsZmM5V2Q0T1RCRzNjYnFacldfaHFubEJFREIwd0R2TVZWdlhMWnN5NEhuUy1nOEstTU1aWTM5Y0lOWDNGTk5wRHZpc2FEbWh5RFE5dEV2ZDc0SDgyZw?oc=5",
-    "tags": [
-      "Regulation",
-      "Black market",
-      "UK"
     ]
   }
 ];

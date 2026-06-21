@@ -237,16 +237,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Polymarket launches $50 promo code “SILIVE” for US Open - SILive.com",
-    "meta": "Google News: regulation | 19 Jun 2026",
-    "summary": "Polymarket launches $50 promo code “SILIVE” for US Open SILive.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Polymarket launches $50 promo code “SILIVE” for US Open SILive.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc1RncGNGXzhqczZuLUUxbDZnVFRFNnNOQUJKOUhiR1NXX0dheTFWUFZVS09kVXJKb0d1NU5iNW5pTUx2QzFmcnBDNUpuTGR1X1lOdElic2U5ZWtoNWZwT0JXa20zcG9NNVdmM1JwaVN5LU5xeGJkUWg3TUc0dWtLRkhCUjRxb19SYWZBRTI5U1Q5b0xQSzR0LUdzYjA?oc=5",
+    "section": "Other / Global",
+    "title": "Bally’s is causing problems for the A’s Las Vegas ballpark dream - CDC Gaming",
+    "meta": "Google News: EveryMatrix watchlist | 20 Jun 2026",
+    "summary": "Bally’s is causing problems for the A’s Las Vegas ballpark dream CDC Gaming",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally’s is causing problems for the A’s Las Vegas ballpark dream CDC Gaming Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSXlxYW5Qa1BtSzZKWS1wbmZjaDFkSHdSNG9RNFd6a0RVcGxTRU1sU0ZiTmNIOGQ5Qi1kOEJYRmF2U2QyN2tjZ1RaYjdsT3lGckNzQmdMMDdHZ1lnaDlON3BaY0l2anZ1dWZVeTJWaHlhM0FhWWRIamxlZWFHM2FoMjF4cDFoenVTX2xHTkxZdkQ2T3pjSXc?oc=5",
     "tags": [
-      "Prediction markets",
-      "US"
+      "Bally's"
     ]
   },
   {
@@ -259,6 +258,19 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMXZVMGZiZmh3X01xd3ZHTy1Xd0xyT2VpSE15ZWlQS1NUSTJJOHhGMDJtWXhfc3F6R1ltallEdVFmNnJuNWR0cFBmZGFEYTRseGNDaGVLdGVoMEhZcXlRN0tQZTRxREU1Y3JhREhlQXJucFE0dzVyMEFVbW5wV0F1bU01a1A3UzIxZHZxZWhEa1ZhSnhQc2IzZHQ4d3ZWRlRoWTZUSFEzUHRsY2JKT3VWM0J4MU16cGV6dF81OFBvNUYxanhUQk1xenBCbUlEelNQU1ZIVmd4X0FwYkhNdGhV0gHfAUFVX3lxTE8xdlUwZmJmaHdfTXF3dkdPLVd3THJPZWlITXllaVBLU1RJMkk4eEYwMm1ZeF9zcXpHWW1qWUR1UWY2cm41ZHRwUGZkYURhNGx4Y0NoZUt0ZWgwSFlxeVE3S1BlNHFERTVjcmFESGVBcm5wUTR3NXIwQVVtbnBXQXVtTTVrUDdTMjFkdnFlaERrVmFKeFBzYjNkdDh3dlZGVGhZNlRIUTNQdGxjYkpPdVYzQngxTXpwZXp0XzU4UG81RjFqeFRCTXF6cEJtSUR6U1BTVkhWZ3hfQXBiSE10aFU?oc=5",
     "tags": [
       "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Polymarket launches $50 promo code “SILIVE” for US Open - SILive.com",
+    "meta": "Google News: regulation | 19 Jun 2026",
+    "summary": "Polymarket launches $50 promo code “SILIVE” for US Open SILive.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Polymarket launches $50 promo code “SILIVE” for US Open SILive.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc1RncGNGXzhqczZuLUUxbDZnVFRFNnNOQUJKOUhiR1NXX0dheTFWUFZVS09kVXJKb0d1NU5iNW5pTUx2QzFmcnBDNUpuTGR1X1lOdElic2U5ZWtoNWZwT0JXa20zcG9NNVdmM1JwaVN5LU5xeGJkUWg3TUc0dWtLRkhCUjRxb19SYWZBRTI5U1Q5b0xQSzR0LUdzYjA?oc=5",
+    "tags": [
+      "Prediction markets",
+      "US"
     ]
   },
   {
@@ -278,18 +290,6 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Kentucky Sues Kalshi, Polymarket & VGW in Gambling Push - Betting News",
-    "meta": "Google News: regulation | 19 Jun 2026",
-    "summary": "Kentucky Sues Kalshi, Polymarket & VGW in Gambling Push Betting News",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Kentucky Sues Kalshi, Polymarket & VGW in Gambling Push Betting News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnQwX28zZl9YZDJ1M0ZvcDZ0ajdjSG41SEZncHBZWkpqZndHTFYzWVBIS0FzcmdMNXhUcjFNcWw3V2JiU3lneVlKaHUzUTBkUURINFczcUc1QW9CRkFVNlB4RkdycWNYMGRRdkxRbHdlX3lFQ2ZGYzhXVHBibkRrZ05wT0M2VHhKdGZQOVVlQWtXcmpXZ1pXRXRGMDU5Q05U?oc=5",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "North America",
     "title": "Polymarket and Kalshi Redefine the Sports Betting Narrative - Crypto Economy",
     "meta": "Google News: iGaming | 20 Jun 2026",
     "summary": "Polymarket and Kalshi Redefine the Sports Betting Narrative Crypto Economy",
@@ -299,6 +299,18 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Kentucky Sues Kalshi, Polymarket & VGW in Gambling Push - Betting News",
+    "meta": "Google News: regulation | 19 Jun 2026",
+    "summary": "Kentucky Sues Kalshi, Polymarket & VGW in Gambling Push Betting News",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Kentucky Sues Kalshi, Polymarket & VGW in Gambling Push Betting News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnQwX28zZl9YZDJ1M0ZvcDZ0ajdjSG41SEZncHBZWkpqZndHTFYzWVBIS0FzcmdMNXhUcjFNcWw3V2JiU3lneVlKaHUzUTBkUURINFczcUc1QW9CRkFVNlB4RkdycWNYMGRRdkxRbHdlX3lFQ2ZGYzhXVHBibkRrZ05wT0M2VHhKdGZQOVVlQWtXcmpXZ1pXRXRGMDU5Q05U?oc=5",
+    "tags": [
+      "Prediction markets"
     ]
   },
   {
@@ -360,6 +372,33 @@ window.briefingStories = [
     "tags": []
   },
   {
+    "section": "Europe",
+    "title": "Finnish streamer fined €2,480 for marketing offshore casinos",
+    "meta": "NEXT.io | 19 Jun 2026",
+    "summary": "A Finnish court found that a content creator using the handle \"pottukoira\" broke the law by promoting offshore casino bonuses.",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "A Finnish court found that a content creator using the handle \"pottukoira\" broke the law by promoting offshore casino bonuses. Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://next.io/news/regulation/finnish-streamer-fined-eur2480-marketing-offshore-casinos/",
+    "tags": [
+      "Regulation",
+      "CRM",
+      "UK"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Washington AG Sues Kalshi, Calls Prediction Markets ‘Illegal Gambling’ - Stocktwits",
+    "meta": "Google News: regulation | 19 Jun 2026",
+    "summary": "Washington AG Sues Kalshi, Calls Prediction Markets ‘Illegal Gambling’ Stocktwits",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Washington AG Sues Kalshi, Calls Prediction Markets ‘Illegal Gambling’ Stocktwits Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT1NQbGxhSF9wQnBtRWZNU2p1Y0FIUmtDTWdabzc1bnRfaWZfMkRZbGtfeEJkc3Y4M1lEYUZPbkpZZ01jdnk4U2FDY2ZseC10bWJDY2l4eC1uWllIYVE5Z1NfenplYlZvTGxQLTRCakdOSGtBVUtnSV9sc3JWV1pYVHRjUG1MMDhiN3hVbkhNZG9reG5GVTJpQXpOSjgxM3FfTjJIVXZqcFZrMlBMUUpIaUhNQTZaRDZfX2piYmlGQ09uWWxhbUpCRzBsYjh3SUJua19jMzJIaWVuR3dvcGNvM1hwMjZlNXkwZ2FORzdhMGNEYkVQNzNKQ2tXeWpJSVU?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
+  {
     "section": "North America",
     "title": "Kalshi calls itself a hedging platform now, but critics say it's still just sports betting in disguise - TechSpot",
     "meta": "Google News: iGaming | 19 Jun 2026",
@@ -369,43 +408,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0VsbWROTkNFZVJsVmJiQjFhZ3BJZzJMV1NJUEp1dUlnTmRSbUxZaDdTeVpmQW5ndS1vNW1yZjVRWXFNcldNYlBzSFpHUks1RW9aXzNGR2JvczlsdHBsdkVfWGNoQVdSbzFiRXVvRXBqYUxBdGtHZHI4Zk9YTWFKTE85NDZFMmw4QVFBVVZEQmw4RGFfTGdpS2Jn?oc=5",
     "tags": [
       "Prediction markets"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Illinois SB 3019 Creates First Prediction Market Tax - Betting News",
-    "meta": "Google News: regulation | 19 Jun 2026",
-    "summary": "Illinois SB 3019 Creates First Prediction Market Tax Betting News",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Illinois SB 3019 Creates First Prediction Market Tax Betting News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDgxTEJsMDJCZkNaUVdhZFgzc1FoTFd6SFpaSE1qUUgxSElQSDJiRmN5cmFaUkhXaHBpVHJLYnQ1aTlSTDFybENoUFE2WmctQXpEUWJHUEIySjA4N0UtRzZqTlFkUmUwMHV5N2VoZkUxQ2pkd2NtNkExdUtwVEY4RUxCcUdYRlJqWnlrci1ObnU5enVCT1k5ell0UWt6ZkU3?oc=5",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Brazil launches three-state raids as fears of illegal gambling intensify",
-    "meta": "SBC News | 19 Jun 2026",
-    "summary": "A major cross-state coordinated investigation into an illegal gambling ring has been launched by Brazilian authorities. Operation “Conto da Sorte”, sanctioned by the Federal Revenue Service (FRS), involves three Public...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "A major cross-state coordinated investigation into an illegal gambling ring has been launched by Brazilian authorities. Operation “Conto da Sorte”, sanctioned by the Federal Revenue Service (FRS), involves three Public... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/southamerica/2026/06/19/brazil-illegal-gambling/",
-    "tags": [
-      "Black market",
-      "Brazil"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Chicago discards proposed ban on unregulated ‘sweepstakes machines’ - The Center Square",
-    "meta": "Google News: EveryMatrix watchlist | 18 Jun 2026",
-    "summary": "Chicago discards proposed ban on unregulated ‘sweepstakes machines’ The Center Square",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Chicago discards proposed ban on unregulated ‘sweepstakes machines’ The Center Square Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVY5bmExTmpBMkdSLVNGcG1lS1FKUGZsaWlpdzBoTm9ydktFWEJVVlpfSjZTa21jZUFnT1ZXYl9XYzlaMVlhLW1CRkw1WS04b0Jqcm5GbFhQMi1XZG45eG0zYXBIRy1SUE1YRGJJcXh0c2VqZHU2bWprVmptb1BaekpTZThpWHVRcHRidzZLZEpwZVo30gGaAUFVX3lxTE9HWUMycG5yV3hoZ0ZCUFp6RTQ0dTQ0cW1iRDk3Z1U5NXBITmI0bjViUXhpRzB4TjNRNmpObXNsMDRXR19NUlROajlWYXQ0VVlTWHQ5RXA1eG45Yy1ULVBaNE0wTDUtU18yVUQ3dlR0THBGMlZIRlItcWdJRXd6ZEpRcWIxZmo4RGZBVV8zYmRNLUEzcU1wOFZpdlE?oc=5",
-    "tags": [
-      "Regulation"
     ]
   }
 ];

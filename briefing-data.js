@@ -139,18 +139,6 @@ window.briefingStories = [
   },
   {
     "section": "North America",
-    "title": "Wealthsimple and Kalshi Launch Predict App in Canada - casino.com",
-    "meta": "Google News: regulation | 20 Jun 2026",
-    "summary": "Wealthsimple and Kalshi Launch Predict App in Canada casino.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Wealthsimple and Kalshi Launch Predict App in Canada casino.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYmhubklZVTJuNUJLSThCczZPYW9LNHNOOU9maURuakRLOFFSbkJ1SWVuUFRCN2M1bTNmOU1zQkJqay02U0lSczVZS25EajNOcF9WZXJYb2lNdnF0cE5sVTgwYVdkNG5nTGFEcWRXdVprZXBZTWlnM3Q5bHAwSzlEeWFEOXZGc01zMWNEVzctbjRtVXlh?oc=5",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "North America",
     "title": "Polymarket extends $50 promo code “SILIVE” for US Open Day 4 - SILive.com",
     "meta": "Google News: regulation | 21 Jun 2026",
     "summary": "Polymarket extends $50 promo code “SILIVE” for US Open Day 4 SILive.com",
@@ -402,6 +390,19 @@ window.briefingStories = [
       "Black market",
       "Payments",
       "Brazil"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Bank Withdrawal Methods - Trend Hunter",
+    "meta": "Google News: iGaming | 22 Jun 2026",
+    "summary": "Bank Withdrawal Methods Trend Hunter",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Bank Withdrawal Methods Trend Hunter Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RenI3SUUtWmJ6MVJ1NGFSelRPZTlIY1FYUEJ3QXlNcVFrZ1lUcFNPQXdHQXd6OVZLczExeTFoVTRZNHZvempoWDlla1Q3UDcyV0tMRTk2UTJVZW9sNkh1Rk0zRWdURE5xTDBj0gFwQVVfeXFMUDJrWFVtTGoycWIzYXBqWkRsbDV2bHZrN2N3V0dMcFFaUDBOdHBfNEh3X1RadE1semVEVUVScWhXY1JKemZ5dzdfaG4zZ0x0eFRoUS03WjcteXpiMF9uTVJtbTR6MGJNZzF2VUsyRlFDSA?oc=5",
+    "tags": [
+      "Regulation",
+      "Payments"
     ]
   }
 ];

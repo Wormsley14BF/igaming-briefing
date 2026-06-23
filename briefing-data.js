@@ -40,11 +40,12 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "The Irish Sun takes swift action over black market scrutiny - iGaming Expert",
-      "text": "The Irish Sun takes swift action over black market scrutiny iGaming Expert",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmw4X2E4RWE3VHYwNTNxQ0c2WDRCMlk0VHIwUU45YjJQbW5mM2NDdnlVZk15c1V2QWVZdDBhdWk0c1JtNEtBcTlqWFhMMjh4TDBkYW5CY2tYVGJsS1RKaDZkdFVTeEkwVFZkVEoyaU5GaHJJUGpvLU1DZUowM0N6Nmx1dGlNS3dkckd0amlJU1UyV0h4RG1Gclg2YnZGRWlYUXhyTVlrSdIBrwFBVV95cUxPMWN1Z3pURkh6Z3ZzdzZmY2ZoZ1N5OTdtSzlMS3d1WXRiNXlhcms5YmpMNnJqTzdBSm4yckM0QzhLRERoVTJQVzNDNHpRRWJtY2k0RDRwOEtpME1hWUNGOTlwc1kxX0RSTUxVTU8tcHJxaldCd3E4N3Raa3dHQlVEUG1UV1NmSEFFdDBwQmpnU196WWJmYVhtYjBzdXhfRG04TDNDcDNSNi1mRy1SVFZZ?oc=5",
+      "title": "Minnesota argues against allowing CFTC to insert itself into state gambling laws - gamingintelligence.com",
+      "text": "Minnesota argues against allowing CFTC to insert itself into state gambling laws gamingintelligence.com",
+      "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2gtNUV2aE82X3dMOUFZZm5PRjctZHVBdFVHaUl1eFZyZlJxU3g3TGNteWJIYlpoT1RBRHpsWXZXemFIcWhid0VGWHpScGd1am1oSjI5Z2dkWnN4c3p6TjVRYzA0RXNsLVYyQTFtQWFBTFBzMVlwRllQNzZjeDhsTlZPUGl3UG5iTHZjZFlsWE1wbkE3VVRKNXJCTEN2bXhtOFk5eUFXRDFZZmVjVTZJRFZSazZPSkhKZjVXNmk1UE5fMTZ5SFFxeQ?oc=5",
       "tags": [
-        "Black market"
+        "Prediction markets",
+        "US"
       ]
     }
   ],
@@ -129,6 +130,19 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Black market"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Minnesota argues against allowing CFTC to insert itself into state gambling laws - gamingintelligence.com",
+    "meta": "Google News: regulation | 23 Jun 2026",
+    "summary": "Minnesota argues against allowing CFTC to insert itself into state gambling laws gamingintelligence.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Minnesota argues against allowing CFTC to insert itself into state gambling laws gamingintelligence.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc2gtNUV2aE82X3dMOUFZZm5PRjctZHVBdFVHaUl1eFZyZlJxU3g3TGNteWJIYlpoT1RBRHpsWXZXemFIcWhid0VGWHpScGd1am1oSjI5Z2dkWnN4c3p6TjVRYzA0RXNsLVYyQTFtQWFBTFBzMVlwRllQNzZjeDhsTlZPUGl3UG5iTHZjZFlsWE1wbkE3VVRKNXJCTEN2bXhtOFk5eUFXRDFZZmVjVTZJRFZSazZPSkhKZjVXNmk1UE5fMTZ5SFFxeQ?oc=5",
+    "tags": [
+      "Prediction markets",
+      "US"
     ]
   },
   {
@@ -236,29 +250,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Asia / Oceania",
-    "title": "Indiana Gaming Commission to Consider NCAA Request for College Athlete Prop Bet Ban",
-    "meta": "Gambling Insider | 22 Jun 2026",
-    "summary": "The commission’s June 25 agenda includes a request from the NCAA to prohibit proposition wagers on college athletes in Indiana. The Indiana Gaming Commission (IGC) will consider a request from the NCAA to prohibit proposition...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The commission’s June 25 agenda includes a request from the NCAA to prohibit proposition wagers on college athletes in Indiana. The Indiana Gaming Commission (IGC) will consider a request from the NCAA to prohibit proposition... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://www.gamblinginsider.com/news/167926/indiana-gaming-commission-college-athlete-prop-bet-ban",
-    "tags": [
-      "Regulation",
-      "Asia"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "ACMA rules SBS breached gambling ad restrictions during Tour de France coverage ruling - ReadWrite",
-    "meta": "Google News: EveryMatrix watchlist | 22 Jun 2026",
-    "summary": "ACMA rules SBS breached gambling ad restrictions during Tour de France coverage ruling ReadWrite",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "ACMA rules SBS breached gambling ad restrictions during Tour de France coverage ruling ReadWrite Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR05nbHprZVh2SldGdG1URzNLWV9aa3VNUHhVY0o4cW1qVEh6WU44ck5yT2tlVkNadF9Zb3NYWF9xRkJqY1NkVk1QMzhTSWZWU3RMbk1oRXpuTmR1YXJLc2tmdktPeXoyRDRpcDEzMll2NFc4Qy1jRVVTa19JRHpXS0ZTSWREOTVtOXJURXJOOA?oc=5",
-    "tags": []
-  },
-  {
     "section": "Europe",
     "title": "Kick to work towards curbing Ukraine’s illegal gambling ads - sbcnews.co.uk",
     "meta": "Google News: regulation | 23 Jun 2026",
@@ -296,32 +287,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "PlayCity will block illegal gambling advertising in Ukraine on the Kick streaming platform - dev.ua",
-    "meta": "Google News: regulation | 22 Jun 2026",
-    "summary": "PlayCity will block illegal gambling advertising in Ukraine on the Kick streaming platform dev.ua",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "PlayCity will block illegal gambling advertising in Ukraine on the Kick streaming platform dev.ua Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkdmLWNTcFFGWU9PSV8xd0RUV0RfV1NiWV9NVHdqa3JlY1h2aVBpMU15d0xkVU95cnVmeW5PZ1NCQVBQVU8zc3FQbjVSbVA1dXpiRE4teVZUelVqWjdrOGlmUFBfTmZRM1lCWUlRRjBINHlUcDRHVE1pZEdSc1dPRW1lcjF6SVRvLUozaU02bG9aeVU?oc=5",
-    "tags": [
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Three in Four UK Adults Can’t Spot Illegal Betting Ads, Entain Warns as ‘Big John’ Campaign Launches - Entain",
-    "meta": "Google News: regulation | 22 Jun 2026",
-    "summary": "Three in Four UK Adults Can’t Spot Illegal Betting Ads, Entain Warns as ‘Big John’ Campaign Launches Entain",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Three in Four UK Adults Can’t Spot Illegal Betting Ads, Entain Warns as ‘Big John’ Campaign Launches Entain Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQm1xTU9OQ1hkbDNnZ2RTMEhGelRYWEVCc3pvRV9Gd2N2TGUxWHI0bm5XYnc4MWhQNmluMUtHY3Bib3oyWVVpeG5uNFBfT0VlSHNFWjJ4bmFkcTBZYTBaTGpVMVE4ejFxTnNCV2c5d0pJeEtoeTU2UEdvbzhBLUdfZnQwNUdBN3IwLXNPRThMRTJwVUIwbDZWdC1fUFV2OEZlckY4OE56bkV4UnZSTkg1dk1iNG9JTEtZeUZOQzRFQmQxc1ZQTDNSUldRLWVEbjdtcnE1cWlvTWRYakVNelk2dUtQR3hSY1VEVHVkeDV3?oc=5",
-    "tags": [
-      "Black market",
-      "UK"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Why It Is Important To Use Only Legal Bookmaker Applications - LEADERSHIP Newspapers",
     "meta": "Google News: regulation | 22 Jun 2026",
@@ -330,6 +295,20 @@ window.briefingStories = [
     "expanded": "Why It Is Important To Use Only Legal Bookmaker Applications LEADERSHIP Newspapers Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcHBLNWJ0MXlleDN4SXY3MGpWZGU5NHRtajcwQmNENEJtbGM4RUEtV1NORXJRb1BpblY3R1M2cnJfYVNyem85c3ZpSkxLaFZHajBpUUtlYVlCekx6Q3NJb1JtdlpZUEVMUlFLSnhyaHl0MlB3RXpaNUhmSE1OVnltQ3o1eDZwSzRUdGk4?oc=5",
     "tags": []
+  },
+  {
+    "section": "Europe",
+    "title": "Entain names Kick the central hub of illegal gambling promotion on UK social media - Tribuna.com",
+    "meta": "Google News: regulation | 22 Jun 2026",
+    "summary": "Entain names Kick the central hub of illegal gambling promotion on UK social media Tribuna.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Entain names Kick the central hub of illegal gambling promotion on UK social media Tribuna.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGNGTzZITk9McmpQZVJMNWFqekRxSEg1aGZHRkpuXy1wdnpHMTByX3d4X3VQT3dVOUF3TkttZFdkOUk1SEpqVzFfMGVaaWE1OElRcUdtc3lSd0RHTUtydUxLX3RaaFlGMlZjQjc5WkstZmFvOFcwd3FUdEdKOTVFWmZRVjd5MlJsYUpwSzh6cGtrN0NRVXpzMHZMQTlkeU92dGZEUllGVEpDXzlyQWtScWNNRVdDdndFTVRsdDNNUlVYQzZCNV9YZNIBzgFBVV95cUxPRVZDekJCcUk4SDNfSTJoTk1CMmlpREFaU2lpdlRGVU82OURXZndLZmFYYVFsUXhDTmhqVnpZa25uNVA2RjRIU3UyLXVvc1FGc09QeUM3VVZzOTMyVm9vb0FwbWlYWUFPeEYtbEZlTzVRb1RFTWJZMEg2RDZWbzdMQ3lyTFFHWklfOFdnS01KTEQyZnBmdy1DQ1g3UHJUc0VNSnJEYUpQS3VmVlk4RWdDMDhPZGFrYUNOcHFCd2ZKZjdWRXJBcmNTZjlBTHJPZw?oc=5",
+    "tags": [
+      "Black market",
+      "CRM",
+      "UK"
+    ]
   },
   {
     "section": "Asia / Oceania",
@@ -357,6 +336,55 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Asia / Oceania",
+    "title": "Indiana Gaming Commission to Consider NCAA Request for College Athlete Prop Bet Ban",
+    "meta": "Gambling Insider | 22 Jun 2026",
+    "summary": "The commission’s June 25 agenda includes a request from the NCAA to prohibit proposition wagers on college athletes in Indiana. The Indiana Gaming Commission (IGC) will consider a request from the NCAA to prohibit proposition...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The commission’s June 25 agenda includes a request from the NCAA to prohibit proposition wagers on college athletes in Indiana. The Indiana Gaming Commission (IGC) will consider a request from the NCAA to prohibit proposition... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://www.gamblinginsider.com/news/167926/indiana-gaming-commission-college-athlete-prop-bet-ban",
+    "tags": [
+      "Regulation",
+      "Asia"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Three in Four UK Adults Can’t Spot Illegal Betting Ads, Entain Warns as ‘Big John’ Campaign Launches - Entain",
+    "meta": "Google News: regulation | 22 Jun 2026",
+    "summary": "Three in Four UK Adults Can’t Spot Illegal Betting Ads, Entain Warns as ‘Big John’ Campaign Launches Entain",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Three in Four UK Adults Can’t Spot Illegal Betting Ads, Entain Warns as ‘Big John’ Campaign Launches Entain Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQm1xTU9OQ1hkbDNnZ2RTMEhGelRYWEVCc3pvRV9Gd2N2TGUxWHI0bm5XYnc4MWhQNmluMUtHY3Bib3oyWVVpeG5uNFBfT0VlSHNFWjJ4bmFkcTBZYTBaTGpVMVE4ejFxTnNCV2c5d0pJeEtoeTU2UEdvbzhBLUdfZnQwNUdBN3IwLXNPRThMRTJwVUIwbDZWdC1fUFV2OEZlckY4OE56bkV4UnZSTkg1dk1iNG9JTEtZeUZOQzRFQmQxc1ZQTDNSUldRLWVEbjdtcnE1cWlvTWRYakVNelk2dUtQR3hSY1VEVHVkeDV3?oc=5",
+    "tags": [
+      "Black market",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "PlayCity will block illegal gambling advertising in Ukraine on the Kick streaming platform - dev.ua",
+    "meta": "Google News: regulation | 22 Jun 2026",
+    "summary": "PlayCity will block illegal gambling advertising in Ukraine on the Kick streaming platform dev.ua",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "PlayCity will block illegal gambling advertising in Ukraine on the Kick streaming platform dev.ua Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWkdmLWNTcFFGWU9PSV8xd0RUV0RfV1NiWV9NVHdqa3JlY1h2aVBpMU15d0xkVU95cnVmeW5PZ1NCQVBQVU8zc3FQbjVSbVA1dXpiRE4teVZUelVqWjdrOGlmUFBfTmZRM1lCWUlRRjBINHlUcDRHVE1pZEdSc1dPRW1lcjF6SVRvLUozaU02bG9aeVU?oc=5",
+    "tags": [
+      "Black market",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "ACMA rules SBS breached gambling ad restrictions during Tour de France coverage ruling - ReadWrite",
+    "meta": "Google News: EveryMatrix watchlist | 22 Jun 2026",
+    "summary": "ACMA rules SBS breached gambling ad restrictions during Tour de France coverage ruling ReadWrite",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "ACMA rules SBS breached gambling ad restrictions during Tour de France coverage ruling ReadWrite Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR05nbHprZVh2SldGdG1URzNLWV9aa3VNUHhVY0o4cW1qVEh6WU44ck5yT2tlVkNadF9Zb3NYWF9xRkJqY1NkVk1QMzhTSWZWU3RMbk1oRXpuTmR1YXJLc2tmdktPeXoyRDRpcDEzMll2NFc4Qy1jRVVTa19JRHpXS0ZTSWREOTVtOXJURXJOOA?oc=5",
+    "tags": []
+  },
+  {
     "section": "Product",
     "title": "BetConstruct AI appoints industry professional Lena Yasir as chief executive officer",
     "meta": "NEXT.io | 22 Jun 2026",
@@ -379,31 +407,6 @@ window.briefingStories = [
     "source": "https://next.io/news/b2b-news/football-legend-ronaldinho-and-creedroomz-team-up-in-yerevan/",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "“A gap between confidence and reality” - Entain fires back at illegal gambling on social media - sbcnews.co.uk",
-    "meta": "Google News: regulation | 22 Jun 2026",
-    "summary": "“A gap between confidence and reality” - Entain fires back at illegal gambling on social media sbcnews.co.uk",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "“A gap between confidence and reality” - Entain fires back at illegal gambling on social media sbcnews.co.uk Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVWduVEJHOVloV3lxajBiUHdEblFMTGxJWFNxVDJtVWUwRXkzRzRvVmJKdXJDUWQtc01QbmlNcHFNTVpJVjhQX0tUbV80Y0VXVmtRamNWRHpobU92NkR4Mk9fWGwtNkJkcHc4NWk3UVRlZG8yZ1kzUGVNVE0wbGQ1cy1NMlNqbjQ?oc=5",
-    "tags": [
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Best new casino sites in the UK (June 2026) – Find top new casinos - talkSPORT",
-    "meta": "Google News: EveryMatrix watchlist | 22 Jun 2026",
-    "summary": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
-    "tags": [
-      "UK"
     ]
   }
 ];

@@ -141,20 +141,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "Responsible gambling cannot be scaled using a single framework",
-    "meta": "Focus Gaming News | 24 Jun 2026",
-    "summary": "Press release.- International betting brands often operate under a single strategy and a common set of responsible gambling principles. However, player protection does not function the same way across all markets. It is...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Press release.- International betting brands often operate under a single strategy and a common set of responsible gambling principles. However, player protection does not function the same way across all markets. It is... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://focusgn.com/responsible-gambling-cannot-be-scaled-using-a-single-framework",
-    "tags": [
-      "Regulation",
-      "RG",
-      "Payments"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "Bally’s escalates fight over video gambling, threatening legal action - Crain's Chicago Business",
     "meta": "Google News: EveryMatrix watchlist | 24 Jun 2026",
     "summary": "Bally’s escalates fight over video gambling, threatening legal action Crain's Chicago Business",
@@ -367,18 +353,6 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
-    "title": "Will Warsh utilise prediction markets as research tool in Fed data overhaul?",
-    "meta": "iGaming Business | 24 Jun 2026",
-    "summary": "Kevin Warsh's vow to modernise the Fed could result in the adoption of new cutting-edge data sources like prediction markets.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Kevin Warsh's vow to modernise the Fed could result in the adoption of new cutting-edge data sources like prediction markets. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://igamingbusiness.com/finance/fed-prediction-markets-tool-warsh-era/",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "Other / Global",
     "title": "Betsson Group takes EveryMatrix igaming content - InterGame Online",
     "meta": "Google News: iGaming | 25 Jun 2026",
     "summary": "Betsson Group takes EveryMatrix igaming content InterGame Online",
@@ -387,6 +361,18 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXZFbHM5bEI5S2hKTmNGaGtHakpGb0lxWDFmc1JKa01XV0VPQ2poYVVoT0NFY3FpNjVDS0h6Q0ctcjlJZDJuLUdacE5kNlRFRmgtdlp2d2ZCV09xVmg2WFNxS2JPa3F0bFdCQnZiWk1HaXN5alp0R3lfN3FrQm5pdG1SUnYxb3hvRXc4U09aME5BZERLOEtaX2swbWhMVGxhRThKY180QVE?oc=5",
     "tags": [
       "EveryMatrix"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Will Warsh utilise prediction markets as research tool in Fed data overhaul?",
+    "meta": "iGaming Business | 24 Jun 2026",
+    "summary": "Kevin Warsh's vow to modernise the Fed could result in the adoption of new cutting-edge data sources like prediction markets.",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Kevin Warsh's vow to modernise the Fed could result in the adoption of new cutting-edge data sources like prediction markets. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/finance/fed-prediction-markets-tool-warsh-era/",
+    "tags": [
+      "Prediction markets"
     ]
   },
   {
@@ -399,6 +385,19 @@ window.briefingStories = [
     "source": "https://sbcnews.co.uk/featurednews/2026/06/25/vbet-world-cup-dutch-market/",
     "tags": [
       "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Stakelogic ordered to pay £122,835 for running UK slots too fast",
+    "meta": "NEXT.io | 25 Jun 2026",
+    "summary": "Great Britain’s Gambling Commission has ordered Stakelogic to pay £122,835 after ruling the games developer breached regulations by running online slot games too fast.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Great Britain’s Gambling Commission has ordered Stakelogic to pay £122,835 after ruling the games developer breached regulations by running online slot games too fast. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/regulation/stakelogic-ordered-to-pay-122835-for-running-slots-too-fast/",
+    "tags": [
+      "Regulation",
+      "UK"
     ]
   }
 ];

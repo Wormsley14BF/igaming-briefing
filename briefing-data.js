@@ -58,8 +58,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uaDdfbnkzVEJBUkFPNTY3RlNYZVFjbHNHaWxIY1M1UUs2QmpFV3NDS3dWNGs2aWtzcXRGd2tBa1JteFNvZmUzQUF0Qkw2c29WN0pKakZJZDV6NGlHZnY3NDc1ZUh5U0xGQWo4dkVSMkZHQ0NpTjhZ?oc=5",
-      "sourceLabel": "Google News: EveryMatrix watchlist"
+      "source": "https://next.io/news/regulation/gambling-commission-asks-industry-identify-regulatory-burdens/",
+      "sourceLabel": "NEXT.io"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -220,6 +220,16 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Ralph Topping: William Hill brand “has been let down by people who get paid to make decisions” - egr.global",
+    "meta": "Google News: EveryMatrix watchlist | 26 Jun 2026",
+    "summary": "Ralph Topping: William Hill brand “has been let down by people who get paid to make decisions” egr.global",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Ralph Topping: William Hill brand “has been let down by people who get paid to make decisions” egr.global Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTdOYjFzWDJIeHE3UG4yUkE0UW44WUFtb3Vjc0Z2ZW1CN052Yk1XdzJfSEdpM0ZpZVVDTTN5c1hxSkhtQjI1am1LdVhaRGdJWkw4WnFET0t4NkJMaE5FTDBzc0NrSkluUUg0UXpCalh0R2V4NDhDekhFV0VGV0ROU1BkM3g0VTRrMFExaWxQd3BkMmMyXzYxa0ljQVIwZ2VlWXFCOUp4bWZiQUhERjF4TGFHVGIyRE9CWWVweHB5RHhzU045c1YtVA?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
     "title": "Bally’s Proposes Airport Slots in Chicago As a Revenue-Generating Alternative to VGTs - Gaming America",
     "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
     "summary": "Bally’s Proposes Airport Slots in Chicago As a Revenue-Generating Alternative to VGTs Gaming America",
@@ -290,6 +300,20 @@ window.briefingStories = [
   },
   {
     "section": "Europe",
+    "title": "Gambling Commission asks industry to identify ‘regulatory burdens’",
+    "meta": "NEXT.io | 26 Jun 2026",
+    "summary": "The UK Gambling Commission is inviting industry stakeholders to highlight rules and requirements they believe could be simplified without weakening consumer protections. From today (26 June), the regulator is inviting evidence...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The UK Gambling Commission is inviting industry stakeholders to highlight rules and requirements they believe could be simplified without weakening consumer protections. From today (26 June), the regulator is inviting evidence... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://next.io/news/regulation/gambling-commission-asks-industry-identify-regulatory-burdens/",
+    "tags": [
+      "Regulation",
+      "KYC",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
     "title": "Jdigital flags black market risk of Spain’s joint deposit limits - igamingbusiness.com",
     "meta": "Google News: iGaming | 24 Jun 2026",
     "summary": "Jdigital flags black market risk of Spain’s joint deposit limits igamingbusiness.com",
@@ -340,6 +364,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Europe",
+    "title": "Ukraine finds discrepancies between gambling reform calls and total player count",
+    "meta": "SBC News | 25 Jun 2026",
+    "summary": "The majority of Ukrainians are in favour of stricter gambling regulations, however only a small proportion engage with the sector. This was revealed in a study commissioned by local regulator PlayCity, with results based on a...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The majority of Ukrainians are in favour of stricter gambling regulations, however only a small proportion engage with the sector. This was revealed in a study commissioned by local regulator PlayCity, with results based on a... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/igaming/2026/06/25/ukraine-playcity/",
+    "tags": [
+      "Regulation",
+      "UK"
+    ]
+  },
+  {
     "section": "Product",
     "title": "Bally’s escalates fight over video gambling, threatening legal action – Crain’s - Wirepoints",
     "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
@@ -361,44 +398,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXZFbHM5bEI5S2hKTmNGaGtHakpGb0lxWDFmc1JKa01XV0VPQ2poYVVoT0NFY3FpNjVDS0h6Q0ctcjlJZDJuLUdacE5kNlRFRmgtdlp2d2ZCV09xVmg2WFNxS2JPa3F0bFdCQnZiWk1HaXN5alp0R3lfN3FrQm5pdG1SUnYxb3hvRXc4U09aME5BZERLOEtaX2swbWhMVGxhRThKY180QVE?oc=5",
     "tags": [
       "EveryMatrix"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Opposition from former CFTC chair Gensler and a CME lawsuit add to pushback against prediction markets",
-    "meta": "iGaming Business | 24 Jun 2026",
-    "summary": "The list of CFTC opponents is growing, and former chair Gary Gensler and the Chicago Mercantile Exchange are the latest to challenge the growth of prediction markets.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The list of CFTC opponents is growing, and former chair Gary Gensler and the Chicago Mercantile Exchange are the latest to challenge the growth of prediction markets. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://igamingbusiness.com/prediction-markets/opponents-prediction-markets-cftc/",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Ukraine finds discrepancies between gambling reform calls and total player count",
-    "meta": "SBC News | 25 Jun 2026",
-    "summary": "The majority of Ukrainians are in favour of stricter gambling regulations, however only a small proportion engage with the sector. This was revealed in a study commissioned by local regulator PlayCity, with results based on a...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The majority of Ukrainians are in favour of stricter gambling regulations, however only a small proportion engage with the sector. This was revealed in a study commissioned by local regulator PlayCity, with results based on a... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/igaming/2026/06/25/ukraine-playcity/",
-    "tags": [
-      "Regulation",
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "BGC rebukes claim that UK’s black market threat is exaggerated",
-    "meta": "NEXT.io | 26 Jun 2026",
-    "summary": "Grainne Hurst, CEO of the Betting and Gaming Council, responded to this week’s black market discourse, reiterating that it “is not a marginal issue.”",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Grainne Hurst, CEO of the Betting and Gaming Council, responded to this week’s black market discourse, reiterating that it “is not a marginal issue.” Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/bgc-rebukes-claim-black-market-threat-exaggerated/",
-    "tags": [
-      "Black market",
-      "UK"
     ]
   }
 ];

@@ -1,5 +1,5 @@
 window.briefingMeta = {
-  "dateLabel": "Friday, 26 June 2026 | automated public-site edition",
+  "dateLabel": "Saturday, 27 June 2026 | automated public-site edition",
   "atAGlance": [
     {
       "title": "Bally Casino Deposit Free Spins June 2026: Claim 30 Free Spins Bonus - Bookies.com",
@@ -9,6 +9,15 @@ window.briefingMeta = {
         "Bally's",
         "Payments",
         "CRM"
+      ]
+    },
+    {
+      "title": "More Than Two Dozen Prediction Market Bills Reflect Congressional Attention Not Agreement, Law Experts Say",
+      "text": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25...",
+      "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
+      "tags": [
+        "Prediction markets",
+        "Regulation"
       ]
     },
     {
@@ -30,21 +39,13 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Bally’s Warns Chicago: VGTs Will Cost Thousands of Casino Jobs, Millions in Tax Revenue - Casino.org",
-      "text": "Bally’s Warns Chicago: VGTs Will Cost Thousands of Casino Jobs, Millions in Tax Revenue Casino.org",
-      "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3YwT2t0SnROV3FRVjRFOXJaUXZOMW5nSEFEZ0NrUW0ydGlYWko0aWF4MTNKMVQxcHJIaHpHaFYzSDFqMHZjOEFHbWFMbUhFN1l2M1NpU3lSdFZIczhPMDF3aC1iYUtMSmZEVnBuSDdXX3JKU1ZlbkF2c1dYbUpiN2stc2NWTzlTRXRSTm4tdTRVdmRVdDVr?oc=5",
-      "tags": [
-        "Bally's"
-      ]
-    },
-    {
-      "title": "Sweepstakes Casino Monthly Update June 2026: Operators Exit Indiana Ahead of Ban",
-      "text": "Sweepstakes casinos accelerated their withdrawal from several U.S. states during June, with Indiana emerging as the industry’s primary focus ahead of its July 1 prohibition. While sweepstakes casino legislation slowed during...",
-      "source": "https://www.gamblinginsider.com/news/168502/sweepstakes-casino-monthly-update-june-2026-indiana-maine-iowa",
+      "title": "Behind the Game by N1 Partners: Anatomy of a strong brand",
+      "text": "In the following article, the N1 Partners’ Product Line manager explores the key factors that define a successful igaming brand, from player retention and UX to localisation, payment infrastructure and long-term product...",
+      "source": "https://focusgn.com/behind-the-game-by-n1-partners-anatomy-of-a-strong-brand",
       "tags": [
         "Regulation",
         "Payments",
-        "Asia"
+        "CRM"
       ]
     }
   ],
@@ -64,8 +65,8 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzAyY0hoTUdXQjRudUh4Z3NwYWo3SzJwZHFaTjBObFVUcl81amFLY1ZSVFJwNWRMSGdhbFJpdWQ4T2RUblk2NkMzYms2UkZSZ19jT2tVRFY1dHB0Um9Ba0dzMHJyaktjT3JFbGh3dTRxMGJ3c21acnNBVFU3RlZSWkN2Y0FYeXdTN1NGSlB4bjdodkMwc0J2WnZmRGl4UzZlZkNrNjRQQkxRMm1VeHJF?oc=5",
-      "sourceLabel": "Google News: regulation"
+      "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
+      "sourceLabel": "Gambling Insider"
     },
     {
       "title": "Product quality is a commercial control",
@@ -89,6 +90,19 @@ window.briefingStories = [
       "Bally's",
       "Payments",
       "CRM"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "More Than Two Dozen Prediction Market Bills Reflect Congressional Attention Not Agreement, Law Experts Say",
+    "meta": "Gambling Insider | 26 Jun 2026",
+    "summary": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
     ]
   },
   {
@@ -118,6 +132,57 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Behind the Game by N1 Partners: Anatomy of a strong brand",
+    "meta": "Focus Gaming News | 26 Jun 2026",
+    "summary": "In the following article, the N1 Partners’ Product Line manager explores the key factors that define a successful igaming brand, from player retention and UX to localisation, payment infrastructure and long-term product...",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "In the following article, the N1 Partners’ Product Line manager explores the key factors that define a successful igaming brand, from player retention and UX to localisation, payment infrastructure and long-term product... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://focusgn.com/behind-the-game-by-n1-partners-anatomy-of-a-strong-brand",
+    "tags": [
+      "Regulation",
+      "Payments",
+      "CRM"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Prediction Markets Weekly Roundup: Litigation Spreads as Congress Joins the Fight",
+    "meta": "Gambling Insider | 26 Jun 2026",
+    "summary": "New lawsuits, tribal intervention, and the first federal prediction market bill to advance from committee made for another eventful week. Prediction market litigation continued to expand across the U.S. this week, with the...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "New lawsuits, tribal intervention, and the first federal prediction market bill to advance from committee made for another eventful week. Prediction market litigation continued to expand across the U.S. this week, with the... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/168633/prediction-markets-weekly-roundup-cftc-kentucky-congress-bill",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Prediction market roundup: Will Meta be the next to make leap into new asset class?",
+    "meta": "iGaming Business | 26 Jun 2026",
+    "summary": "The week includes a report on Meta's potential entry into prediction markets, as well as Kalshi litigation seeking to halt a new tax from Illinois.",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The week includes a report on Meta's potential entry into prediction markets, as well as Kalshi litigation seeking to halt a new tax from Illinois. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-62626/",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Ontario Lottery and Gaming Corporation selects Intralot Canada as technology provider",
+    "meta": "Focus Gaming News | 26 Jun 2026",
+    "summary": "The new technology solution is expected to be in place by 2029. Canada.- The Ontario Lottery and Gaming Corporation (OLG) has selected Intralot Canada, the Canadian subsidiary of Bally’s Intralot Group, as its new lottery...",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "The new technology solution is expected to be in place by 2029. Canada.- The Ontario Lottery and Gaming Corporation (OLG) has selected Intralot Canada, the Canadian subsidiary of Bally’s Intralot Group, as its new lottery... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://focusgn.com/ontario-lottery-and-gaming-corporation-selects-intralot-canada-as-new-lottery-technology-solution-provider",
+    "tags": [
+      "Bally's"
+    ]
+  },
+  {
     "section": "Other / Global",
     "title": "Bally’s Warns Chicago: VGTs Will Cost Thousands of Casino Jobs, Millions in Tax Revenue - Casino.org",
     "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
@@ -144,158 +209,28 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Chicago video gambling ban hearing goes \"bust\" - Audacy",
-    "meta": "Google News: EveryMatrix watchlist | 24 Jun 2026",
-    "summary": "Chicago video gambling ban hearing goes \"bust\" Audacy",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Chicago video gambling ban hearing goes \"bust\" Audacy Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZERsclltTjk1b2tSTmh3X204akdWUWgxdnQ5aGRUd2R2aU1RTXlRMVhLZFVGa3VHd212N21Fdy13T1BxV2RBeXJNRDh1eXFOVjE0UGMwNkdNa21lQ2xDcTNySzM2QjNpV3pVZktIYWcwb284Mjl6ZHpERmlKaTdJZA?oc=5",
+    "section": "North America",
+    "title": "Prediction market Kalshi sues Illinois over push to regulate sports betting - WQAD",
+    "meta": "Google News: iGaming | 27 Jun 2026",
+    "summary": "Prediction market Kalshi sues Illinois over push to regulate sports betting WQAD",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Prediction market Kalshi sues Illinois over push to regulate sports betting WQAD Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSkRVdXl5emlkUUh1eU1Jcm54d1NQMzRwT0lVUGNnVTgwUWlKVG5oU21KOFBzWUcwVU5MY2VCV3Fya2ZHUUNOQlBBSGR1R1dnS1pvcEplaGJIOVV6cHR3WXE2X25lS3U4SzFiUXh5N3pLTmJLUXhxRXREYlpjYWhWc29sbTJwYXpBOGFmbmtOQW1iRW1TM2pOX25HemN2NTBhOVZ3dGd5UUVEUnRyUmtyTURlSmhCbC1vcGFLUDNkX1F6U2hTOHR4V1JOX1RrWWQwODlZcklIZF95VVgxWks0Tmx5SElWUFlrRWtjS2w2b1hPUTRqRXozMjAwNmZjMnhjYXFoREhB?oc=5",
     "tags": [
+      "Prediction markets",
       "Regulation"
     ]
   },
   {
     "section": "Product",
-    "title": "In contentious video-gambling debate, Bally’s offers to install slot machines at Chicago airports - CDC Gaming",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "In contentious video-gambling debate, Bally’s offers to install slot machines at Chicago airports CDC Gaming",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "In contentious video-gambling debate, Bally’s offers to install slot machines at Chicago airports CDC Gaming Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWtpcERCbEdGVl9neTJGWjJBNkd4a2plSURsUHA3U0lidERncWFFX3IzNXJROC15U21rT29XSm5qUzJoZHhoa3hEMi1GcjlHczJnUXRNS2JMcGtfR3FTN0JHUmZPNm10bl85dkdCdXJVdGJiV3pkdk5oTnJSWGM0QU1rcExZVk90YTNhZHkyNWtENTNDcC1Vb0hyNFVVN3pnN0RpRThua2F3RHpfdzRzVFA2d1VDWkRPTHZIWlB4TEhQdw?oc=5",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "US sports betting app Novig hires ex-CFTC lawyer as chief regulatory and legal affairs officer - The Global Legal Post",
-    "meta": "Google News: iGaming | 24 Jun 2026",
-    "summary": "US sports betting app Novig hires ex-CFTC lawyer as chief regulatory and legal affairs officer The Global Legal Post",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "US sports betting app Novig hires ex-CFTC lawyer as chief regulatory and legal affairs officer The Global Legal Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMjJYNEFrNFRDLVlzRkp5RDRYM0dnN2t2Nm53dkJEbHFEakFFcml6eXJudWJGX0Zlb1djYTB2MHB2cW9tazNPS2lYN3FHZkcweDdZMHU2bjN3TUJWSHdkNERtcE9iZzNPbWNqR3A0ZzBVdjBYalZ2OFZuS245S2JUZEZXSHhBVWxUdjZrREhja2ZiZGdNTDNfV2liUjJkQmJsRXJacW1vQ3BuckdJbUhaWFo3czM3eDY2RjNDc3hlNGU2ODRnNUR4YXZLTjdrYjJ2ZlRreHZHUmk?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Regulation",
-      "US"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Jdigital flags black market risk of Spain’s joint deposit limits",
-    "meta": "iGaming Business | 24 Jun 2026",
-    "summary": "After Spain approved a new system of deposit limits, the trade body Jdigital warned of black market leakage and technical strain.",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "After Spain approved a new system of deposit limits, the trade body Jdigital warned of black market leakage and technical strain. Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://igamingbusiness.com/legal-compliance/jdigital-black-market-risk-spain-joint-deposit-limits/",
-    "tags": [
-      "Black market",
-      "Payments"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Bally’s escalates fight over video gambling, threatening legal action - Crain's Chicago Business",
-    "meta": "Google News: EveryMatrix watchlist | 24 Jun 2026",
-    "summary": "Bally’s escalates fight over video gambling, threatening legal action Crain's Chicago Business",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally’s escalates fight over video gambling, threatening legal action Crain's Chicago Business Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSktZQklfNUx5cVlNNVR4T2FhdjljSDcxNFpQT0x3d05KTHR1elBZNHFKRkItRmt2aDFrQW8xRkdtSDFLaHI4alNGVUtrQnJ3Z3lwc2JGR2VSS1Jid1NUcTc1eGd1SGIySEItY3AtUXVJRmI1N0JEalZPVy02T2RibVAtNHU1Si1aS282cnJQdnMxZw?oc=5",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Maximize your fun at Chicken Road: safe deposits and fast withdrawals explained - Indonesiabuzz.com",
-    "meta": "Google News: regulation | 25 Jun 2026",
-    "summary": "Maximize your fun at Chicken Road: safe deposits and fast withdrawals explained Indonesiabuzz.com",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Maximize your fun at Chicken Road: safe deposits and fast withdrawals explained Indonesiabuzz.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXZZTFd0UHdlYUdJWWJnYVN4SG8wdF9nYmtxajR1b3d1VlpnXzhBaEJCRl9xMmIzR05iTTgwZ1I5RTJRSEs3ajNVYjhpNHdGVmhhTWp4LVptYlNMdkdkaUVydF9LWVgtSmQySU9Ob19SX014WmVWNXRSUWNPbG40M3NoU3daYmhsV09JZXU3MXlYRDBhdlY2c1NhSW5OX2RPaHpFOUdLWWw?oc=5",
-    "tags": [
-      "Payments"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Ralph Topping: William Hill brand “has been let down by people who get paid to make decisions” - egr.global",
+    "title": "Bally’s Claims It Never Intended Vegas Casino to Open When A’s Stadium Does - Casino.org",
     "meta": "Google News: EveryMatrix watchlist | 26 Jun 2026",
-    "summary": "Ralph Topping: William Hill brand “has been let down by people who get paid to make decisions” egr.global",
+    "summary": "Bally’s Claims It Never Intended Vegas Casino to Open When A’s Stadium Does Casino.org",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Ralph Topping: William Hill brand “has been let down by people who get paid to make decisions” egr.global Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTdOYjFzWDJIeHE3UG4yUkE0UW44WUFtb3Vjc0Z2ZW1CN052Yk1XdzJfSEdpM0ZpZVVDTTN5c1hxSkhtQjI1am1LdVhaRGdJWkw4WnFET0t4NkJMaE5FTDBzc0NrSkluUUg0UXpCalh0R2V4NDhDekhFV0VGV0ROU1BkM3g0VTRrMFExaWxQd3BkMmMyXzYxa0ljQVIwZ2VlWXFCOUp4bWZiQUhERjF4TGFHVGIyRE9CWWVweHB5RHhzU045c1YtVA?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
-    "title": "Bally’s Proposes Airport Slots in Chicago As a Revenue-Generating Alternative to VGTs - Gaming America",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "Bally’s Proposes Airport Slots in Chicago As a Revenue-Generating Alternative to VGTs Gaming America",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally’s Proposes Airport Slots in Chicago As a Revenue-Generating Alternative to VGTs Gaming America Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXlLdVJnMG5GQzlSMDBtOFJGRHBrXzJFb2hsOEdGZEZFZ2QwZXljc1oyXzBrZDRjdkpwY2xndVRSSmxnSzdWSEJLZkM3RzRlSDE4eHJ6Mkk4TWxiY1hmd1lqX0NYMHBQNllhZ1RkR21SNXNac3ZYNFFQcUxiaU9VM3AyNA?oc=5",
+    "expanded": "Bally’s Claims It Never Intended Vegas Casino to Open When A’s Stadium Does Casino.org Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODhCeHp2Vmxvc1VraW9NRmU5cHA5ekRlamJGaEZSeENkMXBoOTVMX09WVEQ3YmI3ZzB4TVNnMUk1Q1dCWnlEM1JadU05Z283MjdUSWkwdE42RE5Qb01SR1RNaTRiZjZSUUtVSndfSVk0ZWIybnJnNmw2ZnB4NDMyMFdsclpJc2FTTTR5TENDak02RHhhRFpqY1BlT3AzUkU4OGwwOA?oc=5",
     "tags": [
       "Bally's"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Is Chicago Ever Getting Video Gambling Machines? Bars Wait For Answers As City Council Spars - Block Club Chicago",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "Is Chicago Ever Getting Video Gambling Machines? Bars Wait For Answers As City Council Spars Block Club Chicago",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Is Chicago Ever Getting Video Gambling Machines? Bars Wait For Answers As City Council Spars Block Club Chicago Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYl9MRW85MkJvZE5ZRFhpWkstMUlDNVRNVXlPRzJiNU1sN0NJM0FQalBlOGk1Ui1RZF9ib3NZcmdNelZOelJRS2NBSWN2MFdodHliZkVUWXRnYmJGdnRPVm1SdEtXVGViYXdPcWdxN1hIdWxtQVpmODIzaEhTVkJaaDhyX2MxS3pkU2poWUk3b0w5RkVJYk9jT0pwVmhTTE9YX3lxTHhndkQ0RVBwazVLZy1vemNPZ0dQdm9BVm56NXJzZ056TkpWUVVIUXE?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
-    "title": "Bally’s Offers To Install Slot Machines at Chicago Airports - Action Network",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "Bally’s Offers To Install Slot Machines at Chicago Airports Action Network",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally’s Offers To Install Slot Machines at Chicago Airports Action Network Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVDFVeW9hNjhyWUZzRkNxMm5pMHhscUtVX19uS0Z5aEVLNUdBVHBvUElMVlZrNnZEYzJnOFdEMHZaQmlSN2wtUHdvOTU0SkxnUndfTEJiV2ZaczRTNWZZOHplQmdfeFZ3aTJNZXZYdG9ydmZ0WjdwVVVxdE9RUVU?oc=5",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "EveryMatrix expands partnership with the Betsson Group with the launch of Fantasma Games - BNLData",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "EveryMatrix expands partnership with the Betsson Group with the launch of Fantasma Games BNLData",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix expands partnership with the Betsson Group with the launch of Fantasma Games BNLData Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXVPdHllb25ZRW5Bam92UHhPSHJZcTlOeC02V29YYkFqU24tVW9rR0hJYm41Zk5rY20xa1JLT0dxNHBuTmNXTmtvUEhFNUc2ZC15NGN5T0FKdWptOF9qZUNHVjZuX1NaUTRSdDJfWGRJck9Pa0M1Z0xpNF9oZHNKZEZsRWI2N2JOZjF3MWJpTFZDeUVIZGpucmdtYWlhZkU0d1RIekxXTzI2a2NiNWc?oc=5",
-    "tags": [
-      "EveryMatrix"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "EveryMatrix extends partnership with Betsson Group, launching Fantasma Games content - Tribuna.com",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "EveryMatrix extends partnership with Betsson Group, launching Fantasma Games content Tribuna.com",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "EveryMatrix extends partnership with Betsson Group, launching Fantasma Games content Tribuna.com Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb3FLbkoyMnoybXh3NGV6STcwdGdFRHVpamRUUWo4S3VfU0RYWjYyWG9fVE9IT09qazRBZlpjenUzcW1ndTRPTHZKREYzaGdvMkNGZ01UeWo2VFpsWlZhcmdDZzFqS3ZneFd2aFFrUktHUF85a0hIQVlFREJQMk45SlRzb0dvMm9OM3BRdDNCaEl2bEZ6elp0V09Cb2p1SUxqYl9HS3RkT2taMTFkWjlPTkRBOEQtNTVuZTZ5U1pjYWh6aUlMdndzRjBB0gHPAUFVX3lxTE43V1lRUlB5YjYxdE55VFVJcGZWNF9qVG44ZmlPQXVIMEM4emIwNlRpRE1CUkpzZU53TE54SHAtQ2VpcTREbVNTemtacDZMU3JXWVd0ZnVFakZucVVlNmdCLVE2eG13TV9TOVFkYmZYVExDTnI5Y0JyWjNNcVZIOUxLbTdITDRoVEpQN1FjVlZVQTdrU0FWdjdleDJ4cXhoTlhTMER6WGVFeDA3d0lTWUlEVllzTXhrVm94cHBvV08wN01VMEtqTVN3d3pQQW1hYw?oc=5",
-    "tags": [
-      "EveryMatrix"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Betsson explores new content with EveryMatrix extension - iGaming Expert",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "Betsson explores new content with EveryMatrix extension iGaming Expert",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "Betsson explores new content with EveryMatrix extension iGaming Expert Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0JDSEYxZW5xNEQxRHBJMFhzRkhPQVVmMXdhNXYySF9lZDJjWG5nek9xRVpmWk94S3RXX0MzZWlFeEFLNVJCNkhtd1kxczJEc0gwbUdMel9KdzgyTEJQTmdaaE1WTkIwdWk1UDlWaE9MQWtfd3RMVDBWOXV1VnBKT2NHWkJ3ejNCS1RtVGZXVkfSAZABQVVfeXFMT2dCQ0hGMWVucTREMURwSTBYc0ZIT0FVZjF3YTV2MkhfZWQyY1huZ3pPcUVaZlpPeEt0V19DM2VpRXhBSzVSQjZIbXdZMXMyRHNIMG1HTHpfSnc4MkxCUE5nWmhNVk5CMHVpNVA5VmhPTEFrX3d0TFQwVjl1dVZwSk9jR1pCd3ozQktUbVRmV1ZH?oc=5",
-    "tags": [
-      "EveryMatrix"
     ]
   },
   {
@@ -314,90 +249,167 @@ window.briefingStories = [
   },
   {
     "section": "Europe",
-    "title": "Jdigital flags black market risk of Spain’s joint deposit limits - igamingbusiness.com",
-    "meta": "Google News: iGaming | 24 Jun 2026",
-    "summary": "Jdigital flags black market risk of Spain’s joint deposit limits igamingbusiness.com",
+    "title": "UK: Gambling Commission open to discussions with operators to streamline gambling regulation - PressGiochi",
+    "meta": "Google News: regulation | 26 Jun 2026",
+    "summary": "UK: Gambling Commission open to discussions with operators to streamline gambling regulation PressGiochi",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "UK: Gambling Commission open to discussions with operators to streamline gambling regulation PressGiochi Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeXV5MHF0eTQtaHFqaTJ0TDRQYjNJUlhpSGxaOEgwNmtWMWpOSkZTZ3VsVzc0MTdFR1hWVlRsNFpEMXJ4aUZXSDV1Q1JaSjhSMElkTmg2WHJxLTk5QXUtSkNzeXBIZ2ZFUVBhUE90c3F4b2xLZmZ4RU51QlNscG5aMnFNdzhfNjRJaTVWdkRrYjBReU5uQ1psTXRuZGZMdExFaFVJUjgxN3ppWWRqUTlfd2w5TVBPSFpXbEJzem0wZTdBelkyeTdxNzVjWk9INlV2Tl9SZU5fdkFMNE5nRUhla2xDMlFTbk9S?oc=5",
+    "tags": [
+      "Regulation",
+      "KYC",
+      "UK"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "Brazil Targets Social Media Stars and Payment Firms Over Illegal Gambling Tax Evasion - parameter.io",
+    "meta": "Google News: regulation | 26 Jun 2026",
+    "summary": "Brazil Targets Social Media Stars and Payment Firms Over Illegal Gambling Tax Evasion parameter.io",
     "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Jdigital flags black market risk of Spain’s joint deposit limits igamingbusiness.com Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelpoRDdpal92ZG1xNjFuOFdSOTFmV2RFUzZwNDIxeWlVdUx0ZmpIRTlWUk85ZE02TElJX0RZbTAxdVRNZ2J5dkg1UW55TlpMTEF2N1lYTFlkUWpGWi1BMGFNOUtJLXVjNEJpc2NNR0RFckE0RkZxYUFETW95SzByVVN4T3YzREdaNExibGZ1bko3eTVTS3lpQUk4RWR4bmhG?oc=5",
+    "expanded": "Brazil Targets Social Media Stars and Payment Firms Over Illegal Gambling Tax Evasion parameter.io Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWdacEhSWXdyUzk3Q2toTVlJZ2l5b0xZV0lMdDdWRk5CeXlFQ1BSem9vVm5rMWRiM1ZzTXZFclgzQ19ud3JjT19fU0Znb0ZMUnpMa1pmVmU4ZmRsdlRUY0pObVE3OF9Qc1l2Nk9NTjBKZnMzZFdnN1oyeElkTUpGb0s4Qkc5M285NGNuTG84TUJudklpSzgzTVBTbTkwUzlYdTgwVXVldFlYVHc?oc=5",
     "tags": [
       "Black market",
-      "Payments"
+      "Payments",
+      "Brazil"
     ]
   },
   {
     "section": "Europe",
-    "title": "Study shows three-quarters of Ukrainians believe gambling to be serious issue for the country",
-    "meta": "iGaming Business | 25 Jun 2026",
-    "summary": "The research aimed to inform future regulatory frameworks and strengthen player-protection measures within the state-controlled gambling sector.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The research aimed to inform future regulatory frameworks and strengthen player-protection measures within the state-controlled gambling sector. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/sustainable-gambling/75-ukrainians-believe-gambling-serious-issue-country-study-shows/",
+    "title": "British Gambling Commission calls for industry ideas on reducing regulatory burdens",
+    "meta": "Focus Gaming News | 26 Jun 2026",
+    "summary": "The British gambling regulator is seeking ideas to streamline operational processes and requirements. UK.- The British Gambling Commission has invited industry stakeholders to help identify opportunities to reduce unnecessary...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The British gambling regulator is seeking ideas to streamline operational processes and requirements. UK.- The British Gambling Commission has invited industry stakeholders to help identify opportunities to reduce unnecessary... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://focusgn.com/british-gambling-commission-calls-for-industry-feedback-on-regulatory-burdens",
     "tags": [
       "Regulation",
+      "KYC",
       "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Thinking local: Why localisation is becoming iGaming’s next competitive advantage",
-    "meta": "iGaming Business | 25 Jun 2026",
-    "summary": "As iGaming expands into an increasing number of regulated markets, localisation has become a key differentiator, helping operators align content with local player preferences and improve engagement. Markus Antl, director of...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "As iGaming expands into an increasing number of regulated markets, localisation has become a key differentiator, helping operators align content with local player preferences and improve engagement. Markus Antl, director of... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/gaming/online-casino/localisation-igaming-competitive-advantage-greentube-markus-antl/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "CFTC Sues Kentucky, Kalshi Challenges Illinois After States Move Against Prediction Markets",
-    "meta": "Gambling Insider | 24 Jun 2026",
-    "summary": "The filings target the states’ recently enacted measures to tax certain prediction market contracts. The Commodity Futures Trading Commission (CFTC) sued Kentucky on Monday following the state’s recent enforcement actions...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The filings target the states’ recently enacted measures to tax certain prediction market contracts. The Commodity Futures Trading Commission (CFTC) sued Kentucky on Monday following the state’s recent enforcement actions... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/168300/cftc-sues-kentucky-kalshi-challenges-illinois",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Ukraine finds discrepancies between gambling reform calls and total player count",
-    "meta": "SBC News | 25 Jun 2026",
-    "summary": "The majority of Ukrainians are in favour of stricter gambling regulations, however only a small proportion engage with the sector. This was revealed in a study commissioned by local regulator PlayCity, with results based on a...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The majority of Ukrainians are in favour of stricter gambling regulations, however only a small proportion engage with the sector. This was revealed in a study commissioned by local regulator PlayCity, with results based on a... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/igaming/2026/06/25/ukraine-playcity/",
-    "tags": [
-      "Regulation",
-      "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Bally’s escalates fight over video gambling, threatening legal action – Crain’s - Wirepoints",
-    "meta": "Google News: EveryMatrix watchlist | 25 Jun 2026",
-    "summary": "Bally’s escalates fight over video gambling, threatening legal action – Crain’s Wirepoints",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally’s escalates fight over video gambling, threatening legal action – Crain’s Wirepoints Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVdtaGtSNy1Ja2t3WlNUX2tRT0N5LXVqV0pPcm9pTGlHY3RTaWZ2WkJzbFB6TkZkdExZcTJJM2F1SVYyc2pJVk1sQWduVDA4YUNENHpWMmtXLXZzeDREaFRmN0ozSmdjWTFHQ3QyZlNOWTBjU040MmRqRHVOZ3FVZ1p6REE5ZWZVeFZTaHF5bDJCNGYzcHV2b2hGOGt6VU0?oc=5",
-    "tags": [
-      "Bally's"
     ]
   },
   {
     "section": "Other / Global",
-    "title": "Betsson Group takes EveryMatrix igaming content - InterGame Online",
-    "meta": "Google News: iGaming | 25 Jun 2026",
-    "summary": "Betsson Group takes EveryMatrix igaming content InterGame Online",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "Betsson Group takes EveryMatrix igaming content InterGame Online Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXZFbHM5bEI5S2hKTmNGaGtHakpGb0lxWDFmc1JKa01XV0VPQ2poYVVoT0NFY3FpNjVDS0h6Q0ctcjlJZDJuLUdacE5kNlRFRmgtdlp2d2ZCV09xVmg2WFNxS2JPa3F0bFdCQnZiWk1HaXN5alp0R3lfN3FrQm5pdG1SUnYxb3hvRXc4U09aME5BZERLOEtaX2swbWhMVGxhRThKY180QVE?oc=5",
+    "title": "Chicago video gambling ban hearing goes \"bust\" - Audacy",
+    "meta": "Google News: EveryMatrix watchlist | 24 Jun 2026",
+    "summary": "Chicago video gambling ban hearing goes \"bust\" Audacy",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Chicago video gambling ban hearing goes \"bust\" Audacy Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZERsclltTjk1b2tSTmh3X204akdWUWgxdnQ5aGRUd2R2aU1RTXlRMVhLZFVGa3VHd212N21Fdy13T1BxV2RBeXJNRDh1eXFOVjE0UGMwNkdNa21lQ2xDcTNySzM2QjNpV3pVZktIYWcwb284Mjl6ZHpERmlKaTdJZA?oc=5",
     "tags": [
-      "EveryMatrix"
+      "Regulation"
     ]
+  },
+  {
+    "section": "Europe",
+    "title": "Gambling Commission asks for feedback on perceived burdens for UK industry",
+    "meta": "SBC News | 26 Jun 2026",
+    "summary": "The British Gambling Commission has extended a formal invitation to all licensed operators to outline what they see as the biggest burdens currently affecting the sector. This comes as part of the Commission’s 2026-2027 business...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The British Gambling Commission has extended a formal invitation to all licensed operators to outline what they see as the biggest burdens currently affecting the sector. This comes as part of the Commission’s 2026-2027 business... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/europe/uk/2026/06/26/ukgc-gambling-feedback/",
+    "tags": [
+      "Regulation",
+      "UK"
+    ]
+  },
+  {
+    "section": "Africa",
+    "title": "Africa Overview: South Africa and Egypt lash out at offshore illegal gambling",
+    "meta": "SBC News | 26 Jun 2026",
+    "summary": "Authorities are on the offensive against unlicensed and illegal gambling in two of Africa’s biggest economies, Egypt and South Africa. The African betting industry has grown substantially over the past few years with a plethora...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Authorities are on the offensive against unlicensed and illegal gambling in two of Africa’s biggest economies, Egypt and South Africa. The African betting industry has grown substantially over the past few years with a plethora... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/africa/2026/06/26/south-africa-egypt-illegal-gambling/",
+    "tags": [
+      "Regulation",
+      "Black market",
+      "Africa"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Exclusive: Black market ‘Bellingham Bet’ ads analysed for links to Premier League sponsor",
+    "meta": "NEXT.io | 26 Jun 2026",
+    "summary": "An unregulated online gambling brand advertised in the UK via ‘Bellingham Bet’ ads appears to use technical and licensing infrastructure that overlaps with those of a Premier League football sponsor.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "An unregulated online gambling brand advertised in the UK via ‘Bellingham Bet’ ads appears to use technical and licensing infrastructure that overlaps with those of a Premier League football sponsor. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/regulation/exclusive-black-market-bellingham-bet-ads-premier-league/",
+    "tags": [
+      "Regulation",
+      "Black market",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "BGC rebukes claim that UK’s black market threat is exaggerated",
+    "meta": "NEXT.io | 26 Jun 2026",
+    "summary": "Grainne Hurst, CEO of the Betting and Gaming Council, responded to this week’s black market discourse, reiterating that it “is not a marginal issue.”",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Grainne Hurst, CEO of the Betting and Gaming Council, responded to this week’s black market discourse, reiterating that it “is not a marginal issue.” Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/regulation/bgc-rebukes-claim-black-market-threat-exaggerated/",
+    "tags": [
+      "Black market",
+      "UK"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Best new casino sites in the UK (June 2026) – Find top new casinos - talkSPORT",
+    "meta": "Google News: EveryMatrix watchlist | 26 Jun 2026",
+    "summary": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
+    "tags": [
+      "UK"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Bally’s feeling the heat in Chicago, Las Vegas as New York construction looms - igamingbusiness.com",
+    "meta": "Google News: EveryMatrix watchlist | 27 Jun 2026",
+    "summary": "Bally’s feeling the heat in Chicago, Las Vegas as New York construction looms igamingbusiness.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally’s feeling the heat in Chicago, Las Vegas as New York construction looms igamingbusiness.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVzFNWk5zVkR5blJLMkVhSUJzSElCX3VscjVZNUNINDFINm9ZZWpuSzdjcHpIeDVpMDc4MFpXZkJHQ2hjbzQyVFhFNjdWMEJQN3NHWDZ0dzV5ZjFMYmlsakhsY2ZDTVpZSl8yLVJYUjBMdkVyZ0VfQ19nRkk3clFtTmFqMzVkU0pYc092M3l1am4zRjRweXZsQ0UydFlWemc2d1RkYWRoelVxRzAzaTZDZQ?oc=5",
+    "tags": [
+      "Bally's",
+      "US"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "OLG Names Intralot Canada as Its New Lottery Tech Partner - casino.com",
+    "meta": "Google News: EveryMatrix watchlist | 26 Jun 2026",
+    "summary": "OLG Names Intralot Canada as Its New Lottery Tech Partner casino.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "OLG Names Intralot Canada as Its New Lottery Tech Partner casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2gtaDFNRDhCaWh5TkhSVzhqenk2MU1OYTJ5RnUybVZGZHBCRTlpQVJ1T19wTTMtcGw0anAwZUQyMkNBNmFzS3VjYzlMLTRwZGNhc2F6b2ZyWkplcGtScDFITjJRNG9VUF96cXdlUjh3ZUdMUFF2MUNTVWpxNjloV0VSYzBBcWxhU2lVbVBFX0lNV2dhRXJUbDh6RQ?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Europe",
+    "title": "Majority of Ukrainians Think Gambling Is a Serious Problem for Ukraine - GamblingNews",
+    "meta": "Google News: regulation | 26 Jun 2026",
+    "summary": "Majority of Ukrainians Think Gambling Is a Serious Problem for Ukraine GamblingNews",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Majority of Ukrainians Think Gambling Is a Serious Problem for Ukraine GamblingNews Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2ZyU1FaMC1rTTlURHplcC1Tc2h0TzRYOXZ5bzhQUG56QWhoMUVNMkVVZVJ2aFV6QXZIV1RNeTdUcTlvLTdhek42RmV3c2lsNEJwNW9tUHFmQXpQNE9fQy1RZ1g1S3BhN3I5bm1aSGVaaDZ6TlU1YnhjSlJhUzd0bTF1eUZWaUczV3BoRmtaZjVaOEdNbXRaNzJyeVlXNVVIZ3F5RGpCNGE?oc=5",
+    "tags": [
+      "UK"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Police recover 19 gaming machines, $7K in Kakaako gambling bust - Hawaii News Now",
+    "meta": "Google News: regulation | 27 Jun 2026",
+    "summary": "Police recover 19 gaming machines, $7K in Kakaako gambling bust Hawaii News Now",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Police recover 19 gaming machines, $7K in Kakaako gambling bust Hawaii News Now Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmgwdFE1b01uSy1JeUtnTkI3WmtPd1FjemVoUHN5T1lScG9BODdqMUFKQ2dNUVdWYWdPZXd2cEw4Y2ZENUdOYlNURjQzLW5vSEZ5eXhDUktkcWZkQ01qUFRsWkxXUGRXNDFLR3JVaU00YTdqSWQzakx2Q2NPUzVtN24zUnFiWmxMSVd5R1ZieTFwOXF2M04ybGc3c09keGVzYnFpaG9fcWF3cXpYX1RVeDRKX2VxZ9IBtgFBVV95cUxOVmgwdFE1b01uSy1JeUtnTkI3WmtPd1FjemVoUHN5T1lScG9BODdqMUFKQ2dNUVdWYWdPZXd2cEw4Y2ZENUdOYlNURjQzLW5vSEZ5eXhDUktkcWZkQ01qUFRsWkxXUGRXNDFLR3JVaU00YTdqSWQzakx2Q2NPUzVtN24zUnFiWmxMSVd5R1ZieTFwOXF2M04ybGc3c09keGVzYnFpaG9fcWF3cXpYX1RVeDRKX2VxZw?oc=5",
+    "tags": []
   }
 ];

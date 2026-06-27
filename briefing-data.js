@@ -59,8 +59,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://next.io/news/regulation/gambling-commission-asks-industry-identify-regulatory-burdens/",
-      "sourceLabel": "NEXT.io"
+      "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeXV5MHF0eTQtaHFqaTJ0TDRQYjNJUlhpSGxaOEgwNmtWMWpOSkZTZ3VsVzc0MTdFR1hWVlRsNFpEMXJ4aUZXSDV1Q1JaSjhSMElkTmg2WHJxLTk5QXUtSkNzeXBIZ2ZFUVBhUE90c3F4b2xLZmZ4RU51QlNscG5aMnFNdzhfNjRJaTVWdkRrYjBReU5uQ1psTXRuZGZMdExFaFVJUjgxN3ppWWRqUTlfd2w5TVBPSFpXbEJzem0wZTdBelkyeTdxNzVjWk9INlV2Tl9SZU5fdkFMNE5nRUhla2xDMlFTbk9S?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -195,6 +195,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "Prediction market Kalshi sues Illinois over push to regulate sports betting - WQAD",
+    "meta": "Google News: iGaming | 27 Jun 2026",
+    "summary": "Prediction market Kalshi sues Illinois over push to regulate sports betting WQAD",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Prediction market Kalshi sues Illinois over push to regulate sports betting WQAD Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSkRVdXl5emlkUUh1eU1Jcm54d1NQMzRwT0lVUGNnVTgwUWlKVG5oU21KOFBzWUcwVU5MY2VCV3Fya2ZHUUNOQlBBSGR1R1dnS1pvcEplaGJIOVV6cHR3WXE2X25lS3U4SzFiUXh5N3pLTmJLUXhxRXREYlpjYWhWc29sbTJwYXpBOGFmbmtOQW1iRW1TM2pOX25HemN2NTBhOVZ3dGd5UUVEUnRyUmtyTURlSmhCbC1vcGFLUDNkX1F6U2hTOHR4V1JOX1RrWWQwODlZcklIZF95VVgxWks0Tmx5SElWUFlrRWtjS2w2b1hPUTRqRXozMjAwNmZjMnhjYXFoREhB?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
     "section": "Asia / Oceania",
     "title": "Sweepstakes Casino Monthly Update June 2026: Operators Exit Indiana Ahead of Ban",
     "meta": "Gambling Insider | 25 Jun 2026",
@@ -209,19 +222,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Prediction market Kalshi sues Illinois over push to regulate sports betting - WQAD",
-    "meta": "Google News: iGaming | 27 Jun 2026",
-    "summary": "Prediction market Kalshi sues Illinois over push to regulate sports betting WQAD",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Prediction market Kalshi sues Illinois over push to regulate sports betting WQAD Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSkRVdXl5emlkUUh1eU1Jcm54d1NQMzRwT0lVUGNnVTgwUWlKVG5oU21KOFBzWUcwVU5MY2VCV3Fya2ZHUUNOQlBBSGR1R1dnS1pvcEplaGJIOVV6cHR3WXE2X25lS3U4SzFiUXh5N3pLTmJLUXhxRXREYlpjYWhWc29sbTJwYXpBOGFmbmtOQW1iRW1TM2pOX25HemN2NTBhOVZ3dGd5UUVEUnRyUmtyTURlSmhCbC1vcGFLUDNkX1F6U2hTOHR4V1JOX1RrWWQwODlZcklIZF95VVgxWks0Tmx5SElWUFlrRWtjS2w2b1hPUTRqRXozMjAwNmZjMnhjYXFoREhB?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
     "section": "Product",
     "title": "Bally’s Claims It Never Intended Vegas Casino to Open When A’s Stadium Does - Casino.org",
     "meta": "Google News: EveryMatrix watchlist | 26 Jun 2026",
@@ -231,20 +231,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODhCeHp2Vmxvc1VraW9NRmU5cHA5ekRlamJGaEZSeENkMXBoOTVMX09WVEQ3YmI3ZzB4TVNnMUk1Q1dCWnlEM1JadU05Z283MjdUSWkwdE42RE5Qb01SR1RNaTRiZjZSUUtVSndfSVk0ZWIybnJnNmw2ZnB4NDMyMFdsclpJc2FTTTR5TENDak02RHhhRFpqY1BlT3AzUkU4OGwwOA?oc=5",
     "tags": [
       "Bally's"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Gambling Commission asks industry to identify ‘regulatory burdens’",
-    "meta": "NEXT.io | 26 Jun 2026",
-    "summary": "The UK Gambling Commission is inviting industry stakeholders to highlight rules and requirements they believe could be simplified without weakening consumer protections. From today (26 June), the regulator is inviting evidence...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "The UK Gambling Commission is inviting industry stakeholders to highlight rules and requirements they believe could be simplified without weakening consumer protections. From today (26 June), the regulator is inviting evidence... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://next.io/news/regulation/gambling-commission-asks-industry-identify-regulatory-burdens/",
-    "tags": [
-      "Regulation",
-      "KYC",
-      "UK"
     ]
   },
   {
@@ -330,33 +316,6 @@ window.briefingStories = [
   },
   {
     "section": "Europe",
-    "title": "Exclusive: Black market ‘Bellingham Bet’ ads analysed for links to Premier League sponsor",
-    "meta": "NEXT.io | 26 Jun 2026",
-    "summary": "An unregulated online gambling brand advertised in the UK via ‘Bellingham Bet’ ads appears to use technical and licensing infrastructure that overlaps with those of a Premier League football sponsor.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "An unregulated online gambling brand advertised in the UK via ‘Bellingham Bet’ ads appears to use technical and licensing infrastructure that overlaps with those of a Premier League football sponsor. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/exclusive-black-market-bellingham-bet-ads-premier-league/",
-    "tags": [
-      "Regulation",
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "BGC rebukes claim that UK’s black market threat is exaggerated",
-    "meta": "NEXT.io | 26 Jun 2026",
-    "summary": "Grainne Hurst, CEO of the Betting and Gaming Council, responded to this week’s black market discourse, reiterating that it “is not a marginal issue.”",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Grainne Hurst, CEO of the Betting and Gaming Council, responded to this week’s black market discourse, reiterating that it “is not a marginal issue.” Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/bgc-rebukes-claim-black-market-threat-exaggerated/",
-    "tags": [
-      "Black market",
-      "UK"
-    ]
-  },
-  {
-    "section": "Europe",
     "title": "Best new casino sites in the UK (June 2026) – Find top new casinos - talkSPORT",
     "meta": "Google News: EveryMatrix watchlist | 26 Jun 2026",
     "summary": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT",
@@ -411,5 +370,42 @@ window.briefingStories = [
     "expanded": "Police recover 19 gaming machines, $7K in Kakaako gambling bust Hawaii News Now Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmgwdFE1b01uSy1JeUtnTkI3WmtPd1FjemVoUHN5T1lScG9BODdqMUFKQ2dNUVdWYWdPZXd2cEw4Y2ZENUdOYlNURjQzLW5vSEZ5eXhDUktkcWZkQ01qUFRsWkxXUGRXNDFLR3JVaU00YTdqSWQzakx2Q2NPUzVtN24zUnFiWmxMSVd5R1ZieTFwOXF2M04ybGc3c09keGVzYnFpaG9fcWF3cXpYX1RVeDRKX2VxZ9IBtgFBVV95cUxOVmgwdFE1b01uSy1JeUtnTkI3WmtPd1FjemVoUHN5T1lScG9BODdqMUFKQ2dNUVdWYWdPZXd2cEw4Y2ZENUdOYlNURjQzLW5vSEZ5eXhDUktkcWZkQ01qUFRsWkxXUGRXNDFLR3JVaU00YTdqSWQzakx2Q2NPUzVtN24zUnFiWmxMSVd5R1ZieTFwOXF2M04ybGc3c09keGVzYnFpaG9fcWF3cXpYX1RVeDRKX2VxZw?oc=5",
     "tags": []
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Feds give details on 'Operation Porterhouse Parlay' in NW Indiana linked to alleged gambling rings - MSN",
+    "meta": "Google News: regulation | 26 Jun 2026",
+    "summary": "Feds give details on 'Operation Porterhouse Parlay' in NW Indiana linked to alleged gambling rings MSN",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Feds give details on 'Operation Porterhouse Parlay' in NW Indiana linked to alleged gambling rings MSN Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQSFc5TUgzOGthRG41elR2SjNwYV8tcUNvckItRE1JbHZhWEpaZUdPYTBuTE5XTGdRWVhrR2gyRm5sN2xJZmRiR2plQVJVNTFEdHFKY0pfeUdzNE4zZGZuTWVJbm8ySzlTUmZSbFo4V2pIeVVBQW44LVFXVjlHVXhyV3VJTzRRZXdfWF9pUFVwRjdwV2kyY19wVnA4a3hwVHBHYVhJM0pQTm1QdFV4MDVGZXIySEdOQ1lLb1g0Vm54dUV4dHA3Wmo5aUtqcUNXVGxtSHpjVXhBZWMzY3dWbl9LQi1kRU94SnZLMFBZeE9iT3pfbFVDcW1WTnB3OU5RTHhJU3dGdEZCNVhzVU5WNEstcmpmU2t0ZVVIdkhvdUZVR3NNbG4zb01RUHppRXZjcEhmaG9WejdNUFdxdlAta1NYVGwtSmdQUHdWcG1XbEVxZVFxM2taUjJpUElnaXdTQWZURnhqM3libGFkTUZiQXRiSEVLbFY?oc=5",
+    "tags": [
+      "Asia"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "UK horse racing leadership assert sport is safe from gambling ad restrictions",
+    "meta": "SBC News | 26 Jun 2026",
+    "summary": "British horse racing might not be getting its way on affordability but the sport’s leadership are confident the government has its back when it comes to advertising. Gambling advertising is a common target of gambling reform...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "British horse racing might not be getting its way on affordability but the sport’s leadership are confident the government has its back when it comes to advertising. Gambling advertising is a common target of gambling reform... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://sbcnews.co.uk/marketing/2026/06/26/uk-horse-racing-advertising/",
+    "tags": [
+      "RG",
+      "UK"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "PopOK Gaming strengthens Latin American expansion with Argentina certification",
+    "meta": "Focus Gaming News | 26 Jun 2026",
+    "summary": "It enables the company to provide its portfolio of certified gaming content to licensed operators in the country. Press release.- PopOK Gaming has announced that it has successfully obtained certification for the Argentinian...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "It enables the company to provide its portfolio of certified gaming content to licensed operators in the country. Press release.- PopOK Gaming has announced that it has successfully obtained certification for the Argentinian... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://focusgn.com/popok-gaming-strengthens-latin-american-expansion-with-argentina-certification",
+    "tags": [
+      "Regulation"
+    ]
   }
 ];

@@ -373,30 +373,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Gambling Commission asks for feedback on perceived burdens for UK industry",
-    "meta": "SBC News | 26 Jun 2026",
-    "summary": "The British Gambling Commission has extended a formal invitation to all licensed operators to outline what they see as the biggest burdens currently affecting the sector. This comes as part of the Commission’s 2026-2027 business...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The British Gambling Commission has extended a formal invitation to all licensed operators to outline what they see as the biggest burdens currently affecting the sector. This comes as part of the Commission’s 2026-2027 business... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/europe/uk/2026/06/26/ukgc-gambling-feedback/",
+    "section": "Other / Global",
+    "title": "Bally's Casino threatens to sue Chicago | The Chicago Report - MSN",
+    "meta": "Google News: EveryMatrix watchlist | 27 Jun 2026",
+    "summary": "Bally's Casino threatens to sue Chicago | The Chicago Report MSN",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Bally's Casino threatens to sue Chicago | The Chicago Report MSN Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHFjRFFvVm0zbERkOUlyTlR1QlJTM1JJZ29aMlpSTUFoMnZKT3JPY2c4S1RObXoyQ1IyRThtTEhUVTJURlBYYmNUSGRCOENybnZVUURBVzRlbVR5d3YxMWFpT0tvQlBTRUs4TktGWGN4ZU1JNWFWUWRiYkpvSkR1NWZLa0R6ZnJOc3ljVGtsWkhNSTFjbEtmNFRQb3paMGNRSVJDQzY5UkcwZw?oc=5",
     "tags": [
-      "Regulation",
-      "UK"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Africa Overview: South Africa and Egypt lash out at offshore illegal gambling",
-    "meta": "SBC News | 26 Jun 2026",
-    "summary": "Authorities are on the offensive against unlicensed and illegal gambling in two of Africa’s biggest economies, Egypt and South Africa. The African betting industry has grown substantially over the past few years with a plethora...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Authorities are on the offensive against unlicensed and illegal gambling in two of Africa’s biggest economies, Egypt and South Africa. The African betting industry has grown substantially over the past few years with a plethora... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/africa/2026/06/26/south-africa-egypt-illegal-gambling/",
-    "tags": [
-      "Regulation",
-      "Black market",
-      "Africa"
+      "Bally's"
     ]
   },
   {
@@ -407,6 +392,18 @@ window.briefingStories = [
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "expanded": "Hostage call leads LAPD to illegal gambling operation in Koreatown; 26 detained Los Angeles Times Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3c4NFZxLVJ4NU85V3VRNkE5SVJsU0dyaTNYWFVBWTZDalFjNk84NVlzMFZvTlRYUTBUbUdQZVJONjdWYjFUbVNkQVJCTHA0M0dxMzFsV0N0eUlRVTFQVW1rZnMtTUZTMzVGMDViZGJNbWtkN1dVT1ItOVRSSTBkNUk4OWU?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Dozens arrested in illegal gambling raid in L.A. - Yahoo",
+    "meta": "Google News: regulation | 28 Jun 2026",
+    "summary": "Dozens arrested in illegal gambling raid in L.A. Yahoo",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Dozens arrested in illegal gambling raid in L.A. Yahoo Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNjE0aWRhamNBYXJIOWhSX1FvVF9lRGxBdk80RFdydU5BMS0wZjJmM1o1b1ZLSGltQ3hfeWV4SGhMajg1MXFBRDhNWHU2SEd5d1hWRF9nQXNCbGlYaWdVS1ZEeldEUHY2TXFUWldNenRDUjZHRHZ5R0FUM3dHYzhFQ1o1cGI3R3dnUmJxdl90RQ?oc=5",
     "tags": [
       "Black market"
     ]

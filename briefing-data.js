@@ -38,13 +38,10 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "More Than Two Dozen Prediction Market Bills Reflect Congressional Attention Not Agreement, Law Experts Say",
-      "text": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25...",
-      "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
-      ]
+      "title": "Tim Miller to leave Gambling Commission after ten years - igamingbusiness.com",
+      "text": "Tim Miller to leave Gambling Commission after ten years igamingbusiness.com",
+      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEppMGVwbXJIX3N3ZGJ0eGd5cFQybTlyQjhtVXZsY3JsZzYzZnJoX242d2J5VzMwdU52SEVBLVRFSUZfdDktcFNJaXpCNUUzTkRucmkxRkM0RFljZlF6bThrR01pMkFyOXJ6UWxEbXVuWUZTd3pjYTJSdVBWa3lQWHpraDZnTC1Ybnc1d0lTc0JHQQ?oc=5",
+      "tags": []
     }
   ],
   "platformLens": [
@@ -63,8 +60,8 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
-      "sourceLabel": "Gambling Insider"
+      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3hDcXdiRzQ2TlNpUE1LYmFMNjRfbG5RekQ0czNLYVF0WVI5ZzFkdUplRkNIXzlyWUdwTlYxOUJUYkZxcEE1d0RpMTJuRWhLa1F4RF9CNzNmZWxUMEdRYVo0U0NkdlRIMHRWQ3BxUDV4LV9seUs1QVpSVmxIUHR6czZacUd5dW9CLU9XeA?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Product quality is a commercial control",
@@ -129,30 +126,14 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "More Than Two Dozen Prediction Market Bills Reflect Congressional Attention Not Agreement, Law Experts Say",
-    "meta": "Gambling Insider | 26 Jun 2026",
-    "summary": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Shaping the future of African iGaming: SmartSoft highlights the iGB LIVE! Africa Summit in London",
-    "meta": "NEXT.io | 29 Jun 2026",
-    "summary": "The global gaming industry is tracking to London this July 1-2 for iGB Live, one of the most important dates on the iGaming calendar. But the real headline? In a powerhouse collaboration with Clarion Gaming and the African...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The global gaming industry is tracking to London this July 1-2 for iGB Live, one of the most important dates on the iGaming calendar. But the real headline? In a powerhouse collaboration with Clarion Gaming and the African... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/smartsoft-highlights-the-igb-live-africa-summit-in-london/",
-    "tags": [
-      "Regulation",
-      "Africa"
-    ]
+    "section": "Other / Global",
+    "title": "Tim Miller to leave Gambling Commission after ten years - igamingbusiness.com",
+    "meta": "Google News: EveryMatrix watchlist | 29 Jun 2026",
+    "summary": "Tim Miller to leave Gambling Commission after ten years igamingbusiness.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Tim Miller to leave Gambling Commission after ten years igamingbusiness.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEppMGVwbXJIX3N3ZGJ0eGd5cFQybTlyQjhtVXZsY3JsZzYzZnJoX242d2J5VzMwdU52SEVBLVRFSUZfdDktcFNJaXpCNUUzTkRucmkxRkM0RFljZlF6bThrR01pMkFyOXJ6UWxEbXVuWUZTd3pjYTJSdVBWa3lQWHpraDZnTC1Ybnc1d0lTc0JHQQ?oc=5",
+    "tags": []
   },
   {
     "section": "Europe",
@@ -213,6 +194,19 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "More Than Two Dozen Prediction Market Bills Reflect Congressional Attention Not Agreement, Law Experts Say",
+    "meta": "Gambling Insider | 26 Jun 2026",
+    "summary": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Federal lawmakers have introduced an abundance of prediction market bills. Experts say the proposals reflect growing attention to the industry rather than a consensus on regulation. Congress has introduced more than 25... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/168680/why-congress-introduced-more-than-25-prediction-market-bills",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
     "title": "Call for speakers now open for Regulating the Game 2027 Sydney",
     "meta": "Focus Gaming News | 29 Jun 2026",
     "summary": "Regulating the Game has launched its Call for Speakers for the 2027 Sydney conference, inviting submissions on key topics in gambling regulation, compliance, innovation, and safer gambling. The event will also introduce an...",
@@ -246,19 +240,6 @@ window.briefingStories = [
     "expanded": "Evolution opens the week with sector focus, shares in Nasdaq peer comparison AD HOC NEWS Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
     "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFNTbzZES0NNeWQtbWZFVmpHMkI5ODJqT05WOGdQdUw4TnJObUs5SEVObGJUc2NqU2VnRDk3QmZ5TXQ0ZzFpX1BtVzFnNXFMbjhOSGtGTlR5RDljdlo5M2N6MVJOSUo3UFpZUG54OGxIdld0NjJTOTFUbGRKRGYyTDFHVS0zRFNQUUcyXzF3NWNzTUc1MVcxalpJTFg3ZEVWUURva3RIQWQwZTFjWEF4bXZkajZ5UlBUN2hXdFJVRUg?oc=5",
     "tags": []
-  },
-  {
-    "section": "North America",
-    "title": "Nevada Wins Temporary Ban on Sports Betting on Kalshi - WSJ",
-    "meta": "Google News: iGaming | 28 Jun 2026",
-    "summary": "Nevada Wins Temporary Ban on Sports Betting on Kalshi WSJ",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Nevada Wins Temporary Ban on Sports Betting on Kalshi WSJ Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRTJaT2dMd242blFVR0twblNuc2FFNU1rcWtQcGlJbExQQXZRcW9CeV9yckVobzNzcmhHRW4wRDFyTlgtY25qakpiSmdwMGtlVUdMMUxlTS1fWTZGY2FrYms5NGVTcGtDV2trV2J4WmZfa3I4Y1RlZHhyanMtMmpqbkZtOUhFNmlzZVA0TjhZaVhOOWQ3MjlNTXpBUDNzZS1jU2QweG1YMW1YMmRMRDZBT1RXNEpjNlRGdlE5NW44VkxMTms1T3Mydw?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
   },
   {
     "section": "North America",
@@ -301,19 +282,6 @@ window.briefingStories = [
   },
   {
     "section": "Product",
-    "title": "AI Is Making iGaming Fraud Harder to Spot as Suspicious Transactions Jump 4.5 Times - iGamingToday.com",
-    "meta": "Google News: iGaming | 29 Jun 2026",
-    "summary": "AI Is Making iGaming Fraud Harder to Spot as Suspicious Transactions Jump 4.5 Times iGamingToday.com",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "AI Is Making iGaming Fraud Harder to Spot as Suspicious Transactions Jump 4.5 Times iGamingToday.com Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkJ3MWNqdjAtdDNJYjR1ancwamZydlNVOWxpOXRwTlZRLURKS0RONnZ3eEE0ME5URmRXT3N5djlrbWp4RjNGbUVoZHdtRWdGUzZmN2JvdHpNanRsUXVUSkhWMThJVkt0c2dJM3htUV9kLVZDbTBxNWtleUlYaUdmdmZpMl90OUNlc3gwNkVDTVpxSmdsVVFiMnZvc21Ua3kwWDFQSl90U2FpNjh5ZDBVWkRfSQ?oc=5",
-    "tags": [
-      "KYC",
-      "AI"
-    ]
-  },
-  {
-    "section": "Product",
     "title": "Behind the Game by N1 Partners: Anatomy of a strong brand",
     "meta": "Focus Gaming News | 26 Jun 2026",
     "summary": "In the following article, the N1 Partners’ Product Line manager explores the key factors that define a successful igaming brand, from player retention and UX to localisation, payment infrastructure and long-term product...",
@@ -333,7 +301,7 @@ window.briefingStories = [
     "summary": "Financial products or illicit gambling? Can Hong Kong regulate prediction markets? South China Morning Post",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
     "expanded": "Financial products or illicit gambling? Can Hong Kong regulate prediction markets? South China Morning Post Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNalhBajRtZlpxZ095YTctS0lCZ3VTdHBNS1dXX1hfRXR0ekNOOGZBUHhyM2Z0bmFQdC1KYTRkLUM2TGNjUFMtd1MydmlQUmdnMGVyME15UEY4d1dRVmFsb01JdWE3azZLakJrd0F5MHNzOHNGU1RpQlQ4eUo0SGpOX2ZoUTZ5WGJuNE5fZU1QaUNKTF9CSmR6aGF0N203dWtTOGhERXRYdXpFaDA3NEdrNXJRMElzUS1fWU00S1ZFTmtNS09Rd0JwSXRSU09mdmhvOUdxRm5oSWVuWE85Y2RZ0gHfAUFVX3lxTFBWS0ExYmNIZDVZa3d5M3huVDc5Zk5zUUtDZ3RZUUxmZHBsOWRvUl9mNjdmelo3N2hSMzVlNHlGSy1RY3NwU0FxLWJDRWVoMkNtVEZTamZCU3FpakJ1dGZMc2dHcmFBS0x4c0d1YlFRb3R0UEoxUmJIb1Z1SXk1TnFBZW9OWHJaYmlNOUExYUJqdVZON25jbkQ3eVVwandSZ3lEYkRXMnhXNl9aQkhlSjhYel9hX2JZQmpnNW9YcWMtRXluNFZ2dVg0T2JyeHpxNkhSTl94ZGNXVjQzaDZmTnc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVktBMWJjSGQ1WWt3eTN4blQ3OWZOc1FLQ2d0WVFMZmRwbDlkb1JfZjY3ZnpaNzdoUjM1ZTR5RkstUWNzcFNBcS1iQ0VlaDJDbVRGU2pmQlNxaWpCdXRmTHNnR3JhQUtMeHNHdWJRUW90dFBKMVJiSG9WdUl5NU5xQWVvTlhyWmJpTTlBMWFCanVWTjduY25EN3lVcGp3Umd5RGJEVzJ4VzZfWkJIZUo4WHpfYV9iWUJqZzVvWHFjLUV5bjRWdnVYNE9icnh6cTZIUk5feGRjV1Y0M2g2Zk530gHfAUFVX3lxTFBWS0ExYmNIZDVZa3d5M3huVDc5Zk5zUUtDZ3RZUUxmZHBsOWRvUl9mNjdmelo3N2hSMzVlNHlGSy1RY3NwU0FxLWJDRWVoMkNtVEZTamZCU3FpakJ1dGZMc2dHcmFBS0x4c0d1YlFRb3R0UEoxUmJIb1Z1SXk1TnFBZW9OWHJaYmlNOUExYUJqdVZON25jbkQ3eVVwandSZ3lEYkRXMnhXNl9aQkhlSjhYel9hX2JZQmpnNW9YcWMtRXluNFZ2dVg0T2JyeHpxNkhSTl94ZGNXVjQzaDZmTnc?oc=5",
     "tags": [
       "Prediction markets",
       "Regulation"
@@ -397,6 +365,29 @@ window.briefingStories = [
     "expanded": "Police uncover illegal gambling operation in Koreatown, Los Angeles; more than 2 dozen people detained ABC7 Los Angeles Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzFhcXB6SzlLMHRiS3dWVzZ0b1h2STM2dlFjSUliMnNCaHpvTm5yekhBbXRZOHZySV9VZ01Eb01uS0pITG1xX0F4U0pmd1ZlbXRJRGZOMW9KVHczSEpvaHZ0QjRkZ3NaQ21oLUFNSzRmbnc3V3BDd3hocThXWEFFSHVhWTQzclY0TnB2Uk8xOWxFSm9JQUNqSXJ2WHUyT1IzNkp2UUhkUUM5OElrWDZaNzN4SUZfZmp3QlA0djBXZHZYZ9IBxwFBVV95cUxNd2tYMi11U0VVQ3JnQ0ZBZWpyMHhHNFZibWJKZjJGLWpzUmxSSGhkakROblNIeXJ0R2tsX2d1bTFCMUpaajFJZ3ZTSDdaNUl5VlBNbkhBMlpYTy05UnpncEl1OGZrYjVuTTR3Qkp1dUJJbURlS25UcS1zd1JaVFEzU1A4S1pjOExETEpNaEh1MlpqWmFkNlJZNHU2UEE1eWs3c0h3dlYyLVNYQ0xQSjV1YjNfREIxYl9jaS1ScXFDTkNoakFwQV9F?oc=5",
     "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Baguio City boosts anti-online gambling campaign - Philippine News Agency",
+    "meta": "Google News: regulation | 29 Jun 2026",
+    "summary": "Baguio City boosts anti-online gambling campaign Philippine News Agency",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Baguio City boosts anti-online gambling campaign Philippine News Agency Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wOTl4ME5Ec3hJQURodXZIWk54eGNzZFN1M09wa2RWblVKdzNYQXNyTmpfZk1ueTZtV1VXMmliMWk4bW4tQTZzXzlTWlY5bnQt?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "“Illegal gambling is one of the most significant challenges facing regulated markets across the Balkans”: Filip Jelavić, Chair of the Balkan Gaming Federation - Tribuna.com",
+    "meta": "Google News: regulation | 29 Jun 2026",
+    "summary": "“Illegal gambling is one of the most significant challenges facing regulated markets across the Balkans”: Filip Jelavić, Chair of the Balkan Gaming Federation Tribuna.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "“Illegal gambling is one of the most significant challenges facing regulated markets across the Balkans”: Filip Jelavić, Chair of the Balkan Gaming Federation Tribuna.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYm1ockt2WXRWQlYtTVl1OEZWYno5bDI1UUxWUmhwZHd2SE1hMG1scGhJZ3BYdmp3SVlwTk50bkk5cTB4M3RZSm52MVFFUkRtSTZfeFRtTTdMQWphVmxEdGxqSHljeURuSnNMUUZ5UzVaLXMyeGZVNGlQN1lEUmV1WUtZTnVZQkl2dFc0MFd6cjBSc3pPY2lNcl9xLUhaVmFDdmE5a0xUYUdqWEpHVk1jbWI4OHZpYWI5Y3puQnBrcnQxWUd0ZUwzUUdtUWo0WlV3TFHSAdcBQVVfeXFMUEFkdklUU2lFcHNwWFpTWHQtTFFJUENZY01UTUZtZzU2RmUwTkl5UUh1M19iVDkzTW5MWXY1TmhNOFRvTVk2OExmQ3ltU2Z5VHVBa2RQQW1WZHp0QU9BQ210Q0ZJNmRieUFoaDlpbUZ5TFJwUmZEelNVdXNsdDdRdnVGZk5xSURuQkpQc2JVVGZySVE3QUJpSWJDZVR3SlRhUzZUc1JNaERoUXFNR0lvZS1jb2VXejY0MTN6WEd4QzNKTDdLMGRnbHB6N0xqbS1DMV8wQURuZlU?oc=5",
+    "tags": [
+      "Regulation",
       "Black market"
     ]
   }

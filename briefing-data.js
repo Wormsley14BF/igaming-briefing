@@ -185,6 +185,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Other / Global",
+    "title": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering - AOL.com",
+    "meta": "Google News: regulation | 29 Jun 2026",
+    "summary": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering AOL.com",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering AOL.com Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YS3c4b2xEX3Y0MW5TM3BCTDlEeWpkVlVxbVVHclB2VDhqRHljRkJaV3lhZDJnaFc5cmk3WHJpOGNKOXJCZVZfVGZuelNHOG1UVmdkbU5OUlBTNDYyNHoxZ0xvSU9MM3RIS0J6ZlMzS3h5amtmX2xsMGFYQTE?oc=5",
+    "tags": [
+      "Black market",
+      "KYC"
+    ]
+  },
+  {
     "section": "Product",
     "title": "Gambling Commission seeking industry input to reduce regulatory pains",
     "meta": "iGaming Business | 29 Jun 2026",
@@ -283,16 +296,6 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
-    "title": "Illinois Problem Gambling Recovery Groups Fill Treatment Gaps - PlayUSA",
-    "meta": "Google News: EveryMatrix watchlist | 29 Jun 2026",
-    "summary": "Illinois Problem Gambling Recovery Groups Fill Treatment Gaps PlayUSA",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Illinois Problem Gambling Recovery Groups Fill Treatment Gaps PlayUSA Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUVvYU1zUjQ2NGFtVnJFeHRNa1h1NVJvNzQwcXhLWUVlRlc2djJ1V1pDdTZVUTYwdW1kcmNLNE4zWHA3Z0JRWkJXQnhxU3l0OVluVWVpM3dtbVg5UHkxMlBpZjA0MFZpaGFoelhXVG1RMi1WRk5YMElOYTBURVNUc1l6YnRlQUFkbjhtVXpELUhzQjdtX2RZMHVad1RFOENTOG5RclJQV3RBSXJpb2xDMUVXRVFlUQ?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Other / Global",
     "title": "6 Bally Casino Features Canadian Players Should Know About - Bonus.com",
     "meta": "Google News: EveryMatrix watchlist | 29 Jun 2026",
     "summary": "6 Bally Casino Features Canadian Players Should Know About Bonus.com",
@@ -379,15 +382,16 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "Best new casino sites in the UK (June 2026) – Find top new casinos - talkSPORT",
-    "meta": "Google News: EveryMatrix watchlist | 29 Jun 2026",
-    "summary": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Best new casino sites in the UK (June 2026) – Find top new casinos talkSPORT Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
+    "section": "North America",
+    "title": "BR-DGE secures £10m as Bettor Capital backs payments growth",
+    "meta": "NEXT.io | 30 Jun 2026",
+    "summary": "Payments firm BR-DGE has raised £10m, with US gaming investor Bettor Capital joining the round to support the company's expansion.",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "Payments firm BR-DGE has raised £10m, with US gaming investor Bettor Capital joining the round to support the company's expansion. Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://next.io/news/investment/br-dge-secures-10m-bettor-capital-investment/",
     "tags": [
-      "UK"
+      "Payments",
+      "US"
     ]
   }
 ];

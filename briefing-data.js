@@ -2,15 +2,6 @@ window.briefingMeta = {
   "dateLabel": "Wednesday, 1 July 2026 | automated public-site edition",
   "atAGlance": [
     {
-      "title": "Disgraced Australian financier wants his money back from Entain",
-      "text": "A former financier in Australia jailed over fraud to fuel his gambling now wants to sue Entain to recoup the losses and return them to his victims. Gavin Fineff was jailed in 2023 after pleading guilty to 12 counts of obtaining...",
-      "source": "https://sbcnews.co.uk/sportsbook/2026/06/30/entain-australia-lawsuit/",
-      "tags": [
-        "Regulation",
-        "KYC"
-      ]
-    },
-    {
       "title": "Judge Orders Kalshi to Stop Offering Sports Markets in Michigan",
       "text": "Prediction market operator faces daily six-figure fine if it cannot meet temporary restraining order’s geolocation requirement A Michigan judge on Monday approved a temporary restraining order against Kalshi, requiring the...",
       "source": "https://www.gamblinginsider.com/news/168862/judge-orders-kalshi-to-stop-offering-sports-markets-in-michigan",
@@ -28,18 +19,26 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "Casino Flags ‘Impossible’ Slot Wins as $1.1M Fraud Case Unfolds in Rhode Island - Action Network",
-      "text": "Casino Flags ‘Impossible’ Slot Wins as $1.1M Fraud Case Unfolds in Rhode Island Action Network",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zZkpmM3NqMGQxN015RFdfM2RuQk9keEpLQjlYQ0RpVjE1bmRIMEF5N1RxbjN3NmZxUVM1VmFTcEhST1U5eEFORDhwVUZfdkk3ZGVieS1GOFR6NlRFZjlxaFJtMkVmTXFHak1uWl9SaVdZeWpFNDhEZWtCMA?oc=5",
+      "title": "Lori Lightfoot is now on Bally’s side in casino battle - Crain's Chicago Business",
+      "text": "Lori Lightfoot is now on Bally’s side in casino battle Crain's Chicago Business",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHVCZktMUVB2V0RTWExSRXlnWWtCUUw1R2Fsa0Z1bFRmZXFMdXVjWURPbjBIUm1Ma3pxRGpIUGNyUk5zTnczT2g3RTF3SDBBYWJ6X2dHQ0pJZmplSGNVUVJKRmFDMnhISTBjc2wzbUNJcVFVMXdndkJjdWY1WFNtZWd4TEIzVUhVc192bDkwVU0wbzI5YnQzUVRzSzZ5N0NiLXlMQ0I1WQ?oc=5",
       "tags": [
-        "KYC",
+        "Bally's"
+      ]
+    },
+    {
+      "title": "What prediction markets can tell us about iGaming’s future",
+      "text": "Prediction markets are emerging as one of iGaming's most talked-about opportunities, offering operators a new way to engage younger, digitally savvy consumers. Olga Ivanchik, chief operating officer at Slotegrator, explains why...",
+      "source": "https://igamingbusiness.com/sports-betting/product-technology-sports-betting/what-prediction-markets-can-tell-us-about-igaming-future/",
+      "tags": [
+        "Prediction markets",
         "US"
       ]
     },
     {
-      "title": "Lori Lightfoot is now on Bally’s side in casino battle - Crain's Chicago Business",
-      "text": "Lori Lightfoot is now on Bally’s side in casino battle Crain's Chicago Business",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHVCZktMUVB2V0RTWExSRXlnWWtCUUw1R2Fsa0Z1bFRmZXFMdXVjWURPbjBIUm1Ma3pxRGpIUGNyUk5zTnczT2g3RTF3SDBBYWJ6X2dHQ0pJZmplSGNVUVJKRmFDMnhISTBjc2wzbUNJcVFVMXdndkJjdWY1WFNtZWd4TEIzVUhVc192bDkwVU0wbzI5YnQzUVRzSzZ5N0NiLXlMQ0I1WQ?oc=5",
+      "title": "Former Chicago Mayor Lightfoot Now Represents Bally’s in Fight Against VGTs - Gaming America",
+      "text": "Former Chicago Mayor Lightfoot Now Represents Bally’s in Fight Against VGTs Gaming America",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSUdSakgyb0J6dWxZdnpaeDBWY1NFY0FVRDUxbkNpVlpVOGlhSk9BRkJTTmJyNWF3RlVPZ1ExY1RTem1XRTVLbjdVaG1DazRZc2pEMkNRVlZxYjlYcDJmWTN4NmNmTlBnN0NGSnhfcnJLaXYtYzY2T00tUjRKWnVIZ2MzUExqN0diY1FyRjNlY0ZWV1N0djNKeDBid0lSaWVOZWlmbG1pN0w0d0oxQzZEVWdfUQ?oc=5",
       "tags": [
         "Bally's"
       ]
@@ -55,8 +54,8 @@ window.briefingMeta = {
     {
       "title": "Risk checks are becoming product workflows",
       "text": "Regulatory pressure is moving risk detection, eligibility and intervention evidence directly into account journeys.",
-      "source": "https://sbcnews.co.uk/sportsbook/2026/06/30/entain-australia-lawsuit/",
-      "sourceLabel": "SBC News"
+      "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYnlPZmFVeDZKeVlUUWNMYnd5amEyRURqSVVVS0tmQXFjcEptejJxWk5PZnE4MW0tR3VmUGZDczBzdTVWN3psV2xoUWhHeFFfOWZRRl94Wk1DWUtONEhaQWprNmRBNzY1OHdsdDJhNWJOODZVSk9MWGhhdHh2OGxZalUxTEM1UlN0bE96OTB0U0haSEw5RW9CcGh1Mlk4NEc3NmZwSGV3RmRtMGplRzdYV3p0ekl0cFZLbHU5ZlJUUDdMTHZ4bmNYczZXRko0RHcydENhZ1pLS3Q2QUVoLW1kMHdFOA?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Prediction markets need active tracking",
@@ -67,26 +66,13 @@ window.briefingMeta = {
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://sbcnews.co.uk/sportsbook/2026/06/30/entain-australia-lawsuit/",
-      "sourceLabel": "SBC News"
+      "source": "https://www.gamblinginsider.com/news/168862/judge-orders-kalshi-to-stop-offering-sports-markets-in-michigan",
+      "sourceLabel": "Gambling Insider"
     }
   ]
 };
 
 window.briefingStories = [
-  {
-    "section": "Asia / Oceania",
-    "title": "Disgraced Australian financier wants his money back from Entain",
-    "meta": "SBC News | 30 Jun 2026",
-    "summary": "A former financier in Australia jailed over fraud to fuel his gambling now wants to sue Entain to recoup the losses and return them to his victims. Gavin Fineff was jailed in 2023 after pleading guilty to 12 counts of obtaining...",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "A former financier in Australia jailed over fraud to fuel his gambling now wants to sue Entain to recoup the losses and return them to his victims. Gavin Fineff was jailed in 2023 after pleading guilty to 12 counts of obtaining... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://sbcnews.co.uk/sportsbook/2026/06/30/entain-australia-lawsuit/",
-    "tags": [
-      "Regulation",
-      "KYC"
-    ]
-  },
   {
     "section": "North America",
     "title": "Judge Orders Kalshi to Stop Offering Sports Markets in Michigan",
@@ -110,19 +96,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1BBS0kxX3JqN1hXVWlPTS16ZmxuQXpRZk1SbXluY0lubHhfZDNsV3lveTJJMzNZQmNHZ2VMcTkzRnI5UnNXSTliN1l6Q1pjbGt2S3pWbmotVUNtMnJkbGVLc24zUnRMYURaNW4ybkJwUFNKNU8ydEF0b3BITmtpUEx3SXdtSDMxb3hZNjBBOTBiT3BlV0wyUlVmU0EzX2ZYWkFaag?oc=5",
     "tags": [
       "Bally's"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Casino Flags ‘Impossible’ Slot Wins as $1.1M Fraud Case Unfolds in Rhode Island - Action Network",
-    "meta": "Google News: EveryMatrix watchlist | 30 Jun 2026",
-    "summary": "Casino Flags ‘Impossible’ Slot Wins as $1.1M Fraud Case Unfolds in Rhode Island Action Network",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Casino Flags ‘Impossible’ Slot Wins as $1.1M Fraud Case Unfolds in Rhode Island Action Network Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zZkpmM3NqMGQxN015RFdfM2RuQk9keEpLQjlYQ0RpVjE1bmRIMEF5N1RxbjN3NmZxUVM1VmFTcEhST1U5eEFORDhwVUZfdkk3ZGVieS1GOFR6NlRFZjlxaFJtMkVmTXFHak1uWl9SaVdZeWpFNDhEZWtCMA?oc=5",
-    "tags": [
-      "KYC",
-      "US"
     ]
   },
   {
@@ -213,6 +186,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling - TradingView",
+    "meta": "Google News: iGaming | 30 Jun 2026",
+    "summary": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling TradingView",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling TradingView Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeVFwdGZXcy1mWnFZLW5wRElwOHRaci1UTE9iRzVUc29yMm82RHJjNlB0SkhaZHJwOF9Hb3JfVktpdEtGNVlIWmhQX3hDNFVLVXltRE51OGxyS0NtRVFLS2tZX0lYN2ZNbDFDUTVCUXRVSktLTXdjR01kSk9QSGhjdmgxRV9rRGI1TFgwd3pucmQ4anNyX2lvYTlmclBYTVE2NlM1UTRsOWQya0tTc0p4UzNCX1YzYVlOZEZLT1BIR3g0S0RiSmRXbTIyc2tUWnRYcVNCMGRtdWlqRFZ6dzRTZW9tLTZWRGRPaUFieQ?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
     "section": "Other / Global",
     "title": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering - MSN",
     "meta": "Google News: regulation | 30 Jun 2026",
@@ -235,18 +220,6 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaG5Ed3N5QVBzclo2d2pwRXpVakxtcmxEbk9oUkFGRXFzdWVDRi1SZTZXRGUzODcyUktpcTFxeVdmLXQ2SWhfM3JubFBQbmI3TmdUWnlJTHFWd2ZWaE5YN0JieWFfanY4R0RTRkQ1WWdDOGdxRlB5ZFNSS1ZkSUI2UGJvWXRQczczeF90dg?oc=5",
     "tags": [
       "Bally's"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling - TradingView",
-    "meta": "Google News: iGaming | 30 Jun 2026",
-    "summary": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling TradingView",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling TradingView Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeVFwdGZXcy1mWnFZLW5wRElwOHRaci1UTE9iRzVUc29yMm82RHJjNlB0SkhaZHJwOF9Hb3JfVktpdEtGNVlIWmhQX3hDNFVLVXltRE51OGxyS0NtRVFLS2tZX0lYN2ZNbDFDUTVCUXRVSktLTXdjR01kSk9QSGhjdmgxRV9rRGI1TFgwd3pucmQ4anNyX2lvYTlmclBYTVE2NlM1UTRsOWQya0tTc0p4UzNCX1YzYVlOZEZLT1BIR3g0S0RiSmRXbTIyc2tUWnRYcVNCMGRtdWlqRFZ6dzRTZW9tLTZWRGRPaUFieQ?oc=5",
-    "tags": [
-      "Prediction markets"
     ]
   },
   {
@@ -289,6 +262,18 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Harrison Police raid second business in June with illegal gambling machines - KTLO",
+    "meta": "Google News: regulation | 1 Jul 2026",
+    "summary": "Harrison Police raid second business in June with illegal gambling machines KTLO",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Harrison Police raid second business in June with illegal gambling machines KTLO Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPczNndFlwT3BFRVN1ZHFpeGJ5am5aRkdpZVNWelA1R3ZuNHN0QTlaQWMyVndrbk5NWl82NnQxU2o3emYyWU12Wkc2aTNzaGM3NmlqaGtLbzVNZzNhQzRiNi0wdnNmejVoSzZNdExDbmJCZ1VzTWhBbHk5SGIzblAzbURRUjk0Snl4RW1RUTlHU0txaDZXUGpHN0U3dGlUaWpUTEtjUlpvbldVQk1r?oc=5",
+    "tags": [
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
     "title": "Pair of Former Lakers Accused of Illegal Gambling - Yahoo Sports",
     "meta": "Google News: regulation | 30 Jun 2026",
     "summary": "Pair of Former Lakers Accused of Illegal Gambling Yahoo Sports",
@@ -319,18 +304,6 @@ window.briefingStories = [
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "expanded": "Bally’s Proposes Chicago Airport Slot Lounges As VGT Fight Grows igaming.org Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWUNqYnJrQlo5eWYxem5Jbk16aHY1TmZRa1lzT3lKMmd4VS0tdXotQnoyOEx0YkJLRXM0UXhEcUwzZkxJbnh1Q1V4QTNxNTctSnFhcGdWX3R1QmRCQ0R4bWNPWmJFLU9EUlBoWEwxYVB0UVBnR3NDTHJ4XzFnT0QyN1J4UU5CUTV0cWhDbk5vSkJIeGotRHhkYzZpMmfSAZwBQVVfeXFMT1lDamJya0JaOXlmMXpuSW5Nemh2NU5mUWtZc095SjJneFUtLXV6LUJ6MjhMdGJCS0VzNFF4RHFMM2ZMSW54dUNVeEEzcTU3LUpxYXBnVl90dUJkQkNEeG1jT1piRS1PRFJQaFhMMWFQdFFQZ0dzQ0xyeF8xZ09EMjdSeFFOQlE1dHFoQ25Ob0pCSHhqLUR4ZGM2aTJn?oc=5",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Bally's raises eyebrows by hiring ex-Mayor Lightfoot's law firm to challenge video gambling terminals - Chicago Sun-Times",
-    "meta": "Google News: EveryMatrix watchlist | 29 Jun 2026",
-    "summary": "Bally's raises eyebrows by hiring ex-Mayor Lightfoot's law firm to challenge video gambling terminals Chicago Sun-Times",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Bally's raises eyebrows by hiring ex-Mayor Lightfoot's law firm to challenge video gambling terminals Chicago Sun-Times Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjdSclNCenFLVjh6VWVFaHBCWmRUTlZUUWZSV0haU2FuLU1DUWo0V2FrbS15ZEhaR09pSUQ5NktrVXpJSXd3ZFNmRjZJODlmNVNId0tsZnVKOFR6MFFtMlZReXdNRmd2TXBsWlhocmNLakdlOEtuVW5VSVJSVHBENWFQeEQxMnhKM3VqNTVqbEtjNG5HcFdUd3RpWXIxbXJNU0U2SmhzS1Zvd1RFM0EyWktGaU5aVWtYUTZxVXpOSmx2NnBzS25JVGxRWi0?oc=5",
     "tags": [
       "Bally's"
     ]
@@ -394,6 +367,32 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "Asia"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Bally's raises eyebrows by hiring ex-Mayor Lightfoot's law firm to challenge video gambling terminals - Chicago Sun-Times",
+    "meta": "Google News: EveryMatrix watchlist | 29 Jun 2026",
+    "summary": "Bally's raises eyebrows by hiring ex-Mayor Lightfoot's law firm to challenge video gambling terminals Chicago Sun-Times",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Bally's raises eyebrows by hiring ex-Mayor Lightfoot's law firm to challenge video gambling terminals Chicago Sun-Times Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSjdSclNCenFLVjh6VWVFaHBCWmRUTlZUUWZSV0haU2FuLU1DUWo0V2FrbS15ZEhaR09pSUQ5NktrVXpJSXd3ZFNmRjZJODlmNVNId0tsZnVKOFR6MFFtMlZReXdNRmd2TXBsWlhocmNLakdlOEtuVW5VSVJSVHBENWFQeEQxMnhKM3VqNTVqbEtjNG5HcFdUd3RpWXIxbXJNU0U2SmhzS1Zvd1RFM0EyWktGaU5aVWtYUTZxVXpOSmx2NnBzS25JVGxRWi0?oc=5",
+    "tags": [
+      "Bally's"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "UKGC orders Betfred to pay £900k over social responsibility failures",
+    "meta": "NEXT.io | 30 Jun 2026",
+    "summary": "The UK Gambling Commission has ordered Petfre (Gibraltar) Limited, operator of Betfred.com, to pay £900,000 over a series of social responsibility failures. The regulator launched an investigation into the operator after a...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The UK Gambling Commission has ordered Petfre (Gibraltar) Limited, operator of Betfred.com, to pay £900,000 over a series of social responsibility failures. The regulator launched an investigation into the operator after a... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://next.io/news/regulation/ukgc-betfred-social-responsibility-failures/",
+    "tags": [
+      "Regulation",
+      "RG",
+      "UK"
     ]
   }
 ];

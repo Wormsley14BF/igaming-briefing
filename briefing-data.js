@@ -13,10 +13,27 @@ window.briefingMeta = {
       ]
     },
     {
+      "title": "‘Risk is not compelling’ newcomer SafeBets launches ‘no-wager’ predictions",
+      "text": "Prediction markets have garnered quite a lot of attention lately. Anyone following the space knows about Kalshi and Polymarket – two companies with valuations in the multi-billions, offering features reminiscent of those seen in...",
+      "source": "https://sbcnews.co.uk/europe/2026/07/02/safebets-predictions/",
+      "tags": [
+        "Prediction markets",
+        "Regulation"
+      ]
+    },
+    {
       "title": "Editorial: Lori Lightfoot flunks her own ethics test - Crain's Chicago Business",
       "text": "Editorial: Lori Lightfoot flunks her own ethics test Crain's Chicago Business",
       "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblhEa3BUQ285LS1CaHZuZjZWVXhpYW11OEhwVTA5azVqR3l6WlFOMk1VYjRoRWl4MVhCU3Z4ZEVWLXk5V3pDTDZMdEp4NXAwS0k0YjhlNF9RbDFNZzA3blJmV0YwODhKaC12OFhUOEV3dWZXcUpLcDNjZVdWeEFQOFR5cHQ5X1ZCZ3ZjZnlfdWsyNEhGMlo1MkQyTHBCbjVjXzJyOENR?oc=5",
       "tags": []
+    },
+    {
+      "title": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina - LiveScore",
+      "text": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina LiveScore",
+      "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRVVHRMYV8wLTBDZ2s5ekhJYkxKVXhKdlkteUJObTV5bkRUb0xEZG5ISjdUNUs0R2lReTg3Y2VKZ1pGQzZmLWw3RnBWdEdYYjg2OHJxLUhqalFVY2FheS1UcFFTR2pLQ3ZsSWRBdFNrVlJSTVhqd003dnM1Mkw2a281cGlPYnkwdWx2YzhSdlN3b0s2NEx4Zjh3TlFreHpBTW9vbG1uaVBCcUF5WHVPVkdCQkg?oc=5",
+      "tags": [
+        "Prediction markets"
+      ]
     },
     {
       "title": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance - Casino.org",
@@ -24,23 +41,6 @@ window.briefingMeta = {
       "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelkyMm8za1ZkSDdaUGEzUERfRmt2U2s0UDkyT29sdFhIWUdsMFAwM29QcF9naHBCdy0yUDBDcWp2Z3YyMnlveWxnbnMwa2o3cEtNOXNab1l6Q1pDaTRVNVNHa1E5QXR1QnIwSEh5UFQwdkcwWDJ3UXMzWEVfd1NBaHRmcllJRU84SFFQaGJlTQ?oc=5",
       "tags": [
         "Prediction markets"
-      ]
-    },
-    {
-      "title": "NJ may ask SCOTUS to decide if prediction markets are illegal sports betting - CDC Gaming",
-      "text": "NJ may ask SCOTUS to decide if prediction markets are illegal sports betting CDC Gaming",
-      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYm4wQktvYnRnWG83d241Z2hNWS1vdkh1bGVmaHRuVXYwbWNCY09RbUE0eVpoVkNPb3I2cDhYQmEydnJXTGFlZlkzNzM4VjJIYUpJTVFFUXI4WUlNVGZQQmNRQkhkeDU5ZEZLQ0NOdnlFeExiZmJjY2dzVkx4Z1N3TGxxQU0xRVVMX1JLS0RFQTdENkhNaEhCX3Z0S2FPRHZFN1hiTkhQbjA?oc=5",
-      "tags": [
-        "Prediction markets",
-        "Black market"
-      ]
-    },
-    {
-      "title": "Bally's Looks To Operate Slot Machines At Chicago Airports - Poker News - Card Player",
-      "text": "Bally's Looks To Operate Slot Machines At Chicago Airports - Poker News Card Player",
-      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxnSWdCRW5zTFRWSVV1Qjk1WFVPOGluN04xS19KWnJ2d2p1WUF3SkRwUG01bGVpdlFCV1VhcWZGVU5Ua3VpSk0wSkE1QW1VbTM2eWY0R292d0pLOVQ1ZUxIQVFrajlUQ0JaZjR4YUlzcm5VQy1SakpBeF9uVnlFNFFfVVJRTnJRQmR1NUZrdG9XTXZXdVp2OUo1MWNWZ1cz?oc=5",
-      "tags": [
-        "Bally's"
       ]
     }
   ],
@@ -60,8 +60,8 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelkyMm8za1ZkSDdaUGEzUERfRmt2U2s0UDkyT29sdFhIWUdsMFAwM29QcF9naHBCdy0yUDBDcWp2Z3YyMnlveWxnbnMwa2o3cEtNOXNab1l6Q1pDaTRVNVNHa1E5QXR1QnIwSEh5UFQwdkcwWDJ3UXMzWEVfd1NBaHRmcllJRU84SFFQaGJlTQ?oc=5",
-      "sourceLabel": "Google News: regulation"
+      "source": "https://sbcnews.co.uk/europe/2026/07/02/safebets-predictions/",
+      "sourceLabel": "SBC News"
     },
     {
       "title": "Product quality is a commercial control",
@@ -89,6 +89,19 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "North America",
+    "title": "‘Risk is not compelling’ newcomer SafeBets launches ‘no-wager’ predictions",
+    "meta": "SBC News | 2 Jul 2026",
+    "summary": "Prediction markets have garnered quite a lot of attention lately. Anyone following the space knows about Kalshi and Polymarket – two companies with valuations in the multi-billions, offering features reminiscent of those seen in...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Prediction markets have garnered quite a lot of attention lately. Anyone following the space knows about Kalshi and Polymarket – two companies with valuations in the multi-billions, offering features reminiscent of those seen in... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://sbcnews.co.uk/europe/2026/07/02/safebets-predictions/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
     "section": "Product",
     "title": "Editorial: Lori Lightfoot flunks her own ethics test - Crain's Chicago Business",
     "meta": "Google News: EveryMatrix watchlist | 1 Jul 2026",
@@ -97,6 +110,18 @@ window.briefingStories = [
     "expanded": "Editorial: Lori Lightfoot flunks her own ethics test Crain's Chicago Business Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblhEa3BUQ285LS1CaHZuZjZWVXhpYW11OEhwVTA5azVqR3l6WlFOMk1VYjRoRWl4MVhCU3Z4ZEVWLXk5V3pDTDZMdEp4NXAwS0k0YjhlNF9RbDFNZzA3blJmV0YwODhKaC12OFhUOEV3dWZXcUpLcDNjZVdWeEFQOFR5cHQ5X1ZCZ3ZjZnlfdWsyNEhGMlo1MkQyTHBCbjVjXzJyOENR?oc=5",
     "tags": []
+  },
+  {
+    "section": "North America",
+    "title": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina - LiveScore",
+    "meta": "Google News: regulation | 1 Jul 2026",
+    "summary": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina LiveScore",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina LiveScore Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRVVHRMYV8wLTBDZ2s5ekhJYkxKVXhKdlkteUJObTV5bkRUb0xEZG5ISjdUNUs0R2lReTg3Y2VKZ1pGQzZmLWw3RnBWdEdYYjg2OHJxLUhqalFVY2FheS1UcFFTR2pLQ3ZsSWRBdFNrVlJSTVhqd003dnM1Mkw2a281cGlPYnkwdWx2YzhSdlN3b0s2NEx4Zjh3TlFreHpBTW9vbG1uaVBCcUF5WHVPVkdCQkg?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
   },
   {
     "section": "North America",
@@ -136,18 +161,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "SBC Stock Ticker: Flutter to delist from London while evoke acquired and Entain sells CEE arm",
-    "meta": "SBC News | 1 Jul 2026",
-    "summary": "SBC News takes a look at some of the biggest moves in June for gambling PLCs in June, which saw big developments at evoke, Bally’s Intralot, Flutter Entertainment and Entain, among others. It was a relatively quiet month in...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "SBC News takes a look at some of the biggest moves in June for gambling PLCs in June, which saw big developments at evoke, Bally’s Intralot, Flutter Entertainment and Entain, among others. It was a relatively quiet month in... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/features/2026/07/01/sbc-stock-ticker-flutter-to-delist-from-london-while-evoke-acquired-and-entain-sells-cee-arm/",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
     "section": "Europe",
     "title": "Best £10 Deposit Bonus UK: Best £10 Deposit Casinos for July 2026 - talkSPORT",
     "meta": "Google News: regulation | 1 Jul 2026",
@@ -175,18 +188,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Report: Bally’s Casino Cheating Suspects ‘Out-Mathed’ the House, Lawyers Claim - Casino.org",
-    "meta": "Google News: EveryMatrix watchlist | 30 Jun 2026",
-    "summary": "Report: Bally’s Casino Cheating Suspects ‘Out-Mathed’ the House, Lawyers Claim Casino.org",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Report: Bally’s Casino Cheating Suspects ‘Out-Mathed’ the House, Lawyers Claim Casino.org Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1BBS0kxX3JqN1hXVWlPTS16ZmxuQXpRZk1SbXluY0lubHhfZDNsV3lveTJJMzNZQmNHZ2VMcTkzRnI5UnNXSTliN1l6Q1pjbGt2S3pWbmotVUNtMnJkbGVLc24zUnRMYURaNW4ybkJwUFNKNU8ydEF0b3BITmtpUEx3SXdtSDMxb3hZNjBBOTBiT3BlV0wyUlVmU0EzX2ZYWkFaag?oc=5",
-    "tags": [
-      "Bally's"
-    ]
-  },
-  {
     "section": "Africa",
     "title": "Eyes on the prize in Africa",
     "meta": "iGaming Business | 1 Jul 2026",
@@ -211,6 +212,18 @@ window.briefingStories = [
   },
   {
     "section": "Product",
+    "title": "Report: Bally’s Casino Cheating Suspects ‘Out-Mathed’ the House, Lawyers Claim - Casino.org",
+    "meta": "Google News: EveryMatrix watchlist | 30 Jun 2026",
+    "summary": "Report: Bally’s Casino Cheating Suspects ‘Out-Mathed’ the House, Lawyers Claim Casino.org",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Report: Bally’s Casino Cheating Suspects ‘Out-Mathed’ the House, Lawyers Claim Casino.org Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1BBS0kxX3JqN1hXVWlPTS16ZmxuQXpRZk1SbXluY0lubHhfZDNsV3lveTJJMzNZQmNHZ2VMcTkzRnI5UnNXSTliN1l6Q1pjbGt2S3pWbmotVUNtMnJkbGVLc24zUnRMYURaNW4ybkJwUFNKNU8ydEF0b3BITmtpUEx3SXdtSDMxb3hZNjBBOTBiT3BlV0wyUlVmU0EzX2ZYWkFaag?oc=5",
+    "tags": [
+      "Bally's"
+    ]
+  },
+  {
+    "section": "Product",
     "title": "Missouri Businesses Sue AG Over Gambling Machine Crackdown",
     "meta": "Gambling Insider | 1 Jul 2026",
     "summary": "Retailers and an industry advocacy group argue Missouri officials are using criminal investigations and licensing pressure to settle a legal question they say belongs in the courts. Two lawsuits challenge Missouri’s enforcement...",
@@ -230,18 +243,6 @@ window.briefingStories = [
     "expanded": "North Carolina is moving forward with an increased sports betting tax, joining other states seeking to get more revenue from the industry. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://next.io/news/regulation/north-carolina-raise-sports-betting-tax-23pc/",
     "tags": []
-  },
-  {
-    "section": "Europe",
-    "title": "Best new casino sites in the UK (July 2026) – Find top new casinos - talkSPORT",
-    "meta": "Google News: EveryMatrix watchlist | 1 Jul 2026",
-    "summary": "Best new casino sites in the UK (July 2026) – Find top new casinos talkSPORT",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Best new casino sites in the UK (July 2026) – Find top new casinos talkSPORT Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
-    "tags": [
-      "UK"
-    ]
   },
   {
     "section": "Europe",

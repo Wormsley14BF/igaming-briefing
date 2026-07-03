@@ -21,17 +21,6 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "‘But Our Current Tech Works Fine’: Why operators need to stop fearing affiliate platform migration",
-      "text": "Technology upgrades have become routine across almost every area of the iGaming industry. Operators regularly invest in new front-ends, payment solutions, CRM platforms and AI-powered tools in pursuit of greater efficiency and...",
-      "source": "https://sbcnews.co.uk/features/2026/07/02/referon-affiliate-tech/",
-      "tags": [
-        "Regulation",
-        "Payments",
-        "AI",
-        "CRM"
-      ]
-    },
-    {
       "title": "‘Risk is not compelling’ newcomer SafeBets launches ‘no-wager’ predictions",
       "text": "Prediction markets have garnered quite a lot of attention lately. Anyone following the space knows about Kalshi and Polymarket – two companies with valuations in the multi-billions, offering features reminiscent of those seen in...",
       "source": "https://sbcnews.co.uk/europe/2026/07/02/safebets-predictions/",
@@ -46,6 +35,14 @@ window.briefingMeta = {
       "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnhnbHZMR1NqcmJTUHV6QXdTOXd2QWpacGpGQmRVei10VDdFbEt1S1BPRXp2VTRRcUtLdXNKbkYxMEN1cktsWmZpcWpKSXRDcVQxZUJJTVJjRDFPSDFIYVNqOGNfVGY4ZE9xNlk0Q3Q2Wi01c0hOb2ZmdzFQNDRMMFQwQ0poVVpSTmc?oc=5",
       "tags": [
         "Bally's"
+      ]
+    },
+    {
+      "title": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance - Casino.org",
+      "text": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance Casino.org",
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelkyMm8za1ZkSDdaUGEzUERfRmt2U2s0UDkyT29sdFhIWUdsMFAwM29QcF9naHBCdy0yUDBDcWp2Z3YyMnlveWxnbnMwa2o3cEtNOXNab1l6Q1pDaTRVNVNHa1E5QXR1QnIwSEh5UFQwdkcwWDJ3UXMzWEVfd1NBaHRmcllJRU84SFFQaGJlTQ?oc=5",
+      "tags": [
+        "Prediction markets"
       ]
     }
   ],
@@ -103,21 +100,6 @@ window.briefingStories = [
     "tags": [
       "Prediction markets",
       "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "‘But Our Current Tech Works Fine’: Why operators need to stop fearing affiliate platform migration",
-    "meta": "SBC News | 2 Jul 2026",
-    "summary": "Technology upgrades have become routine across almost every area of the iGaming industry. Operators regularly invest in new front-ends, payment solutions, CRM platforms and AI-powered tools in pursuit of greater efficiency and...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "Technology upgrades have become routine across almost every area of the iGaming industry. Operators regularly invest in new front-ends, payment solutions, CRM platforms and AI-powered tools in pursuit of greater efficiency and... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://sbcnews.co.uk/features/2026/07/02/referon-affiliate-tech/",
-    "tags": [
-      "Regulation",
-      "Payments",
-      "AI",
-      "CRM"
     ]
   },
   {
@@ -206,15 +188,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina - LiveScore",
-    "meta": "Google News: regulation | 1 Jul 2026",
-    "summary": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina LiveScore",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "$10 Kalshi Referral Code for USMNT vs Bosnia & Herzegovina LiveScore Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVRVVHRMYV8wLTBDZ2s5ekhJYkxKVXhKdlkteUJObTV5bkRUb0xEZG5ISjdUNUs0R2lReTg3Y2VKZ1pGQzZmLWw3RnBWdEdYYjg2OHJxLUhqalFVY2FheS1UcFFTR2pLQ3ZsSWRBdFNrVlJSTVhqd003dnM1Mkw2a281cGlPYnkwdWx2YzhSdlN3b0s2NEx4Zjh3TlFreHpBTW9vbG1uaVBCcUF5WHVPVkdCQkg?oc=5",
+    "section": "Other / Global",
+    "title": "West Virginia’s Greenbrier Casino Gets Last-Second License Extension - Casino.com",
+    "meta": "Google News: EveryMatrix watchlist | 1 Jul 2026",
+    "summary": "West Virginia’s Greenbrier Casino Gets Last-Second License Extension Casino.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "West Virginia’s Greenbrier Casino Gets Last-Second License Extension Casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRm5LRDJSUjlsUTdSN3NtZ3UwaTZESXhaV01mOVdQQktlbU15WVRaR0VKMUJ0alNsdVE2ZlBaVW9OWDNsQ0djczE4Z3JEWVB4cmZFZ1hLNjYtR3NVRml5YU9oN3E5NjFROEdYZy1FZGFpbFV2M2tvQnM1eXY5eFZ0QUZ3amRaV2RhcHFZOUpqM3BZeV9iWUo0c0xzUDdySzVUWHpaUEdMemRhdw?oc=5",
     "tags": [
-      "Prediction markets"
+      "Regulation"
     ]
   },
   {
@@ -318,18 +300,6 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
-    "title": "More States Turn to Prediction Market Taxes as North Carolina and New Jersey Advance Bills",
-    "meta": "Gambling Insider | 2 Jul 2026",
-    "summary": "North Carolina lawmakers moved closer to taxing prediction markets as part of a broader gambling tax package. At the same time, New Jersey advanced a proposal to impose a new surcharge on prediction market operators. More states...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "North Carolina lawmakers moved closer to taxing prediction markets as part of a broader gambling tax package. At the same time, New Jersey advanced a proposal to impose a new surcharge on prediction market operators. More states... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/169583/north-carolina-new-jersey-prediction-market-tax-proposals",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "Other / Global",
     "title": "Genovese Mobsters Used 100 Fake Loyalty Cards to Win $1.1 Million at Bally’s Casino - The Eastern Herald",
     "meta": "Google News: EveryMatrix watchlist | 2 Jul 2026",
     "summary": "Genovese Mobsters Used 100 Fake Loyalty Cards to Win $1.1 Million at Bally’s Casino The Eastern Herald",
@@ -342,15 +312,25 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "Balkan Gambling Industry Closes Ranks as Illegal Operators Gain Ground - iGamingToday.com",
-    "meta": "Google News: regulation | 2 Jul 2026",
-    "summary": "Balkan Gambling Industry Closes Ranks as Illegal Operators Gain Ground iGamingToday.com",
+    "section": "Europe",
+    "title": "World Cup, Golden Boot, Golden Ball, Ballon d’Or! Is Kylian Mbappe about to clean up on the trophy front? Ex-France international reacts to ‘strange criticism’ - Goal.com",
+    "meta": "Google News: regulation | 3 Jul 2026",
+    "summary": "World Cup, Golden Boot, Golden Ball, Ballon d’Or! Is Kylian Mbappe about to clean up on the trophy front? Ex-France international reacts to ‘strange criticism’ Goal.com",
     "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Balkan Gambling Industry Closes Ranks as Illegal Operators Gain Ground iGamingToday.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY2pvZUdJWEtzMjFwUGY0U0dYbC0zMGsxWUxHTVE4ZzE2QVVSb1BVZ2YtOFR5N050MDNKaU01N0hWUlZaX1hQWXplVFZUVmJONkszeWRVVUlISUY1Vkw0OS1vcUotWk0ydHRZVU1uVDZfcVlQZTlzQlh0dkFQbF9HOUs0bGhHNFhjTTJwcXVXNUdyMWtaMkdaYVRSTXhCT201Mnc?oc=5",
+    "expanded": "World Cup, Golden Boot, Golden Ball, Ballon d’Or! Is Kylian Mbappe about to clean up on the trophy front? Ex-France international reacts to ‘strange criticism’ Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaGhfYTJoOHhDVjUyTDlpRzNYWGZMYk1UN3A5cEVQNDJudmFVU1NNeWYxd0dfeG1CZFlWaVJYcWRKd1dwT0JoalRfYTFhdXMxRzUxNEVkZGxqUG9CTGsta3h3OTMxQk10dkEwZERhcC0tOGJRcDl0QjZXZG1Ua2hSdGUzYnRaTFZ1WW9fNDhUbFI3VVRZcnRzZEsydzdueU9UY0NFR0NmRjNfNzlBZmE0eFN2Unh3VjhDYndGNXExSm9TUHRjMVN1NkxxZDVSMmxR?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Other / Global",
+    "title": "More States Turn to Prediction Market Taxes as North Carolina and New Jersey Advance Bills",
+    "meta": "Gambling Insider | 2 Jul 2026",
+    "summary": "North Carolina lawmakers moved closer to taxing prediction markets as part of a broader gambling tax package. At the same time, New Jersey advanced a proposal to impose a new surcharge on prediction market operators. More states...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "North Carolina lawmakers moved closer to taxing prediction markets as part of a broader gambling tax package. At the same time, New Jersey advanced a proposal to impose a new surcharge on prediction market operators. More states... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/169583/north-carolina-new-jersey-prediction-market-tax-proposals",
     "tags": [
-      "Black market"
+      "Prediction markets"
     ]
   },
   {
@@ -387,6 +367,19 @@ window.briefingStories = [
     "expanded": "Thomas Tuchel urges parents to 'write an excuse' and let children stay up late for England's 1am World Cup last-16 clash against Mexico Goal.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzdtVUJMSm01cmFhRHJsMWxJZlkta1V0X0NRempQa1FnNW5rZk1GVFgwSkZUYXd1VmpyVV9ocjV5ZW5ZZE5uWl8yVl80eVVmS0hoTlY1Zl9qLW1Zc01mTmcwblI3VTUwdXhIb0t4ZlhCaHNpVTYyc19VazN6dk10UkliNEh1VWV0ckg1Q2FDa0lJQzhCQzh2cWVYQ2FjZGgwcDgyM3ZWQWo4ckVY?oc=5",
     "tags": []
+  },
+  {
+    "section": "Other / Global",
+    "title": "Sports betting is regulated for a reason. Prediction markets shouldn’t get a free pass | Opinion - The Detroit News",
+    "meta": "Google News: iGaming | 2 Jul 2026",
+    "summary": "Sports betting is regulated for a reason. Prediction markets shouldn’t get a free pass | Opinion The Detroit News",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Sports betting is regulated for a reason. Prediction markets shouldn’t get a free pass | Opinion The Detroit News Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNjkzRDYtT3ktOGdlX1h4MDQ4ZUd6V0ZDeXUzdDVSMktQblJOcFNCTXJ2WktVVXFIZUxIMHlxXzBERmd6OWM0cjRXXzZZR094R21zcFhScE50Z0lSQndGcWk3QVg0YlN3THEzYXFIcVdHaUtaY0hMRFFWM2xMc3ZUaFFTTEJ4dGYwV2R5WUdVZEFBR24xS3QweW9LYTQwaEV0RWxLSzZya2Njc0ZjNzhPRDZuc3BmbGtWUFVtR1FYUkU?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
   },
   {
     "section": "Asia / Oceania",

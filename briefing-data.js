@@ -314,18 +314,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance - Casino.org",
-    "meta": "Google News: EveryMatrix watchlist | 1 Jul 2026",
-    "summary": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance Casino.org",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance Casino.org Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelkyMm8za1ZkSDdaUGEzUERfRmt2U2s0UDkyT29sdFhIWUdsMFAwM29QcF9naHBCdy0yUDBDcWp2Z3YyMnlveWxnbnMwa2o3cEtNOXNab1l6Q1pDaTRVNVNHa1E5QXR1QnIwSEh5UFQwdkcwWDJ3UXMzWEVfd1NBaHRmcllJRU84SFFQaGJlTQ?oc=5",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
     "section": "Asia / Oceania",
     "title": "Indiana bill banning sweepstakes casinos takes effect",
     "meta": "Focus Gaming News | 3 Jul 2026",
@@ -386,6 +374,18 @@ window.briefingStories = [
     "tags": [
       "Regulation",
       "US"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance - Casino.org",
+    "meta": "Google News: EveryMatrix watchlist | 1 Jul 2026",
+    "summary": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance Casino.org",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Meta Discussed Kalshi Acquisition, But Talks Didn’t Advance Casino.org Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelkyMm8za1ZkSDdaUGEzUERfRmt2U2s0UDkyT29sdFhIWUdsMFAwM29QcF9naHBCdy0yUDBDcWp2Z3YyMnlveWxnbnMwa2o3cEtNOXNab1l6Q1pDaTRVNVNHa1E5QXR1QnIwSEh5UFQwdkcwWDJ3UXMzWEVfd1NBaHRmcllJRU84SFFQaGJlTQ?oc=5",
+    "tags": [
+      "Prediction markets"
     ]
   },
   {

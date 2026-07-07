@@ -191,16 +191,16 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering - AOL.com",
-    "meta": "Google News: regulation | 6 Jul 2026",
-    "summary": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering AOL.com",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Former Lakers Malik Beasley and Ed Davis accused of illegal gambling, wire fraud and money laundering AOL.com Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YS3c4b2xEX3Y0MW5TM3BCTDlEeWpkVlVxbVVHclB2VDhqRHljRkJaV3lhZDJnaFc5cmk3WHJpOGNKOXJCZVZfVGZuelNHOG1UVmdkbU5OUlBTNDYyNHoxZ0xvSU9MM3RIS0J6ZlMzS3h5amtmX2xsMGFYQTE?oc=5",
+    "section": "North America",
+    "title": "Polymarket Sued Over Strategy Bitcoin Market Resolution",
+    "meta": "Gambling Insider | 7 Jul 2026",
+    "summary": "Plaintiffs allege the prediction market platform improperly changed its interpretation of a Strategy Bitcoin contract after the outcome had already occurred, denying payouts on winning “Yes” positions. Two Polymarket users have...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Plaintiffs allege the prediction market platform improperly changed its interpretation of a Strategy Bitcoin contract after the outcome had already occurred, denying payouts on winning “Yes” positions. Two Polymarket users have... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/171092/polymarket-lawsuit-strategy-bitcoin-market-resolution",
     "tags": [
-      "Black market",
-      "KYC"
+      "Prediction markets",
+      "US"
     ]
   },
   {
@@ -261,6 +261,20 @@ window.briefingStories = [
     "source": "https://igamingbusiness.com/strategy/ma/why-is-entain-folding-its-winning-hand-in-poland-and-croatia/",
     "tags": [
       "UK"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "National Lottery to join +$1bn Powerball on 21 July",
+    "meta": "SBC News | 7 Jul 2026",
+    "summary": "The Powerball Jackpot is set to make its UK debut on 21 July, marking the first time that the iconic lottery draw is made available outside of the United States. Subject to final regulatory approval, National Lottery steward...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The Powerball Jackpot is set to make its UK debut on 21 July, marking the first time that the iconic lottery draw is made available outside of the United States. Subject to final regulatory approval, National Lottery steward... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/retail/2026/07/07/national-lottery-powerball-july/",
+    "tags": [
+      "Regulation",
+      "UK",
+      "US"
     ]
   },
   {
@@ -384,15 +398,5 @@ window.briefingStories = [
     "tags": [
       "Africa"
     ]
-  },
-  {
-    "section": "Product",
-    "title": "Report questions gambling industry’s celebrity spending as influencer scrutiny intensifies - The Straight",
-    "meta": "Google News: regulation | 7 Jul 2026",
-    "summary": "Report questions gambling industry’s celebrity spending as influencer scrutiny intensifies The Straight",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Report questions gambling industry’s celebrity spending as influencer scrutiny intensifies The Straight Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSEVzdmRxdnZ3aTU0TDlXaGwwVkpxMzdpMTJaUm56eWU0TnhxXzdjbmFMWVl0R0pKVGVfMVItbldlbHpiYVZWTnVxbW5NQUFybVZLVkZzZlJ6allnelRra09NZGUtVzF1c05QY1FTTnNlT1NwTnVSbmZwaHhPVjdHZ2xzZlpMVEdjX1A3NnFwVVluTkpHRDlfX1NSSXlTR0RjNENvbV90LXdoT0hkRHV2UDZGOG81dTlX?oc=5",
-    "tags": []
   }
 ];

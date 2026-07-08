@@ -273,16 +273,15 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "What the World Cup's biggest disappointments tell us about prediction markets and sports betting tokens - Crypto Briefing",
-    "meta": "Google News: iGaming | 7 Jul 2026",
-    "summary": "What the World Cup's biggest disappointments tell us about prediction markets and sports betting tokens Crypto Briefing",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "What the World Cup's biggest disappointments tell us about prediction markets and sports betting tokens Crypto Briefing Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE11dUlXR2hPbWI2SGw1djVuZHFXbzJxZjBNVzhJRGZIRzBDbjB1aFdxeDlaeDc3cVNRQ19mWFhWQWcwbGw2eUZqRFhPemNTLVBwS0lLU1JNT0hLdXhoRWVpYzBXZHEzY1NDbHN2M3NtemtMZw?oc=5",
+    "section": "Product",
+    "title": "KSA Chairman: Dutch gambling needs a better financial guardianship",
+    "meta": "SBC News | 8 Jul 2026",
+    "summary": "Michel Groothuizen, Chairman of Kansspelautoriteit (KSA), believes that reforms to Dutch gambling laws must provide a better financial guardianship of the consumer and vulnerable players. Throughout 2026, the Kamer will continue...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Michel Groothuizen, Chairman of Kansspelautoriteit (KSA), believes that reforms to Dutch gambling laws must provide a better financial guardianship of the consumer and vulnerable players. Throughout 2026, the Kamer will continue... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/europe/2026/07/08/ksa-chairman-2026/",
     "tags": [
-      "Prediction markets",
-      "US"
+      "Regulation"
     ]
   },
   {
@@ -339,14 +338,36 @@ window.briefingStories = [
   },
   {
     "section": "Other / Global",
-    "title": "Gaming M&A in 2026 and the return of strategic discipline",
-    "meta": "SBC News | 7 Jul 2026",
-    "summary": "By Samuele Traversin, EVP Business Strategy & Corporate Development, Soft2Bet Since joining Soft2Bet seven months ago, I have spent much of my time speaking with operators, suppliers, founders, investors, advisors and regulators...",
-    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "expanded": "By Samuele Traversin, EVP Business Strategy & Corporate Development, Soft2Bet Since joining Soft2Bet seven months ago, I have spent much of my time speaking with operators, suppliers, founders, investors, advisors and regulators... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
-    "source": "https://sbcnews.co.uk/features/2026/07/07/gaming-mergers-acquisitions/",
+    "title": "iGaming Club Lisbon 2026 returns to Lisbon ahead of major industry week - Casino.com",
+    "meta": "Google News: EveryMatrix watchlist | 7 Jul 2026",
+    "summary": "iGaming Club Lisbon 2026 returns to Lisbon ahead of major industry week Casino.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "iGaming Club Lisbon 2026 returns to Lisbon ahead of major industry week Casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWJTMHVPQWZwcC10OE0zZWk0T0tTeUNRMnBWTkFBdjBFMkdja2p3SEFBOHVPX3lYeGxGUWRxNFlUNDI3bkxTTG9ja2dMRkpkQWpKZ3c2UlhNZmUwLVlrbTFHNVotZFc2cW10dGtPNm9kRGZsdjdwTl9JUWR3T0hKU3UzNXhPckQyTDJDRGpTdXM2WHdPS3FoVkJodXhMY1lhdXRJSG1zYW84QnpJSFE?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "City attorney files court order against Hilltop property housing unauthorized shooting range, illegal gambling machine - 10TV",
+    "meta": "Google News: regulation | 7 Jul 2026",
+    "summary": "City attorney files court order against Hilltop property housing unauthorized shooting range, illegal gambling machine 10TV",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "City attorney files court order against Hilltop property housing unauthorized shooting range, illegal gambling machine 10TV Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVFpTSlY3d0ZqRTNjVUFLX2IxLUJ1bllTT0xfOU1GNWduSkk4aG0wRGJuMWpJY0dTM3NpeG5teHRWNWxOT2lubmxQcjlDWHFDemhUNHFDVTNjWDFJT3lOVmVPcjQwT1BYUDRSU29POWZid0pOa1F6TG1Oc0hqSVRKSTZPaThETVRCS2ZWRlVsUlI0aUJJZmV6VjVfNmNoV2JQVFR5QXk3TllLTFF6WnYwQjBXOEk0Qi1ic3o0clptclhLbVBVTkRMRThFR1kyUGhKSEo5X3JOeGlCU2QxZlNLODlKWHlHNklBR3ctTVVjejVQUVQtSVJUV1F2OUt3UEU?oc=5",
     "tags": [
-      "Regulation"
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "QCPD arrests suspected gang member for illegal 'ending' game - Daily Tribune",
+    "meta": "Google News: regulation | 8 Jul 2026",
+    "summary": "QCPD arrests suspected gang member for illegal 'ending' game Daily Tribune",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "QCPD arrests suspected gang member for illegal 'ending' game Daily Tribune Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzlGS252cXBQam1VSTVKSnlmOUZ3bDFPYUl2Mzk4RERTVm1nR0UwS2lUWDBPQU5IUTB1a21hSG1VbWhaQ3VnYXBLQmRfd05hRkJXUXUxa0Y2T3E1QWNvRTZzekVpQ2R4TmxnZTdOVjVfcGl4cl95YUdTU2JjU0hpd05jNi04M3dfWWVoc1VHUkhZd2hKZDZB?oc=5",
+    "tags": [
+      "Black market"
     ]
   },
   {
@@ -363,38 +384,16 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "iGaming Club Lisbon 2026 returns to Lisbon ahead of major industry week - Casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 7 Jul 2026",
-    "summary": "iGaming Club Lisbon 2026 returns to Lisbon ahead of major industry week Casino.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "iGaming Club Lisbon 2026 returns to Lisbon ahead of major industry week Casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWJTMHVPQWZwcC10OE0zZWk0T0tTeUNRMnBWTkFBdjBFMkdja2p3SEFBOHVPX3lYeGxGUWRxNFlUNDI3bkxTTG9ja2dMRkpkQWpKZ3c2UlhNZmUwLVlrbTFHNVotZFc2cW10dGtPNm9kRGZsdjdwTl9JUWR3T0hKU3UzNXhPckQyTDJDRGpTdXM2WHdPS3FoVkJodXhMY1lhdXRJSG1zYW84QnpJSFE?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Africa",
-    "title": "South Africa's push to tighten gambling regulation is gainin - KuCoin",
-    "meta": "Google News: regulation | 7 Jul 2026",
-    "summary": "South Africa's push to tighten gambling regulation is gainin KuCoin",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "South Africa's push to tighten gambling regulation is gainin KuCoin Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNmVyYmpac3p1Zl9CMjR4VXJLWmNrV3BlUUpQSTdRekJSYUJoSGlYckQ1MmxaOVA5V0dLejRzYXNoSE1yVS1MWGJucUtDT3JBU05yU1ZHV05MWVZBQ09Bc2NmOXRjODlsYTV5NmNiXzE?oc=5",
+    "section": "Europe",
+    "title": "Gambling Commission settles plans to proceed with FRAs programme",
+    "meta": "SBC News | 7 Jul 2026",
+    "summary": "The UK Gambling Commission (UKGC) has announced that it is ready to implement a “streamlined approach to identifying high-risk customers” via the application of Financial Risk Assessments (FRAs). This morning, the Commission...",
+    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "expanded": "The UK Gambling Commission (UKGC) has announced that it is ready to implement a “streamlined approach to identifying high-risk customers” via the application of Financial Risk Assessments (FRAs). This morning, the Commission... Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
+    "source": "https://sbcnews.co.uk/europe/uk/2026/07/07/uk-gambling-commission/",
     "tags": [
-      "Regulation",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "City attorney files court order against Hilltop property housing unauthorized shooting range, illegal gambling machine - 10TV",
-    "meta": "Google News: regulation | 7 Jul 2026",
-    "summary": "City attorney files court order against Hilltop property housing unauthorized shooting range, illegal gambling machine 10TV",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "City attorney files court order against Hilltop property housing unauthorized shooting range, illegal gambling machine 10TV Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVFpTSlY3d0ZqRTNjVUFLX2IxLUJ1bllTT0xfOU1GNWduSkk4aG0wRGJuMWpJY0dTM3NpeG5teHRWNWxOT2lubmxQcjlDWHFDemhUNHFDVTNjWDFJT3lOVmVPcjQwT1BYUDRSU29POWZid0pOa1F6TG1Oc0hqSVRKSTZPaThETVRCS2ZWRlVsUlI0aUJJZmV6VjVfNmNoV2JQVFR5QXk3TllLTFF6WnYwQjBXOEk0Qi1ic3o0clptclhLbVBVTkRMRThFR1kyUGhKSEo5X3JOeGlCU2QxZlNLODlKWHlHNklBR3ctTVVjejVQUVQtSVJUV1F2OUt3UEU?oc=5",
-    "tags": [
-      "Black market"
+      "KYC",
+      "UK"
     ]
   }
 ];

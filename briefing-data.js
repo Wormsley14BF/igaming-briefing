@@ -2,6 +2,15 @@ window.briefingMeta = {
   "dateLabel": "Thursday, 9 July 2026 | automated public-site edition",
   "atAGlance": [
     {
+      "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
+      "text": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com",
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
+      "tags": [
+        "Prediction markets",
+        "Black market"
+      ]
+    },
+    {
       "title": "North Carolina governor approves budget with sports betting tax rise",
       "text": "The state’s budget also introduces a 6 per cent tax on prediction market operators. US.- North Carolina Governor Josh Stein has signed Senate Bill 257 into law, approving the state’s $34bn budget. The move raises the tax on...",
       "source": "https://focusgn.com/north-carolina-budget-raises-sports-betting-tax-rate",
@@ -21,15 +30,6 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "ESMA confirms some prediction markets contracts fall under European financial regulation",
-      "text": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions.",
-      "source": "https://igamingbusiness.com/prediction-markets/esma-warning-europe-prediction-markets/",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
-      ]
-    },
-    {
       "title": "North Carolina Governor Signs Budget Raising Sports Betting Tax, Adding Prediction Market Levy",
       "text": "North Carolina became one of the first states to tax prediction markets without creating a regulatory framework. The move could trigger another clash over federal and state authority. North Carolina Gov. Josh Stein has signed...",
       "source": "https://www.gamblinginsider.com/news/172679/north-carolina-prediction-market-tax-sports-betting-tax",
@@ -39,13 +39,12 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "New York Judge Denies Kalshi Injunction, Finds State Gambling Laws Are Not Preempted",
-      "text": "Judge says congressional history suggests lawmakers sought to prohibit the types of sports-event contracts offered by Kalshi. A federal judge has denied Kalshi’s motion for a preliminary injunction against New York regulators,...",
-      "source": "https://www.gamblinginsider.com/news/172592/kalshi-new-york-injunction-denied",
+      "title": "ESMA confirms some prediction markets contracts fall under European financial regulation",
+      "text": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions.",
+      "source": "https://igamingbusiness.com/prediction-markets/esma-warning-europe-prediction-markets/",
       "tags": [
         "Prediction markets",
-        "Regulation",
-        "US"
+        "Regulation"
       ]
     }
   ],
@@ -53,8 +52,8 @@ window.briefingMeta = {
     {
       "title": "Payments and channelisation",
       "text": "Payment flows, illegal-market blocking and cashier restrictions remain core platform-control areas.",
-      "source": "https://sbcnews.co.uk/latestnews/2026/07/09/sbc-summit-fintech/",
-      "sourceLabel": "SBC News"
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Risk checks are becoming product workflows",
@@ -65,19 +64,32 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://focusgn.com/north-carolina-budget-raises-sports-betting-tax-rate",
-      "sourceLabel": "Focus Gaming News"
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
+      "sourceLabel": "Google News: regulation"
     },
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://focusgn.com/north-carolina-budget-raises-sports-betting-tax-rate",
-      "sourceLabel": "Focus Gaming News"
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
+      "sourceLabel": "Google News: regulation"
     }
   ]
 };
 
 window.briefingStories = [
+  {
+    "section": "Product",
+    "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
+    "meta": "Google News: regulation | 9 Jul 2026",
+    "summary": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
+    ]
+  },
   {
     "section": "North America",
     "title": "North Carolina governor approves budget with sports betting tax rise",
@@ -106,19 +118,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Europe",
-    "title": "ESMA confirms some prediction markets contracts fall under European financial regulation",
-    "meta": "iGaming Business | 7 Jul 2026",
-    "summary": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions.",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://igamingbusiness.com/prediction-markets/esma-warning-europe-prediction-markets/",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
     "section": "North America",
     "title": "North Carolina Governor Signs Budget Raising Sports Betting Tax, Adding Prediction Market Levy",
     "meta": "Gambling Insider | 8 Jul 2026",
@@ -126,6 +125,19 @@ window.briefingStories = [
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
     "expanded": "North Carolina became one of the first states to tax prediction markets without creating a regulatory framework. The move could trigger another clash over federal and state authority. North Carolina Gov. Josh Stein has signed... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
     "source": "https://www.gamblinginsider.com/news/172679/north-carolina-prediction-market-tax-sports-betting-tax",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "ESMA confirms some prediction markets contracts fall under European financial regulation",
+    "meta": "iGaming Business | 7 Jul 2026",
+    "summary": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions.",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/prediction-markets/esma-warning-europe-prediction-markets/",
     "tags": [
       "Prediction markets",
       "Regulation"
@@ -386,17 +398,5 @@ window.briefingStories = [
     "expanded": "California Judge Rules Against State Limitation on Cardroom Games Casino.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWtHMXZ0RFFmWGxhbmFxR3ptY2lLRjU4M3ljYmxnUEtTLWNzUFdLZlNlRmVmdDY1MTJkLUtjUjZ1bDVmak92M1llUkNiZUx0SG9sd015c0dFdmd6bXNRUUFXSE5HZ3NVWkUxRl8yVGtfY0VHOU5GeTF0SEhud1RhbEFSZUFYUWRQY1dUdVR1WHZydW02Zi10enhWSzVhTm8?oc=5",
     "tags": []
-  },
-  {
-    "section": "Africa",
-    "title": "South African Casinos Hit Deadline for Anti-Money Laundering Returns - Casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 8 Jul 2026",
-    "summary": "South African Casinos Hit Deadline for Anti-Money Laundering Returns Casino.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "South African Casinos Hit Deadline for Anti-Money Laundering Returns Casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVVhVGM2blZHazRpeFRhWWhxWU1RS1M0SnIxZV9JbFB3OU5VNkw2c3ZZVzJ6YjdUalg3bUd4U3lSSDI3bkRULTdNQjMwUm5HVGlwV1dzd2xxckhYV1dfQVNXOGVWZFdmc1NKRk5JX29CZnVyYzJtcFU5UlQtQnBCeEVlVW94TnprbGtUREFtc2JJdFJ5bEhGNkFWSmtPeWVGeG1Rd1dlUy1lbHc?oc=5",
-    "tags": [
-      "Africa"
-    ]
   }
 ];

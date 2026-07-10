@@ -1,5 +1,5 @@
 window.briefingMeta = {
-  "dateLabel": "Thursday, 9 July 2026 | automated public-site edition",
+  "dateLabel": "Friday, 10 July 2026 | automated public-site edition",
   "atAGlance": [
     {
       "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
@@ -11,40 +11,39 @@ window.briefingMeta = {
       ]
     },
     {
-      "title": "North Carolina governor approves budget with sports betting tax rise",
-      "text": "The state’s budget also introduces a 6 per cent tax on prediction market operators. US.- North Carolina Governor Josh Stein has signed Senate Bill 257 into law, approving the state’s $34bn budget. The move raises the tax on...",
-      "source": "https://focusgn.com/north-carolina-budget-raises-sports-betting-tax-rate",
+      "title": "Dutch gambling regulator upholds Polymarket sanction",
+      "text": "The KSA has rejected Polymarket’s appeal against its threat of fines for offering illegal gambling in the Netherlands. The Netherlands.- The Dutch gambling regulator Kansspelautoriteit (KSA) has upheld its sanction against the...",
+      "source": "https://focusgn.com/dutch-gambling-regulator-upholds-polymarket-sanction",
       "tags": [
         "Prediction markets",
-        "US"
+        "Regulation",
+        "Black market"
       ]
     },
     {
-      "title": "UKGC Approves Financial Checks, Rejects ‘Affordability’ Label and Delays Timeline",
-      "text": "Britain’s gambling regulator will phase in financial checks on its highest-spending customers from a starting threshold that few will ever reach and, unusually, has promised not to punish operators that ignore the results during...",
-      "source": "https://www.gamblinginsider.com/news/172612/ukgc-financial-checks-approval",
+      "title": "Massachusetts gaming regulators seek audit of casino marketing in Asian communities - CDC Gaming",
+      "text": "Massachusetts gaming regulators seek audit of casino marketing in Asian communities CDC Gaming",
+      "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkVtOC1ZaDM1S2UyX2dsTEtuOHM5bklHLVItVjFXdHJrckNzWktZV29SNUk4T2VUQ0ZSOEllV1IxVF9rZG5FMXZ6cERwazlFbWw5ZjBrU004YXQxb1owTXl1bGdwSF9sOHNqOEwzUnVFQjdoM21zOWFJbFZhNGdMSTU0a1dCR0ZUcUlXdXhjNkRqTG1Tb0NVTU44UDhTTkJ5X3RKU213RkQ2dFlUaEFCT1Rn?oc=5",
       "tags": [
         "Regulation",
-        "RG",
+        "Asia"
+      ]
+    },
+    {
+      "title": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities - PlayUSA",
+      "text": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities PlayUSA",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzhESzdpdUNJeEp5ZWRfWV9oUjV4RWZKc2RPeHBNYWc3QXMxcE9peElZLTNlTWYtMy1ySjFFR2lvQmFvLTZKTkRjX0xwVHl3a0E2RnV3NE1nNmxpbHdPMjdWdEpFMmQtWkZqM0padzgxSy1FSnFoS3F1bGdvZzZsRVNseGFsR3p4d09lMTZtN2NQdnVUNGtrWk5ScFNUc29NeFhPSlpGbGJYM0VVZ0s4TjhJZw?oc=5",
+      "tags": [
+        "Regulation",
+        "Asia"
+      ]
+    },
+    {
+      "title": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins - Bookies.com",
+      "text": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins Bookies.com",
+      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SRHhDZ2lfRGQzTWdNRVpQVW5hNnBReVVTMllTRDJqZkk5bGZGaVltQzlCaUc1clJxWTUtMnNjV2V3T0R5NjRZcW5vbl9qZFN5WGlNOUYwRkhTQnRkUjB4NjA4UUxId3kwTTR4dHpmSl9aSU81WUNMcDEwYw?oc=5",
+      "tags": [
         "UK"
-      ]
-    },
-    {
-      "title": "North Carolina Governor Signs Budget Raising Sports Betting Tax, Adding Prediction Market Levy",
-      "text": "North Carolina became one of the first states to tax prediction markets without creating a regulatory framework. The move could trigger another clash over federal and state authority. North Carolina Gov. Josh Stein has signed...",
-      "source": "https://www.gamblinginsider.com/news/172679/north-carolina-prediction-market-tax-sports-betting-tax",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
-      ]
-    },
-    {
-      "title": "ESMA confirms some prediction markets contracts fall under European financial regulation",
-      "text": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions.",
-      "source": "https://igamingbusiness.com/prediction-markets/esma-warning-europe-prediction-markets/",
-      "tags": [
-        "Prediction markets",
-        "Regulation"
       ]
     }
   ],
@@ -91,16 +90,93 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "North America",
-    "title": "North Carolina governor approves budget with sports betting tax rise",
-    "meta": "Focus Gaming News | 8 Jul 2026",
-    "summary": "The state’s budget also introduces a 6 per cent tax on prediction market operators. US.- North Carolina Governor Josh Stein has signed Senate Bill 257 into law, approving the state’s $34bn budget. The move raises the tax on...",
+    "section": "Europe",
+    "title": "Dutch gambling regulator upholds Polymarket sanction",
+    "meta": "Focus Gaming News | 9 Jul 2026",
+    "summary": "The KSA has rejected Polymarket’s appeal against its threat of fines for offering illegal gambling in the Netherlands. The Netherlands.- The Dutch gambling regulator Kansspelautoriteit (KSA) has upheld its sanction against the...",
     "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "The state’s budget also introduces a 6 per cent tax on prediction market operators. US.- North Carolina Governor Josh Stein has signed Senate Bill 257 into law, approving the state’s $34bn budget. The move raises the tax on... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/north-carolina-budget-raises-sports-betting-tax-rate",
+    "expanded": "The KSA has rejected Polymarket’s appeal against its threat of fines for offering illegal gambling in the Netherlands. The Netherlands.- The Dutch gambling regulator Kansspelautoriteit (KSA) has upheld its sanction against the... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/dutch-gambling-regulator-upholds-polymarket-sanction",
     "tags": [
       "Prediction markets",
-      "US"
+      "Regulation",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Massachusetts gaming regulators seek audit of casino marketing in Asian communities - CDC Gaming",
+    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
+    "summary": "Massachusetts gaming regulators seek audit of casino marketing in Asian communities CDC Gaming",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Massachusetts gaming regulators seek audit of casino marketing in Asian communities CDC Gaming Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkVtOC1ZaDM1S2UyX2dsTEtuOHM5bklHLVItVjFXdHJrckNzWktZV29SNUk4T2VUQ0ZSOEllV1IxVF9rZG5FMXZ6cERwazlFbWw5ZjBrU004YXQxb1owTXl1bGdwSF9sOHNqOEwzUnVFQjdoM21zOWFJbFZhNGdMSTU0a1dCR0ZUcUlXdXhjNkRqTG1Tb0NVTU44UDhTTkJ5X3RKU213RkQ2dFlUaEFCT1Rn?oc=5",
+    "tags": [
+      "Regulation",
+      "Asia"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities - PlayUSA",
+    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
+    "summary": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities PlayUSA",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities PlayUSA Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzhESzdpdUNJeEp5ZWRfWV9oUjV4RWZKc2RPeHBNYWc3QXMxcE9peElZLTNlTWYtMy1ySjFFR2lvQmFvLTZKTkRjX0xwVHl3a0E2RnV3NE1nNmxpbHdPMjdWdEpFMmQtWkZqM0padzgxSy1FSnFoS3F1bGdvZzZsRVNseGFsR3p4d09lMTZtN2NQdnVUNGtrWk5ScFNUc29NeFhPSlpGbGJYM0VVZ0s4TjhJZw?oc=5",
+    "tags": [
+      "Regulation",
+      "Asia"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins - Bookies.com",
+    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
+    "summary": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins Bookies.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins Bookies.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SRHhDZ2lfRGQzTWdNRVpQVW5hNnBReVVTMllTRDJqZkk5bGZGaVltQzlCaUc1clJxWTUtMnNjV2V3T0R5NjRZcW5vbl9qZFN5WGlNOUYwRkhTQnRkUjB4NjA4UUxId3kwTTR4dHpmSl9aSU81WUNMcDEwYw?oc=5",
+    "tags": [
+      "UK"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "North Carolina imposes 6% tax on prediction markets, raises sports betting tax to 23% - Crypto Briefing",
+    "meta": "Google News: iGaming | 10 Jul 2026",
+    "summary": "North Carolina imposes 6% tax on prediction markets, raises sports betting tax to 23% Crypto Briefing",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "North Carolina imposes 6% tax on prediction markets, raises sports betting tax to 23% Crypto Briefing Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fU0YzMXhrOUxUS1Q1YzNMcVJKNk9FZFRycW83NHdZTEFoNkpzRXRQOUZKS09nd3RsUFRBWFdmRUJ0N2RoOGRBWUVZWHpJc3VhMjdUWnM0RW9lcm9Bc1RIZ1FBUTZheTRiM2xGRDg5bXBCSk0?oc=5",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "EveryMatrix: Merkur agreements in Denmark & Belgium demonstrates omnichannel prowess",
+    "meta": "SBC News | 9 Jul 2026",
+    "summary": "European gambling markets are facing a swathe of re-regulation across the continent which is making life more difficult for operators, who now have to comply with more measures while tax burdens also eat away at margins. It is...",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "European gambling markets are facing a swathe of re-regulation across the continent which is making life more difficult for operators, who now have to comply with more measures while tax burdens also eat away at margins. It is... Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://sbcnews.co.uk/features/2026/07/09/everymatrix-merkur-agreement-denmark-belgium/",
+    "tags": [
+      "EveryMatrix",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Debunking 5 prediction market myths: Slotegrator",
+    "meta": "Focus Gaming News | 9 Jul 2026",
+    "summary": "Maksym Shtun, product owner at Slotegrator, takes down 5 popular misconceptions about the business model behind prediction markets, from licensing to liquidity and the difference between fixed-odds and P2P mechanics. Opinion.-...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Maksym Shtun, product owner at Slotegrator, takes down 5 popular misconceptions about the business model behind prediction markets, from licensing to liquidity and the difference between fixed-odds and P2P mechanics. Opinion.-... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://focusgn.com/debunking-5-prediction-market-myths-slotegrator",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
     ]
   },
   {
@@ -118,6 +194,40 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Product",
+    "title": "Best Sports Betting Apps: Reviewing the Top Sportsbooks for July 2026 - CBS Sports",
+    "meta": "Google News: EveryMatrix watchlist | 10 Jul 2026",
+    "summary": "Best Sports Betting Apps: Reviewing the Top Sportsbooks for July 2026 CBS Sports",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Best Sports Betting Apps: Reviewing the Top Sportsbooks for July 2026 CBS Sports Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zSU14S0dDc19QMWw3djRNN3A5ZFR3d1lUUUhhcUctd0t2ZHRkckdLMXJSTGVJR0ktbm5OTHBhWXhRWlRZNG1Zd2JIbURiN0VpY0VGRE5iazRtbEZCcTl6bHVTVVBFdnVs?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "Midnite expands Championship strategy with Southampton training kit partnership - Casino.com",
+    "meta": "Google News: EveryMatrix watchlist | 10 Jul 2026",
+    "summary": "Midnite expands Championship strategy with Southampton training kit partnership Casino.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Midnite expands Championship strategy with Southampton training kit partnership Casino.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUGxGeWR6ZkdDdXAybjI0aDgteVUtT2ZJNHN5Qm5uSmRlb1JfRG9xOXZZUzZ4NXlvUXYyaXJqNWdmQ3R3cndVeWlEZVVGOGktMmd6SnBYYmJEQUpsbjdHVFgydDQwNTh2SHJLTUo3WjdVYTlfRUF5dFk0M2pnNGZVUmVrSUZ3ZmJvXzRNSVlOdFJ5YTJJZlVHMWh5YUpOc2JvcE9PdzVENWNWVDJkb2ZJanVwNEZObmNu?oc=5",
+    "tags": []
+  },
+  {
+    "section": "Product",
+    "title": "SBC Summit to explore fintech’s role in faster, safer player payments",
+    "meta": "SBC News | 9 Jul 2026",
+    "summary": "SBC Summit will place the technologies transforming payments, compliance and player experiences under the spotlight with a dedicated Fintech conference track, taking place on Tuesday, 29 September. Bringing together operators,...",
+    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "expanded": "SBC Summit will place the technologies transforming payments, compliance and player experiences under the spotlight with a dedicated Fintech conference track, taking place on Tuesday, 29 September. Bringing together operators,... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
+    "source": "https://sbcnews.co.uk/latestnews/2026/07/09/sbc-summit-fintech/",
+    "tags": [
+      "Regulation",
+      "Payments",
+      "KYC"
+    ]
+  },
+  {
     "section": "North America",
     "title": "North Carolina Governor Signs Budget Raising Sports Betting Tax, Adding Prediction Market Levy",
     "meta": "Gambling Insider | 8 Jul 2026",
@@ -129,6 +239,28 @@ window.briefingStories = [
       "Prediction markets",
       "Regulation"
     ]
+  },
+  {
+    "section": "North America",
+    "title": "Former CFTC Chair Nominee Brian Quintenz Joins Coalition for Prediction Markets",
+    "meta": "Gambling Insider | 9 Jul 2026",
+    "summary": "The former CFTC commissioner and former nominee to lead the agency will serve as a senior adviser to the industry group backed by Kalshi, Coinbase, Crypto.com and Robinhood. Brian Quintenz, the former Commodity Futures Trading...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "The former CFTC commissioner and former nominee to lead the agency will serve as a senior adviser to the industry group backed by Kalshi, Coinbase, Crypto.com and Robinhood. Brian Quintenz, the former Commodity Futures Trading... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://www.gamblinginsider.com/news/172806/brian-quintenz-joins-coalition-for-prediction-markets",
+    "tags": [
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "Will Missouri’s Sports Betting Growth End Tax Hike Efforts? - Casino.com",
+    "meta": "Google News: EveryMatrix watchlist | 8 Jul 2026",
+    "summary": "Will Missouri’s Sports Betting Growth End Tax Hike Efforts? Casino.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Will Missouri’s Sports Betting Growth End Tax Hike Efforts? Casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFBWQkE2X2lEUHp1ZzZhNXZ1c0FvVk1YRndnNmRwUG1RQ3o0MWRXaGV4bnFEOXRBdmZVVEFrd3VEdndsWm14S09CZnBEOHBpeU1wNUpkVmVFeW5INUhKeEV4TW1IZVdRVXRDaTRMbjRSVFZhSTJBODBqZVNlYzhtbkdmUkRGaC1rdHhtd0JtODQ3TGtfQWluS3hMNDVEaFJVbU1F?oc=5",
+    "tags": []
   },
   {
     "section": "Europe",
@@ -158,6 +290,18 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "Europe",
+    "title": "FDJ views Supreme Court ruling as fresh start for Dutch gambling reorganisation",
+    "meta": "SBC News | 10 Jul 2026",
+    "summary": "FDJ United has welcomed the legal clarity that the Supreme Court of the Netherlands has brought to the tricky topic of gambling losses claimed prior to the Dutch market’s re-regulation. On 3 July, De Rechtspraak determined that...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "FDJ United has welcomed the legal clarity that the Supreme Court of the Netherlands has brought to the tricky topic of gambling losses claimed prior to the Dutch market’s re-regulation. On 3 July, De Rechtspraak determined that... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://sbcnews.co.uk/sportsbook/2026/07/10/fdj-united-unibet-netherlands/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
     "section": "North America",
     "title": "US Soldier Seeks Dismissal of CFTC Polymarket Case, Says Maduro Contracts Were Not ‘Swaps’",
     "meta": "Gambling Insider | 7 Jul 2026",
@@ -171,6 +315,80 @@ window.briefingStories = [
     ]
   },
   {
+    "section": "LatAm",
+    "title": "Cassino Bet returns to FIRST.bet as sportsbook partner in Brazil partnership, bringing cutting-edge technology to drive growth and enhance bettor engagement.",
+    "meta": "NEXT.io | 9 Jul 2026",
+    "summary": "Cassino.bet.br has returned to FIRST.bet’s proprietary sportsbook technology to give the brand the product depth, trading capability and operational control needed to compete at the highest level in Brazil. The partnership...",
+    "why": "Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "expanded": "Cassino.bet.br has returned to FIRST.bet’s proprietary sportsbook technology to give the brand the product depth, trading capability and operational control needed to compete at the highest level in Brazil. The partnership... Relevant to B2B platform strategy because supplier differentiation is moving toward stronger content, data, distribution and operational control.",
+    "source": "https://next.io/news/b2b-news/cassino-bet-returns-to-first-bet-as-sportsbook-partner-in-brazil/",
+    "tags": [
+      "Regulation",
+      "Brazil"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Amusnet launches solidarity initiative to support dogs affected by the earthquakes in Venezuela",
+    "meta": "NEXT.io | 9 Jul 2026",
+    "summary": "Sometimes, a game can become more than entertainment. Sometimes, it can become a way to make a real difference. Following the devastating earthquakes that struck Venezuela, leaving thousands of families displaced and countless...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Sometimes, a game can become more than entertainment. Sometimes, it can become a way to make a real difference. Following the devastating earthquakes that struck Venezuela, leaving thousands of families displaced and countless... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/b2b-news/amusnet-support-dogs-affected-by-earthquakes-in-venezuela/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Imagine Live goes live with MaxBet bringing live casino to the Balkans",
+    "meta": "NEXT.io | 9 Jul 2026",
+    "summary": "Imagine Live, the live casino provider, has partnered with MaxBet, one of the leading sports betting and gaming operators in the Balkans. The partnership extends Imagine Live’s presence across regulated markets, bringing its...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Imagine Live, the live casino provider, has partnered with MaxBet, one of the leading sports betting and gaming operators in the Balkans. The partnership extends Imagine Live’s presence across regulated markets, bringing its... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/b2b-news/imagine-live-goes-live-with-maxbet-bringing-live-casino-to-the-balkans/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Germany quietly raises stake limit for online slots to €5 maximum",
+    "meta": "NEXT.io | 9 Jul 2026",
+    "summary": "Germany has increased the maximum stake limits for licensed online slot machines for the first time since regulating the market.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Germany has increased the maximum stake limits for licensed online slot machines for the first time since regulating the market. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://next.io/news/regulation/germany-quietly-raises-stake-limit-online-slots/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "EveryMatrix On Merkur Group Deals In Denmark & Belgium - sbcnews.co.uk",
+    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
+    "summary": "EveryMatrix On Merkur Group Deals In Denmark & Belgium sbcnews.co.uk",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "EveryMatrix On Merkur Group Deals In Denmark & Belgium sbcnews.co.uk Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWW5pQ3lVNkRTSW85WXlNel9xSngtbzEwazNkajZKOENLb3B2VDBuZVFkeXcxc3VKSGFmZVRZTmdJYW1veGtCYVh6elJEQnR5d2xHblJ0SVVUYlBrSVE5MmVnVWxReTN6Zm5yS1EycEpYeFJ1ZHViQzdlR0FKUW1YYXdJVW9qSGlvbmxia0dTa04?oc=5",
+    "tags": [
+      "EveryMatrix",
+      "UK"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "Lon O’Donnell Joins Seneca Resorts as SVP - indiangaming.com",
+    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
+    "summary": "Lon O’Donnell Joins Seneca Resorts as SVP indiangaming.com",
+    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "expanded": "Lon O’Donnell Joins Seneca Resorts as SVP indiangaming.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmNjcG5wVTJVMXJ2RVpSdmRrUHpLaGZQUDJrWm9Bb3RRc0ExZmNJZ3ZZaUpDa1Z6aUtuazVkbDlGcDVBUVJVQlhVbGE5cEUzUmE0eFE0LTJ1NWFpbnNJb1ZDTTR6d3gwZ1ZHRGN0WldOMVhCVW1tTnhpNllsR05VRjZBZDVRckU?oc=5",
+    "tags": [
+      "Asia"
+    ]
+  },
+  {
     "section": "Product",
     "title": "North Carolina implements prediction markets tax and raises tax rate for sports betting - gamingintelligence.com",
     "meta": "Google News: iGaming | 8 Jul 2026",
@@ -181,222 +399,5 @@ window.briefingStories = [
     "tags": [
       "Prediction markets"
     ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "Will Missouri’s Sports Betting Growth End Tax Hike Efforts? - Casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 8 Jul 2026",
-    "summary": "Will Missouri’s Sports Betting Growth End Tax Hike Efforts? Casino.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Will Missouri’s Sports Betting Growth End Tax Hike Efforts? Casino.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFBWQkE2X2lEUHp1ZzZhNXZ1c0FvVk1YRndnNmRwUG1RQ3o0MWRXaGV4bnFEOXRBdmZVVEFrd3VEdndsWm14S09CZnBEOHBpeU1wNUpkVmVFeW5INUhKeEV4TW1IZVdRVXRDaTRMbjRSVFZhSTJBODBqZVNlYzhtbkdmUkRGaC1rdHhtd0JtODQ3TGtfQWluS3hMNDVEaFJVbU1F?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
-    "title": "Looking for a luxurious place to stay? These are Louisiana's 6 best resorts - Shreveport Times",
-    "meta": "Google News: EveryMatrix watchlist | 7 Jul 2026",
-    "summary": "Looking for a luxurious place to stay? These are Louisiana's 6 best resorts Shreveport Times",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Looking for a luxurious place to stay? These are Louisiana's 6 best resorts Shreveport Times Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeHpNMk1vSjJWR3dmd21mRGJOZXkxYXdDQXlFS1h1N3FnWHBMWnpCelVWS0N4cnd5YS1LWmRoUzRJNUJmeHI5NWVoX3A2WEYyeU5EQldXVkNBTzlCM1daM0xwMHVPWHo1bm9ya3ZUUmRGM0NpUHpMY3U4QUxjT0hUbjhKMTRLeXotU28xcmpUaVZGaENFM1RpRm03VFNQbTJVSEF6SElpbGpoZTIwYldsNHl5akRBOE9EdmRPUUJubzRadWY5TnczSk5CaW04WWJEeVhNZFNpQXFZRWJhX2tISzgxeklLbzM2WlRUYVhMWEFSUEJfeGdyZ01FUE9IQmRSazNMUGlB?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
-    "title": "Fresh Complaints Over Handling of Self-Exclusion Requests Put BetFalme’s Responsible Gambling Measures Under Scrutiny - nyakundireport.com",
-    "meta": "Google News: regulation | 7 Jul 2026",
-    "summary": "Fresh Complaints Over Handling of Self-Exclusion Requests Put BetFalme’s Responsible Gambling Measures Under Scrutiny nyakundireport.com",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Fresh Complaints Over Handling of Self-Exclusion Requests Put BetFalme’s Responsible Gambling Measures Under Scrutiny nyakundireport.com Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ1Jjcm1ORkdGN3locjI4akVReVhNRURsS0ZDY2dHSE5hZTFabkRLa0xIWUdEOHpiQnZxYTJKVlY2RTlSMHJWLXBXTnFHM3ZJU0tFX2lhWTlNYlNHWUZRMmUzbHZrWXB3TWtvTHVZWFZTeG1mRl9PSUhR?oc=5",
-    "tags": [
-      "RG"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "SBC Summit to explore fintech’s role in faster, safer player payments",
-    "meta": "SBC News | 9 Jul 2026",
-    "summary": "SBC Summit will place the technologies transforming payments, compliance and player experiences under the spotlight with a dedicated Fintech conference track, taking place on Tuesday, 29 September. Bringing together operators,...",
-    "why": "Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "expanded": "SBC Summit will place the technologies transforming payments, compliance and player experiences under the spotlight with a dedicated Fintech conference track, taking place on Tuesday, 29 September. Bringing together operators,... Relevant to platform and wallet teams because regulation is increasingly expressed through payment routing, deposit controls, refunds and transaction evidence.",
-    "source": "https://sbcnews.co.uk/latestnews/2026/07/09/sbc-summit-fintech/",
-    "tags": [
-      "Regulation",
-      "Payments",
-      "KYC"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Exclusive: ADI Predictstreet Source Reveals Trading Numbers, Strategic Gameplan",
-    "meta": "Gambling Insider | 8 Jul 2026",
-    "summary": "ADI Predictstreet is the new kid on the prediction market block — its trading volume may be small, yet in exclusive comments to Gambling Insider, insiders claim it has a winning strategy Gambling Insider can reveal that ADI...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "ADI Predictstreet is the new kid on the prediction market block — its trading volume may be small, yet in exclusive comments to Gambling Insider, insiders claim it has a winning strategy Gambling Insider can reveal that ADI... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/172635/exclusive-adi-predictstreet-source-reveals-trading-numbers-strategic-gameplan",
-    "tags": [
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Big Bounty Bandits: 3 Pots by Peter & Sons",
-    "meta": "iGaming Business | 8 Jul 2026",
-    "summary": "Out on the dusty trail, every spin carries the sound of wheels, gold, and trouble getting closer.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Out on the dusty trail, every spin carries the sound of wheels, gold, and trouble getting closer. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://igamingbusiness.com/casino-games/big-bounty-bandits-3-pots-by-peter-sons/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Judge rejects Kalshi’s motion for a preliminary injunction in New York",
-    "meta": "Focus Gaming News | 8 Jul 2026",
-    "summary": "US District Judge Analisa Torres has denied the operator’s bid to block New York from enforcing its gambling laws against the platform. US.- Kalshi’s attempt to prevent New York from enforcing gambling legislation against the...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "US District Judge Analisa Torres has denied the operator’s bid to block New York from enforcing its gambling laws against the platform. US.- Kalshi’s attempt to prevent New York from enforcing gambling legislation against the... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://focusgn.com/judge-rejects-kalshis-motion-for-a-preliminary-injunction-in-new-york",
-    "tags": [
-      "Prediction markets",
-      "US"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Sports-First Startups Look to Compete in Trillion-Dollar Prediction Market Industry",
-    "meta": "Gambling Insider | 6 Jul 2026",
-    "summary": "We chatted with the founders of ProphetX and 365Prediction about the companies’ prediction market ambitions in the face of stiff competition and regulatory risk. Every day we open Twitter, it seems, there’s news of another...",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "We chatted with the founders of ProphetX and 365Prediction about the companies’ prediction market ambitions in the face of stiff competition and regulatory risk. Every day we open Twitter, it seems, there’s news of another... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://www.gamblinginsider.com/news/170142/sports-first-startups-look-to-compete-in-trillion-dollar-prediction-market-industry",
-    "tags": [
-      "Prediction markets",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Gaming1: long-term success combines entertainment and responsibility",
-    "meta": "SBC News | 9 Jul 2026",
-    "summary": "In a highly regulated industry technology creates opportunities, but people and culture determine whether you capture them. Those that develop strong ethical practices are sure to make headway as players increasingly look for...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "In a highly regulated industry technology creates opportunities, but people and culture determine whether you capture them. Those that develop strong ethical practices are sure to make headway as players increasingly look for... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/features/2026/07/09/gaming1-entertainment/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "ACMA celebrates quick one-two blows against illegal gambling",
-    "meta": "SBC News | 8 Jul 2026",
-    "summary": "Illegal gambling is back in the headlines in Australia, with the Australian Communications and Media Authority (ACMA) keeping itself busy over the last few days. For starters, the regulator’s administration had to stamp and send...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Illegal gambling is back in the headlines in Australia, with the Australian Communications and Media Authority (ACMA) keeping itself busy over the last few days. For starters, the regulator’s administration had to stamp and send... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/oceania/2026/07/08/acma-australia-illegal-play/",
-    "tags": [
-      "Regulation",
-      "Black market"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "MGA: Malta is the leading environment to govern igaming B2B",
-    "meta": "SBC News | 8 Jul 2026",
-    "summary": "The Malta Gaming Authority (MGA) has begun to “pivot towards smarter AI-led regulation of gambling licences (B2C and B2B)”, reflecting the current and future developments shaping one of Malta’s most important industries and its...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "The Malta Gaming Authority (MGA) has begun to “pivot towards smarter AI-led regulation of gambling licences (B2C and B2B)”, reflecting the current and future developments shaping one of Malta’s most important industries and its... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://sbcnews.co.uk/europe/2026/07/08/malta-b2b-2025/",
-    "tags": [
-      "Regulation",
-      "AI"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Amusnet partners South Africa’s racing tradition at the Hollywoodbets Durban July",
-    "meta": "NEXT.io | 8 Jul 2026",
-    "summary": "Thousands of racing fans, industry partners, and fashion enthusiasts gathered for the 2026 Hollywoodbets Durban July which is one of South Africa’s most celebrated sporting and social events. The occasion once again transformed...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Thousands of racing fans, industry partners, and fashion enthusiasts gathered for the 2026 Hollywoodbets Durban July which is one of South Africa’s most celebrated sporting and social events. The occasion once again transformed... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/amusnet-hollywoodbets-durban-july/",
-    "tags": [
-      "Regulation",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Bans are not enough. iGaming Business writes about the Czech approach to responsible gambling - Institut pro regulaci hazardních her",
-    "meta": "Google News: regulation | 8 Jul 2026",
-    "summary": "Bans are not enough. iGaming Business writes about the Czech approach to responsible gambling Institut pro regulaci hazardních her",
-    "why": "Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "expanded": "Bans are not enough. iGaming Business writes about the Czech approach to responsible gambling Institut pro regulaci hazardních her Relevant to PAM, KYC and RG tooling because more markets are turning customer-risk checks into auditable product workflows.",
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWE41M3Zxb2hHQVJBRlJCOC15TGxmeUotcktDYlozVmVjZTFianE2SEIzc2tiUjFHMDBTaG5vR21SNHRaSU93YU43aG9tbzF6MDZOcDF6OGZENnBQMWFiTkRXSVVjeWFhc2VBODBPX2k3NzRfTkRzZ1ZoS0M5aFBqN3BGV29Ka2FzRUJKd240aU92MVAwZ0YxNGp3SS1kV3FuUFpfMGdJRXNuSHRKTDg1TXE4aW5RX1E?oc=5",
-    "tags": [
-      "Regulation",
-      "RG"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "SPA-MF notifies 37 fintechs for links to illegal gambling in Brazil. - BNLData",
-    "meta": "Google News: regulation | 8 Jul 2026",
-    "summary": "SPA-MF notifies 37 fintechs for links to illegal gambling in Brazil. BNLData",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "SPA-MF notifies 37 fintechs for links to illegal gambling in Brazil. BNLData Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMnhJV2lxbU9xNzd6OFU5anZOSzcwNzlsWUZxOFZOOEM1V1BqNGFNWGJFQkU2ZktIV3k4MnY5azdsaHJNZWk1bGhzQ3JXRi0zYXBTcGJTMzZfVEhnd3FIRlpKVWZQYURLWnVBUWhBZXBnbEV0LVpGZVJ4cDZxNnBfMEJGQmZCNHJqM0VRaGtIazNEOF9nbmExMHphR2Y?oc=5",
-    "tags": [
-      "Black market",
-      "Brazil"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Singapore seizes S$720,000, detains 17 in gambling bust",
-    "meta": "Google News: regulation | 8 Jul 2026",
-    "summary": "Singapore seizes S$720,000, detains 17 in gambling bust Focus Gaming News",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Singapore seizes S$720,000, detains 17 in gambling bust Focus Gaming News Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEoyRGNaUk9DRDh3aFE1MzYyTEFaVnZVczhvbHpjQ2VZUks0U25MaEdJT3IyX1UtVnpoWWZ2REdvRnNfcHdVOWtweWZWTEoyOG5fbzlUT0tYQ1JyX0JJWk5tb1Fha1NiOVl4NVRnOTlMa0ZkZHFscjVndk00MU5pN2R2aUhDNV95LTFN?oc=5",
-    "tags": []
-  },
-  {
-    "section": "Product",
-    "title": "Police Officer Arrested in Gambling and Drug Investigation in Fushë-Krujë - Albanian Daily News",
-    "meta": "Google News: regulation | 8 Jul 2026",
-    "summary": "Police Officer Arrested in Gambling and Drug Investigation in Fushë-Krujë Albanian Daily News",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Police Officer Arrested in Gambling and Drug Investigation in Fushë-Krujë Albanian Daily News Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUktqR0stc2JRQlM0T1ZKaWNvcDA2Y001Qlc1anNVYmltOU9LMGNhNnNXUnBET2RiNW92ZDZxMDN6NDI1Tm14SzZRTzBpNWROaTd5Q0dZV0l6NnlzZE1kNW5iSlo5aEljTC0tenlVNVlBOFpSRU93Znh2ems0NkJhRXdvaTByUmJYS2dBc2tUVFIzWV9oaTU5VE1uZWE4bWRCaGNUd3puWnRHTHJT?oc=5",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "QCPD arrests suspected gang member for illegal 'ending' game - Daily Tribune",
-    "meta": "Google News: regulation | 8 Jul 2026",
-    "summary": "QCPD arrests suspected gang member for illegal 'ending' game Daily Tribune",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "QCPD arrests suspected gang member for illegal 'ending' game Daily Tribune Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzlGS252cXBQam1VSTVKSnlmOUZ3bDFPYUl2Mzk4RERTVm1nR0UwS2lUWDBPQU5IUTB1a21hSG1VbWhaQ3VnYXBLQmRfd05hRkJXUXUxa0Y2T3E1QWNvRTZzekVpQ2R4TmxnZTdOVjVfcGl4cl95YUdTU2JjU0hpd05jNi04M3dfWWVoc1VHUkhZd2hKZDZB?oc=5",
-    "tags": [
-      "Black market"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "California Judge Rules Against State Limitation on Cardroom Games - Casino.com",
-    "meta": "Google News: EveryMatrix watchlist | 7 Jul 2026",
-    "summary": "California Judge Rules Against State Limitation on Cardroom Games Casino.com",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "California Judge Rules Against State Limitation on Cardroom Games Casino.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdWtHMXZ0RFFmWGxhbmFxR3ptY2lLRjU4M3ljYmxnUEtTLWNzUFdLZlNlRmVmdDY1MTJkLUtjUjZ1bDVmak92M1llUkNiZUx0SG9sd015c0dFdmd6bXNRUUFXSE5HZ3NVWkUxRl8yVGtfY0VHOU5GeTF0SEhud1RhbEFSZUFYUWRQY1dUdVR1WHZydW02Zi10enhWSzVhTm8?oc=5",
-    "tags": []
   }
 ];

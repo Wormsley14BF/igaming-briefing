@@ -2,6 +2,25 @@ window.briefingMeta = {
   "dateLabel": "Friday, 10 July 2026 | automated public-site edition",
   "atAGlance": [
     {
+      "title": "Episode 39: Dutch tax miss, World Cup prediction markets",
+      "text": "Robin Harrison and Ed Birkin return after iGB L!VE to share some interesting numbers on the World Cup and Europe, starting with a Dutch gambling tax hike that has missed its target by some distance. From there, the pair also...",
+      "source": "https://igamingbusiness.com/finance/right-to-the-source-dutch-tax-miss-world-cup-prediction-markets/",
+      "tags": [
+        "Prediction markets",
+        "Regulation"
+      ]
+    },
+    {
+      "title": "KSA upholds Polymarket illegal gambling sanction despite appeal",
+      "text": "Polymarket argued its platform was an interface to an open-source blockchain protocol, and that some markets fell under financial regulations.",
+      "source": "https://igamingbusiness.com/prediction-markets/ksa-uphold-sanctions-against-polymarket-illegal-online-gambling-despite-appeal/",
+      "tags": [
+        "Prediction markets",
+        "Regulation",
+        "Black market"
+      ]
+    },
+    {
       "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
       "text": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com",
       "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
@@ -28,31 +47,14 @@ window.briefingMeta = {
         "Regulation",
         "Asia"
       ]
-    },
-    {
-      "title": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities - PlayUSA",
-      "text": "Massachusetts Gaming Regulators Seek Audit of Casino Marketing in Asian Communities PlayUSA",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzhESzdpdUNJeEp5ZWRfWV9oUjV4RWZKc2RPeHBNYWc3QXMxcE9peElZLTNlTWYtMy1ySjFFR2lvQmFvLTZKTkRjX0xwVHl3a0E2RnV3NE1nNmxpbHdPMjdWdEpFMmQtWkZqM0padzgxSy1FSnFoS3F1bGdvZzZsRVNseGFsR3p4d09lMTZtN2NQdnVUNGtrWk5ScFNUc29NeFhPSlpGbGJYM0VVZ0s4TjhJZw?oc=5",
-      "tags": [
-        "Regulation",
-        "Asia"
-      ]
-    },
-    {
-      "title": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins - Bookies.com",
-      "text": "Dream Vegas Promo Code UK July 2026: Claim up to £50 + 50 Free Spins Bookies.com",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SRHhDZ2lfRGQzTWdNRVpQVW5hNnBReVVTMllTRDJqZkk5bGZGaVltQzlCaUc1clJxWTUtMnNjV2V3T0R5NjRZcW5vbl9qZFN5WGlNOUYwRkhTQnRkUjB4NjA4UUxId3kwTTR4dHpmSl9aSU81WUNMcDEwYw?oc=5",
-      "tags": [
-        "UK"
-      ]
     }
   ],
   "platformLens": [
     {
       "title": "Payments and channelisation",
       "text": "Payment flows, illegal-market blocking and cashier restrictions remain core platform-control areas.",
-      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
-      "sourceLabel": "Google News: regulation"
+      "source": "https://igamingbusiness.com/prediction-markets/ksa-uphold-sanctions-against-polymarket-illegal-online-gambling-despite-appeal/",
+      "sourceLabel": "iGaming Business"
     },
     {
       "title": "Risk checks are becoming product workflows",
@@ -63,19 +65,46 @@ window.briefingMeta = {
     {
       "title": "Prediction markets need active tracking",
       "text": "US event-contract disputes are now relevant to sportsbook strategy, data partnerships and market access.",
-      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
-      "sourceLabel": "Google News: regulation"
+      "source": "https://igamingbusiness.com/finance/right-to-the-source-dutch-tax-miss-world-cup-prediction-markets/",
+      "sourceLabel": "iGaming Business"
     },
     {
       "title": "Product quality is a commercial control",
       "text": "Acquisition, retention and compliance are increasingly dependent on mobile UX, CRM, AI-assisted operations and configurable platform rules.",
-      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
-      "sourceLabel": "Google News: regulation"
+      "source": "https://igamingbusiness.com/finance/right-to-the-source-dutch-tax-miss-world-cup-prediction-markets/",
+      "sourceLabel": "iGaming Business"
     }
   ]
 };
 
 window.briefingStories = [
+  {
+    "section": "Europe",
+    "title": "Episode 39: Dutch tax miss, World Cup prediction markets",
+    "meta": "iGaming Business | 10 Jul 2026",
+    "summary": "Robin Harrison and Ed Birkin return after iGB L!VE to share some interesting numbers on the World Cup and Europe, starting with a Dutch gambling tax hike that has missed its target by some distance. From there, the pair also...",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Robin Harrison and Ed Birkin return after iGB L!VE to share some interesting numbers on the World Cup and Europe, starting with a Dutch gambling tax hike that has missed its target by some distance. From there, the pair also... Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/finance/right-to-the-source-dutch-tax-miss-world-cup-prediction-markets/",
+    "tags": [
+      "Prediction markets",
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "KSA upholds Polymarket illegal gambling sanction despite appeal",
+    "meta": "iGaming Business | 9 Jul 2026",
+    "summary": "Polymarket argued its platform was an interface to an open-source blockchain protocol, and that some markets fell under financial regulations.",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "Polymarket argued its platform was an interface to an open-source blockchain protocol, and that some markets fell under financial regulations. Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://igamingbusiness.com/prediction-markets/ksa-uphold-sanctions-against-polymarket-illegal-online-gambling-despite-appeal/",
+    "tags": [
+      "Prediction markets",
+      "Regulation",
+      "Black market"
+    ]
+  },
   {
     "section": "Product",
     "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
@@ -264,6 +293,43 @@ window.briefingStories = [
   },
   {
     "section": "Europe",
+    "title": "ANJL supports new advertising rules for betting but calls for stronger action against illegal platforms",
+    "meta": "iGaming Business | 10 Jul 2026",
+    "summary": "The National Association of Games and Lotteries (ANJL) maintains that campaigns must comply with current regulations and that the government needs to step up enforcement against illegal sites to prevent money laundering,...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The National Association of Games and Lotteries (ANJL) maintains that campaigns must comply with current regulations and that the government needs to step up enforcement against illegal sites to prevent money laundering,... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/marketing-affiliates/marketing-regulation/anjl-supports-advertising-rules-betting-brazil/",
+    "tags": [
+      "Regulation",
+      "Black market"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Fertitta executives outline Caesars transaction timeline to Nevada regulators",
+    "meta": "iGaming Business | 10 Jul 2026",
+    "summary": "Fertitta Entertainment faces hurdles related to money, antitrust, licensing and shareholder approval in closing its Caesars acquisition.",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "Fertitta Entertainment faces hurdles related to money, antitrust, licensing and shareholder approval in closing its Caesars acquisition. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/legal-compliance/licensing/fertitta-caesars-ngcb/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "1xBet: ‘We need to evolve with the industry’",
+    "meta": "iGaming Business | 9 Jul 2026",
+    "summary": "The iGB team interviewed 1xBet at iGB L!VE 2026 to ask why it is repositioning – or in its own words, evolving – its brand to focus on sustainable regulated market revenue. We ask what 1xBet is doing to improve long-term...",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "The iGB team interviewed 1xBet at iGB L!VE 2026 to ask why it is repositioning – or in its own words, evolving – its brand to focus on sustainable regulated market revenue. We ask what 1xBet is doing to improve long-term... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://igamingbusiness.com/gaming/gaming-regulation/1xbet-regulation-long-term-revenue/",
+    "tags": [
+      "Regulation"
+    ]
+  },
+  {
+    "section": "Europe",
     "title": "ESMA confirms some prediction markets contracts fall under European financial regulation",
     "meta": "iGaming Business | 7 Jul 2026",
     "summary": "EU's financial regulator have issued a firm warning to companies operating prediction markets, clarifying that certain contracts fall under existing binary options restrictions.",
@@ -337,67 +403,6 @@ window.briefingStories = [
     "source": "https://next.io/news/b2b-news/amusnet-support-dogs-affected-by-earthquakes-in-venezuela/",
     "tags": [
       "Regulation"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Imagine Live goes live with MaxBet bringing live casino to the Balkans",
-    "meta": "NEXT.io | 9 Jul 2026",
-    "summary": "Imagine Live, the live casino provider, has partnered with MaxBet, one of the leading sports betting and gaming operators in the Balkans. The partnership extends Imagine Live’s presence across regulated markets, bringing its...",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Imagine Live, the live casino provider, has partnered with MaxBet, one of the leading sports betting and gaming operators in the Balkans. The partnership extends Imagine Live’s presence across regulated markets, bringing its... Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/b2b-news/imagine-live-goes-live-with-maxbet-bringing-live-casino-to-the-balkans/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Germany quietly raises stake limit for online slots to €5 maximum",
-    "meta": "NEXT.io | 9 Jul 2026",
-    "summary": "Germany has increased the maximum stake limits for licensed online slot machines for the first time since regulating the market.",
-    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "expanded": "Germany has increased the maximum stake limits for licensed online slot machines for the first time since regulating the market. Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
-    "source": "https://next.io/news/regulation/germany-quietly-raises-stake-limit-online-slots/",
-    "tags": [
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "EveryMatrix On Merkur Group Deals In Denmark & Belgium - sbcnews.co.uk",
-    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
-    "summary": "EveryMatrix On Merkur Group Deals In Denmark & Belgium sbcnews.co.uk",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "EveryMatrix On Merkur Group Deals In Denmark & Belgium sbcnews.co.uk Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWW5pQ3lVNkRTSW85WXlNel9xSngtbzEwazNkajZKOENLb3B2VDBuZVFkeXcxc3VKSGFmZVRZTmdJYW1veGtCYVh6elJEQnR5d2xHblJ0SVVUYlBrSVE5MmVnVWxReTN6Zm5yS1EycEpYeFJ1ZHViQzdlR0FKUW1YYXdJVW9qSGlvbmxia0dTa04?oc=5",
-    "tags": [
-      "EveryMatrix",
-      "UK"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Lon O’Donnell Joins Seneca Resorts as SVP - indiangaming.com",
-    "meta": "Google News: EveryMatrix watchlist | 9 Jul 2026",
-    "summary": "Lon O’Donnell Joins Seneca Resorts as SVP indiangaming.com",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Lon O’Donnell Joins Seneca Resorts as SVP indiangaming.com Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmNjcG5wVTJVMXJ2RVpSdmRrUHpLaGZQUDJrWm9Bb3RRc0ExZmNJZ3ZZaUpDa1Z6aUtuazVkbDlGcDVBUVJVQlhVbGE5cEUzUmE0eFE0LTJ1NWFpbnNJb1ZDTTR6d3gwZ1ZHRGN0WldOMVhCVW1tTnhpNllsR05VRjZBZDVRckU?oc=5",
-    "tags": [
-      "Asia"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "North Carolina implements prediction markets tax and raises tax rate for sports betting - gamingintelligence.com",
-    "meta": "Google News: iGaming | 8 Jul 2026",
-    "summary": "North Carolina implements prediction markets tax and raises tax rate for sports betting gamingintelligence.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "North Carolina implements prediction markets tax and raises tax rate for sports betting gamingintelligence.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2MtdHFFakMyM3V2YVlEaEtZc3V6RmZjeDlNRjVmUmphTHRVTVphMS1ZbEt2QlhLa1JOZ0FlWVRuT3FvUU4tVDNGZ3J5QlJxTy1pdUFybFp2cF9Uemp4aWZBUWRIMGVoTWJJR0hLUFpoeThldkhLaENKRXVXcDJrRlRQSFFCUzZiSmVDZzJHOE1McTZBaUcxcVllSlFGXzV1YkcxWkhneGVJSUdiaWcxckRyNERWNmNGZzRtcTdfT21nbF96TEJTS2RjdjY3enNoNkE?oc=5",
-    "tags": [
-      "Prediction markets"
     ]
   }
 ];

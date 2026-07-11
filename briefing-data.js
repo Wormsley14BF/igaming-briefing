@@ -201,19 +201,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Product",
-    "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
-    "meta": "Google News: regulation | 9 Jul 2026",
-    "summary": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com",
-    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "expanded": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
-    "tags": [
-      "Prediction markets",
-      "Black market"
-    ]
-  },
-  {
     "section": "North America",
     "title": "Seneca Resorts & Casinos appoints Lon O’Donnell as senior vice president of gaming operations",
     "meta": "Focus Gaming News | 10 Jul 2026",
@@ -236,6 +223,19 @@ window.briefingStories = [
     "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZExTRUNrRGJvOERDOXduMG12Nnd0TjFJMW83OGtVek1BbE5fMEtSUGpUN2pyZElfZ2RvbGh3U2pTd3lmRTZRSGhIX2Z3Y0xaMTVnZVBGRGhVeFVHeFhMa21PWWtzbmt1bDVKZ3d0OWtiMDNqYTlRZTAtRHJCRGRuUUtPTk1nTGYxcVVvSU50VkhmbUh0OXlZNzNB?oc=5",
     "tags": [
       "Prediction markets"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "KSA upholds Polymarket illegal gambling sanction despite appeal - igamingbusiness.com",
+    "meta": "Google News: regulation | 9 Jul 2026",
+    "summary": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com",
+    "why": "Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "expanded": "KSA upholds Polymarket illegal gambling sanction despite appeal igamingbusiness.com Relevant because prediction markets are becoming a live competitive and regulatory threat model for sportsbooks, data suppliers and compliance teams.",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd0MzSTFSRF9zVE9GVDh1M3JMYU9IV2JjMDRvWG5XN0t1d3ZHN0F6dUVnSFV0NnNoQ0thUUUxeEpQR0F3czdaUVkxYWd2bjhKRTVtbVhENnNpcnU0clZXMWJHbUIzWDI3VGM3cUk1YVNtVzdOcHBnUlNWQmxuaVhJMTQ3ekQwZDNjV2dtYkdFdlJ5TkJkcjhCWnBfWjFOMkU4TFBTSEZ3SlpyRzY2RzBmV2dSX0xfOFdUcWpZSEV5OUVWSXdf?oc=5",
+    "tags": [
+      "Prediction markets",
+      "Black market"
     ]
   },
   {

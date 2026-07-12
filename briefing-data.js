@@ -144,19 +144,6 @@ window.briefingStories = [
     ]
   },
   {
-    "section": "Asia / Oceania",
-    "title": "Massachusetts Gaming Regulators Order Audit of Casino Marketing Targeting Asian Communities - Bettors Insider",
-    "meta": "Google News: EveryMatrix watchlist | 10 Jul 2026",
-    "summary": "Massachusetts Gaming Regulators Order Audit of Casino Marketing Targeting Asian Communities Bettors Insider",
-    "why": "Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "expanded": "Massachusetts Gaming Regulators Order Audit of Casino Marketing Targeting Asian Communities Bettors Insider Worth tracking for operator strategy, regulated-market entry, competitor positioning and product roadmap implications.",
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcXJidUE5UUdyNldPTEtTSEZyTVdSeThPUmppRjRpWV9OR3RYYkZISjduUk5WVDBKUFFMbE5XUE9pYmxNVG1mSlVGQnFld3g3eFhvVWVtd3p4cWY1Mmx6UnNXZUV4eGdObWhuNHVZRW53czlrdE13UzFrSDY1ckhzVTUxYjFkUG4tR0ZKNnRUT1I2T2hkQ3hfRzlYWjZuSC0tMHh0elByUEwtalh3U2M1bkFTVklvSUJGS3BuWTZud01jb3BXNlRxWmhYU1NBZS0wOG80?oc=5",
-    "tags": [
-      "Regulation",
-      "Asia"
-    ]
-  },
-  {
     "section": "Europe",
     "title": "EGBA names and shames Lithuania fintech over black market deposits",
     "meta": "SBC News | 10 Jul 2026",
@@ -417,5 +404,15 @@ window.briefingStories = [
       "Regulation",
       "Asia"
     ]
+  },
+  {
+    "section": "Product",
+    "title": "New Site Plans Reveal Details on Sphere National Harbor - Casino.com",
+    "meta": "Google News: EveryMatrix watchlist | 10 Jul 2026",
+    "summary": "New Site Plans Reveal Details on Sphere National Harbor Casino.com",
+    "why": "Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "expanded": "New Site Plans Reveal Details on Sphere National Harbor Casino.com Relevant to product teams because acquisition, retention and compliance outcomes increasingly depend on the quality of lifecycle tooling and customer journeys.",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzg4ZzZTYXlVbEJiQmRfZWM2ejY5RE9MMGFLcGlPWWhLTmNLWHA0R1hLeEpfUDhqVTBwbVFkWFNjT1FJZnBxcmExUnViMkJ2bmtwbkpPTFIwQTI3SjdPMUViTExtMzhhQ0NiM1c3Wm1hTWJpVTVOTkpQM3ZDMk1rRFZPRXRSOGYwVF9Lam9Za1lkckgwWkhDbA?oc=5",
+    "tags": []
   }
 ];

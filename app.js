@@ -8,9 +8,6 @@ const defaultMeta = {
 };
 
 const sectionContainers = [...document.querySelectorAll("[data-section]")];
-const searchInput = document.querySelector("#searchInput");
-const expandAll = document.querySelector("#expandAll");
-const collapseAll = document.querySelector("#collapseAll");
 const briefingDate = document.querySelector("#briefingDate");
 const leadPackage = document.querySelector("#leadPackage");
 const topStoriesList = document.querySelector("#topStoriesList");
@@ -359,14 +356,6 @@ function cardTemplate(story, index, storyIndex) {
   `;
 }
 
-function searchText(story) {
-  return [
-    storyBlob(story),
-    editorialSection(story),
-    regionLabel(story)
-  ].join(" ").toLowerCase();
-}
-
 function renderStories() {
   const promotedKeys = promotedStoryKeys();
 
@@ -381,12 +370,6 @@ function renderStories() {
       .map(({ story, storyIndex }, index) => cardTemplate(story, index, storyIndex))
       .join("");
 
-    const empty = document.createElement("div");
-    empty.className = "empty-state";
-    empty.dataset.defaultText = "No matching items in this desk.";
-    empty.textContent = empty.dataset.defaultText;
-    container.appendChild(empty);
-
     const sectionElement = container.closest(".panel, .story-section");
     sectionElement?.classList.toggle("is-empty-desk", sectionStories.length === 0);
   });
@@ -399,40 +382,6 @@ function toggleCard(button) {
   const isOpen = card.classList.toggle("open");
   button.textContent = isOpen ? "Collapse" : "Explain";
   button.setAttribute("aria-expanded", String(isOpen));
-}
-
-function setAll(open) {
-  document.querySelectorAll(".story-card").forEach((card) => {
-    card.classList.toggle("open", open);
-    const button = card.querySelector(".card-toggle");
-    button.textContent = open ? "Collapse" : "Explain";
-    button.setAttribute("aria-expanded", String(open));
-  });
-}
-
-function filterStories() {
-  const query = searchInput.value.trim().toLowerCase();
-  document.body.classList.toggle("has-search", Boolean(query));
-
-  sectionContainers.forEach((container) => {
-    const cards = [...container.querySelectorAll(".story-card")];
-    const sectionElement = container.closest(".panel, .story-section");
-    let visibleCount = 0;
-
-    cards.forEach((card) => {
-      const story = stories[Number(card.dataset.storyId)];
-      const match = !query || searchText(story).includes(query);
-      card.classList.toggle("hidden", !match);
-      if (match) visibleCount += 1;
-    });
-
-    const empty = container.querySelector(".empty-state");
-    empty.textContent = query ? "No matching items in this section." : empty.dataset.defaultText;
-    empty.classList.toggle("visible", Boolean(query) && cards.length > 0 && visibleCount === 0);
-    sectionElement?.classList.toggle("is-empty-desk", cards.length === 0 || (Boolean(query) && visibleCount === 0));
-  });
-
-  updateDeskNavigation();
 }
 
 function updateDeskNavigation() {
@@ -495,7 +444,6 @@ async function init() {
   renderWatchlist();
   renderStories();
   setupSectionToggles();
-  filterStories();
 }
 
 document.addEventListener("click", (event) => {
@@ -504,9 +452,6 @@ document.addEventListener("click", (event) => {
   }
 });
 
-searchInput.addEventListener("input", filterStories);
-expandAll.addEventListener("click", () => setAll(true));
-collapseAll.addEventListener("click", () => setAll(false));
 document.addEventListener("scroll", updateActiveNav, { passive: true });
 
 init();

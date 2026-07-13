@@ -1,20 +1,8 @@
 {
-  "note": "Tracks recently-published story keys (source URL or normalised title) so the daily briefing generator can skip repeats. Each entry expires after ~5 days.",
+  "note": "Tracks recently-published story keys (source URL) so the daily briefing generator can skip repeats. Each entry expires after ~7 days.",
   "published": [
     {
-      "key": "source:https://www.canadiangamingbusiness.com/2026/07/13/alberta-igaming-begins",
-      "date": "2026-07-13"
-    },
-    {
-      "key": "source:https://www.espn.com/espn/betting/story/_/id/49019930/cftc-proposes-rules-limiting-prediction-markets-kalshi-sports",
-      "date": "2026-07-13"
-    },
-    {
-      "key": "source:https://everymatrix.com/everymatrix-signs-largest-ever-content-aggregation-deal-with-bet365/",
-      "date": "2026-07-13"
-    },
-    {
-      "key": "source:https://www.igamingtoday.com/brazil-targets-illegal-betting-networks-as-finance-ministry-notifies-37-fintechs/",
+      "key": "source:https://asgam.com/2026/07/12/pagcor-has-upped-the-ante-in-probity-checks-since-philippines-was-removed-from-aml-grey-list/",
       "date": "2026-07-13"
     },
     {
@@ -22,11 +10,27 @@
       "date": "2026-07-13"
     },
     {
-      "key": "source:https://sigma.world/news/kenyas-gambling-industry-at-a-turning-point-report/",
+      "key": "source:https://brightsideofnews.com/gambling/news/illinois-sweepstakes-casino-crackdown-just-3-of-65-targeted-operators-comply-with-orders/",
       "date": "2026-07-13"
     },
     {
-      "key": "source:https://gamingamerica.com/news/1044217/draftkings-super-app-to-add-prediction-markets-and-lottery",
+      "key": "source:https://casinobeats.com/2026/07/07/uk-gambling-commission-confirms-introduction-of-financial-risk-assessments-despite-opposition/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://eegaming.org/latest-news/2026/07/10/142383/konami-groups-konami-gaming-inc-first-to-submit-manufacturer-license-application-in-japans-emerging-ir-market/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://eegaming.org/latest-news/2026/07/13/142440/imagine-live-goes-live-with-maxbet-bringing-live-casino-to-the-balkans/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://eegaming.org/latest-news/2026/07/13/142483/altenar-joins-albertas-new-regulated-igaming-market/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://everymatrix.com/everymatrix-signs-largest-ever-content-aggregation-deal-with-bet365/",
       "date": "2026-07-13"
     },
     {
@@ -34,7 +38,51 @@
       "date": "2026-07-13"
     },
     {
+      "key": "source:https://finance.yahoo.com/markets/stocks/articles/entain-betmgm-cuts-2026-revenue-181246790.html",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://finance.yahoo.com/markets/stocks/articles/fanduel-revenue-grows-6-sports-222000439.html",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://g3newswire.com/betmgm-highlights-new-casino-games-with-derek-jeter-partnership-at-2026-mlb-all-star-week/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://gamingamerica.com/news/1044217/draftkings-super-app-to-add-prediction-markets-and-lottery",
+      "date": "2026-07-13"
+    },
+    {
       "key": "source:https://igamingbrazil.com/en/legislation-en/2026/07/01/ministry-of-finance-opens-proceedings-against-betting-companies-following-world-cup-advertisements/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/legal-compliance/regulation/dutch-intensify-crackdown-illegal-gambling/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://lasvegassun.com/news/2026/jul/08/caesars-stock-pulls-back-wednesday-as-icahn-rival/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/interviews/2026/06/02/bet365-us-canada-sports-betting/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://sigma.world/news/kenyas-gambling-industry-at-a-turning-point-report/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.canadiangamingbusiness.com/2026/07/13/alberta-igaming-begins",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.casino.org/news/mgm-discussing-diller-takeover-offer-reportedly-formed-special-committee/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.espn.com/espn/betting/story/_/id/49019930/cftc-proposes-rules-limiting-prediction-markets-kalshi-sports",
       "date": "2026-07-13"
     },
     {
@@ -42,15 +90,43 @@
       "date": "2026-07-13"
     },
     {
+      "key": "source:https://www.igamingtoday.com/asia-pacific-online-gambling-fraud-jumps-4-5-times/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/australia-plans-levy-to-fund-betstop-gambling-exclusion-campaign/",
+      "date": "2026-07-13"
+    },
+    {
       "key": "source:https://www.igamingtoday.com/brazil-reports-925000-self-exclusion-requests-as-new-betting-advertising-rules-take-effect/",
       "date": "2026-07-13"
     },
     {
-      "key": "source:https://brightsideofnews.com/gambling/news/illinois-sweepstakes-casino-crackdown-just-3-of-65-targeted-operators-comply-with-orders/",
+      "key": "source:https://www.igamingtoday.com/brazil-targets-illegal-betting-networks-as-finance-ministry-notifies-37-fintechs/",
       "date": "2026-07-13"
     },
     {
-      "key": "source:https://sbcnews.co.uk/features/interviews/2026/06/02/bet365-us-canada-sports-betting/",
+      "key": "source:https://www.igamingtoday.com/bulgaria-pushes-gambling-affiliate-tax-plan-as-advertising-row-and-regulatory-questions-deepen/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/flutters-sportsbet-finalises-aml-remediation-with-austrac/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/michigan-gaming-board-exits-ncpg-in-protest-of-kalshi-membership/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/nigerias-gambling-market-surges-to-%E2%82%A65-6-trillion-as-youths-face-mounting-addiction-crisis/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/ohio-lawmakers-move-to-ban-online-sports-betting-with-new-bill/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.yogonet.com/international/news/2026/05/19/121076-brazil-us-and-argentina-regulators-urge-enhanced-cooperation-to-tackle-illegal-online-betting-challenges",
       "date": "2026-07-13"
     }
   ]

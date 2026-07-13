@@ -1,0 +1,57 @@
+{
+  "note": "Tracks recently-published story keys (source URL or normalised title) so the daily briefing generator can skip repeats. Each entry expires after ~5 days.",
+  "published": [
+    {
+      "key": "source:https://www.canadiangamingbusiness.com/2026/07/13/alberta-igaming-begins",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.espn.com/espn/betting/story/_/id/49019930/cftc-proposes-rules-limiting-prediction-markets-kalshi-sports",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://everymatrix.com/everymatrix-signs-largest-ever-content-aggregation-deal-with-bet365/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/brazil-targets-illegal-betting-networks-as-finance-ministry-notifies-37-fintechs/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://brightsideofnews.com/gambling/news/eu-aml-regulation-gambling-compliance-2026/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://sigma.world/news/kenyas-gambling-industry-at-a-turning-point-report/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://gamingamerica.com/news/1044217/draftkings-super-app-to-add-prediction-markets-and-lottery",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://everymatrix.com/news/everymatrix-wins-cashpoint-omnichannel-turnkey-platform-deal-in-denmark/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://igamingbrazil.com/en/legislation-en/2026/07/01/ministry-of-finance-opens-proceedings-against-betting-companies-following-world-cup-advertisements/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.ggrasia.com/macau-2026-gaming-growth-seen-slowing-as-capex-rises-clsa",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://www.igamingtoday.com/brazil-reports-925000-self-exclusion-requests-as-new-betting-advertising-rules-take-effect/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://brightsideofnews.com/gambling/news/illinois-sweepstakes-casino-crackdown-just-3-of-65-targeted-operators-comply-with-orders/",
+      "date": "2026-07-13"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/interviews/2026/06/02/bet365-us-canada-sports-betting/",
+      "date": "2026-07-13"
+    }
+  ]
+}

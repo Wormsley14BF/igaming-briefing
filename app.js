@@ -19,16 +19,6 @@ const leadPackage = document.querySelector("#leadPackage");
 const topStoriesList = document.querySelector("#topStoriesList");
 const analysisGrid = document.querySelector("#analysisGrid");
 const ratingsKey = "igaming-briefing-relevance-v1";
-const sectionImages = {
-  Product: "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=900&q=75",
-  "Industry Notes": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=75",
-  Europe: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=900&q=75",
-  "North America": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?auto=format&fit=crop&w=900&q=75",
-  LatAm: "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?auto=format&fit=crop&w=900&q=75",
-  Africa: "https://images.unsplash.com/photo-1489493887464-892be6d1daae?auto=format&fit=crop&w=900&q=75",
-  "Asia / Oceania": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=900&q=75",
-  "Other / Global": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=75"
-};
 const editorialDeskLabels = {
   "Regulation & Enforcement": "Regulation",
   "Operators & Strategy": "Strategy",
@@ -119,18 +109,22 @@ function normalizedKey(value) {
 
 function promotedStoryKeys() {
   const signals = topStoryItems();
+  const lensItems = window.briefingMeta?.platformLens || [];
   const keys = new Set();
 
-  signals.forEach((signal) => {
-    const normalized = typeof signal === "string"
-      ? { text: signal, title: stripHtml(signal) }
-      : signal;
+  const addFrom = (item) => {
+    const normalized = typeof item === "string"
+      ? { text: item, title: stripHtml(item) }
+      : item;
     const source = normalizedKey(normalized.source);
     const title = normalizedKey(normalized.title || stripHtml(normalized.text));
 
     if (source) keys.add(`source:${source}`);
     if (title) keys.add(`title:${title}`);
-  });
+  };
+
+  signals.forEach(addFrom);
+  lensItems.forEach(addFrom);
 
   return keys;
 }
@@ -240,10 +234,6 @@ function stripHtml(value) {
   return template.content.textContent || template.content.innerText || "";
 }
 
-function storyImage(story) {
-  return story.image || sectionImages[story.section] || sectionImages["Other / Global"];
-}
-
 function leadTemplate(signal, index) {
   const normalized = typeof signal === "string"
     ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Top Stories" }
@@ -305,6 +295,29 @@ function renderMeta() {
   `).join("");
 }
 
+function renderWatchlist() {
+  const grid = document.querySelector("#watchlistGrid");
+  if (!grid) return;
+
+  const items = window.briefingMeta?.watchlist || [];
+
+  if (!items.length) {
+    grid.innerHTML = "";
+    return;
+  }
+
+  grid.innerHTML = items.map((item) => {
+    const links = (item.links || []).map((link) => `<a href="${escapeAttribute(link.url)}">${escapeHtml(link.label)}</a>`).join("");
+    return `
+      <article>
+        <h3>${escapeHtml(item.title)}</h3>
+        <p>${escapeHtml(item.text)}</p>
+        <div class="link-list">${links}</div>
+      </article>
+    `;
+  }).join("");
+}
+
 function ratingTemplate(item, id, compact = false) {
   const savedRating = getRatings()[id];
   const options = [5, 4, 3, 2, 1].map((score) => `
@@ -346,7 +359,7 @@ function signalTemplate(signal, index) {
   `;
 }
 
-function cardTemplate(story, index, storyIndex, includeImage = false) {
+function cardTemplate(story, index, storyIndex) {
   const isIndustry = story.section === "Industry Notes";
   const id = storyId(story);
   const detailParts = [];
@@ -355,7 +368,6 @@ function cardTemplate(story, index, storyIndex, includeImage = false) {
   const sourceLink = story.source
     ? `<a class="source-button" href="${escapeHtml(story.source)}">${sourceLabel}</a>`
     : "";
-  const image = storyImage(story);
   const impact = story.why || story.takeaway || story.expanded || story.commentary || "";
 
   if (isIndustry) {
@@ -375,8 +387,7 @@ function cardTemplate(story, index, storyIndex, includeImage = false) {
   const tags = (story.tags || []).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("");
 
   return `
-    <article class="story-card ${includeImage ? "has-image" : ""}" data-kind="${escapeHtml(desk)}" data-story-id="${storyIndex}">
-      ${includeImage ? `<img class="story-image" src="${escapeAttribute(image)}" alt="">` : ""}
+    <article class="story-card" data-kind="${escapeHtml(desk)}" data-story-id="${storyIndex}">
       <div class="card-summary">
         <div class="story-kicker">
           <span class="rank">${index + 1}</span>
@@ -420,7 +431,7 @@ function renderStories() {
       .filter(({ story }) => !isPromotedStory(story, promotedKeys));
 
     container.innerHTML = sectionStories
-      .map(({ story, storyIndex }, index) => cardTemplate(story, index, storyIndex, index === 0))
+      .map(({ story, storyIndex }, index) => cardTemplate(story, index, storyIndex))
       .join("");
 
     const empty = document.createElement("div");
@@ -608,6 +619,7 @@ async function init() {
 
   stories = Array.isArray(window.briefingStories) ? window.briefingStories : [];
   renderMeta();
+  renderWatchlist();
   renderStories();
   setupSectionToggles();
   filterStories();

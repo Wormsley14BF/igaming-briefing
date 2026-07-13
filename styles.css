@@ -268,15 +268,15 @@ input {
 }
 
 .story-card .card-toggle {
-  border-color: #16a34a;
-  background: #16a34a;
-  color: #ffffff;
-  font-weight: 800;
+  border-color: #bbe8cc;
+  background: #f0fbf4;
+  color: #15803d;
+  font-weight: 700;
 }
 
 .story-card .card-toggle:hover {
-  border-color: #15803d;
-  background: #15803d;
+  border-color: #16a34a;
+  background: #16a34a;
   color: #ffffff;
 }
 
@@ -621,6 +621,8 @@ meter::-webkit-meter-optimum-value {
 }
 
 .story-card {
+  display: flex;
+  flex-direction: column;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: #ffffff;
@@ -639,13 +641,17 @@ meter::-webkit-meter-optimum-value {
 }
 
 .card-summary {
-  display: grid;
-  grid-template-columns: 1fr;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
   gap: 10px;
-  align-items: start;
   width: 100%;
   padding: 18px;
   border-top: 3px solid var(--accent);
+}
+
+.card-summary > div:not(.story-kicker):not(.card-actions) {
+  flex: 1;
 }
 
 .story-card[data-kind="Product & Platform"] .card-summary { border-top-color: var(--teal); }

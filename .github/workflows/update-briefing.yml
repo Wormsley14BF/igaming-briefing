@@ -1,13 +1,9 @@
 name: Update daily briefing
 
-# Automatic cron disabled as of 2026-07-13: the daily content is now produced
-# by a research-driven process (real source review, no fabricated analysis)
-# run outside GitHub Actions, which commits briefing-data.js directly.
-# This workflow is kept as a manual, best-effort fallback only — it runs the
-# old RSS-keyword aggregator in scripts/build-briefing-data.mjs, which is much
-# more basic (no real per-story analysis, no Industry Notes) than the
-# research-driven pipeline. Trigger it manually if the daily process misses a day.
 on:
+  schedule:
+    - cron: "10 6 * * *"
+    - cron: "10 7 * * *"
   workflow_dispatch:
 
 permissions:
@@ -38,5 +34,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add briefing-data.js
-          git commit -m "Update daily briefing data (manual fallback run)"
+          git commit -m "Update daily briefing data"
           git push

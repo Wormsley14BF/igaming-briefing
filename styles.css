@@ -267,6 +267,31 @@ input {
   border-radius: 999px;
 }
 
+.story-card .card-toggle {
+  border-color: #16a34a;
+  background: #16a34a;
+  color: #ffffff;
+  font-weight: 800;
+}
+
+.story-card .card-toggle:hover {
+  border-color: #15803d;
+  background: #15803d;
+  color: #ffffff;
+}
+
+.story-card.open .card-toggle {
+  border-color: var(--line);
+  background: #ffffff;
+  color: var(--body);
+}
+
+.story-card.open .card-toggle:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent-ink);
+}
+
 .panel,
 .story-section {
   margin: 0 0 26px;

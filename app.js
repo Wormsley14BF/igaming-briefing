@@ -314,11 +314,10 @@ function cardTemplate(story, index, storyIndex) {
   const isIndustry = story.section === "Industry Notes";
   const detailParts = [];
   const desk = editorialSection(story);
-  const sourceLabel = isIndustry ? "Read analysis" : "Read source";
-  const sourceLink = story.source
-    ? `<a class="source-button" href="${escapeHtml(story.source)}" target="_blank" rel="noopener noreferrer">${sourceLabel}</a>`
-    : "";
   const impact = story.why || story.takeaway || story.expanded || story.commentary || "";
+  const titleHtml = story.source
+    ? `<a href="${escapeHtml(story.source)}" target="_blank" rel="noopener noreferrer">${escapeHtml(story.title)}</a>`
+    : escapeHtml(story.title);
 
   if (isIndustry) {
     detailParts.push(`<p class="detail-block"><span class="label">Expanded commentary:</span> ${escapeHtml(story.commentary)}</p>`);
@@ -345,15 +344,14 @@ function cardTemplate(story, index, storyIndex) {
           <span>${escapeHtml(regionLabel(story))}</span>
         </div>
         <div>
-          <h3 class="story-title">${escapeHtml(story.title)}</h3>
+          <h3 class="story-title">${titleHtml}</h3>
           <p class="meta">${escapeHtml(story.meta)}</p>
           <p class="summary"><span class="label">Signal:</span> ${escapeHtml(story.summary)}</p>
           ${impact ? `<p class="story-impact"><span class="label">Implication:</span> ${escapeHtml(impact)}</p>` : ""}
           <div class="tag-row">${tags}</div>
         </div>
         <div class="card-actions">
-          ${sourceLink}
-          <button class="card-toggle" type="button" aria-expanded="false">Expand</button>
+          <button class="card-toggle" type="button" aria-expanded="false">Explain</button>
         </div>
       </div>
       <div class="card-detail">${detailParts.join("")}</div>
@@ -399,7 +397,7 @@ function renderStories() {
 function toggleCard(button) {
   const card = button.closest(".story-card");
   const isOpen = card.classList.toggle("open");
-  button.textContent = isOpen ? "Collapse" : "Expand";
+  button.textContent = isOpen ? "Collapse" : "Explain";
   button.setAttribute("aria-expanded", String(isOpen));
 }
 
@@ -407,7 +405,7 @@ function setAll(open) {
   document.querySelectorAll(".story-card").forEach((card) => {
     card.classList.toggle("open", open);
     const button = card.querySelector(".card-toggle");
-    button.textContent = open ? "Collapse" : "Expand";
+    button.textContent = open ? "Collapse" : "Explain";
     button.setAttribute("aria-expanded", String(open));
   });
 }

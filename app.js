@@ -1,8 +1,6 @@
 let stories = [];
 
-const ratingsEndpoint = "https://script.google.com/macros/s/AKfycbyLQYk0EJJgLX_vtolh_H2IHoYYio-LqQSisd1wNNRALi-uhoV8_yQwn8z3MhnCxZ_rMg/exec";
-const briefingDataEndpoint = ratingsEndpoint;
-const userName = "Robert Smith";
+const briefingDataEndpoint = "https://script.google.com/macros/s/AKfycbyLQYk0EJJgLX_vtolh_H2IHoYYio-LqQSisd1wNNRALi-uhoV8_yQwn8z3MhnCxZ_rMg/exec";
 const defaultMeta = {
   dateLabel: "Latest briefing",
   atAGlance: [],
@@ -13,12 +11,10 @@ const sectionContainers = [...document.querySelectorAll("[data-section]")];
 const searchInput = document.querySelector("#searchInput");
 const expandAll = document.querySelector("#expandAll");
 const collapseAll = document.querySelector("#collapseAll");
-const copyScores = document.querySelector("#copyScores");
 const briefingDate = document.querySelector("#briefingDate");
 const leadPackage = document.querySelector("#leadPackage");
 const topStoriesList = document.querySelector("#topStoriesList");
 const analysisGrid = document.querySelector("#analysisGrid");
-const ratingsKey = "igaming-briefing-relevance-v1";
 const editorialDeskLabels = {
   "Regulation & Enforcement": "Regulation",
   "Operators & Strategy": "Strategy",
@@ -79,28 +75,6 @@ function loadRemoteBriefingData() {
 
     document.head.appendChild(script);
   });
-}
-
-function getRatings() {
-  try {
-    return JSON.parse(localStorage.getItem(ratingsKey) || "{}");
-  } catch {
-    return {};
-  }
-}
-
-function setRating(storyId, rating) {
-  const ratings = getRatings();
-  ratings[storyId] = Number(rating);
-  localStorage.setItem(ratingsKey, JSON.stringify(ratings));
-}
-
-function storyId(story) {
-  return [story.section, story.title, story.source || story.meta].join("|");
-}
-
-function signalId(signal, index) {
-  return ["Morning Signal", signal.text || signal, signal.source || index].join("|");
 }
 
 function normalizedKey(value) {
@@ -239,7 +213,6 @@ function leadTemplate(signal, index) {
     ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Top Stories" }
     : signal;
   const linkedStory = matchingStoryForSignal(normalized) || stories[0] || {};
-  const id = signalId(normalized, index);
   const title = normalized.title || linkedStory.title || stripHtml(normalized.text);
   const source = normalized.source || linkedStory.source || "";
   const deck = stripHtml(normalized.text || linkedStory.summary || "");
@@ -260,7 +233,6 @@ function leadTemplate(signal, index) {
       <div class="lead-footer">
         <div class="tag-row">${tags}</div>
         <div class="lead-actions">
-          ${ratingTemplate(normalized, id, true)}
           ${sourceLink}
         </div>
       </div>
@@ -318,30 +290,10 @@ function renderWatchlist() {
   }).join("");
 }
 
-function ratingTemplate(item, id, compact = false) {
-  const savedRating = getRatings()[id];
-  const options = [5, 4, 3, 2, 1].map((score) => `
-    <label class="rating-option ${Number(savedRating) === score ? "selected" : ""}">
-      <input type="radio" name="rating-${escapeHtml(id)}" value="${score}" ${Number(savedRating) === score ? "checked" : ""}>
-      <span aria-hidden="true">★</span>
-      <span class="sr-only">${score}</span>
-    </label>
-  `).join("");
-
-  return `
-    <fieldset class="rating-control ${compact ? "rating-compact" : ""}" data-story-rating="${escapeAttribute(id)}">
-      <legend>${compact ? "Rate" : "Relevance"}</legend>
-      <div class="rating-options">${options}</div>
-      <p class="rating-status" aria-live="polite">${savedRating ? "Saved locally" : ""}</p>
-    </fieldset>
-  `;
-}
-
 function signalTemplate(signal, index) {
   const normalized = typeof signal === "string"
     ? { text: signal, source: "", title: stripHtml(signal), tags: [], section: "Top Stories" }
     : signal;
-  const id = signalId(normalized, index);
   const title = normalized.title || stripHtml(normalized.text);
   const source = normalized.source || "";
   const deck = stripHtml(normalized.text || title);
@@ -354,14 +306,12 @@ function signalTemplate(signal, index) {
         <p>${escapeHtml(deck)}</p>
         <div class="signal-tags">${tags}</div>
       </div>
-      ${ratingTemplate(normalized, id, true)}
     </li>
   `;
 }
 
 function cardTemplate(story, index, storyIndex) {
   const isIndustry = story.section === "Industry Notes";
-  const id = storyId(story);
   const detailParts = [];
   const desk = editorialSection(story);
   const sourceLabel = isIndustry ? "Read analysis" : "Read source";
@@ -400,7 +350,6 @@ function cardTemplate(story, index, storyIndex) {
           <p class="summary"><span class="label">Signal:</span> ${escapeHtml(story.summary)}</p>
           ${impact ? `<p class="story-impact"><span class="label">Implication:</span> ${escapeHtml(impact)}</p>` : ""}
           <div class="tag-row">${tags}</div>
-          ${ratingTemplate(story, id, true)}
         </div>
         <div class="card-actions">
           ${sourceLink}
@@ -535,80 +484,6 @@ function updateActiveNav() {
   });
 }
 
-async function handleRatingChange(input) {
-  const fieldset = input.closest("[data-story-rating]");
-  const storyIdValue = fieldset.dataset.storyRating;
-  const card = input.closest(".story-card");
-  const signal = input.closest(".signal-item, .lead-story");
-  const story = card
-    ? stories[Number(card.dataset.storyId)]
-    : {
-      section: "Top Stories",
-      title: signal?.dataset.signalTitle || "Top story",
-      source: signal?.dataset.signalSource || "",
-      tags: (signal?.dataset.signalTags || "").split(", ").filter(Boolean)
-    };
-  const status = fieldset.querySelector(".rating-status");
-
-  setRating(storyIdValue, input.value);
-  fieldset.querySelectorAll(".rating-option").forEach((option) => {
-    option.classList.toggle("selected", option.querySelector("input").checked);
-  });
-  status.textContent = "Saving...";
-
-  try {
-    await fetch(ratingsEndpoint, {
-      method: "POST",
-      mode: "no-cors",
-      headers: {
-        "Content-Type": "text/plain;charset=utf-8"
-      },
-      body: JSON.stringify({
-        user: userName,
-        briefingDate: briefingDateLabel(),
-        section: story.section,
-        title: story.title,
-        source: story.source || "",
-        tags: story.tags || [],
-        score: Number(input.value)
-      })
-    });
-    status.textContent = "Saved to feedback sheet";
-  } catch {
-    status.textContent = "Saved locally only";
-  }
-}
-
-async function copyRatings() {
-  const ratings = getRatings();
-  const ratedStories = stories
-    .map((story) => ({ story, rating: ratings[storyId(story)] }))
-    .filter(({ rating }) => rating);
-
-  const text = ratedStories.length
-    ? ratedStories.map(({ story, rating }) => [
-      `Score: ${rating}/5`,
-      `Section: ${story.section}`,
-      `Title: ${story.title}`,
-      `Tags: ${(story.tags || []).join(", ")}`,
-      `Source: ${story.source || ""}`
-    ].join("\n")).join("\n\n")
-    : "No relevance scores selected yet.";
-
-  try {
-    await navigator.clipboard.writeText(text);
-    copyScores.textContent = "Copied";
-    setTimeout(() => {
-      copyScores.textContent = "Copy scores";
-    }, 1600);
-  } catch {
-    copyScores.textContent = "Copy failed";
-    setTimeout(() => {
-      copyScores.textContent = "Copy scores";
-    }, 1600);
-  }
-}
-
 async function init() {
   await loadFreshData();
   const localStoryCount = Array.isArray(window.briefingStories) ? window.briefingStories.length : 0;
@@ -631,16 +506,9 @@ document.addEventListener("click", (event) => {
   }
 });
 
-document.addEventListener("change", (event) => {
-  if (event.target.matches(".rating-control input")) {
-    handleRatingChange(event.target);
-  }
-});
-
 searchInput.addEventListener("input", filterStories);
 expandAll.addEventListener("click", () => setAll(true));
 collapseAll.addEventListener("click", () => setAll(false));
-copyScores.addEventListener("click", copyRatings);
 document.addEventListener("scroll", updateActiveNav, { passive: true });
 
 init();

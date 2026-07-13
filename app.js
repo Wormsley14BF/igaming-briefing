@@ -221,13 +221,13 @@ function leadTemplate(signal, index) {
     .map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`)
     .join("");
   const sourceLink = source
-    ? `<a class="source-button" href="${escapeAttribute(source)}">Read source</a>`
+    ? `<a class="source-button" href="${escapeAttribute(source)}" target="_blank" rel="noopener noreferrer">Read source</a>`
     : "";
 
   return `
     <article class="lead-story" data-signal-title="${escapeAttribute(title)}" data-signal-source="${escapeAttribute(source)}" data-signal-tags="${escapeAttribute((normalized.tags || linkedStory.tags || []).join(", "))}">
       <div class="lead-label">Lead story</div>
-      <h3>${source ? `<a href="${escapeAttribute(source)}">${escapeHtml(title)}</a>` : escapeHtml(title)}</h3>
+      <h3>${source ? `<a href="${escapeAttribute(source)}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a>` : escapeHtml(title)}</h3>
       <p class="lead-deck">${escapeHtml(deck)}</p>
       <p class="lead-read"><span class="label">Why it matters:</span> ${escapeHtml(why)}</p>
       <div class="lead-footer">
@@ -262,7 +262,7 @@ function renderMeta() {
       <span class="analysis-label">Platform read</span>
       <h3>${escapeHtml(item.title)}</h3>
       <p>${escapeHtml(item.text)}</p>
-      ${item.source ? `<a href="${escapeHtml(item.source)}">${escapeHtml(item.sourceLabel || "Source")}</a>` : ""}
+      ${item.source ? `<a href="${escapeHtml(item.source)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.sourceLabel || "Source")}</a>` : ""}
     </article>
   `).join("");
 }
@@ -279,7 +279,7 @@ function renderWatchlist() {
   }
 
   grid.innerHTML = items.map((item) => {
-    const links = (item.links || []).map((link) => `<a href="${escapeAttribute(link.url)}">${escapeHtml(link.label)}</a>`).join("");
+    const links = (item.links || []).map((link) => `<a href="${escapeAttribute(link.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(link.label)}</a>`).join("");
     return `
       <article>
         <h3>${escapeHtml(item.title)}</h3>
@@ -302,7 +302,7 @@ function signalTemplate(signal, index) {
   return `
     <li class="signal-item" data-signal-title="${escapeAttribute(title)}" data-signal-source="${escapeAttribute(source)}" data-signal-tags="${escapeAttribute((normalized.tags || []).join(", "))}">
       <div class="signal-content">
-        <h3>${source ? `<a href="${escapeAttribute(source)}">${escapeHtml(title)}</a>` : escapeHtml(title)}</h3>
+        <h3>${source ? `<a href="${escapeAttribute(source)}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a>` : escapeHtml(title)}</h3>
         <p>${escapeHtml(deck)}</p>
         <div class="signal-tags">${tags}</div>
       </div>
@@ -316,7 +316,7 @@ function cardTemplate(story, index, storyIndex) {
   const desk = editorialSection(story);
   const sourceLabel = isIndustry ? "Read analysis" : "Read source";
   const sourceLink = story.source
-    ? `<a class="source-button" href="${escapeHtml(story.source)}">${sourceLabel}</a>`
+    ? `<a class="source-button" href="${escapeHtml(story.source)}" target="_blank" rel="noopener noreferrer">${sourceLabel}</a>`
     : "";
   const impact = story.why || story.takeaway || story.expanded || story.commentary || "";
 
@@ -331,7 +331,7 @@ function cardTemplate(story, index, storyIndex) {
   }
 
   if (story.source) {
-    detailParts.push(`<p class="detail-block"><a href="${escapeHtml(story.source)}">Open source</a></p>`);
+    detailParts.push(`<p class="detail-block"><a href="${escapeHtml(story.source)}" target="_blank" rel="noopener noreferrer">Open source</a></p>`);
   }
 
   const tags = (story.tags || []).map((tag) => `<span class="tag">${escapeHtml(tag)}</span>`).join("");

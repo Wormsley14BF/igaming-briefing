@@ -2,8 +2,28 @@
   "note": "Tracks recently-published story keys (source URL) so the daily briefing generator can skip repeats. Each entry expires after ~7 days.",
   "published": [
     {
+      "key": "source:https://108game.com/super-group-raises-2026-outlook-after-record-quarter-95123.html",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://asgam.com/2026/08/04/australian-sportsbooks-accused-of-offering-vip-customers-drugs-escorts-and-alcohol/",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://bettorsinsider.com/casino/2026/07/30/mgm-resorts-reports-q2-2026-revenue-of-4-5-billion-as-las-vegas-strip-powers-record-quarter/",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://bettorsinsider.com/news/2026/07/17/penn-rush-street-altenar-and-pragmatic-play-launch-into-alberta-igaming-market/",
+      "date": "2026-08-05"
+    },
+    {
       "key": "source:https://bettorsinsider.com/news/2026/07/29/ballys-intralot-backs-acquisition-ambitions-with-261m-loan/",
       "date": "2026-08-04"
+    },
+    {
+      "key": "source:https://casinobeats.com/2026/07/28/vgw-announces-luckyland-slots-will-shut-down-chumba-luckyland-casino-continue/",
+      "date": "2026-08-05"
     },
     {
       "key": "source:https://casinobeats.com/2026/07/31/new-york-sues-kalshi-36b-cftc-defends-company-with-restraining-order/",
@@ -30,6 +50,10 @@
       "date": "2026-08-04"
     },
     {
+      "key": "source:https://europeangaming.eu/portal/latest-news/2026/07/16/209348/merkur-group-agrees-to-acquire-white-hat-studios/",
+      "date": "2026-08-05"
+    },
+    {
       "key": "source:https://europeangaming.eu/portal/latest-news/2026/07/20/209509/evolution-h1-2026-revenue-share-buyback-ukgc-settlement/",
       "date": "2026-08-04"
     },
@@ -46,8 +70,24 @@
       "date": "2026-08-04"
     },
     {
+      "key": "source:https://focusgn.com/africa/kenya-high-court-suspends-gambling-licensing-regulations",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://focusgn.com/africa/south-african-bookmakers-call-for-polymarket-style-prediction-markets-to-fall-under-gambling-laws",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://g3newswire.com/ballys-completes-acquisition-of-sams-town-shreveport/",
+      "date": "2026-08-05"
+    },
+    {
       "key": "source:https://g3newswire.com/colombian-regulator-proposes-overhaul-of-slot-machine-registry-with-wealth-tests-and-tougher-penalties/",
       "date": "2026-08-04"
+    },
+    {
+      "key": "source:https://g3newswire.com/new-chile-betting-association-backs-market-regulation/",
+      "date": "2026-08-05"
     },
     {
       "key": "source:https://igamingbusiness.com/company-news/rubyplay-expands-bet365-partnership-into-brazil/",
@@ -58,8 +98,24 @@
       "date": "2026-08-04"
     },
     {
+      "key": "source:https://newsroompanama.com/2026/07/30/how-panamas-new-gambling-law-changes-the-rules-for-digital-platforms/",
+      "date": "2026-08-05"
+    },
+    {
       "key": "source:https://next.io/news/results/q226-betmgm-retracts-500m-2027-ebitda-projection/",
       "date": "2026-08-04"
+    },
+    {
+      "key": "source:https://sbcamericas.com/2026/07/30/rush-street-interactive-cftc-filing/",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/europe/2026/07/27/kaizen-betano-spain/",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/europe/2026/07/28/kenneth-dart-evolution-flutter/",
+      "date": "2026-08-05"
     },
     {
       "key": "source:https://sbcnews.co.uk/featurednews/2026/07/30/lula-brazil-pt-government/",
@@ -70,12 +126,28 @@
       "date": "2026-08-04"
     },
     {
+      "key": "source:https://sbcnews.co.uk/features/2026/08/03/sbc-stock-ticker-july-playtech-evolution-rise/",
+      "date": "2026-08-05"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/interviews/2026/08/03/cyprus-gambling-regulation/",
+      "date": "2026-08-05"
+    },
+    {
       "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/03/betsson-complete-rhino-deal/",
       "date": "2026-08-04"
     },
     {
+      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/03/flutter-entertainment-lse-delisting/",
+      "date": "2026-08-05"
+    },
+    {
       "key": "source:https://sigma.world/news/south-africa-ngb-block-illegal-gambling-websites/",
       "date": "2026-08-04"
+    },
+    {
+      "key": "source:https://techweez.com/2026/07/27/uae-firms-seize-control-of-sportpesa/",
+      "date": "2026-08-05"
     },
     {
       "key": "source:https://www.bostonglobe.com/2026/07/28/business/minnesota-kalshi-polymarket-ban/",
@@ -88,6 +160,10 @@
     {
       "key": "source:https://www.gamblinginsider.com/news/178764/kalshi-third-party-geolocation-to-keep-sports-markets-out-of-nevada",
       "date": "2026-08-04"
+    },
+    {
+      "key": "source:https://www.ggrasia.com/casino-sales-hit-2026-monthly-record-in-july-for-jeju-dream-tower-at-us36mln",
+      "date": "2026-08-05"
     },
     {
       "key": "source:https://www.ggrasia.com/macaus-july-casino-ggr-down-8-4pct-y-o-y-to-us2-51bln-govt",
@@ -112,6 +188,10 @@
     {
       "key": "source:https://www.vanguardngr.com/2026/07/nigeria-leads-africa-in-online-gambling-regulation-as-illegal-market-hits-17-8bn/",
       "date": "2026-08-04"
+    },
+    {
+      "key": "source:https://www.yogonet.com/international/news/2026/07/30/125653-rush-street-interactive-lifts-2026-outlook-after-record-q2-revenue-and-ebitda",
+      "date": "2026-08-05"
     },
     {
       "key": "source:https://www.yogonet.com/international/news/2026/08/03/125666-firstbet-launches-city-center-online-39s-sportsbook-in-argentina-through-ondiss-partnership",

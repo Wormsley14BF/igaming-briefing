@@ -1,154 +1,98 @@
 window.briefingMeta = {
-  "dateLabel": "Tuesday, 4 August 2026 | Localize Gaming briefing",
+  "dateLabel": "Wednesday, 5 August 2026 | Localize Gaming briefing",
   "atAGlance": [
     {
-      "title": "Betfred to close 132 betting shops and cut over 600 jobs as UK gambling tax bites",
-      "text": "Betfred opened a consultation to close 132 UK shops (just over 10% of its estate) and cut more than 600 of its roughly 7,500 jobs from September, citing higher employer National Insurance, wage inflation and gambling tax rises \u2014 Remote Gaming Duty rose from 21% to 40% on 1 April 2026, with a 25% remote betting duty following in April 2027.",
-      "source": "https://europeangaming.eu/portal/latest-news/2026/07/31/210239/betfred-close-132-betting-shops-600-jobs/",
-      "tags": [
-        "UK",
-        "Tax",
-        "Land-based"
-      ]
+      "title": "Kenneth Dart's Candle Lake crosses 30% of Evolution, triggering a mandatory takeover offer",
+      "text": "Cayman Islands investor Kenneth Dart raised his stake in Evolution AB to 30.02% through investment vehicle Candle Lake, triggering Sweden's mandatory-offer takeover rules — Candle Lake now has four weeks to sell down below 30% or bid for the rest of the company. Dart separately holds around 28.92% of Flutter Entertainment, a stake that would trigger equivalent Irish takeover rules if it reaches 30%, meaning two of the industry's largest suppliers/operators are simultaneously within reach of a single investor's control.",
+      "source": "https://sbcnews.co.uk/europe/2026/07/28/kenneth-dart-evolution-flutter/",
+      "tags": ["Sweden", "M&A", "Suppliers"]
     },
     {
-      "title": "Nevada regulators clear key steps in the MGM and Caesars take-private deals",
-      "text": "The Nevada Gaming Commission unanimously approved shelf-offering financing requests for both MGM Resorts and Caesars Entertainment, and licensed two Fertitta Entertainment board members tied to the $17.6bn Caesars deal; the Caesars transaction still needs FTC/DOJ antitrust clearance and sign-off in roughly 25 gaming jurisdictions before a spring 2027 close.",
-      "source": "https://www.reviewjournal.com/business/casinos-gaming/nevada-regulators-approve-key-steps-in-mgm-caesars-take-private-deals-3854237/",
-      "tags": [
-        "Nevada",
-        "M&A",
-        "Land-based"
-      ]
+      "title": "Flutter completes its exit from the London Stock Exchange after nearly three decades",
+      "text": "Flutter Entertainment's ordinary shares stopped trading on the London Stock Exchange on 3 August, leaving the group's sole listing on the NYSE under ticker FLUT. The delisting follows a board review citing low LSE trading volumes and the cost of maintaining a dual listing, and hands Entain the title of biggest gambling stock still listed in London.",
+      "source": "https://sbcnews.co.uk/sportsbook/2026/08/03/flutter-entertainment-lse-delisting/",
+      "tags": ["UK", "Markets", "Corporate"]
     },
     {
-      "title": "New York sues Kalshi for $36bn as the CFTC moves to shield the prediction-market operator",
-      "text": "New York State launched a $36bn damages suit against Kalshi over alleged regulatory and consumer-protection violations the same week the CFTC sought a restraining order to defend the company, while a Wisconsin federal judge separately denied the CFTC an injunction that would have blocked that state from enforcing its own laws against prediction markets.",
-      "source": "https://casinobeats.com/2026/07/31/new-york-sues-kalshi-36b-cftc-defends-company-with-restraining-order/",
-      "tags": [
-        "Prediction markets",
-        "US",
-        "Regulation"
-      ]
+      "title": "VGW confirms LuckyLand Slots will permanently close by 14 September",
+      "text": "VGW is winding down LuckyLand Slots in phases: Gold Coin package purchases stopped 3 August, gameplay ends 24 August, and prize redemptions and site access close 14 September. The company says its other sweepstakes brands — Chumba Casino, LuckyLand Casino and Global Poker — are unaffected, as the wider US sweepstakes sector keeps losing ground state by state.",
+      "source": "https://casinobeats.com/2026/07/28/vgw-announces-luckyland-slots-will-shut-down-chumba-luckyland-casino-continue/",
+      "tags": ["Sweepstakes", "US", "Social casino"]
     },
     {
-      "title": "Macau's July casino GGR falls 8.4% year-on-year as World Cup distraction lingers",
-      "text": "Macau's Gaming Inspection and Coordination Bureau reported July GGR of MOP20.26bn (US$2.51bn), down 8.4% year-on-year but up 9.4% from June, with Citi noting daily GGR rose roughly 9% in the second week of July as World Cup-related distraction faded; year-to-date GGR is still running 4.4% ahead of 2025.",
-      "source": "https://www.ggrasia.com/macaus-july-casino-ggr-down-8-4pct-y-o-y-to-us2-51bln-govt",
-      "tags": [
-        "Macau",
-        "Land-based",
-        "Markets"
-      ]
+      "title": "Kenya's High Court suspends new gambling licensing fee regulations pending judicial review",
+      "text": "Justice W. Musyoka issued an interim order suspending Kenya's Gambling Control (Licensing) Regulations, 2026, after petitioners challenged fee increases of up to 49,900% — including land-based bookmaker renewal fees jumping from KES5,000 to KES2.5m — and questioned whether the rules had adequate public participation. Enforcement, including directives to mobile money payment channels, stays suspended until a September hearing.",
+      "source": "https://focusgn.com/africa/kenya-high-court-suspends-gambling-licensing-regulations",
+      "tags": ["Kenya", "Regulation", "Payments"]
     },
     {
-      "title": "Brazil's ruling party backs a bill to ban online casino games ahead of October elections",
-      "text": "Congress returned from recess on 3 August with the PT government intensifying its push behind Bill PL 2,258/2026, which would ban online casino games generated by 'electronic systems or algorithms' while preserving fixed-odds sports betting \u2014 a move reportedly tied to President Lula's electoral positioning, out of more than 200 gambling-related proposals now before Congress.",
-      "source": "https://sbcnews.co.uk/featurednews/2026/07/30/lula-brazil-pt-government/",
-      "tags": [
-        "Brazil",
-        "Regulation",
-        "Online casino"
-      ]
+      "title": "Sportsbet and Tabcorp reject Senate inquiry claims they supplied VIP gamblers with drugs and escorts",
+      "text": "A Senate inquiry into Australia's Interactive Gambling Amendment (Gambling Reform) Bill 2026 heard testimony from Alliance for Gambling Reform's Tim Costello alleging a since-convicted financial adviser who stole $12.3m was flown to grand finals and offered escorts and drugs while betting more than $20m a month with Sportsbet and Tabcorp. Both operators say they've found no evidence supporting the claims and are seeking further detail to investigate.",
+      "source": "https://asgam.com/2026/08/04/australian-sportsbooks-accused-of-offering-vip-customers-drugs-escorts-and-alcohol/",
+      "tags": ["Australia", "Safer gambling", "Regulation"]
     }
   ],
   "platformLens": [
     {
-      "title": "EveryMatrix folds CasinoEngine into a single 'EveryMatrix Casino' unit with a pick-one structure",
-      "text": "EveryMatrix retired the CasinoEngine brand and consolidated its turnkey casino solution, casino platform and aggregation service (rebranded EveryMatrix Aggregation, 45,000+ games) under one EveryMatrix Casino unit, letting operators choose full turnkey, platform-only or aggregation-only depending on need, while Fantasma continues to lead in-house game development.",
-      "source": "https://igamingexpert.com/features/everymatrix-casino-consolidation/",
-      "sourceLabel": "iGaming Expert"
+      "title": "SportPesa's parent quietly changes hands as a mystery UAE firm takes majority control",
+      "text": "Ras Al Khaimah-registered Techglow Ltd has acquired a 54% stake in Milestone Games, the parent of Kenyan sportsbook SportPesa, with Commtech Consortium taking a further 25% — diluting co-founder Robert Macharia's stake from 71% to 0.75% and CEO Ronald Karauri's from 13.4% to 3%. Techglow's own beneficial owners can't be identified from any public filing, since UAE law keeps its shareholder records private.",
+      "source": "https://techweez.com/2026/07/27/uae-firms-seize-control-of-sportpesa/",
+      "sourceLabel": "Techweez"
     },
     {
-      "title": "Nevada just forced Kalshi to swap in third-party geofencing \u2014 a live test of build-vs-buy on geolocation",
-      "text": "The Nevada Gaming Control Board ordered Kalshi to implement GeoComply's multi-source geofencing by 12 August or face a $120,000/day penalty, after regulators found Kalshi's roughly $190,000 self-built IP-based system unreliable against VPN users \u2014 a concrete data point on when in-house geolocation tooling stops being defensible.",
-      "source": "https://www.gamblinginsider.com/news/178764/kalshi-third-party-geolocation-to-keep-sports-markets-out-of-nevada",
-      "sourceLabel": "Gambling Insider"
+      "title": "Rush Street Interactive applies for CFTC market status — but calls it a contingency, not a launch",
+      "text": "Rush Street Interactive CEO Richard Schwartz confirmed the company has applied for designated contract market (DCM) registration with the CFTC, the same status DraftKings and FanDuel used to launch prediction-market products. Schwartz framed the filing as a contingency measure rather than a signal RSI plans to offer prediction markets imminently, distancing its casino-first strategy from rivals' approach.",
+      "source": "https://sbcamericas.com/2026/07/30/rush-street-interactive-cftc-filing/",
+      "sourceLabel": "SBC Americas"
     },
     {
-      "title": "Betsson buys Rhino Entertainment's Canadian front-end and middleware to strengthen its own B2B stack",
-      "text": "Betsson completed its \u20ac64.5m purchase of Rhino Entertainment's Canadian B2C business, gaining not just the Ontario/Alberta-licensed Casino Days brand but Rhino's proprietary front-end and middleware technology, which Betsson says will feed directly into its own B2B licensing offering \u2014 a reminder that market-entry deals increasingly double as tech-stack acquisitions.",
-      "source": "https://sbcnews.co.uk/sportsbook/2026/08/03/betsson-complete-rhino-deal/",
-      "sourceLabel": "SBC News"
+      "title": "Panama locks in biometric verification and an advertising ban for digital gambling platforms",
+      "text": "Panama's National Assembly passed legislation requiring biometric identity verification on online gambling platforms, banning gambling advertising across traditional and social media, mandating operators contribute 10% of profits to the national mental health institute, and introducing a tiered sanctions framework running from fines to licence revocation. Gross wagers reached $779.6m in Q1 2026, up 16.1% year-on-year, with online gambling the primary growth driver.",
+      "source": "https://newsroompanama.com/2026/07/30/how-panamas-new-gambling-law-changes-the-rules-for-digital-platforms/",
+      "sourceLabel": "Newsroom Panama"
     },
     {
-      "title": "Kambi's AI-traded World Cup shows how far Bet Builder demand has outrun manual trading",
-      "text": "Kambi processed more than 100 million bets during the 2026 World Cup on the first tournament fully traded by its proprietary AI system, with pre-match Bet Builder turnover up 3.6x versus Qatar 2022 and live Bet Builder turnover up 10x \u2014 evidence that automated trading is no longer a nice-to-have for player-props-heavy tournament volume.",
-      "source": "https://eegaming.org/latest-news/2026/07/20/142920/kambi-delivers-record-breaking-world-cup-with-more-than-100-million-bets-as-bet-builders-and-player-props-take-centre-stage/",
-      "sourceLabel": "European Gaming"
+      "title": "Four platform providers go live on day one as Alberta opens its iGaming market",
+      "text": "PENN Entertainment, Rush Street Interactive, Altenar and Pragmatic Play all launched products into Alberta's newly regulated commercial iGaming market when it opened at midnight on 13 July, making it Canada's second privately-operated online casino and sportsbook market after Ontario — and one of the most crowded opening weeks any new North American market has seen.",
+      "source": "https://bettorsinsider.com/news/2026/07/17/penn-rush-street-altenar-and-pragmatic-play-launch-into-alberta-igaming-market/",
+      "sourceLabel": "Bettors Insider"
     }
   ],
   "watchlist": [
     {
       "title": "Regulatory watch",
-      "text": "Cyprus's National Betting Authority is drafting a dedicated B2B supplier licensing regime and pushing back on Brussels' proposed EU-wide 1% GGR levy in favour of a pan-European self-exclusion framework; Sweden's Spelinspektionen opened fresh Q2 cases against unlicensed marketing channels reaching Swedish players; South Africa's Gambling Board is taking bids until 7 August for a vendor to block illegal gambling sites; Ghana's paper-based lottery ban took effect 1 August.",
+      "text": "Cyprus's National Betting Authority is drafting a dedicated B2B supplier licensing regime while resisting the EU Parliament's proposed 1% GGR levy in favour of a pan-European self-exclusion framework; Kenya's High Court has frozen new gambling licensing fees pending a September hearing; South Africa's bookmakers' association wants prediction markets treated as illegal gambling; Panama has locked in biometric verification and an advertising ban for digital platforms.",
       "links": [
-        {
-          "label": "Cyprus B2B licensing plans",
-          "url": "https://sbcnews.co.uk/features/interviews/2026/08/03/cyprus-gambling-regulation/"
-        },
-        {
-          "label": "South Africa site-blocking tender",
-          "url": "https://sigma.world/news/south-africa-ngb-block-illegal-gambling-websites/"
-        },
-        {
-          "label": "Ghana paper-lottery ban",
-          "url": "https://focusgn.com/africa/ghana-nla-orders-end-to-paper-based-lottery-operations-by-august-1"
-        }
+        {"label": "Cyprus B2B licensing plans", "url": "https://sbcnews.co.uk/features/interviews/2026/08/03/cyprus-gambling-regulation/"},
+        {"label": "SABA prediction markets stance", "url": "https://focusgn.com/africa/south-african-bookmakers-call-for-polymarket-style-prediction-markets-to-fall-under-gambling-laws"},
+        {"label": "Panama's new digital gambling law", "url": "https://newsroompanama.com/2026/07/30/how-panamas-new-gambling-law-changes-the-rules-for-digital-platforms/"}
       ]
     },
     {
       "title": "Competitor / supplier watch",
-      "text": "Merkur Group is acquiring US slots developer White Hat Studios in its second American content deal in under a year; SA Gaming's portfolio is now live inside the SOFTSWISS Game Aggregator; Altenar renewed its sportsbook deal with Spain's Gran Madrid | Casino Online; BetConstruct AI is showcasing an expanded CRM AI, Umbrella AI and Betting Mate AI suite at SPiCE Southeast Asia this week.",
+      "text": "Kenneth Dart's Candle Lake has crossed the 30% mandatory-offer threshold on Evolution and sits just under it on Flutter; Playtech raised full-year EBITDA guidance to €270m on US and Latin American strength while Entain's BetMGM joint venture guided to the low end of its range; Merkur Group agreed to acquire White Hat Studios to expand its US content footprint; Super Group swung to a $123m Q2 profit and raised guidance on the back of Betway's growth.",
       "links": [
-        {
-          "label": "Merkur / White Hat Studios",
-          "url": "https://eegaming.org/latest-news/2026/07/15/142700/merkur-group-agrees-acquisition-of-white-hat-studios/"
-        },
-        {
-          "label": "SA Gaming / SOFTSWISS",
-          "url": "https://agbrief.com/news/world/28/07/2026/sa-gaming-integrates-game-portfolio-with-softswiss-game-aggregator/"
-        },
-        {
-          "label": "BetConstruct AI suite",
-          "url": "https://eegaming.org/latest-news/2026/07/27/143292/betconstruct-ai-set-to-spotlight-ai-offerings-at-spice-southeast-asia-2026/"
-        }
+        {"label": "Dart's Evolution/Flutter stakes", "url": "https://sbcnews.co.uk/europe/2026/07/28/kenneth-dart-evolution-flutter/"},
+        {"label": "Merkur / White Hat Studios deal", "url": "https://europeangaming.eu/portal/latest-news/2026/07/16/209348/merkur-group-agrees-to-acquire-white-hat-studios/"},
+        {"label": "Super Group Q2 results", "url": "https://108game.com/super-group-raises-2026-outlook-after-record-quarter-95123.html"}
       ]
     },
     {
       "title": "Product team prompts",
-      "text": "If a regulator ordered us to swap in third-party geofencing the way Nevada just did to Kalshi, how fast could our compliance stack absorb a GeoComply-style multi-source solution? Now that EveryMatrix has folded CasinoEngine into a single EveryMatrix Casino unit, does our own turnkey/platform/aggregation split give operators the same pick-and-choose flexibility? With Kambi's Bet Builder turnover up 3.6x this World Cup on AI trading, how exposed are we if player-props demand keeps outpacing manual trading capacity?",
+      "text": "With Kenya's court freezing enforcement of new mobile-money directives aimed at non-compliant operators, how quickly could our payments stack adapt if a regulator suddenly reversed course on a compliance mandate we'd already built for? Now that SportPesa's ownership has passed to an entity whose beneficial owners can't be verified from any public filing, what does that imply for how aggregators and platform partners should approach ownership-transparency checks on African operator clients? With four platform providers launching into Alberta on the same day, how does our own market-entry playbook compare on speed to first bet placed?",
       "links": [
-        {
-          "label": "Kalshi GeoComply order",
-          "url": "https://www.gamblinginsider.com/news/178764/kalshi-third-party-geolocation-to-keep-sports-markets-out-of-nevada"
-        },
-        {
-          "label": "EveryMatrix Casino consolidation",
-          "url": "https://igamingexpert.com/features/everymatrix-casino-consolidation/"
-        },
-        {
-          "label": "Kambi AI World Cup trading",
-          "url": "https://eegaming.org/latest-news/2026/07/20/142920/kambi-delivers-record-breaking-world-cup-with-more-than-100-million-bets-as-bet-builders-and-player-props-take-centre-stage/"
-        }
+        {"label": "Kenya licensing suspension", "url": "https://focusgn.com/africa/kenya-high-court-suspends-gambling-licensing-regulations"},
+        {"label": "SportPesa ownership change", "url": "https://techweez.com/2026/07/27/uae-firms-seize-control-of-sportpesa/"},
+        {"label": "Alberta launch-day crowd", "url": "https://bettorsinsider.com/news/2026/07/17/penn-rush-street-altenar-and-pragmatic-play-launch-into-alberta-igaming-market/"}
       ]
     },
     {
       "title": "Developing stories",
-      "text": "New York's $36bn Kalshi suit and the CFTC's restraining order look set for a protracted federal-vs-state fight; IG Group's up-to-$1.3bn Underdog Fantasy acquisition still needs to show how a UK trading broker integrates a US daily-fantasy brand; Sportradar's guidance cut is an early read on how rising sports-rights costs and softer US growth are hitting supplier margins; the Fertitta-Caesars deal isn't expected to close until spring 2027 pending antitrust clearance and roughly 25 jurisdictional approvals.",
+      "text": "Dart's four-week window to act on Evolution runs out in late August, and it remains to be seen whether he pushes his Flutter stake past 30% too; Rush Street's CFTC filing is a contingency for now, but worth watching if casino-first operators start hedging into prediction markets regardless of stated strategy; Bally's Sam's Town Shreveport integration and Rush Street's record Q2 both land against a backdrop of intensifying US regional and iGaming competition heading into football season.",
       "links": [
-        {
-          "label": "NY v Kalshi",
-          "url": "https://casinobeats.com/2026/07/31/new-york-sues-kalshi-36b-cftc-defends-company-with-restraining-order/"
-        },
-        {
-          "label": "IG Group / Underdog Fantasy",
-          "url": "https://casinobeats.com/2026/08/03/gaming-stocks-update-star-entertainment-rallies-while-rush-street-plummets/"
-        },
-        {
-          "label": "Sportradar guidance cut",
-          "url": "https://www.igamingtoday.com/sportradar-lowers-2026-adjusted-ebitda-revenue-projections-post-mixed-q2-results/"
-        }
+        {"label": "Dart takeover deadline", "url": "https://sbcnews.co.uk/europe/2026/07/28/kenneth-dart-evolution-flutter/"},
+        {"label": "Rush Street CFTC filing", "url": "https://sbcamericas.com/2026/07/30/rush-street-interactive-cftc-filing/"},
+        {"label": "Rush Street Q2 record", "url": "https://www.yogonet.com/international/news/2026/07/30/125653-rush-street-interactive-lifts-2026-outlook-after-record-q2-revenue-and-ebitda"}
       ]
     }
   ]
@@ -157,422 +101,202 @@ window.briefingMeta = {
 window.briefingStories = [
   {
     "section": "Europe",
-    "title": "Betfred to close 132 betting shops and cut over 600 jobs as UK gambling tax bites",
-    "meta": "European Gaming | 31 Jul 2026",
-    "summary": "Betfred opened a consultation on 31 July to close 132 UK shops \u2014 just over 10% of its estate \u2014 and cut more than 600 of its roughly 7,500 jobs starting in September, leaving around 1,100 shops. CEO Joanne Whittaker said the decision was taken 'with deep regret,' citing higher employer National Insurance contributions, wage inflation and gambling tax increases.",
-    "why": "Remote Gaming Duty jumped from 21% to 40% on 1 April 2026, with a 25% remote betting duty following in April 2027, while UK Gambling Commission licence fees rise a further 25% from 1 October \u2014 Betfred is simply the latest operator to convert that fiscal pressure directly into a shrinking retail footprint, following Entain's own recent UK job cuts.",
-    "expanded": "In-shop duty (15%) is unchanged, meaning the tax gap between retail and remote channels is now widening sharply rather than converging, which cuts against years of channel-neutral tax design arguments from operators and could accelerate the shift of UK stakes toward online-only brands with lower headline duty exposure per pound wagered.",
-    "source": "https://europeangaming.eu/portal/latest-news/2026/07/31/210239/betfred-close-132-betting-shops-600-jobs/",
-    "tags": [
-      "UK",
-      "Tax",
-      "Land-based"
-    ]
+    "title": "Kenneth Dart's Candle Lake crosses 30% of Evolution, triggering a mandatory takeover offer",
+    "meta": "SBC News | 28 Jul 2026",
+    "summary": "Cayman Islands-based investor Kenneth Dart raised his stake in Evolution AB to 30.02% through his investment vehicle Candle Lake, crossing the threshold that triggers Sweden's mandatory-offer takeover rules. Candle Lake now has four weeks to either sell down below 30% or launch a formal bid for the rest of the company. Dart separately holds around 28.92% of Flutter Entertainment according to filings from 29 June — a stake that would trigger equivalent Irish takeover rules if it reaches 30%, since Flutter remains an Irish-incorporated 'relevant company' under the Irish Takeover Panel Act despite its US/UK dual listing history.",
+    "why": "One investor now sits at or near a mandatory-offer threshold on two of the industry's largest supplier and operator businesses simultaneously — a genuine consolidation scenario that content and platform partners of both companies need to actively plan for, not just watch as a stock-price story.",
+    "expanded": "Any bid case for Evolution comes with governance overhangs attached: the supplier is still absorbing a £4.75m UK Gambling Commission settlement over AML breaches and grey-market game supply, and remains in a live legal dispute with rival Playtech that's expected to come to a head later this year — both factors a prospective acquirer, and anyone relying on Evolution's licensing stability, would need to underwrite.",
+    "source": "https://sbcnews.co.uk/europe/2026/07/28/kenneth-dart-evolution-flutter/",
+    "tags": ["Sweden", "M&A", "Suppliers"]
   },
   {
     "section": "Europe",
-    "title": "FDJ UNITED swings to a \u20ac16m half-year loss as gaming tax hikes and a French heatwave bite",
-    "meta": "European Gaming | 31 Jul 2026",
-    "summary": "FDJ UNITED reported H1 2026 group revenue of \u20ac1,782m, down 4.5%, and a net loss of \u20ac16m versus a \u20ac136m profit a year earlier, after a \u20ac135m online-division impairment and a \u20ac69m tax charge. Chairwoman/CEO St\u00e9phane Pallez cited \u20ac52m of combined gaming tax increases across France, the UK, the Netherlands and Romania, plus a heatwave-driven decline in French lottery point-of-sale traffic.",
-    "why": "This is one of the clearest single-company illustrations yet that 2026's wave of European gaming tax rises isn't just squeezing pure-play bookmakers like Betfred \u2014 it's dragging down a diversified lottery-plus-online group with online GGR that was roughly flat, showing the tax bite is hitting the P&L even where underlying player activity held up.",
-    "expanded": "Online GGR held nearly flat at \u20ac702m but online revenue still fell 7.4% to \u20ac431m, meaning the gap between gross gaming revenue and reported revenue is itself widening under tax pressure; FDJ UNITED has cut full-year guidance to a low single-digit revenue decline, a rare downgrade for a group that includes a state-linked lottery monopoly.",
-    "source": "https://europeangaming.eu/portal/latest-news/2026/07/31/210181/fdj-united-h1-2026-results/",
-    "tags": [
-      "France",
-      "Tax",
-      "Markets"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Evolution posts \u20ac1.03bn H1 revenue and settles its UK Gambling Commission case for \u00a34.75m",
-    "meta": "European Gaming | 20 Jul 2026",
-    "summary": "Malta-headquartered Evolution AB reported H1 2026 net revenue of \u20ac1,030.8m, down 1.4%, with EBITDA of \u20ac676.3m (65.6% margin). The company confirmed a \u00a34.75m settlement with the UK Gambling Commission over Evolution content found on six unlicensed websites, saying its review found no broader pattern of unlicensed UK access.",
-    "why": "A live-casino supplier settling with a regulator over content appearing on unlicensed sites \u2014 rather than disputing the finding \u2014 sets a practical benchmark for how much liability platform and content providers can expect to absorb when their games leak onto black-market operators outside their control, a live-market policing question every aggregator faces.",
-    "expanded": "CEO Martin Carlesund flagged a genuine regional divergence behind the flat headline number: Europe returned to 3.5% constant-currency growth after several down quarters, North America grew 9.5%, but Asia declined 3.7% \u2014 a reminder that 'global supplier growth' increasingly means very different things market by market.",
-    "source": "https://europeangaming.eu/portal/latest-news/2026/07/20/209509/evolution-h1-2026-revenue-share-buyback-ukgc-settlement/",
-    "tags": [
-      "Malta",
-      "Suppliers",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Evolution walks away from its Galaxy Gaming merger, owing a $5.2m break fee",
-    "meta": "EE Gaming | 23 Jul 2026",
-    "summary": "Evolution Malta Holding formally terminated its July 2024 merger agreement with Nevada-based table-games supplier Galaxy Gaming after the deal's closing window expired on 17 July without the two outstanding gaming regulatory approvals in hand, and Evolution declined to waive those conditions. Evolution must pay Galaxy a $5,234,678 termination fee within two business days.",
-    "why": "A two-year-old, previously announced supplier consolidation quietly dying on a regulatory-approval technicality \u2014 rather than being renegotiated or extended \u2014 is a useful reminder of how much execution risk still sits inside cross-border gaming M&A even after both boards and most regulators have already signed off.",
-    "expanded": "Galaxy Gaming CEO Matt Reback struck a conciliatory note, saying the company remains 'deeply committed to advancing our industry-leading games' and looks forward to continuing its existing commercial relationship with Evolution \u2014 suggesting the two may simply keep operating as licensing partners rather than as a combined entity.",
-    "source": "https://eegaming.org/latest-news/2026/07/23/143138/galaxy-gaming-announces-termination-of-merger-with-evolution/",
-    "tags": [
-      "Malta",
-      "M&A",
-      "Suppliers"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Meloni's office rejects the final terms of Italy's retail gambling reorganisation, forcing another extension",
+    "title": "Cyprus regulator confirms a dedicated B2B supplier licensing regime is coming",
     "meta": "SBC News | 3 Aug 2026",
-    "summary": "A two-year negotiation between Italy's Ministry of Economy and Finance and the Conference of Regions broke down after Prime Minister Giorgia Meloni's office rejected the final terms of the Decreto di Riordino del Gioco Fisico, sending it back to the MEF. Undersecretary Alfredo Mantovano confirmed minimum-distance protections near schools would not change; existing retail concessions will now be extended to 31 December 2026.",
-    "why": "New concession auctions had been expected to generate \u20ac1.8-2bn in upfront licence revenue, so a second breakdown at the eleventh hour doesn't just delay reform \u2014 it delays a specific, budgeted chunk of state income, and industry group AGIC (whose members include Flutter, Lottomatica, Entain and bet365) is warning that repeated extensions actively discourage the capital investment the reform was meant to unlock.",
-    "expanded": "The stalemate centres on exactly the same friction point \u2014 protections for gambling venues near schools \u2014 that has dogged the reform for two years, suggesting this is less a technical drafting problem than a genuine political impasse between Rome and Italy's regions that a further extension will not resolve.",
-    "source": "https://sbcnews.co.uk/featurednews/2026/08/03/meloni-italy-retail-2026/",
-    "tags": [
-      "Italy",
-      "Regulation",
-      "Land-based"
-    ]
+    "summary": "National Betting Authority of Cyprus president Panagiotis Trisokkas told SBC News that regulated betting turnover on the island grew 8% year-on-year to more than €1.3bn in 2025, and confirmed new legislation will introduce a dedicated licensing regime for the dense cluster of B2B gambling-technology companies headquartered there. Trisokkas said Cyprus would resist the EU Parliament's proposed EU-wide 1% GGR levy, favouring instead a pan-European self-exclusion framework it believes delivers more tangible consumer-protection value.",
+    "why": "Cyprus hosts one of Europe's densest concentrations of B2B gambling-technology firms, so a licensing regime built specifically around supplier ownership, governance and cross-market activity — rather than a generic operator framework retrofitted for suppliers — could become a template other regulators copy for overseeing platform and content providers.",
+    "expanded": "Trisokkas was explicit that the regime is meant to be 'proportionate, efficient and largely frictionless for legitimate businesses' rather than a compliance burden, which is a notably different starting posture than the fee-shock approach Kenya's regulator just had frozen by its own courts — worth watching as a comparison point for how B2B-specific oversight can be designed well or badly.",
+    "source": "https://sbcnews.co.uk/features/interviews/2026/08/03/cyprus-gambling-regulation/",
+    "tags": ["Cyprus", "Regulation", "Suppliers"]
+  },
+  {
+    "section": "Europe",
+    "title": "Flutter completes its exit from the London Stock Exchange after nearly three decades",
+    "meta": "SBC News | 3 Aug 2026",
+    "summary": "Flutter Entertainment's ordinary shares stopped trading on the London Stock Exchange on 3 August, with the group's last LSE trading day having been 31 July. Flutter's sole listing now sits on the NYSE under ticker FLUT. The board's review cited low LSE trading activity and the added cost, regulatory and administrative burden of maintaining a dual listing as the reasons for the move, which was first flagged back in May.",
+    "why": "Flutter's departure leaves Entain as the largest gambling company still listed in London, and closes out a multi-year drift of the sector's biggest names toward New York — a shift that changes which market's disclosure norms, activist-investor dynamics and analyst coverage now set the pace for how the industry's largest operator is scrutinised.",
+    "expanded": "The delisting lands in the same week Kenneth Dart's stake in Flutter sits just under the 30% threshold that would trigger a mandatory takeover under Irish rules — meaning the stock's move to a single US listing doesn't remove the live possibility of a change-of-control situation playing out under Irish, not British, takeover law.",
+    "source": "https://sbcnews.co.uk/sportsbook/2026/08/03/flutter-entertainment-lse-delisting/",
+    "tags": ["UK", "Markets", "Corporate"]
+  },
+  {
+    "section": "Europe",
+    "title": "Kaizen Gaming hires for a Spain launch, taking Betano into its 11th European market",
+    "meta": "SBC News | 27 Jul 2026",
+    "summary": "Kaizen Gaming is recruiting a Managing Director for Spain to oversee the launch and long-term commercial development of its Betano brand there, with Spain's gambling regulator DGOJ having updated its licence registry on 14 July to reflect Betano's status. No launch date has been announced, but the hire signals preparations have moved past regulatory approval into operational execution.",
+    "why": "Betano's now-standard playbook — secure the licence, hire a local MD, then back the launch with a marque football sponsorship, as it did with Aston Villa in the UK — is about to be tested in a market that already has five entrenched international operators and three well-known domestic brands, making Spain a genuine stress test of whether that formula travels.",
+    "expanded": "Kaizen enters Spain roughly the same week its Nigeria expansion continues to anchor Super Group's growth story and Chile's operators are forming a new industry association — a reminder that the same handful of pan-regional operators are simultaneously fighting for share across entirely different regulatory and competitive environments.",
+    "source": "https://sbcnews.co.uk/europe/2026/07/27/kaizen-betano-spain/",
+    "tags": ["Spain", "Market entry", "Sportsbook"]
+  },
+  {
+    "section": "Europe",
+    "title": "Playtech's EBITDA upgrade masks a rough July for Entain as BetMGM guidance disappoints",
+    "meta": "SBC News | 3 Aug 2026",
+    "summary": "SBC News's July stock round-up showed Playtech shares up 18.22% after a 9 July trading update flagged 'excellent' US performance and continued strength in Mexico and Colombia, prompting the LSE-listed supplier to raise its full-year adjusted EBITDA guidance from €205-225m to €270m. Entain, now the largest gambling stock left on the LSE following Flutter's delisting, instead slipped over the month after its BetMGM joint venture said net revenue and EBITDA would land at the low end of its $2.9-3.1bn and $300-350m guidance ranges, news that knocked 24p off Entain's share price in three days.",
+    "why": "The same earnings season is producing sharply different verdicts on US exposure depending on the business model — Playtech's content-licensing position is benefiting from US and Latin American growth while Entain's 50%-owned BetMGM joint venture is dragging on group sentiment, a reminder that 'US growth' doesn't automatically translate into upside for every partner attached to it.",
+    "expanded": "Rush Street Interactive was the worst-performing PLC on SBC's July list despite posting record Q2 revenue days later, and DraftKings also fell nearly 9% over the month — suggesting investors are pricing in prediction-market and competitive risk for US-focused operators even where underlying operating numbers are strong.",
+    "source": "https://sbcnews.co.uk/features/2026/08/03/sbc-stock-ticker-july-playtech-evolution-rise/",
+    "tags": ["Suppliers", "Markets", "US"]
+  },
+  {
+    "section": "Europe",
+    "title": "Merkur Group agrees to acquire White Hat Studios to deepen its US content push",
+    "meta": "European Gaming | 16 Jul 2026",
+    "summary": "German gambling group Merkur agreed to acquire slot studio White Hat Studios, whose titles — including games based on The Goonies and Ted — already run on BetMGM, DraftKings and FanDuel. The deal, for an undisclosed sum, explicitly excludes White Hat Gaming's separate platform and white-label operations, which remain with their existing ownership team and are unaffected by the sale.",
+    "why": "A European land-based-rooted supplier buying a US-distributed slot studio outright, rather than simply signing a content-supply deal, shows how seriously non-US suppliers are willing to invest to get direct US shelf space rather than going through aggregation layers they don't control.",
+    "expanded": "Structuring the deal to carve out White Hat's platform and white-label business — leaving that part of the company under separate ownership — is a clean illustration of how content and platform businesses under a shared brand can be surgically separated when an acquirer only wants one half of the stack.",
+    "source": "https://europeangaming.eu/portal/latest-news/2026/07/16/209348/merkur-group-agrees-to-acquire-white-hat-studios/",
+    "tags": ["Germany", "M&A", "US"]
   },
   {
     "section": "North America",
-    "title": "Nevada regulators clear key steps in the MGM and Caesars take-private deals",
-    "meta": "Las Vegas Review-Journal | 23 Jul 2026",
-    "summary": "The Nevada Gaming Commission unanimously approved shelf-offering financing requests for both MGM Resorts International and Caesars Entertainment, and licensed two Fertitta Entertainment board members tied to the Caesars deal. Barry Diller's People Inc. is pursuing the roughly 74% of MGM it doesn't already own for about $18bn ($48.30/share); Tilman Fertitta's Fertitta Entertainment is acquiring Caesars for $17.6bn.",
-    "why": "Two of the Strip's biggest operators going private in parallel, backed by two of gaming's highest-profile individual dealmakers, is itself a signal that public-market valuations are seen as undervaluing integrated resort assets right now \u2014 a dynamic land-based-adjacent platform and content partners should watch for its effect on capital allocation once these companies are no longer answering to quarterly earnings calls.",
-    "expanded": "The Caesars deal alone still needs FTC/DOJ antitrust clearance and approval in roughly 25 separate gaming jurisdictions before an expected spring 2027 close, meaning Nevada's sign-off \u2014 while necessary \u2014 is really just the first of many regulatory gates these deals must clear.",
-    "source": "https://www.reviewjournal.com/business/casinos-gaming/nevada-regulators-approve-key-steps-in-mgm-caesars-take-private-deals-3854237/",
-    "tags": [
-      "Nevada",
-      "M&A",
-      "Land-based"
-    ]
+    "title": "VGW confirms LuckyLand Slots will permanently close by 14 September",
+    "meta": "CasinoBeats | 28 Jul 2026",
+    "summary": "VGW is winding down LuckyLand Slots in phases: Gold Coin package purchases stopped on 3 August, gameplay ends entirely on 24 August, and prize redemptions and site access close on 14 September, eight years after the brand launched. The company said its other sweepstakes brands — Chumba Casino, LuckyLand Casino and Global Poker — are unaffected by the decision.",
+    "why": "One of the sweepstakes sector's most recognisable brands shutting down entirely, rather than simply restricting states, is the clearest signal yet that the state-by-state legislative crackdown on sweepstakes casinos has crossed from a compliance headache into a genuine existential threat for operators in the category.",
+    "expanded": "VGW keeping its other three sweepstakes brands running suggests this is a portfolio-pruning decision specific to LuckyLand's economics or footprint rather than a wholesale retreat from the sweepstakes model — worth watching whether rivals follow with selective brand closures of their own rather than exiting the category outright.",
+    "source": "https://casinobeats.com/2026/07/28/vgw-announces-luckyland-slots-will-shut-down-chumba-luckyland-casino-continue/",
+    "tags": ["Sweepstakes", "US", "Social casino"]
   },
   {
     "section": "North America",
-    "title": "Federal judge blocks Minnesota's first-in-the-nation prediction-market ban",
-    "meta": "The Boston Globe (AP) | 28 Jul 2026",
-    "summary": "US District Judge Katherine Menendez granted a preliminary injunction halting Minnesota's ban on prediction markets days before it was due to take effect, ruling the CFTC, Kalshi and Polymarket were likely to succeed on federal-preemption grounds. Minnesota Attorney General Keith Ellison called prediction markets 'gambling, plain and simple' and said the state would keep litigating.",
-    "why": "This is the clearest court win yet for the industry's core legal argument \u2014 that CFTC-registered event contracts pre-empt state gambling law \u2014 and every other state weighing its own ban, including New York's parallel $36bn suit against Kalshi, now has to reckon with a federal judge having sided with the preemption theory on the merits, not just procedure.",
-    "expanded": "The ruling arrives as the CFTC has separately begun rulemaking on which event contracts count as 'contrary to the public interest,' meaning the practical outcome of this fight may end up being decided by the CFTC's own rules rather than by any single state court case \u2014 a genuinely unsettled regulatory picture platform teams building prediction-market-adjacent products need to track closely.",
-    "source": "https://www.bostonglobe.com/2026/07/28/business/minnesota-kalshi-polymarket-ban/",
-    "tags": [
-      "Prediction markets",
-      "US",
-      "Regulation"
-    ]
+    "title": "Bally's completes $30m purchase of Sam's Town Shreveport from Boyd Gaming",
+    "meta": "G3 Newswire | 1 Aug 2026",
+    "summary": "Bally's Corporation closed its acquisition of the Sam's Town Hotel and Casino in Shreveport, Louisiana, on 1 August, after the Louisiana Gaming Control Board voted unanimously to approve the deal first announced in February. The property will be rebranded under the Bally's name in the near future, adding to the company's growing regional casino portfolio.",
+    "why": "A relatively small, single-property regional deal like this is still worth tracking as a data point on how actively Bally's continues to consolidate secondary regional casino markets even while its larger capital priorities — including its pending Q2 earnings on 10 August — sit elsewhere.",
+    "expanded": "Shreveport entrepreneur Curtis '50 Cent' Jackson, who has made other investments in the city's entertainment district, publicly welcomed the deal's closing, a reminder that regional casino M&A in secondary US markets increasingly comes bundled with local economic-development relationships that shape how a rebrand gets received locally.",
+    "source": "https://g3newswire.com/ballys-completes-acquisition-of-sams-town-shreveport/",
+    "tags": ["Louisiana", "M&A", "Land-based"]
   },
   {
     "section": "North America",
-    "title": "BetMGM retracts its $500m 2027 EBITDA target after a Q2 profit miss",
-    "meta": "NEXT.io | 28 Jul 2026",
-    "summary": "BetMGM's Q2 2026 net revenue rose 3% year-on-year to $711m, but adjusted EBITDA fell 15% to $74m from $86m a year earlier. CEO Adam Greenblatt walked back the company's prior $500m FY2027 EBITDA target, explicitly blaming 'prediction market regulatory complexity'; online sports revenue was flat at $228m while iGaming revenue rose 8% and now accounts for nearly 70% of the total.",
-    "why": "A major operator publicly naming prediction-market complexity \u2014 not simply competition \u2014 as the reason it's abandoning a headline profit target is a striking admission that the Kalshi/Polymarket fight is now materially reshaping how licensed sportsbooks plan and communicate their own economics, not just a peripheral threat.",
-    "expanded": "The underlying mix shift is arguably the bigger structural story: with iGaming now close to 70% of BetMGM's revenue and sports betting flat, the operator's growth engine is quietly becoming a casino business that happens to also run a sportsbook \u2014 a pattern platform teams should expect to see across other US operators as prediction markets pressure sports-betting economics specifically.",
-    "source": "https://next.io/news/results/q226-betmgm-retracts-500m-2027-ebitda-projection/",
-    "tags": [
-      "US",
-      "Operators",
-      "Prediction markets"
-    ]
+    "title": "Rush Street Interactive posts record Q2 revenue and raises full-year guidance",
+    "meta": "Yogonet | 30 Jul 2026",
+    "summary": "Rush Street Interactive reported record Q2 2026 revenue of $393.8m, up 46% year-on-year and above Wall Street's $362.4m estimate, with net income of $29.3m and adjusted EBITDA of $64.6m, both records. Online casino now makes up 72% of revenue, and the company raised full-year guidance to $1.56-1.6bn, citing North American monthly active users up 51% and Latin American MAUs up 62% year-on-year.",
+    "why": "A casino-first operator posting its best quarter yet while explicitly declining to chase prediction markets is a useful counter-data-point to the DraftKings/FanDuel narrative that prediction-market exposure is now mandatory for growth — RSI's growth is coming from geographic expansion and online casino mix, not new product categories.",
+    "expanded": "The 62% Latin American MAU growth is notable given RSI's presence in Mexico and Colombia specifically, markets where Playtech separately flagged 'continued strength' in its own July trading update — two different companies pointing to the same regional growth pocket from very different parts of the value chain.",
+    "source": "https://www.yogonet.com/international/news/2026/07/30/125653-rush-street-interactive-lifts-2026-outlook-after-record-q2-revenue-and-ebitda",
+    "tags": ["US", "Earnings", "iGaming"]
   },
   {
     "section": "North America",
-    "title": "Bally's Intralot locks in a \u00a3261.7m loan to fund its takeover of evoke (William Hill UK, 888)",
-    "meta": "Bettors Insider | 29 Jul 2026",
-    "summary": "Bally's Intralot secured a \u00a3261.7m ($347.6m) senior secured loan to help fund its roughly \u00a32.2bn enterprise-value acquisition of evoke plc, on top of a consortium of TPG Credit, Oaktree and OHA committing about \u00a3889m and other bridge and senior facilities. Total company debt stood at \u20ac1.75bn as of 31 March 2026; evoke shareholders vote on 17 August, with completion targeted for Q4 2026 or Q1 2027.",
-    "why": "This is one of the largest active pieces of B2C consolidation directly touching the UK market this year, and the debt stack behind it \u2014 multiple credit funds plus a dedicated bridge facility on top of an already leveraged balance sheet \u2014 is a useful marker of how expensive UK retail-plus-online consolidation has become since this year's tax increases started eating into operator cash flow.",
-    "expanded": "Because evoke brings both William Hill's UK retail and online estate and the 888 online brand under Bally's ownership, the integration risk here isn't just financial \u2014 it's a genuine multi-brand, multi-platform migration question that will test how cleanly Bally's can fold two separate technology stacks into one operating model.",
-    "source": "https://bettorsinsider.com/news/2026/07/29/ballys-intralot-backs-acquisition-ambitions-with-261m-loan/",
-    "tags": [
-      "UK",
-      "M&A",
-      "Payments"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Alberta's freshly opened iGaming market draws a rush of platform and content suppliers",
-    "meta": "Canadian Gaming Business | 24 Jul 2026",
-    "summary": "Following Alberta's 13 July iGaming launch, Alberta Gaming, Liquor and Cannabis now lists 58 registered 'critical gaming systems' providers, 15 iGaming platform providers and 15 goods/services suppliers, including Genius Sports, Sportradar and Paysafe's Skrill. Suppliers including Wazdan, Greentube, Kambi and Oddin.gg described Alberta as one of the most significant new North American iGaming markets to open in years.",
-    "why": "A newly regulated Canadian province attracting 15 competing platform providers within weeks of launch is a fast, concrete test of how quickly a market can go from zero to genuinely crowded, and how much differentiation on speed-to-market, local payments support and content breadth actually matters once that many platform options are simultaneously chasing the same operator base.",
-    "expanded": "The scale of supplier registration \u2014 88 total entities across systems, platforms and services providers \u2014 suggests Alberta regulators built a comparatively low-friction registration process relative to Ontario's, which could make it a template other Canadian provinces study as they consider their own iGaming launches.",
-    "source": "https://www.canadiangamingbusiness.com/2026/07/24/alberta-igaming-suppliers/",
-    "tags": [
-      "Canada",
-      "Platform",
-      "Suppliers"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Brazil's ruling party backs a bill to ban online casino games ahead of October elections",
-    "meta": "SBC News | 30 Jul 2026",
-    "summary": "Congress returned from recess on 3 August with the PT government intensifying its push behind Bill PL 2,258/2026, introduced by deputy Paulo Pimenta, which would ban online casino games generated by 'electronic systems or algorithms' while preserving fixed-odds sports betting. President Lula is reportedly pursuing the bill as part of an electoral strategy, per Communications Minister Sid\u00f4nio Palmeira, out of more than 200 gambling-related proposals now before Congress.",
-    "why": "A ban that explicitly carves out sports betting while targeting only algorithm-driven casino games would split Brazil's regulated market down the middle rather than reversing the 2024 Bets Law wholesale \u2014 a materially different and more surgical threat to online-casino-heavy operators and platform providers than the blanket repeal bill (PL 1,808/2026) that has so far attracted less traction.",
-    "expanded": "Only three of the 200-plus gambling bills now before Congress currently have real momentum, and this one's timing \u2014 tied explicitly to October elections rather than to a specific harm event or fiscal need \u2014 suggests its fate may hinge more on Brazilian electoral politics over the next two months than on any gambling-policy debate on its own merits.",
-    "source": "https://sbcnews.co.uk/featurednews/2026/07/30/lula-brazil-pt-government/",
-    "tags": [
-      "Brazil",
-      "Regulation",
-      "Online casino"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Colombia's Coljuegos proposes wealth tests and tougher penalties for slot machine importers",
-    "meta": "G3 Newswire | 27 Jul 2026",
-    "summary": "Colombia's gambling regulator published draft rules that would cut import and distribution licence terms from four years to one, require importers to hold certified net worth of at least 150 times the monthly minimum wage (about COP262.6m) and distributors 50 times (about COP87.5m), and introduce suspension or cancellation penalties for late or missing machine-tracking reports. Public comment on the overhaul closed 31 July.",
-    "why": "Shortening licence terms from four years to one while simultaneously raising the capital bar to hold one is a combination clearly designed to push out under-capitalised or non-compliant slot importers rather than simply tax the segment more heavily \u2014 a meaningfully different enforcement lever than the advertising and payments crackdowns most LatAm regulators have favoured this year.",
-    "expanded": "The rules build directly on the Single Registry of Importers and Distributors created only in December 2025, showing Coljuegos treating machine-tracking compliance as a fast-iterating regulatory programme rather than a one-off registry launch, which suggests further tightening rounds should be expected as the registry data matures.",
-    "source": "https://g3newswire.com/colombian-regulator-proposes-overhaul-of-slot-machine-registry-with-wealth-tests-and-tougher-penalties/",
-    "tags": [
-      "Colombia",
-      "Regulation",
-      "Suppliers"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "GAT Brasil: Brazil's illegal betting market is now as big as its regulated one, pushing combined size past $14.8bn",
-    "meta": "Yogonet International | 3 Aug 2026",
-    "summary": "At the inaugural GAT Brasil conference, advisor Alex Pariente said Brazil's regulated market generated R$37bn (about $7.4bn) in GGR in its first year while an estimated equal volume flows through illegal channels, putting combined market size at roughly R$74bn (about $14.8bn) \u2014 among the world's five largest betting markets. Panelists discussed new joint-liability rules targeting payment processors serving unlicensed sites and a pending Supreme Federal Court case that could overturn the criminal prohibition on land-based gambling.",
-    "why": "A regulated market that is only half the true size of its country's total betting activity \u2014 a full year after the Bets Law took effect \u2014 is a stark data point for how much headroom black-market enforcement still has in Brazil, and explains why the conference's payments-processor liability discussion is drawing as much attention as any single operator's numbers.",
-    "expanded": "The parallel discussion of Bill 2234 on land-based casino legalisation and a Supreme Federal Court case that could overturn Brazil's criminal gambling prohibition suggests the country's regulatory framework is still being actively rebuilt on two fronts at once \u2014 online enforcement and land-based legalisation \u2014 rather than settling into its post-Bets-Law equilibrium.",
-    "source": "https://www.yogonet.com/international/news/2026/08/03/125688-gat-brasil-opens-with-focus-on-enforcement-and-casino-legalization",
-    "tags": [
-      "Brazil",
-      "Black market",
-      "Markets"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "FIRST.bet enters Argentina through an ONDISS platform partnership in Santa Fe",
-    "meta": "Yogonet International | 3 Aug 2026",
-    "summary": "Sportsbook technology provider FIRST.bet has launched in Argentina through platform provider ONDISS, enabling regulated operator City Center Online to offer online sports betting in Santa Fe province following the Santa Fe Lottery's authorisation of online sports betting. FIRST.bet CEO Tom Light and ONDISS CEO Facundo Giorgi confirmed the deal, marking FIRST.bet's first Argentine market entry.",
-    "why": "Argentina's province-by-province licensing model keeps producing exactly this kind of small, fast platform-partnership launch, and it's a useful reminder for any B2B provider weighing Argentine expansion that a single province authorisation \u2014 not a national licence \u2014 is often the real unlock for market entry.",
-    "expanded": "Routing market entry through an existing local platform provider like ONDISS rather than building direct local infrastructure is the more common playbook for supplier expansion into fragmented LatAm markets, and this deal is a fairly clean, recent example of how quickly that model can get a new sportsbook brand live once the underlying regulatory authorisation exists.",
-    "source": "https://www.yogonet.com/international/news/2026/08/03/125666-firstbet-launches-city-center-online-39s-sportsbook-in-argentina-through-ondiss-partnership",
-    "tags": [
-      "Argentina",
-      "Platform",
-      "Suppliers"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Africa's illegal gambling market hits $17.8bn as Nigeria leads the continent on regulation",
-    "meta": "Vanguard (citing Gaming Compliance International) | 22 Jul 2026",
-    "summary": "A new Gaming Compliance International report \u2014 described as the first comprehensive assessment covering all 54 African countries \u2014 found continental online gambling GGR reached $23bn in 2025, with only $5.2bn (23%) coming from licensed operators against $17.8bn (77%) from unregulated platforms. West Africa's GGR rose to $4.8bn, with Nigeria recording the region's lowest unregulated share at 56% against a 69% regional average.",
-    "why": "A 77% unregulated share across an entire continent, with GCI estimating $3.55bn in lost 2025 tax revenue, is a scale of black-market leakage that dwarfs the enforcement debates playing out in Europe and North America right now \u2014 and Nigeria's comparatively lower 56% unregulated share is offered by the report's authors as evidence that regulatory design, not just enforcement spend, is what actually moves the number.",
-    "expanded": "GCI counted 4,129 unlicensed platforms actively targeting African consumers in 2025, up from 3,644 in 2024 \u2014 meaning the illegal-operator population is still growing even as at least one major market improves its regulated share, which points to enforcement capacity, not appetite, as the binding constraint across most of the continent.",
-    "source": "https://www.vanguardngr.com/2026/07/nigeria-leads-africa-in-online-gambling-regulation-as-illegal-market-hits-17-8bn/",
-    "tags": [
-      "Africa",
-      "Black market",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Ghana's lottery authority enforces its August 1 ban on paper-based betting slips",
-    "meta": "Focus Gaming News Africa | 27 Jul 2026",
-    "summary": "Ghana's National Lottery Authority issued a public notice on 23 July ordering all Private Lotto Operators to cease manual paper-based staking from 1 August 2026, ending a two-year transition tied to licence agreements signed in August 2024. Operators, agents or writers still using paper after the deadline face being barred from operating, and the move follows a partnership with Fidelity Bank raising the instant POS payout limit from GH\u00a21,200 to GH\u00a230,000 (about \u20ac2,266).",
-    "why": "Forcing an entire national lottery retail network off paper slips inside a fixed two-year window \u2014 rather than allowing an indefinite parallel-running period \u2014 is an unusually hard digitisation deadline for a West African gambling market, and the accompanying 25x jump in instant payout limits suggests the regulator is trying to make the digital channel more attractive, not just mandatory.",
-    "expanded": "Because the deadline is tied to licence agreements signed back in 2024 rather than a new law, it shows Ghana's NLA treating digitisation as a contractual condition it can actually enforce through licence non-renewal, a more durable lever than the awareness campaigns most regulators lean on for channel-shift efforts.",
-    "source": "https://focusgn.com/africa/ghana-nla-orders-end-to-paper-based-lottery-operations-by-august-1",
-    "tags": [
-      "Ghana",
-      "Payments",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "South Africa's Gambling Board seeks a vendor to block illegal gambling sites, with bids due August 7",
-    "meta": "SigmaPlay | 6 Jul 2026",
-    "summary": "South Africa's National Gambling Board issued an Expression of Interest on 30 June seeking a service provider to 'block these websites and provide data intelligence on these operators for further enforcement actions,' stating plainly that 'South Africa is struggling to enforce against illegal interactive gambling.' A bidder briefing was held 15 July, with submissions due 7 August; industry group SABA estimates illegal offshore gambling generates over R50bn (about $3.05bn) annually and accounts for roughly two-thirds of the country's online gambling activity.",
-    "why": "A regulator publicly admitting it is 'struggling to enforce' before it has even selected a vendor is an unusually candid acknowledgment of capability gaps, and with bids due this week, South Africa's approach \u2014 outsourcing both site-blocking and data intelligence to a single contracted provider \u2014 will be a live test case for whether that model can move faster than the domain-whack-a-mole enforcement most jurisdictions default to.",
-    "expanded": "If two-thirds of South African online gambling activity really is flowing to illegal offshore operators, as SABA's estimate suggests, the coming vendor selection matters less as a procurement story than as a signal of whether South Africa is about to become a meaningfully harder market for unlicensed offshore brands to serve.",
-    "source": "https://sigma.world/news/south-africa-ngb-block-illegal-gambling-websites/",
-    "tags": [
-      "South Africa",
-      "Black market",
-      "Regulation"
-    ]
+    "title": "MGM Resorts posts $4.5bn Q2 revenue as the Las Vegas Strip notches a second straight growth quarter",
+    "meta": "Bettors Insider | 30 Jul 2026",
+    "summary": "MGM Resorts International reported Q2 2026 revenue of $4.5bn, roughly flat year-on-year, with diluted EPS of $1.11 against an estimated $0.58. The Las Vegas Strip portfolio generated $2.2bn, up 3% and its second consecutive quarter of growth, while regional properties posted what the company called all-time best same-store quarterly revenue. BetMGM's online sports NGR grew 17% on a pro forma basis across the first half of the year.",
+    "why": "MGM posting Strip growth and a healthy BetMGM NGR number in the same quarter that BetMGM's own guidance disappointed investors enough to hit Entain's share price shows how differently the same joint-venture performance can read depending on which side of the ownership structure is reporting it.",
+    "expanded": "MGM's results land against a backdrop of Nevada regulators separately clearing financing and licensing steps for both MGM's own take-private deal and the parallel Caesars transaction — meaning Strip operating momentum and corporate ownership restructuring are unfolding on parallel tracks for the same company right now.",
+    "source": "https://bettorsinsider.com/casino/2026/07/30/mgm-resorts-reports-q2-2026-revenue-of-4-5-billion-as-las-vegas-strip-powers-record-quarter/",
+    "tags": ["Nevada", "Earnings", "Land-based"]
   },
   {
     "section": "Asia / Oceania",
-    "title": "Macau's July casino GGR falls 8.4% year-on-year as World Cup distraction lingers",
-    "meta": "GGRAsia | 1 Aug 2026",
-    "summary": "Macau's Gaming Inspection and Coordination Bureau reported July gross gaming revenue of MOP20.26bn (US$2.51bn), down 8.4% year-on-year but up 9.4% from June's MOP18.52bn. Year-to-date GGR reached MOP147.16bn, 4.4% ahead of the same period in 2025. Citi noted daily GGR ran roughly 9% higher in the second week of July as 'distractions from the global soccer tournament' faded, while MGM Resorts CEO Bill Hornbuckle said Macau demand recovered even before the 19 July World Cup Final.",
-    "why": "A World Cup drawing consumer attention away from Macau casino floors for weeks \u2014 confirmed independently by both government data and an operator CEO \u2014 is a concrete, measurable example of how a genuinely global sporting event can act as a headwind for land-based gaming revenue even in a market with no direct sports-betting exposure of its own.",
-    "expanded": "Two typhoons (Maysak and Noul) also disrupted transport during the month, meaning the headline year-on-year decline is really a mix of a one-off global sporting calendar effect and weather disruption rather than a demand-side deterioration \u2014 a distinction that matters heavily for how concessionaires frame the number heading into 2Q26 results season.",
-    "source": "https://www.ggrasia.com/macaus-july-casino-ggr-down-8-4pct-y-o-y-to-us2-51bln-govt",
-    "tags": [
-      "Macau",
-      "Land-based",
-      "Markets"
-    ]
+    "title": "Sportsbet and Tabcorp reject Senate inquiry claims they supplied VIP gamblers with drugs and escorts",
+    "meta": "Asia Gaming Brief | 4 Aug 2026",
+    "summary": "A Senate inquiry into Australia's Interactive Gambling Amendment (Gambling Reform) Bill 2026 heard testimony from Alliance for Gambling Reform's Tim Costello alleging a since-convicted financial adviser who stole $12.3m over 17 months was flown to grand finals and offered escorts and drugs while betting more than $20m a month with Sportsbet and Tabcorp. Former NRL player Luke Bateman separately told the inquiry gambling-company staff had unofficially offered to arrange illicit drugs while cultivating him as a high-volume punter. Both operators say they've found zero evidence supporting the allegations and are seeking further detail to investigate.",
+    "why": "These allegations are surfacing inside the same Senate inquiry that's weighing Australia's proposed advertising and promotion restrictions, meaning claims about VIP inducement practices — whether or not they're substantiated — are landing at the exact moment lawmakers are deciding how far those restrictions should go.",
+    "expanded": "Both companies' response — asking for more information to investigate rather than issuing blanket denials of any wrongdoing — leaves the door open to further findings, and any operator with a VIP or high-value-customer programme in a market under legislative review should expect similar scrutiny of inducement practices to keep surfacing through this kind of parliamentary process.",
+    "source": "https://asgam.com/2026/08/04/australian-sportsbooks-accused-of-offering-vip-customers-drugs-escorts-and-alcohol/",
+    "tags": ["Australia", "Safer gambling", "Regulation"]
   },
   {
     "section": "Asia / Oceania",
-    "title": "Pagcor extends its online gaming B2B accreditation deadline to September 30",
-    "meta": "GGRAsia | 3 Aug 2026",
-    "summary": "The Philippine Amusement and Gaming Corp extended, via a late-July memo, the grace period for B2B service providers to Philippines-licensed online Gaming System Administrators to secure fresh accreditation, moving the deadline from 31 July to 30 September. Covered entities include game-content aggregators, payment channels, marketing and customer-service providers, KYC/membership services, and testing labs; missing the new deadline triggers decommissioning of the affected electronic gaming systems from 1 October.",
-    "why": "A blanket accreditation requirement covering everything from payment channels to KYC providers to testing labs \u2014 with actual system decommissioning as the enforcement mechanism \u2014 is one of the more operationally serious supply-chain compliance regimes in Asian iGaming right now, and the two-month extension suggests Pagcor itself recognised the original deadline underestimated how many B2B vendors needed processing.",
-    "expanded": "Manila-based consultancy Arden Consult describes applicants facing a live, guided 'walkthrough' inspection with outcomes typically known two weeks later, meaning B2B providers serving the Philippine market should treat the September 30 deadline as the start of a multi-week compliance process, not a single submission date.",
-    "source": "https://www.ggrasia.com/pagcor-extends-deadline-to-sept-30-for-online-gaming-b2b-accreditation",
-    "tags": [
-      "Philippines",
-      "Regulation",
-      "Suppliers"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "A Vingroup-backed consortium proposes a $3bn casino tower project in Hanoi",
+    "title": "Korea's foreigner-only casinos post their strongest July of 2026",
     "meta": "GGRAsia | 4 Aug 2026",
-    "summary": "A consortium including Kim Lien Tourism JSC, Thaiholdings JSC and Thai Son Construction Investment JSC \u2014 part of the Vingroup group \u2014 submitted a proposal in early July to Hanoi's People's Committee for 'Hanoi Twin Towers 99,' a mixed-use development including a casino, on a 34,936 square-metre site costing an estimated $3.0-3.5bn. The 568-metre, 99-storey towers are targeted for completion in Q3/Q4 2030; no details on casino scale, operator or licensing have been disclosed, and Hanoi authorities have not yet granted planning approval.",
-    "why": "Vietnam has historically restricted casino access to foreigners and a narrow set of licensed resident pilots, so a Vingroup-linked consortium attaching a casino to what would be one of the world's tallest buildings is a notable bet that Vietnam's gaming policy will keep loosening well before the project's 2030 target completion.",
-    "expanded": "With no casino-scale, operator or licensing details disclosed and planning approval still pending, this is very much a proposal rather than a confirmed project \u2014 but the scale of capital being committed before those basics are settled shows how much developers are willing to front-load in anticipation of Vietnam's gaming market opening further.",
-    "source": "https://www.ggrasia.com/vingroup-backed-consortium-proposes-us3bln-hanoi-casino-project-reports",
-    "tags": [
-      "Vietnam",
-      "Land-based",
-      "M&A"
-    ]
+    "summary": "Jeju Dream Tower reported July casino sales of KRW51.59bn (US$36.06m), its best month of 2026 and up 18.8% year-on-year, according to a Korea Exchange filing. State-run Grand Korea Leisure posted July sales of roughly KRW41.68bn (US$29.2m), up 6.9% year-on-year. Both operators serve foreign nationals only, under South Korea's rules restricting most casino gambling to non-citizens.",
+    "why": "Two separately-run foreigner-only casino operators both posting their strongest month of the year in the same reporting window suggests a genuine recovery in inbound foreign visitation to Korea, rather than a one-off result specific to either property.",
+    "expanded": "The result also lands the same week Macau reported July GGR down 8.4% year-on-year, even as Macau's own daily GGR was recovering through the month — a reminder that Asia's land-based gaming hubs are not moving in lockstep, and foreign-visitor-dependent markets like Korea can diverge sharply from mass-market hubs like Macau in any given month.",
+    "source": "https://www.ggrasia.com/casino-sales-hit-2026-monthly-record-in-july-for-jeju-dream-tower-at-us36mln",
+    "tags": ["South Korea", "Land-based", "Markets"]
   },
   {
-    "section": "Asia / Oceania",
-    "title": "Thailand details a $591m World Cup illegal sports betting crackdown",
-    "meta": "CasinoBeats | 31 Jul 2026",
-    "summary": "Thai authorities shut down 4,576 World Cup-themed illegal soccer gambling websites that processed roughly 20 billion baht (about $591m) in wagers between 6 June and 19 July. Since 1 October 2025, police have arrested 787 operators of illegal online platforms, and officials say the Royal Thai Police and Bank of Thailand will now pivot to illegal online horse-racing betting, backed by a new Anti-Online Gambling Center using AI-based detection systems.",
-    "why": "$591m flowing through World Cup-themed illegal sites in Thailand alone over six weeks is a striking single-tournament figure, and puts a concrete number behind how much unregulated demand a major global sporting event can generate in a market with no legal online sportsbook channel to absorb it.",
-    "expanded": "The stated pivot to illegal online horse-racing betting, backed by a dedicated AI-detection centre, suggests Thai authorities see this as a sustained enforcement programme targeting the black market vertical by vertical rather than a one-off, World-Cup-triggered sweep \u2014 worth watching as a template for AI-assisted black-market detection elsewhere in the region.",
-    "source": "https://casinobeats.com/2026/07/31/thai-govt-unveils-details-of-591m-sports-betting-crackdown-arrests-85-year-old-gambler/",
-    "tags": [
-      "Thailand",
-      "Black market",
-      "Sports integrity"
-    ]
+    "section": "Africa",
+    "title": "Kenya's High Court suspends new gambling licensing fee regulations pending judicial review",
+    "meta": "Focus Gaming News Africa | 22 Jul 2026",
+    "summary": "Justice W. Musyoka issued an interim order on 20 July suspending enforcement of Kenya's Gambling Control (Licensing) Regulations, 2026, after petitioners Thomas Buckley Opar Owuor and Ken Brance challenged fee increases of between 200% and 49,900% — including land-based bookmaker renewal fees jumping from KES5,000 (€34) to KES2.5m (€16,930) and online bookmaker/casino licences set at KES50m (€338,615) — plus a new advertising approval fee equal to 6% of an operator's marketing budget. The court also questioned whether the regulations had adequate public participation before adoption. The matter is listed for mention on 21 September, with enforcement suspended, including directives affecting mobile money channels used by allegedly non-compliant operators, until then.",
+    "why": "A licensing fee increase of up to nearly 500x on some categories is the kind of shock that can push smaller licensed operators straight back into informal or offshore channels, so the court freezing enforcement is a live test of whether Kenya's new Gambling Regulatory Authority can recalibrate fee-setting before it does lasting damage to the licensed market it just spent a year building.",
+    "expanded": "The suspension also pauses enforcement measures aimed at mobile money payment channels used by operators the regulator considers non-compliant — a specific payments-enforcement mechanism worth watching, since mobile money remains the dominant deposit and withdrawal method across East African betting markets and any future version of this rule will directly shape cashier integration requirements there.",
+    "source": "https://focusgn.com/africa/kenya-high-court-suspends-gambling-licensing-regulations",
+    "tags": ["Kenya", "Regulation", "Payments"]
+  },
+  {
+    "section": "Africa",
+    "title": "SportPesa's parent quietly changes hands as a mystery UAE firm takes majority control",
+    "meta": "Techweez | 27 Jul 2026",
+    "summary": "Ras Al Khaimah-registered Techglow Ltd has acquired a 54% stake in Milestone Games Limited, the parent company of Kenyan sportsbook SportPesa, becoming its largest shareholder. Commtech Consortium separately acquired a 25% direct stake, making it the second-largest shareholder. The restructuring diluted co-founder Robert Macharia's direct stake from 71% to 0.75% and CEO Ronald Karauri's from 13.4% to 3%. Techglow has no public website or social media presence, and UAE corporate law keeps its own shareholder and director records private, meaning its ultimate owners cannot be identified from any public filing.",
+    "why": "One of East Africa's best-known sportsbook brands has just passed majority control to an entity whose beneficial ownership literally cannot be verified through any public record — a live example of exactly the kind of ownership-opacity problem that source-of-funds and fit-and-proper checks are supposed to catch, playing out at a founder-level ownership change rather than at licensing stage.",
+    "expanded": "Commtech Consortium's 25% stake reportedly came bundled with its exit from a separate SHA digital platform deal, suggesting this reshuffle is tied to a broader unwinding of prior technology partnerships around SportPesa — worth watching for what it signals about the stability of the platform and data relationships underneath the brand, independent of who owns the equity.",
+    "source": "https://techweez.com/2026/07/27/uae-firms-seize-control-of-sportpesa/",
+    "tags": ["Kenya", "Ownership", "Data-rights"]
+  },
+  {
+    "section": "Africa",
+    "title": "South African bookmakers demand prediction markets be treated as illegal gambling",
+    "meta": "Focus Gaming News Africa | 27 Jul 2026",
+    "summary": "The South African Bookmakers' Association (SABA) published a position paper arguing that platforms like Polymarket should be treated as illegal, unlicensed offshore gambling operators until South Africa introduces dedicated laws covering licensing, consumer protection, taxation and market integrity for prediction markets. SABA argues the products should be classified as exchange-style betting falling outside the current legislative framework rather than authorised to operate. The paper followed reports that more than R700,000 had been wagered on Polymarket over the identity of Johannesburg's next mayor.",
+    "why": "South Africa's licensed bookmakers are making essentially the same argument New York and Nevada regulators have made against Kalshi in the US — that prediction markets are gambling products dodging gambling regulation — which suggests this isn't a US-specific regulatory fight but a pattern licensed betting incumbents are running globally wherever prediction markets gain traction.",
+    "expanded": "The trigger event — real money wagered on a domestic political outcome through an offshore platform with no South African licence, tax obligation or consumer protection attached — is precisely the scenario South Africa's own Interactive Gambling Bill has spent years failing to resolve for online casino generally, adding pressure on regulators to move faster on both fronts at once.",
+    "source": "https://focusgn.com/africa/south-african-bookmakers-call-for-polymarket-style-prediction-markets-to-fall-under-gambling-laws",
+    "tags": ["South Africa", "Prediction markets", "Regulation"]
+  },
+  {
+    "section": "LatAm",
+    "title": "Chile's biggest online operators form a new association to push for regulation",
+    "meta": "G3 Newswire | 30 Jul 2026",
+    "summary": "Betano, Betsala, Estelarbet, Juegalo and Novibet have formed iGaming Responsable, a new Chilean industry association intended to promote regulated, responsible gambling and work constructively with lawmakers as the country's online gambling bill continues through the Senate, where it has sat since 2022. The association's launch comes as 2026 is increasingly seen as a plausible year for Chile to finally pass regulated iGaming legislation.",
+    "why": "Five competing operators forming a joint association specifically to lobby for regulation, rather than each lobbying separately or simply operating in the current grey area, signals real confidence among major operators that Chilean regulation is close enough to be worth actively shaping rather than just waiting out.",
+    "expanded": "The association's responsible-gambling framing looks like a deliberate attempt to pre-empt the kind of safer-gambling and advertising criticism that has slowed or complicated iGaming reform elsewhere in the region, including Brazil's own current fight over its online casino bill.",
+    "source": "https://g3newswire.com/new-chile-betting-association-backs-market-regulation/",
+    "tags": ["Chile", "Regulation", "Operators"]
+  },
+  {
+    "section": "LatAm",
+    "title": "Panama locks in biometric verification and an advertising ban for digital gambling platforms",
+    "meta": "Newsroom Panama | 30 Jul 2026",
+    "summary": "Panama's National Assembly passed gambling legislation requiring biometric identity verification on online gambling platforms, banning gambling advertising across traditional and social media, mandating operators contribute 10% of profits to the national mental health institute, and introducing a tiered sanctions framework running from financial penalties to licence revocation. Gross wagers reached $779.6m in Q1 2026, up 16.1% year-on-year, with online gambling the primary growth driver in the country's regulated gaming market.",
+    "why": "Mandating biometric verification specifically — rather than leaving KYC method choice to operators — is one of the more prescriptive identity-verification requirements to appear in a LatAm gambling law so far, and sets a concrete technical bar that account-opening and KYC flows will need to meet to keep operating in the market.",
+    "expanded": "Pairing a full advertising ban with a 10%-of-profits mental health levy suggests Panama's legislature is treating acquisition marketing and harm mitigation as two sides of the same policy problem, rather than regulating them separately — a combination that will squeeze customer acquisition costs and economics simultaneously for any operator active there.",
+    "source": "https://newsroompanama.com/2026/07/30/how-panamas-new-gambling-law-changes-the-rules-for-digital-platforms/",
+    "tags": ["Panama", "KYC", "Regulation"]
+  },
+  {
+    "section": "Product",
+    "title": "Rush Street Interactive applies for CFTC market status — but calls it a contingency, not a launch",
+    "meta": "SBC Americas | 30 Jul 2026",
+    "summary": "Rush Street Interactive CEO Richard Schwartz confirmed the company has applied for designated contract market (DCM) registration with the CFTC — the same regulatory status DraftKings and FanDuel used to launch their prediction-market products. Schwartz characterised the filing as a contingency measure rather than a signal that RSI plans to offer prediction markets imminently, explicitly distinguishing its casino-first strategy from rivals' approach to the category.",
+    "why": "A casino-first operator applying for prediction-market registration purely as insurance, while its own Q2 results show record growth without any prediction-market revenue at all, is a useful signal that CFTC registration is becoming table-stakes defensive infrastructure across the industry even for companies with no near-term intention of using it.",
+    "expanded": "If DCM registration becomes a standard contingency filing industry-wide rather than a genuine strategic commitment, platform providers should expect more operators to want the technical capability to support prediction-market-style contracts sitting dormant in their stack, available to switch on if competitive pressure or regulatory clarity changes the calculus later.",
+    "source": "https://sbcamericas.com/2026/07/30/rush-street-interactive-cftc-filing/",
+    "tags": ["Prediction markets", "Platform", "US"]
+  },
+  {
+    "section": "Product",
+    "title": "Four platform providers go live on day one as Alberta opens its iGaming market",
+    "meta": "Bettors Insider | 17 Jul 2026",
+    "summary": "PENN Entertainment, Rush Street Interactive, Altenar and Pragmatic Play all launched products into Alberta's newly regulated commercial iGaming market when it opened at midnight on 13 July, making Alberta Canada's second privately-operated online casino and sportsbook market after Ontario. Industry coverage described it as one of the most active opening weeks any newly regulated North American gaming market has seen.",
+    "why": "Four platform and content providers going live simultaneously on a market's opening day, rather than trickling in over the following weeks, shows how much market-entry timelines have compressed as operators and their technology partners get more practised at replicating a proven regulatory playbook — Ontario's, in this case — into a new but similar province.",
+    "expanded": "With Betsson separately acquiring Rhino Entertainment's Canadian front-end and middleware partly to strengthen its own Alberta-adjacent B2B offering, and now four more providers live from day one, Alberta looks set to become one of the more competitively contested platform markets in North America within its first year rather than its first few years.",
+    "source": "https://bettorsinsider.com/news/2026/07/17/penn-rush-street-altenar-and-pragmatic-play-launch-into-alberta-igaming-market/",
+    "tags": ["Canada", "Platform", "Market entry"]
   },
   {
     "section": "Other / Global",
-    "title": "New York sues Kalshi for $36bn as the CFTC moves to shield the prediction-market operator",
-    "meta": "CasinoBeats | 31 Jul 2026",
-    "summary": "New York State launched a $36bn damages suit against prediction-market operator Kalshi over alleged regulatory and consumer-protection violations, the same week the CFTC moved to defend the company through a restraining order. In a separate case the same week, a Wisconsin federal judge denied the CFTC an injunction that would have barred that state from enforcing its own laws against prediction markets \u2014 a setback for the industry's federal-preemption argument.",
-    "why": "A $36bn state damages claim is an order of magnitude larger than any prior state action against a prediction-market operator, and the CFTC actively defending Kalshi against a state attorney general turns this into a direct federal-versus-state jurisdictional fight rather than a routine enforcement case \u2014 with real stakes for whether states retain any meaningful gambling-law authority over CFTC-registered products.",
-    "expanded": "The Wisconsin ruling landing the same week, on the opposite side of the preemption question from Minnesota's federal court result, shows the legal picture is genuinely split rather than trending in one clear direction, meaning prediction markets' regulatory status in the US remains an open question likely to require appellate or Supreme Court resolution.",
-    "source": "https://casinobeats.com/2026/07/31/new-york-sues-kalshi-36b-cftc-defends-company-with-restraining-order/",
-    "tags": [
-      "Prediction markets",
-      "US",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "IG Group agrees to acquire Underdog Fantasy for up to $1.3bn",
-    "meta": "CasinoBeats (citing IG Group investor documents) | 3 Aug 2026",
-    "summary": "UK-based trading broker IG Group announced a deal to acquire US daily-fantasy and prediction-market operator Underdog Fantasy for up to $1.3bn. IG Group CEO Breon Corcoran said the acquisition 'establishes IG as a leader in US prediction markets, one of the most significant opportunities across trading and entertainment, and accelerates our growth in the world's largest and fastest-growing retail trading market.'",
-    "why": "A traditional financial-trading broker paying up to $1.3bn for a US daily-fantasy brand is the clearest sign yet that prediction markets are pulling capital and strategic attention from outside gambling and gaming altogether \u2014 IG Group has no prior consumer gambling business, meaning this is a bet on prediction markets as a trading product first and a gaming product second.",
-    "expanded": "The deal lands in the same week as New York's suit against Kalshi and the CFTC's rulemaking on event contracts, underscoring that acquirers are moving to lock in US prediction-market positions even while the underlying legal and regulatory status of the category is still being actively litigated state by state.",
-    "source": "https://casinobeats.com/2026/08/03/gaming-stocks-update-star-entertainment-rallies-while-rush-street-plummets/",
-    "tags": [
-      "Prediction markets",
-      "M&A",
-      "US"
-    ]
-  },
-  {
-    "section": "Other / Global",
-    "title": "A sports-monitoring group flags seven suspicious World Cup matches, contradicting FIFA's own clean bill",
-    "meta": "Colombia One (citing The Athletic) | 27 Jul 2026",
-    "summary": "The Group of Copenhagen, an international sports-betting monitoring body, submitted a summary to the Council of Europe flagging seven 'yellow notices' of possible match manipulation across the 104-match 2026 World Cup, including South Africa's red card against Mexico and $4.8m in Polymarket bets against Spain beating Cape Verde. This directly contradicts FIFA's own Integrity Task Force report, published 21 July after working with the FBI and Interpol, which found no signs of match-fixing or unusual betting activity across the tournament.",
-    "why": "Two credible bodies \u2014 FIFA's own integrity taskforce working with federal law enforcement, and an independent betting-monitoring group reporting to the Council of Europe \u2014 reaching opposite conclusions on the same tournament is a genuinely awkward outcome for the sport, and shows how differently 'no proof of fixing' and 'no suspicious signals at all' can be interpreted depending on who is doing the monitoring.",
-    "expanded": "The Group of Copenhagen was explicit that its findings reflect 'a combination of indicators' \u2014 odds shifts, social-media rumours, intelligence input \u2014 not proof of fixing, a distinction worth holding onto given the tournament saw an estimated $240bn in total bets placed, nearly double 2022 Qatar volumes, which mechanically increases the odds of statistically unusual betting patterns even without any actual manipulation.",
-    "source": "https://colombiaone.com/2026/07/27/copenhagen-group-fifa-world-cup-betting-alerts/",
-    "tags": [
-      "Sports integrity",
-      "Global",
-      "Prediction markets"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "EveryMatrix folds CasinoEngine into a single 'EveryMatrix Casino' unit with a pick-one structure",
-    "meta": "iGaming Expert | 30 Jul 2026",
-    "summary": "EveryMatrix retired the CasinoEngine brand and consolidated its turnkey casino solution, casino platform and aggregation service \u2014 rebranded EveryMatrix Aggregation, offering more than 45,000 games \u2014 under a single EveryMatrix Casino unit. The restructuring lets operators choose full turnkey, platform-only, or aggregation-only depending on their needs, while Fantasma continues to lead in-house game development.",
-    "why": "Collapsing three previously separate product lines into one branded unit with a clear pick-one-of-three structure is a direct answer to the 'configuration complexity' criticism platform providers regularly face from operators comparing vendors, and it's a template worth watching for how other multi-product PAM providers might simplify their own commercial packaging.",
-    "expanded": "By keeping Fantasma as a distinct in-house studio rather than folding it into the same rebrand, EveryMatrix is signalling that content development and platform/aggregation infrastructure are treated as genuinely separate businesses internally, even as the delivery layer around them gets unified for operators.",
-    "source": "https://igamingexpert.com/features/everymatrix-casino-consolidation/",
-    "tags": [
-      "Platform",
-      "Product",
-      "Suppliers"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Nevada forces Kalshi to swap in third-party geofencing \u2014 a live test of build-vs-buy on geolocation",
-    "meta": "Gambling Insider | 25 Jul 2026",
-    "summary": "The Nevada Gaming Control Board announced on 24 July that Kalshi must implement a GeoComply-provided multi-source geofencing solution to block Nevada residents from trading its sports and event contracts, with full implementation due by 12 August or a $120,000-per-day penalty applies. Kalshi had previously spent roughly $190,000 building its own IP-based geofencing, which regulators said was one of the weakest methods available since it cannot reliably detect VPN users.",
-    "why": "A regulator explicitly rejecting a company's in-house geolocation build as inadequate, and mandating a specific named third-party vendor instead, is about as direct a real-world verdict on build-versus-buy for compliance-critical geolocation as platform teams are likely to get \u2014 and a $120,000-per-day penalty makes the cost of getting it wrong extremely concrete.",
-    "expanded": "The VPN-detection gap regulators flagged in Kalshi's self-built system is exactly the kind of edge case that's cheap to overlook in an internal geofencing build but expensive to discover after a regulator does the auditing \u2014 a specific, attributable failure mode any platform team maintaining its own geolocation stack should treat as a direct warning.",
-    "source": "https://www.gamblinginsider.com/news/178764/kalshi-third-party-geolocation-to-keep-sports-markets-out-of-nevada",
-    "tags": [
-      "Prediction markets",
-      "Compliance",
-      "Platform"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Kambi processes 100m-plus World Cup bets on the first fully AI-traded tournament",
-    "meta": "European Gaming | 20 Jul 2026",
-    "summary": "Kambi's turnkey sportsbook partner network processed more than 100 million bets during the 2026 FIFA World Cup \u2014 the first World Cup fully compiled and traded using Kambi's proprietary AI trading system. Pre-match Bet Builder turnover rose 3.6x versus Qatar 2022 and live Bet Builder turnover rose 10x, with player shots-on-target the single most popular pre-match Bet Builder market, generating double the turnover of traditional match-winner bets.",
-    "why": "A 10x jump in live Bet Builder turnover on a fully AI-traded tournament is a concrete data point that automated trading isn't just a cost-saving measure anymore \u2014 it's what's actually enabling the volume of granular, fast-moving player-prop markets that bettors now expect during marquee live events, a capability gap that matters directly for any platform competing on in-play product depth.",
-    "expanded": "Player shots-on-target outperforming traditional match-winner bets by 2x in turnover is a specific signal about where bettor demand is actually moving \u2014 toward granular player-performance markets rather than traditional match-outcome bets \u2014 and platform and trading teams should treat that as a roadmap input, not just a World Cup curiosity.",
-    "source": "https://eegaming.org/latest-news/2026/07/20/142920/kambi-delivers-record-breaking-world-cup-with-more-than-100-million-bets-as-bet-builders-and-player-props-take-centre-stage/",
-    "tags": [
-      "Suppliers",
-      "Product",
-      "AI"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Betsson buys Rhino Entertainment's Canadian front-end and middleware to strengthen its own B2B stack",
-    "meta": "SBC News | 3 Aug 2026",
-    "summary": "Betsson confirmed completion of its \u20ac64.5m purchase (\u20ac51.25m upfront, the remainder deferred six months) of Rhino Entertainment Group's Canadian-facing B2C business, including the Ontario- and Alberta-licensed Casino Days platform, plus Rhino's proprietary front-end and middleware technology, which Betsson says will strengthen its own B2B licensing offering.",
-    "why": "Buying a smaller operator's brand mainly to absorb its front-end and middleware technology into your own B2B licensing product \u2014 rather than simply for the customer base \u2014 is a distinctly platform-provider way to structure an acquisition, and it's a useful reminder that market-entry deals in a newly opened province like Alberta can double as build-vs-buy tech decisions.",
-    "expanded": "The deal closing barely three weeks after Alberta's iGaming market opened, in a province where 15 platform providers are already registered, suggests Betsson judged that acquiring an existing licensed presence and working technology was faster than building or licensing a competing stack from scratch in a market this newly contested.",
-    "source": "https://sbcnews.co.uk/sportsbook/2026/08/03/betsson-complete-rhino-deal/",
-    "tags": [
-      "Canada",
-      "M&A",
-      "Platform"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "RubyPlay expands its bet365 content partnership into Brazil",
-    "meta": "iGaming Business | 29 Jul 2026",
-    "summary": "RubyPlay extended its existing bet365 partnership \u2014 previously live in Spain \u2014 into Brazil's regulated market, making titles from both RubyPlay Studio and its Koala Games label, including Brilliant Gems and Voltage Blitz Rapid/Vortex, available to bet365 players there. The move is part of a wider wave of B2B content-supply expansion into Brazil, alongside Wazdan going live with major Brazilian operators the same week.",
-    "why": "A content supplier replicating an existing operator relationship market-by-market, rather than negotiating a fresh deal with a different operator in each new territory, is a low-friction growth pattern that's becoming the norm for content expansion into Brazil specifically, given the size and newness of its regulated market.",
-    "expanded": "With multiple suppliers (RubyPlay, Wazdan) expanding into Brazil in the same week, aggregation and platform providers should expect Brazilian operators' content catalogues to keep growing fast through 2026, raising the bar on how quickly a platform's own aggregation layer can onboard and certify new studios for that specific market.",
-    "source": "https://igamingbusiness.com/company-news/rubyplay-expands-bet365-partnership-into-brazil/",
-    "tags": [
-      "Brazil",
-      "Suppliers",
-      "Product"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Sportradar cuts FY2026 guidance despite 19% Q2 revenue growth",
-    "meta": "iGamingToday | 4 Aug 2026",
-    "summary": "Sportradar lowered its full-year adjusted EBITDA guidance to \u20ac360-368m (from \u20ac390-400m) and revenue guidance to \u20ac1.52-1.53bn (from \u20ac1.56-1.58bn), citing weaker US growth, FX pressure and rising sports-rights costs. Q2 revenue reached \u20ac377.8m, up 19% year-on-year, but the company posted a \u20ac3.5m net loss versus a \u20ac49.1m profit a year earlier, driven by a \u20ac9m FX loss.",
-    "why": "A top-line supplier growing revenue 19% while cutting full-year profit guidance and swinging to a quarterly net loss shows how directly rising sports-rights costs are now compressing supplier margins even when demand for their data and streaming products keeps growing \u2014 a cost pressure that ultimately flows through to what platform and operator partners pay for that data.",
-    "expanded": "Naming weaker US growth as a specific guidance driver, alongside FX and rights costs, suggests Sportradar sees its highest-growth market cooling somewhat even as prediction markets and sportsbook competition there intensify \u2014 worth watching as a leading indicator for how the broader US sports-data supply chain is holding up under that same competitive pressure.",
-    "source": "https://www.igamingtoday.com/sportradar-lowers-2026-adjusted-ebitda-revenue-projections-post-mixed-q2-results/",
-    "tags": [
-      "Suppliers",
-      "US",
-      "Markets"
-    ]
+    "title": "Super Group swings to $123m profit as Betway parent raises full-year guidance",
+    "meta": "108GAME | 4 Aug 2026",
+    "summary": "Super Group, parent of Betway and Spin, reported Q2 2026 revenue of $684m, up 18% year-on-year, with profit of $123m against a $3m loss in the same quarter of 2025. Monthly active customers rose 13% to 6.2 million, and adjusted EBITDA grew 30% to $204m at a 30% margin. The company raised full-year guidance to revenue above $2.6bn and adjusted EBITDA above $710m.",
+    "why": "Swinging from an outright loss to $123m profit in a single year, rather than just narrowing a loss, points to genuine operating leverage kicking in across Super Group's multi-brand, multi-region footprint — not just cost-cutting — at a time when several rivals are citing tax and regulatory headwinds as reasons for flat or declining profitability.",
+    "expanded": "Africa remains central to that growth story, with Betway's Nigeria push — including its Don Jazzy brand ambassador deal and F1 Official Betting Operator status — held up by the company as a template for how a global multi-brand operator builds share in newer regulated and semi-regulated markets simultaneously.",
+    "source": "https://108game.com/super-group-raises-2026-outlook-after-record-quarter-95123.html",
+    "tags": ["Earnings", "Africa", "Sportsbook"]
   }
 ];

@@ -1,174 +1,182 @@
 window.briefingMeta = {
-  "dateLabel": "Tuesday, 25 August 2026 | Localize Gaming briefing",
+  "dateLabel": "Wednesday, 26 August 2026 | Localize Gaming briefing",
   "atAGlance": [
     {
-      "title": "Evolution board tells shareholders to reject Candle Lake's SEK695-per-share mandatory offer",
-      "text": "Evolution's board has told shareholders to reject Candle Lake Limited's mandatory cash offer of SEK695 ($72.89) per share, saying it does not reflect fair market value and was made only because Swedish takeover rules oblige any holder above 30% to bid for the remainder. Kenneth Dart's vehicle crossed that threshold in July by buying a further 2,050,000 shares, and made the offer on 13 August; the bid values Evolution at roughly SEK131.7bn. The board noted that Candle Lake itself has said its plans \"do not currently include any material changes with regard to Evolution's future operations\", and said it \"has no reason to take a different view in any relevant respect\" - in other words, this is a bid to satisfy a rule rather than to run the company. Candle Lake has said it would delist Evolution from Nasdaq Stockholm if it secured more than 90%. The market agrees with the board: shares traded up 0.51% to SEK824.20 on the day, well above the offer. The practical consequence for anyone with Evolution content in their aggregation stack is that this is an overhang rather than an event. A rejected mandatory offer from a shareholder with more than 30% and no stated operational agenda does not resolve; it persists, and it sits over a supplier that has already had a difficult year, with a GBP4.75m UK Gambling Commission settlement over AML and customer due diligence failings and the July collapse of its $85m Galaxy Gaming acquisition. Dart has been busy elsewhere too, taking a 5.8% stake in DraftKings earlier this month.",
-      "source": "https://igamingbusiness.com/strategy/ma/evolution-recommends-rejection-mandatory-candle-lake-takeover-offer/",
+      "title": "Bally's flags substantial doubt on going concern as shares fall 26% on covenant disclosure",
+      "text": "Bally's Corp shares fell more than 25% on Monday 17 August after debt disclosures in its Q2 10-Q, filed with the SEC on 14 August. The company said that based on current forecasts it \"does not project that it would satisfy the liquidity maintenance requirement\" or the \"consolidated net leverage ratio covenant\" in its revolving credit facility over the next year, and that \"the conditions and events raise substantial doubt about the company's ability to continue as a going concern\". It ended the quarter with $390.1m cash against long-term net debt of $4.46bn, and closed Monday at $10.31, down 38% year to date. Group revenue was up 20% to $792.2m, with Bally's Intralot B2C revenue up 22% to $243.5m and North America digital up 17% to $66.1m, so this is a balance-sheet problem rather than a trading one - three simultaneous capital projects (a $1.7bn permanent Chicago casino, a $1.19bn Las Vegas Strip development and the $4bn Bronx project, which has already absorbed $615m this year including the $500m New York licence fee) against a facility it does not expect to stay inside. Citizens analyst Jordan Bender said he does not believe Bally's \"has the ability to finish all of its projects without selling or bringing in a development partner\", naming Las Vegas as the most likely disposal. The reason this matters beyond Bally's own equity story is that the same company is the acquirer in the largest live UK online transaction: evoke shareholders approved the Bally's Intralot takeover of the William Hill and 888 owner on the very same day, at 99.91%, with GBP180m of promised synergies. Both sides of that deal have now published going-concern or material-uncertainty language, which is unusual. For anyone holding contracts across the William Hill, 888 or Bally's Intralot estate, the practical work this week is unglamorous: check termination-for-insolvency wording, change-of-control clauses and payment terms, and assume discretionary technology spend is the first line to be cut while the financing is unresolved. The synergy target also implies platform rationalisation across a very large combined estate, which for incumbent suppliers is binary - displaced entirely, or handed a much bigger consolidated scope - and that decision gets made well before completion in Q4 2026 or Q1 2027.",
+      "source": "https://igamingbusiness.com/finance/ballys-q2-stock-slide/",
       "tags": [
-        "Sweden",
-        "M&A",
-        "Live casino",
-        "Supplier"
+        "US",
+        "Finance",
+        "Operator",
+        "Counterparty risk"
       ]
     },
     {
-      "title": "Romania's prime minister abruptly removes ONJN president Vlad-Cristian Soare after a year in post",
-      "text": "Vlad-Cristian Soare has been dismissed as president of Romania's ONJN just over a year into the job, with prime minister Ilie Bolojan appointing Valentin-Ioan Tomescu in his place. Soare announced his own removal on LinkedIn, said no reasons were given, and wrote that he was \"disappointed because my change was not made based on the principle of meritocracy\". He also described an institution in the middle of cleaning itself up: \"We changed the leadership of the directorates, we ordered internal investigations and notified the criminal investigation bodies whenever we had clues.\" That context matters, because two senior ONJN figures are under corruption investigation - former deputy director general Ana-Maria Badea, suspected of repeated bribery, and Odeta Kristanela Nestor, ONJN president from 2013 to 2017, taken into custody in June - and Soare's own predecessor was forced out after a 2025 Court of Auditors audit found close to EUR1bn in missing gambling taxes. Under Soare the regulator banned prediction markets including Polymarket and Kalshi in April 2026, blocked a further 1,300 illegal sites, halved the licensed operator count from around 200 to under 100, and drove a fully digital national self-exclusion scheme. None of that is yet locked into settled secondary legislation, which is the problem for anyone holding a Romanian licence: the workstreams that drive real integration effort, particularly self-exclusion and reporting, were personality-led, and the personality has gone without explanation.",
-      "source": "https://sbcnews.co.uk/europe/2026/08/24/romania-onjn-soare/",
+      "title": "Denmark blocks 98 unlicensed gambling domains including Polymarket after Frederiksberg court ruling",
+      "text": "Denmark's Ministry of Taxation and Economic Growth confirmed on 19 August that Spillemyndigheden has secured DNS blocking of 98 domains, including polymarket.com. The Frederiksberg court ruled in the regulator's favour on 8 July, telecoms operators applied the blocks on 6 August, and the ministry published the case and the full domain list on 19 August. What makes the list worth reading rather than skimming is its shape: it is dominated by mirror-domain estates rather than distinct brands, with Leon accounting for eight entries, Ice Casino six and Everygame five across separate casino, sports and live sub-domains, alongside 22Bet country domains for Kenya, Nigeria and Uganda. Polymarket appears once, at number 97. Denmark's targeting test fires on any single indicator - Danish language, Danish currency, Denmark-only payment cards, Danish-language customer service, a Steam connection, or a product mix aimed at Danish players such as odds on lower national leagues. Read as a product specification rather than a legal test, that list is a fair description of everything a platform needs to be able to switch off cleanly on a per-market basis rather than inherit from a global default: language packs, currency and card acceptance, support routing, and market-level sportsbook coverage. Minister Jakob Engel-Schmidt said: \"If you want to take part in the Danish market, you also have to play by the Danish rules. You cannot target your business at Danish consumers and make money from Danes while believing that the Danish rules do not apply to you.\" On the prediction-market entry specifically he added: \"A human life is not a betting slip. War should not be something you can sit at home on the sofa and speculate on to make money.\" Polymarket told broadcaster DR it intends to test the decision legally, as it is doing with the French ANJ block ordered on 16 July. That now makes at least three European jurisdictions where event-contract product carries live regulatory risk, which is worth reflecting in roadmap sequencing and contractual indemnity positions rather than treating prediction markets as a purely US question. Spillemyndigheden has run court blocking cases twice a year since 2024, blocked 334 sites through the courts in 2025, and has now blocked 870 domains cumulatively since 2012.",
+      "source": "https://europeangaming.eu/portal/latest-news/2026/08/20/212965/denmark-blocks-polymarket-and-97-other-sites/",
       "tags": [
-        "Romania",
-        "Regulation",
-        "Europe",
-        "Licensing"
+        "Denmark",
+        "Black market",
+        "Enforcement",
+        "Prediction markets"
       ]
     },
     {
-      "title": "PAGCOR forecasts 2026 revenue down 18% to PHP87bn, blaming a 40% activity drop after e-wallet delinking",
-      "text": "PAGCOR now expects 2026 revenue of nearly PHP87bn ($1.41bn), down 18% and PHP19.08bn below 2025, chairman and CEO Alejandro Tengco told a House Committee on Appropriations hearing on 24 August. The cause he names is specific: gaming activity fell roughly 40% after e-wallets were delinked from online gambling platforms in late 2025. \"We experienced a downtrend of about 40 percent in gaming activities because it's not as easy as before when platforms were linked,\" he said. The half-year numbers show where the damage landed. Total first-half revenue fell 26.64% to PHP43.32bn, but eGames, eBingo and bingo grantees dropped 41.85% to PHP18.60bn while licensed casinos fell only 3.85% and PAGCOR-operated casinos 8.67%. Almost the entire decline is online, and almost the entire online decline traces to a payments decision rather than a demand one. That makes this the most useful published natural experiment available on what happens when a market's dominant deposit rail is severed: not a gradual erosion but a step change, with only partial recovery - Tengco reported activity up 10% in July and stable in August, still well below the prior baseline. For anyone treating the cashier as a conversion optimisation problem, this is the counter-example. In markets where one rail dominates, payments architecture is the demand curve, and a regulatory change to that rail is a revenue event of a size no CRM programme can offset.",
-      "source": "https://agbrief.com/news/philippines/24/08/2026/pagcor-sees-2026-revenue-falling-18-amid-gaming-slowdown/",
+      "title": "NSW to mandate facial recognition at pokies rooms, ban gaming VIP programs and move to account-based play",
+      "text": "New South Wales has announced a reform tranche that reads less like a policy statement and more like a procurement notice. All pubs and clubs will be required to install facial recognition technology at gaming room entrances, VIP programs linked to gaming will be banned, and the current patchwork of venue-level voluntary self-exclusion - where enforcement is \"largely left up to individual venues and staff to monitor compliance\" - will be replaced by a statewide exclusion register, \"backed by mandatory facial recognition technology at the entry of gaming rooms - meaning when someone makes the difficult decision to exclude themselves, that exclusion can follow them from venue to venue.\" Both land in 2028. Alongside that, the government will spend two years upgrading the Centralised Monitoring System to enable a transition to account-based play, which it says has been held back by legacy technology. The framing there is the most interesting part: \"rapid advancements in technology since the Cashless Gaming Trial have demonstrated there are many account-based play solutions that can be implemented to meet the anti-money laundering and harm minimisation benefits of cashless, while allowing players to continue using cash if they prefer.\" In other words NSW has decoupled account-based play from cashless payment, which is a more tractable engineering problem and a much easier political one. Marketing rules tighten too: betting service providers will be barred from direct marketing by call, email or text without prior express consent, gambling advertising on state and council-owned assets will be prohibited, and new transparency requirements will apply to affiliate and social-media-influencer promotion, with restrictions on commissions linked to higher-risk products. The forfeiture rate on traded gaming machine entitlements rises from one in three to one in two, and a new \"sinking cap\" will accelerate reduction of the 87,000 machines across 2,100 venues. AU$95.2m is committed over four years. Minister for Gaming and Racing David Harris said the reforms were \"developed alongside industry, harm minimisation groups, stakeholders and privacy experts\". For vendors, the addressable pieces are a state-scale exclusion register with real-time venue enforcement, biometric identity integration, land-based wallet and player-account infrastructure, and consent-state management in CRM - all with a firm 2028 date attached.",
+      "source": "https://asgam.com/2026/08/25/mandatory-facial-recognition-tech-and-a-ban-on-vip-gaming-programs-among-new-poker-machine-reforms-targeting-nsw-pubs-and-clubs/",
       "tags": [
-        "Philippines",
-        "Payments",
-        "Regulation",
-        "Asia"
+        "Australia",
+        "Safer gambling",
+        "Biometrics",
+        "Account-based play"
       ]
     },
     {
-      "title": "Brazilian Senate bill would cap betting deposits at BRL80 a month unless the player proves income",
-      "text": "Senator Camilo Santana has tabled PL 3765/2026, amending Brazil's Law 14.790/2023 to impose a standard monthly deposit cap of BRL80 (about $15.40) per bettor, rising to as much as 5% of declared income where the player submits proof of financial capacity. Any deposit above the permitted limit would have to be returned immediately, on top of sanctions already in the existing framework, and the Ministry of Finance would be empowered to update the cap over time to preserve its real value. The bill cites German and Belgian practice as reference points. It is early - PL 3765/2026 is in tramitation in the Senate and has every stage of legislative analysis still to clear, so BRL80 should be read as an opening position rather than a number to build against. But the structure is what matters, not the figure. An income-linked cap turns the cashier into an affordability gate and makes the default player experience economically marginal, which means the 5% uplift path is not an edge case but the main journey for any customer worth acquiring. That requires document capture, income verification, and a per-player dynamic limit enforced consistently across every deposit channel, in a market where Pix accounts for the overwhelming majority of transactions. It lands during an unusually hostile legislative season in Brazil, alongside separate proposals on advertising restrictions, a prohibition plebiscite, and state-level advertising bans of the kind Minas Gerais signed last week.",
-      "source": "https://www.yogonet.com/latinoamerica/noticias/2026/08/24/110344-brasil-un-nuevo-proyecto-de-ley-propone-un-tope-estandar-de-usd-15-mensuales-para-depositos-en-apuestas",
+      "title": "DraftKings runs prediction-market ads in California, Texas, Florida and Georgia at sportsbook promo rates",
+      "text": "DraftKings started running state-specific marketing for DraftKings Predictions on Monday 24 August in California, Georgia and Texas, where sportsbooks are not legal, plus Florida, where the Seminole Tribe holds a sports betting monopoly. The creative says the product is \"now live in\" each named state, and the offer is a straight lift of the sportsbook promotion: spend $5, get $200 in bonuses. Ad-tracking firm Aldrin Research reported the ads went live \"in the past 24 hours across California, Florida, Georgia and Texas, offering new customers $200 after a $5 first trade,\" with fine print noting that \"Event Contract Trading is offered by DraftKings Predictions, a CFTC-registered\" entity. The product has been available in all four states since December 2025, so the news is not availability but the decision to spend acquisition budget at sportsbook-grade promo levels in the four largest states US operators cannot otherwise address. That changes the addressable-market arithmetic for anyone selling platform infrastructure into the US, because it means wallet, bonusing, RG and reporting now have to serve CFTC-regulated event-contract flows and state-licensed sportsbook flows side by side, in the same states, under two different rulebooks - and the bonusing example here shows operators intend to run recognisably gambling-style promotional mechanics on the derivatives side. The plumbing is also revealing: DraftKings Predictions operates as a futures commission merchant, routing customers to Crypto.com for most sports contracts, CME for some non-sports contracts, and its own exchange DKeX for some sports contracts. In July, annualised volume across all exchanges was $11bn, implying just under $1bn in the month, or roughly $30m a day. DKeX, launched in June, processed only $525,000 on Monday - likely under 5% of DraftKings Predictions' volume and less than 0.05% of Kalshi's that day. The direction of travel is clear: DraftKings self-certified parlays for DKeX earlier this month, potentially in time for football season, and the economics of internalising exchange flow rather than routing it are exactly why operators will want matching-engine, market-making and settlement infrastructure of their own.",
+      "source": "https://www.ingame.com/draftkings-predictions-ad-non-sportsbook-states/",
+      "tags": [
+        "US",
+        "Prediction markets",
+        "Marketing",
+        "Market entry"
+      ]
+    },
+    {
+      "title": "Brazil's Treasury reveals bettors deposited BRL220.6bn with licensed operators in 2025",
+      "text": "Brazil's Secretaria de Premios e Apostas has disclosed that bettors deposited BRL220.6bn - roughly US$42.6bn - with federally licensed operators during 2025. Of that, BRL183.7bn was returned to players as prizes and withdrawable bonuses, leaving BRL36.9bn of sector gross gaming revenue. The GGR number had been public since early in the year; the deposit total had not, and it only emerged because Folha de Sao Paulo filed a freedom-of-information request. Secretary of Prizes and Bets Daniele Correa Cardoso told Folha the data are preliminary and may be revised until verification and consolidation conclude, and the figures cover only federally licensed operators, excluding state-lottery-authorised and illegal activity. The reason this matters more than a normal market-size datapoint is the argument it lands in. Comsefaz, the national committee of state and federal district finance secretaries, has claimed Brazilians sent BRL350.97bn to bets and lost BRL62.5bn. The Associacao Nacional de Jogos e Loterias called that data \"false\", noting the figures are far above the BRL36.9bn of gross revenue the SPA itself published, and alleged the study may include \"accounts linked to illegal companies, which generates a distorted view of the regulated market\". ANJL said the industry \"once again speaks out against irresponsible, biased and generalised disclosures of financial data that do not correspond to the reality of the sector\". Whoever is right, the mechanism by which this gets settled is reporting quality. A licensee that can produce deposits, withdrawals, bonus liability and net GGR cleanly from its own platform, reconcile them line by line against what it filed with the SPA, and show the split between recycled balance and genuine new money, has an argument to make in public. A licensee that cannot will keep being described by somebody else's spreadsheet - and in Brazil that spreadsheet increasingly informs deposit caps, advertising bans and tax proposals.",
+      "source": "https://www.yogonet.com/latinoamerica/noticias/2026/08/21/110305-los-brasilenos-apostaron-mas-de-usd-42000-millones-en-2025",
       "tags": [
         "Brazil",
+        "Market data",
         "Regulation",
-        "Payments",
-        "Affordability"
-      ]
-    },
-    {
-      "title": "Study estimates 174bn illegal World Cup stream views, 95% carrying unregulated gambling advertising",
-      "text": "A Gaming Compliance International study led by Ismail Vali estimates that illegal streams lasting at least 90 seconds generated 174.3 billion views during the 2026 World Cup, an average of 1.68 billion per match, with 6.2 billion on the Spain v Argentina final alone. Of those qualifying views, 95% carried advertising for unregulated gambling, and GCI's monitoring found affiliate arrangements paying illegal streaming operators between 25% and 50% of net gaming revenue from referred customers. \"The World Cup did not create the unregulated gambling problem. It exposed the ecosystem supporting it,\" Vali said, describing unregulated gambling as \"the short-term revenue engine fuelling illegal streaming\". The number that will get quoted is 174 billion; the number that matters is the revenue share, because it converts piracy from a rights-holder problem into a black-market acquisition channel with a measurable commercial mechanism. Regulators currently have no instrument that touches it. A UK Gambling Commission spokesperson would say only that \"we recognise that illegal sports streaming can present risks in this context\", noting PIPCU leads on streaming, and Bird & Bird's Markus Korner described DNS blocking after April's Cologne ruling against LiveTV.sx as \"not a wonder tool\". GCI also recorded 2 billion illegal views for the England-France third-place match, above the tournament average, after the BBC's streaming failures - a correlation Vali calls \"displacement and replacement\" while stopping short of claiming causation.",
-      "source": "https://igamingbusiness.com/marketing-affiliates/has-illegal-streaming-become-the-black-markets-main-benefactor/",
-      "tags": [
-        "Black market",
-        "Data rights",
-        "Affiliates",
-        "Global"
+        "Reporting"
       ]
     }
   ],
   "platformLens": [
     {
-      "title": "The industry solved the hard data-sharing problem and skipped the easy one",
-      "text": "UK operators already exchange special-category health data between direct competitors. GamProtect moves a defined field set - full name, date of birth, postcode, email, phone, a unique customer identifier and a closure flag - whenever an operator closes an account on health grounds, and participating firms match it against live databases to close accounts elsewhere. Tim Miller said 5,527 customers had been flagged since the 2023 pilot, with 88% matched by at least one other operator, and a flagged person stays subject to matching for five years, extendable to 35, plus a seven-year archive. That is a working, lawful, cross-competitor data exchange on the most sensitive category of personal data there is. Nothing equivalent exists for payment fraud, where UK Finance members reported GBP1.28bn stolen in 2025 and remote purchase card fraud alone hit GBP423.5m across 3.2 million cases. The financial sector's Cifas database holds around two million records, takes a case every 90 seconds and claims to prevent over GBP1bn of losses a year on the principle that fraud is \"a non-competitive issue\". Payment Expert's argument is that the blockers are commercial, not legal: the acquirers and orchestration platforms holding cross-market data already sell fraud scoring as a product, and the Data (Use and Access) Act 2025 has pre-approved crime and fraud prevention as a processing purpose since February. If you can justify sharing health data, the fraud case writes itself.",
-      "source": "https://paymentexpert.com/2026/08/24/gambling-firms-share-health-not-fraud/",
-      "sourceLabel": "Payment Expert"
+      "title": "Ask your CRM what it does when the risk score goes up",
+      "text": "Bet442's Head of Compliance Andy Coyne offered the cleanest safer-gambling audit test published this month: \"Look at what your CRM does when a customer's risk score goes up. If the volume of promo activity goes up with it, you've got your answer.\" That is implementable as a suppression rule between risk scoring and campaign orchestration, and it is a question worth being able to answer with a screenshot rather than a policy document - because most stacks detect harm in one system and send campaigns from another, with nothing wired between them. His reactivation warning is the same problem in a different costume: \"Somebody's been quiet for three months. Might be a lapsed customer. Might also be someone who's finally got a grip on it, and you're about to undo that for a tenner and a bit of GGR.\" And the commercial honesty is useful for anyone selling RG tooling on an ROI story: \"Better harm detection suppresses revenue. It has to. Operators who've modelled that will be fine.\"",
+      "source": "https://sbcnews.co.uk/features/2026/08/21/bet442-premier-league/",
+      "sourceLabel": "SBC News interview"
     },
     {
-      "title": "Copying the interface is cheaper than buying the licence",
-      "text": "BetMGM is the largest US sportsbook that has stayed out of prediction markets, and its football-season app redesign imports their conventions wholesale: odds displayable as percentages and settable as the default, plus graphs charting how a bet's cash-out value has moved over time. Product Management Leader Brittany Dunbar was explicit about where it came from - \"We've talked to our players a lot this past year, around prediction markets for those who dabble in prediction markets. What do they like? What do they not like? So we're trying to glean some of those learnings and pull through what makes sense into our experience\" - and on the charts, \"this is one of the things that we really like that the prediction market apps do today\". The interesting concession is what this implies about why customers went. If the pull was probability-native pricing and visible position history rather than the exchange mechanism itself, then the defensible response is a presentation-layer change, not a regulatory one. Note the timing too: the CFTC has been pushing prediction markets away from American-style odds at the same moment a sportsbook moves toward percentages, so the two categories are converging on display from opposite directions. Dunbar was careful about scope - \"at the end of the day we're not going to do everything that a FanDuel or DraftKings does, or what a Kalshi or a Polymarket does\" - which is a reasonable position when your half-owner's Nevada licences make the alternative unavailable.",
-      "source": "https://www.ingame.com/betmgm-app-updates-predictions/",
-      "sourceLabel": "InGame"
+      "title": "Closed-loop withdrawals is a cashier rebuild with a date on it",
+      "text": "Action 10 of Ireland's new national AML implementation plan requires gambling service providers to adopt a closed-loop system whereby payments to customers are made using the same payment account used for depositing, with the GRAI as responsible body and Q2 2027 as the deadline. Stated as policy it sounds like a checkbox; built, it means the wallet has to persist deposit-instrument identity per transaction, handle expired, closed and replaced cards without stranding a payout, cope with partial and multi-instrument deposits, and emit an audit trail linking every withdrawal to its originating rail. Alongside it sit an industry standard for accepting crypto as a source of funds, mandatory licensing for private members' clubs, and penalty powers for every AML supervisor by the same date - against a EUR2,000 aggregate CDD trigger and GRAI fining power of EUR20m or 10% of turnover. That is a defined build window, not a consultation.",
+      "source": "https://europeangaming.eu/portal/latest-news/2026/08/18/212836/ireland-national-aml-strategy-gambling/",
+      "sourceLabel": "European Gaming"
     },
     {
-      "title": "Certification is not the control; lifecycle configuration is",
-      "text": "Ontario's AGCO fined Booming Games C$70,000 because prohibited auto-play functionality was live to Ontario players for several months across titles including TNT Bonanza, Cash Pig, Buffalo Hold and Win and The Wild Wings of Phoenix. The finding was not that the supplier disputed the rule - auto-play has been banned in Ontario since 2021 - but that it \"failed to properly configure, test and monitor certain games before and after they launched\". The regulator's own framing is the part to underline: registered suppliers are responsible for compliance \"before they are made available to players and throughout their lifecycle\". That is a governance requirement, not a certification one, and it is the standard failure mode for anyone shipping a single title into a dozen markets with divergent game-design standards. Ontario also mandates minimum intervals between spins and prohibits features that disguise losses as wins; each of those is a per-jurisdiction configuration flag that has to survive every subsequent release. Dr Karin Schnarr put it plainly: \"Ontario's game design standards are fundamental player-protection measures built into the regulated iGaming market - they are not optional technical requirements.\" The AGCO says it found this through \"proactive and targeted compliance efforts\", which means regulators are now testing live products rather than reading submissions. This is the second AGCO supplier action this month, after a C$120,000 penalty against Betty Gaming over underage access.",
-      "source": "https://igamingbusiness.com/legal-compliance/agco-fines-supplier-70000-for-auto-play-feature-breach-in-ontario-slots/",
-      "sourceLabel": "iGaming Business"
+      "title": "In Europe, the route to event contracts runs through the licence you already hold",
+      "text": "inbet is launching a prediction-market-style product in Bulgaria with Predikto supplying pricing, risk and real-time feeds - and it is doing so inside its existing online gambling licence, using a statutory category that already covers \"games with betting on random events and betting related to knowledge of facts\". There is no standalone prediction-markets route in Bulgaria; applicants have to be licensed primarily as a gambling operator that happens to offer event contracts. That is materially faster than the Gibraltar path, which remains the only bespoke European framework and currently has one fully licensed platform. The read-across is that the near-term European demand is not for a prediction-market platform but for event pricing, settlement and risk modules that bolt onto a licensed sportsbook with the compliance wrapper already in place - and that operators in other CEE markets with comparable statutory categories will start asking whether the same reading works for them.",
+      "source": "https://sbcnews.co.uk/sportsbook/2026/08/17/bulgaria-prediction-markets/",
+      "sourceLabel": "SBC News"
     },
     {
-      "title": "If certainty gets cheap, the bet delay becomes a choice you have to defend",
-      "text": "Genius Sports now has exclusive rights to capture and distribute official betting data for 18 European Leagues Association member leagues, and has computer vision systems in European stadia collecting 10,000 data points from every player 200 times a second. Commercial director James McKiernan's argument is that this removes the justification for blanket in-play delays: \"At the moment, in-play bet delays exist where operators and their customers don't want them. But if we know the ball is going out for a goal kick and it's going to take six to seven seconds for that ball to come back in play, you should be able to accept bets with no delays... Why would you need a bet or cash-out delay when you know for certain that it's a goal kick?\" He extends the same logic to resulting player markets like shots, which is where disputes and manual adjustments concentrate. Delays exist because operators cannot be certain what has just happened; if certainty becomes cheap, the delay stops being a risk necessity and becomes a visible product decision. LeoVegas's James Derbyshire adds the demand-side half of the same shift, saying the market has \"gone full circle\" from maximising market counts to curating relevance, and names bet-builder combinability as the outstanding frustration: \"Customers don't understand why certain outcomes can't be combined.\" Both points push in the same direction - fewer, faster, more combinable markets, underwritten by data good enough to price without hedging behind latency.",
-      "source": "https://igamingbusiness.com/sports-betting/football-betting-evolving-new-season/",
-      "sourceLabel": "iGaming Business"
+      "title": "The funding bar just moved to $1m a day, fee-free, at 2am on a Sunday",
+      "text": "ProphetX and EDGE Markets have gone live with 24/7 banking rails giving eligible traders daily deposit limits of up to $1m with no fees, real-time fund movement outside banking hours, and a dedicated FDIC-insured account separating trading capital from everyday finances. The amount is striking but availability is the sharper point - as EDGE puts it, \"nights, weekends, and live market events are exactly when the traditional banking system creates delays\", which is also a fair description of when sportsbook customers try to deposit. EDGE has closed a $29m Series A, says it has processed more than $2bn, runs similar arrangements with Kalshi and Polymarket, and is now building EDGE Connect, \"the industry's first purpose-built payment rail, engineered specifically for the regulated gaming and prediction market ecosystems\". A vertical-specific rail owned by a third party is a strategic question for anyone whose cashier is a core part of the platform proposition: integrate, partner, or compete.",
+      "source": "https://www.covers.com/industry/prophetx-edge-partnership-prediction-market-deposit-funding-247-august-2026",
+      "sourceLabel": "Covers"
     }
   ],
   "watchlist": [
     {
       "title": "Regulatory watch",
-      "text": "Four dated threads. South Africa's National Gambling Board closes its expression of interest for an illegal-site blocking provider on 4 September, having pushed the deadline back from 7 August, with the Internet Service Providers' Association formally opposing administratively ordered blocking and SABA's chief executive Sean Coleman warning it is \"not a silver bullet\". Ghana's domestic odds restriction bites when the 2026/27 Ghana Premier League kicks off on 5 September, giving trading teams under two weeks to establish what it means for market availability. Brazil's PL 3765/2026, the BRL80 income-linked deposit cap, is in Senate tramitation with no scheduled vote, while the Finance Ministry separately targets end-2026 for its real-time betting monitoring room. And Denmark's Supreme Court hears the DK Gambling player-funds case on 10 March 2027, with the High Court's finding that player balances are specially protected against the estate standing until then.",
+      "text": "Ireland's GRAI has four named AML actions due Q2 2027, including a hard closed-loop withdrawal mandate and a crypto source-of-funds standard. NSW has committed to a statewide exclusion register with mandatory facial recognition and a Centralised Monitoring System upgrade toward account-based play, both landing in 2028. France's 18-25 loss limits survived the summer session even as the whistle-to-whistle ad ban was rejected, with the 2027 Budget the next risk window. Albania's Licensing Commission has still to open the competition for its ten online betting licences. Kalshi must comply with Washington's geofencing order by 2 September, and its CEA-over-IGRA preemption argument in New Mexico is now fully briefed.",
       "links": [
         {
-          "label": "South Africa NGB blocking EOI",
-          "url": "https://igamingbusiness.com/legal-compliance/south-africa-ngb-blocking-plan-advances-eoi-deadline-approaches/"
+          "label": "Ireland AML plan",
+          "url": "https://europeangaming.eu/portal/latest-news/2026/08/18/212836/ireland-national-aml-strategy-gambling/"
         },
         {
-          "label": "Ghana FA odds restriction",
-          "url": "https://focusgn.com/africa/ghana-football-association-restricts-betting-odds-on-domestic-matches"
+          "label": "NSW reforms",
+          "url": "https://asgam.com/2026/08/25/mandatory-facial-recognition-tech-and-a-ban-on-vip-gaming-programs-among-new-poker-machine-reforms-targeting-nsw-pubs-and-clubs/"
         },
         {
-          "label": "Brazil PL 3765/2026",
-          "url": "https://www.yogonet.com/latinoamerica/noticias/2026/08/24/110344-brasil-un-nuevo-proyecto-de-ley-propone-un-tope-estandar-de-usd-15-mensuales-para-depositos-en-apuestas"
+          "label": "France sports bill",
+          "url": "https://sbcnews.co.uk/features/2026/08/12/france-control-sports-bill/"
         },
         {
-          "label": "Denmark player funds case",
-          "url": "https://focusgn.com/danish-regulator-wins-supreme-court-hearing-on-fate-of-player-funds-at-bankrupt-igaming-operator"
+          "label": "Albania framework",
+          "url": "https://sbcnews.co.uk/europe/2026/08/21/albania-4h-agency/"
+        },
+        {
+          "label": "Kalshi New Mexico brief",
+          "url": "https://www.ingame.com/kalshi-brief-preemption-applies-new-mexico/"
         }
       ]
     },
     {
       "title": "Competitor and supplier watch",
-      "text": "Kenneth Dart is the through-line this week: Candle Lake's rejected SEK695 mandatory offer leaves a persistent control overhang across Evolution, the largest live casino supplier in the market, days after the same vehicle took 5.8% of DraftKings. In New Zealand, SkyCity has disclosed and rejected two conditional approaches worth up to NZ$827.3m, one from an Oaktree-managed fund at NZ$0.70 a share, while continuing an asset monetisation programme targeting NZ$275m to NZ$300m. On the platform side, Betable has gone live with Delasport's sportsbook across eight brands with racing embedded natively rather than skinned, and 888AFRICA has layered Axom Gaming's decisioning engine over its existing CRM after a three-month test that reached 18% incremental NGR - both are bets on adding capability without replacing the core, which is the operating-model question most multi-brand operators are currently sitting on.",
+      "text": "Bally's going-concern language and the 99.91% evoke shareholder approval arrived on the same day, which puts contract terms across the William Hill, 888 and Bally's Intralot estate under review and makes GBP180m of promised synergies a live platform-rationalisation question. Digitain has taken a brand-new UK licensee on a full turnkey basis, which is worth noting as a cost-of-ownership datapoint in the most expensive regulated market in Europe. DigiPlus is one conversion away from a controlling 53.89% stake in IEC and LaVie in Manila. Playnetic's arrival on Light & Wonder OpenGaming, on top of Relax, QTech, Hub88, Stake and White Hat Gaming, is another reminder that content exclusivity is not a moat and certification velocity is.",
       "links": [
         {
-          "label": "Evolution rejects Candle Lake",
-          "url": "https://igamingbusiness.com/strategy/ma/evolution-recommends-rejection-mandatory-candle-lake-takeover-offer/"
+          "label": "Bally's Q2 disclosure",
+          "url": "https://igamingbusiness.com/finance/ballys-q2-stock-slide/"
         },
         {
-          "label": "SkyCity rejected approaches",
-          "url": "https://agbrief.com/news/new-zealand/25/08/2026/skycity-says-it-rejected-two-conditional-takeover-proposals-worth-up-to-493m/"
+          "label": "evoke shareholder vote",
+          "url": "https://www.gamblinginsider.com/news/187804/evoke-shareholders-approve-ballys-deal-liquidity-concerns"
         },
         {
-          "label": "Betable and Delasport",
-          "url": "https://igamingbusiness.com/company-news/betable-selects-delasport-to-power-its-global-sportsbook-proposition/"
+          "label": "Digitain / Silkbet",
+          "url": "https://sbcnews.co.uk/technology/2026/08/24/digitain-silkbet-deal/"
         },
         {
-          "label": "888AFRICA and Axom Gaming",
-          "url": "https://sbcnews.co.uk/marketing/2026/08/24/888africa-marketing-crm/"
+          "label": "IEC / DigiPlus",
+          "url": "https://asgam.com/2026/08/24/non-cash-charge-sees-hong-kongs-iec-issue-fy26-profit-warning-on-expected-us64-million-loss/"
+        },
+        {
+          "label": "Playnetic / OpenGaming",
+          "url": "https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/"
         }
       ]
     },
     {
       "title": "Product team prompts",
-      "text": "Three questions worth asking this week. First, if the Dutch regulator has now published an open-source player risk model trained on two years of real data from 13 licensed casinos, can you explain where your own markers-of-harm scoring disagrees with it, and defend the difference? The KSA is explicit that adopting it \"offers no guarantees\", but a public benchmark changes the nature of the conversation. Second, on the cashier: the Philippine e-wallet delinking took roughly 40% out of gaming activity, and Brazil is debating an income-linked deposit cap that would require document capture and per-player dynamic limits across every rail. How much of your deposit journey assumes a single dominant method stays available and unrestricted? Third, on trading: OpenBet processed $3bn of World Cup stakes with player props up 130%, and Abelson's Jeevan Jeyaratnam describes a 91.00 to 121.00 correlated parlay landing twice inside a week as \"incredibly popular and hugely damaging\". Who owns the tension between the mix your product team is optimising for and the variance your trading team is carrying?",
+      "text": "Four questions worth taking into a roadmap session this week. Can you demonstrate, not assert, that campaign volume falls when a player's risk score rises? Can the cashier route a withdrawal back to the exact instrument that funded the deposit, and prove it, when Ireland requires it in Q2 2027? Are deposit-frequency counters, credit BIN blocking and age-scoped push and SMS suppression per-state toggles or bespoke builds, now that Colorado has published the template? And if a market taxes deposits and withdrawals rather than GGR, as Burundi now does at 10% each, does your wallet model that at the payments layer or does it quietly break?",
       "links": [
         {
-          "label": "KSA open-source risk model",
-          "url": "https://sigma.world/news/dutch-regulator-commissions-algorithm-analysing-player-behaviour/"
+          "label": "Bet442 on CRM and risk",
+          "url": "https://sbcnews.co.uk/features/2026/08/21/bet442-premier-league/"
         },
         {
-          "label": "PAGCOR on e-wallet delinking",
-          "url": "https://agbrief.com/news/philippines/24/08/2026/pagcor-sees-2026-revenue-falling-18-amid-gaming-slowdown/"
+          "label": "Colorado SB26-131",
+          "url": "https://www.playusa.com/news/colorados-sports-betting-credit-card-ban-and-daily-deposit-cap-become-law/"
         },
         {
-          "label": "OpenBet World Cup data",
-          "url": "https://sbcnews.co.uk/features/2026/08/21/new-football-season/"
+          "label": "Burundi order",
+          "url": "https://focusgn.com/africa/burundi-sets-licence-suspension-rule-for-unpaid-gambling-fees"
         },
         {
-          "label": "Genius Sports on bet delays",
-          "url": "https://igamingbusiness.com/sports-betting/football-betting-evolving-new-season/"
+          "label": "Sky Bet Ghost Leg",
+          "url": "https://sbcnews.co.uk/features/interviews/2026/08/25/sky-bet-ghost-leg-bet-builder/"
         }
       ]
     },
     {
       "title": "Developing stories",
-      "text": "The Kalshi preemption fight has acquired a new line of attack: Nevada is arguing to the Ninth Circuit that Kalshi's acceptance of North Carolina's 6% prediction-market tax undermines its claim that federal law bars state regulation, with Deputy AG Abigail Pace calling taxation and regulation \"both forms of regulation by the state\". Separately, CNN reports Polymarket referred dozens of suspected military insider-trading accounts to the DOJ before outside researchers flagged 152 accounts earning about $8m on war-related markets. In Virginia, the National Association Against iGaming has publicised $500,000 of Sports Betting Alliance contributions to five senators who backed SB 118, ahead of an expected 2027 push on a bill that would allow three online brands per casino at a 20% tax. And in Finland, the FA is investigating a Helsinki derby after multiple surveillance alerts on a 3-1 to 5-3 turnaround, with analyst Francesco Baranca saying \"nothing has changed despite last year's scandal\".",
+      "text": "Brazil's deposit-versus-GGR dispute between the SPA figures and Comsefaz's much larger claim is unresolved and is feeding directly into deposit-cap and advertising proposals. Chile's Polla complaint has been accepted by the court but no charges have been brought, and its requests reach payment providers and technology suppliers. The Active8Insights DMCA trail around 1xBet and Sportradar coverage sits alongside a securities class action in the Southern District of New York with a class period running to April 2026. And Kalshi's calibration claim is now contested on sample-selection grounds by Steve Ruddock, which matters because accuracy is becoming the sector's principal regulatory defence.",
       "links": [
         {
-          "label": "Nevada v Kalshi filing",
-          "url": "https://www.legalsportsreport.com/273810/nevada-uses-north-carolina-tax-to-challenge-kalshi-argument/"
+          "label": "Brazil deposit data",
+          "url": "https://www.yogonet.com/latinoamerica/noticias/2026/08/21/110305-los-brasilenos-apostaron-mas-de-usd-42000-millones-en-2025"
         },
         {
-          "label": "Polymarket DOJ referrals",
-          "url": "https://www.legalsportsreport.com/273817/cnn-polymarket-reported-possible-military-insider-trading-to-doj/"
+          "label": "Chile Polla complaint",
+          "url": "https://g3newswire.com/chilean-lottery-files-fresh-complaint-against-online-betting-operators/"
         },
         {
-          "label": "Virginia contributions",
-          "url": "https://www.legalsportsreport.com/273749/industry-group-against-online-casino-calls-out-va-political-contributions/"
+          "label": "1xBet / Sportradar takedowns",
+          "url": "https://igamingbusiness.com/offshore-gaming/1xbet-and-sportradar-deny-filing-google-copyright-claims/"
         },
         {
-          "label": "Finland match-fixing probe",
-          "url": "https://igamingbusiness.com/sports-betting/match-fixing-helsinki-derby-sparks-investigation/"
+          "label": "Ruddock on calibration",
+          "url": "https://straighttothepoint.substack.com/p/show-me-the-numbers"
         }
       ]
     }
@@ -178,557 +186,484 @@ window.briefingMeta = {
 window.briefingStories = [
   {
     "section": "Europe",
-    "title": "Romania's prime minister abruptly removes ONJN president Vlad-Cristian Soare after a year in post",
-    "meta": "SBC News | 24 Aug 2026",
-    "summary": "Vlad-Cristian Soare has been dismissed as president of Romanian gambling regulator ONJN just over a year into the role, with prime minister Ilie Bolojan appointing Valentin-Ioan Tomescu in his place. Soare announced his own removal on LinkedIn and said no reasons were given.",
-    "why": "Romania is one of the more configuration-heavy European markets to hold a licence in, and the regulator's direction of travel has been set almost entirely by its president. A change at the top with no stated rationale makes it much harder to plan against the reporting, blocking and self-exclusion workstreams Soare initiated, because none of them are yet locked into settled secondary legislation.",
-    "expanded": "Soare wrote that it was \"the greatest honor to represent the Romanian state as a dignitary\" and that while he was \"disappointed because my change was not made based on the principle of meritocracy\", he would \"not stop believing in our ability to do good\". He described himself as a technocrat and said that during his mandate \"the institution began to clean itself from the inside. We changed the leadership of the directorates, we ordered internal investigations and notified the criminal investigation bodies whenever we had clues.\" The exit lands against a run of corruption cases at the regulator: Ana-Maria Badea, now former deputy director general, is suspected of repeated bribery in a case reported on 31 July 2026, and Odeta Kristanela Nestor, ONJN president between 2013 and 2017, was taken into custody in June. Under Soare, ONJN banned prediction markets including Polymarket and Kalshi in April 2026, blocked a further 1,300 illegal gambling websites, and cut the licensed operator count from around 200 to fewer than 100. He also drove a fully digital national self-exclusion scheme and negotiated a first tranche of roughly EUR5m in grants for problem-gambling social projects under the 'Conscious and Free' initiative. His predecessor was forced out after a 2025 Court of Auditors audit identified close to EUR1bn in missing gambling taxes.",
-    "source": "https://sbcnews.co.uk/europe/2026/08/24/romania-onjn-soare/",
-    "tags": [
-      "Romania",
-      "Regulation",
-      "Europe",
-      "Licensing"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "BGC forecasts GBP1bn of Premier League bets going to unlicensed operators by the 2027/28 season",
-    "meta": "SBC News | 24 Aug 2026",
-    "summary": "The Betting and Gaming Council says GBP800m will be staked with unlicensed operators during the 2026/27 Premier League season and GBP1bn during 2027/28, attributing the escalation in part to April's planned rise in General Betting Duty from 15% to 25% on top of the remote gaming duty increase from 21% to 40%.",
-    "why": "The trade body has moved from arguing that tax rises are painful to arguing that they are causally channelling volume offshore, and it has attached specific per-weekend numbers to the claim. Whatever one makes of the methodology, this is now the frame every UK product and compliance decision will be argued in for the next two seasons, including affordability friction, payment declines and account-journey drop-off.",
-    "expanded": "The BGC research also claims GBP15m to GBP20m will be staked on illegal sites on a typical Premier League weekend. Chief executive Grainne Hurst said: \"Millions of football fans will enjoy a bet safely with regulated operators this season, backing their team week in, week out. But the criminal black market is looking to cash in too, taking millions of pounds on every round of matches while offering customers none of the protections found in the regulated sector. These operators pay no tax, fund nothing and answer to no one. Every pound they take is a pound lost to British sport and to the Treasury.\" She added that with illegal betting \"on course to reach GBP1bn a season, we support action that protects fans, upholds standards and keeps customers safe within the regulated market\". The 2026/27 season kicked off on 21 August. The BGC and operators including Entain have separately argued that the Gambling Commission's proposed financial risk assessments push customers offshore; Entain has taken complaints about unlicensed-operator sponsorship to the Independent Football Regulator, the Premier League and six clubs. Everton continues to partner Stake, which exited the UK last year.",
-    "source": "https://sbcnews.co.uk/sportsbook/2026/08/24/premier-league-black-market-to-reach-1bn/",
-    "tags": [
-      "UK",
-      "Black market",
-      "Tax",
-      "Sportsbook"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Evolution board tells shareholders to reject Candle Lake's SEK695-per-share mandatory offer",
-    "meta": "iGaming Business | 24 Aug 2026",
-    "summary": "Evolution AB's board has recommended shareholders reject the SEK695 ($72.89) per share mandatory cash offer from Candle Lake Limited, Kenneth Dart's investment vehicle, saying it does not reflect fair market value and was made only to satisfy a legal obligation triggered when Candle Lake crossed 30% ownership.",
-    "why": "A supplier of Evolution's scale sitting under a contested control situation is a live counterparty question for anyone with live casino content in their aggregation stack. The board's argument that the bidder has no genuine appetite to acquire the whole company also tells you the overhang is likely to persist rather than resolve, which is the more awkward outcome for roadmap and commercial planning.",
-    "expanded": "Candle Lake made the offer on 13 August after lifting its stake above 30% in July by acquiring an additional 2,050,000 shares; Swedish takeover rules oblige any holder above 30% to bid for the remainder. The bid values Evolution at roughly SEK131.7bn. The board said in its Monday statement that the offer \"does not reflect the fair market value of Evolution\", and noted: \"The board of directors further notes that Candle Lake has stated that its plans for the future business and general strategy of Evolution, following the offer, do not currently include any material changes with regard to Evolution's future operations. The board of directors assumes that this is correct and has no reason to take a different view in any relevant respect.\" Candle Lake has said it would delist Evolution from Nasdaq Stockholm if it secured more than 90%. Evolution shares traded up 0.51% to SEK824.20 on the day, well above the offer price. The bid follows a difficult stretch for the supplier: a GBP4.75m UK Gambling Commission settlement over anti-money laundering and customer due diligence failings that came close to a licence suspension, and the collapse of its $85m Galaxy Gaming acquisition in July when the closing period expired.",
-    "source": "https://igamingbusiness.com/strategy/ma/evolution-recommends-rejection-mandatory-candle-lake-takeover-offer/",
-    "tags": [
-      "Sweden",
-      "M&A",
-      "Live casino",
-      "Supplier"
-    ]
-  },
-  {
-    "section": "Europe",
-    "title": "Denmark's Supreme Court to decide whether player wallet balances survive an operator bankruptcy",
-    "meta": "Focus Gaming News | 24 Aug 2026",
-    "summary": "Spillemyndigheden has been granted permission to intervene in a Supreme Court case over whether money held in player gaming accounts at bankrupt operator DK Gambling ApS is protected from the estate's creditors. The High Court has already ruled for the player; the Supreme Court hears the case on 10 March 2027.",
-    "why": "This is a wallet-architecture question dressed as an insolvency case. If segregated player balances are confirmed as specially protected ahead of general creditors, the practical burden lands on the platform: you need a defensible, auditable record of exactly whose money is whose at any moment, not a ledger that only reconciles at settlement.",
-    "expanded": "DK Gambling ApS entered bankruptcy in April 2022 and its trustee refused to pay out player account balances on the basis that they were not specifically protected against bankruptcy, an interpretation the regulator argued contradicts Danish gambling legislation. A player sued with Spillemyndigheden's backing. The Maritime and Commercial Court initially found for the trustee, but the High Court overturned that in November, holding that funds in a gambling account with a bankrupt operator are specially protected and accrue to the customer ahead of other creditors of the estate. The regulator separately flagged that Jackpotbet A/S entered bankruptcy proceedings on 18 June 2026, causing its Danish online casino and betting licences to lapse, with affected players directed to trustee DLA Piper Denmark Advokatpartnerselskab. In parallel, Spillemyndigheden has ordered Danish ISPs to block a further 98 gambling websites including Polymarket, taking the total blocked since 2012 to 870. The regulator said the newly blocked sites deliberately targeted Danish users through Danish language, Danish currency and national symbols, native payment methods, Danish-language customer service and tailored marketing.",
-    "source": "https://focusgn.com/danish-regulator-wins-supreme-court-hearing-on-fate-of-player-funds-at-bankrupt-igaming-operator",
+    "title": "Denmark blocks 98 unlicensed gambling domains including Polymarket after Frederiksberg court ruling",
+    "meta": "European Gaming | 20 Aug 2026",
+    "summary": "Denmark's Ministry of Taxation and Economic Growth confirmed that Spillemyndigheden has secured DNS blocking of 98 domains, with telecoms operators enforcing the blocks on 6 August and the full list published on 19 August. Polymarket sits at number 97.",
+    "why": "The blocked list doubles as a specification. Denmark's targeting test fires on any single indicator - Danish language, Danish currency, Denmark-only payment cards, Danish-language support, or a product mix aimed at Danish players such as odds on lower national leagues - which means each of those is something a platform has to be able to switch off cleanly per market rather than inherit from a global default.",
+    "expanded": "The Frederiksberg court ruled in the regulator's favour on 8 July 2026; telecoms operators applied the blocks across every domain on 6 August, and the ministry published the case file and full domain list on 19 August. Danish users hitting a blocked domain are redirected to a notice telling them they are entering an illegal site. The list is dominated by mirror-domain estates rather than one-off brands: Leon accounts for eight entries, Ice Casino six and Everygame five, including separate casino, sports and live sub-domains. Also blocked are 22Bet country domains for Kenya, Nigeria and Uganda, plus Cbet, Instant Casino, iWild Casino, Drip Casino, Mr Bet, RocketPlay, SkyCrown, Velobet and Napoleon Casino's Belgian domain. Minister for Taxation and Economic Growth Jakob Engel-Schmidt said: \"If you want to take part in the Danish market, you also have to play by the Danish rules. You cannot target your business at Danish consumers and make money from Danes while believing that the Danish rules do not apply to you.\" On the prediction-market entry he added: \"A human life is not a betting slip. War should not be something you can sit at home on the sofa and speculate on to make money.\" Polymarket told Danish broadcaster DR it is disappointed and intends to test the decision through legal process, mirroring its challenge to the French ANJ block ordered on 16 July 2026. Spillemyndigheden has run court blocking cases twice a year since 2024 and blocked 334 sites through the courts in 2025; the cumulative total blocked since 2012 now stands at 870 domains.",
+    "source": "https://europeangaming.eu/portal/latest-news/2026/08/20/212965/denmark-blocks-polymarket-and-97-other-sites/",
     "tags": [
       "Denmark",
-      "Payments",
-      "Wallet",
+      "Black market",
+      "Enforcement",
+      "Prediction markets"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "Albania finishes its betting rulebook: 10 licences, 15% GGR, and two separate guarantee funds",
+    "meta": "SBC News | 21 Aug 2026",
+    "summary": "Albania has completed the regulatory work needed to relaunch online sports betting after seven years of prohibition, but has not yet opened the licensing competition. A maximum of 10 nationwide online sports betting licences will be awarded by the Licensing Commission alongside the AMLF.",
+    "why": "The financial thresholds are the story: a licence fee of no less than ALL 400m (about US$5m) for the ten-year term and mandatory prior-year turnover of ALL 2bn (about US$25m) screen out small operators entirely, so the ten winners will be established international groups arriving with no local build and a short runway - which is turnkey demand by construction.",
+    "expanded": "Online sports betting was re-legalised in February 2024, but the operative milestone came in March 2026 when the Council of Ministers adopted Decision No. 194 setting the competitive licensing procedure, eligibility criteria, evaluation methodology and timetable. The framework was completed in June 2026 with rules on suspension and revocation. As of August 2026 the competition has not opened and no licensed operators have launched; the next step is a Licensing Commission decision to open it. Conditions include a ten-year licence term, minimum share capital of ALL 40m (about US$500,000), a player-winning guarantee fund of at least ALL 12m (about US$150,000) and not less than 5% of the previous year's stakes, and a separate AML guarantee fund of ALL 50m (about US$625,000). Tax is 15% of GGR plus a 3% annual AMLF fee subject to a minimum of ALL 1.5m (about US$18,700). Land-based sports betting and standalone slot halls are no longer licensing categories, and online casino has no active framework. Analysis was provided by Stasya Yautodzyeva, Head of Analytics at 4H Agency, who describes a market of roughly 2.4 million people as \"small, difficult and potentially niche rather than a mass-market opportunity\" while noting high online penetration and betting demand that survived prohibition. Prime Minister Edi Rama has acknowledged prohibition failed to remove demand, pushing activity offshore and underground.",
+    "source": "https://sbcnews.co.uk/europe/2026/08/21/albania-4h-agency/",
+    "tags": [
+      "Albania",
+      "Market entry",
+      "Licensing",
+      "Taxation"
+    ]
+  },
+  {
+    "section": "Europe",
+    "title": "France rejects whistle-to-whistle ad ban but clears the way for loss limits on 18-25s",
+    "meta": "SBC News | 12 Aug 2026",
+    "summary": "An amendment to France's professional sports bill imposing a whistle-to-whistle gambling advertising ban and forbidding operator sponsorship of federations and clubs was rejected before the summer recess. Debates instead cleared the way for mandatory loss limits on 18-to-25 year olds.",
+    "why": "Age-banded loss limits are a different build from generic responsible-gambling settings. If this completes its passage, France becomes only the second regulated European market after the Netherlands to legislate cohort-specific limits for under-24s, and the limit logic has to key off verified date of birth, hold across brands and produce evidence a regulator will accept.",
+    "expanded": "The bill seeks to modernise oversight and financial controls over sports leagues, introduce governance rules for professional football and strengthen enforcement against audiovisual piracy. Belkhir Belhaddad, rapporteur for the commission overseeing the bill, told MPs backing the advertising amendment: \"Whether you like them or not, sports betting companies are a genuinely useful source of funding for the sporting world at a time when money is hard to find.\" The measures under discussion would also let the Autorite Nationale des Jeux increase the number of games moderators and supervise the loss levels players can be exposed to. The ANJ backed the whistle-to-whistle ban and lamented its rejection in its post-World Cup report, an unusually direct intervention from a regulator that has avoided opining on whether online casino should be regulated in France at all. Former ANJ president Isabelle Falque-Pierrotin had said she was not opposed to general industry advertising; new president Pascal Chevremont has said he considers existing advertising rules robust enough and that changes are a matter for lawmakers. According to the Association for the Protection of Sports Programmes, nearly 60% of France's estimated 9.9 million football fans watch matches via illegal streaming platforms. Discussions on the 2027 Budget start in September, ahead of the 2027 presidential election - the more likely window for tax and product restrictions.",
+    "source": "https://sbcnews.co.uk/features/2026/08/12/france-control-sports-bill/",
+    "tags": [
+      "France",
+      "Safer gambling",
+      "Advertising",
       "Regulation"
     ]
   },
   {
     "section": "Europe",
-    "title": "Dutch regulator funds an open-source AI model that scores player risk from two years of real casino data",
-    "meta": "SiGMA News | 21 Aug 2026",
-    "summary": "University of Amsterdam researchers have built a machine-learning model, commissioned and funded by the Kansspelautoriteit through its Addiction Prevention Fund, that estimates online casino players' risk behaviour from actual play data. The KSA describes it as an independent, transparent instrument and has published it open source.",
-    "why": "Every markers-of-harm model in commercial use today was built by or with operators, which is exactly the criticism the KSA is now answering with a public alternative. If regulators start benchmarking operator detection against a published model, the compliance question shifts from \"do you have a model\" to \"why does yours disagree with theirs\", and that is a data and explainability problem for the platform, not a policy one.",
-    "expanded": "The model was developed by PhD candidate Charles de Leau with professors Reinout Wiers in psychology and Johan Bollen in computer science. It analyses stake size and frequency, time of day including night play across consecutive days, and how players respond to winning and losing streaks, producing a risk score. Training used all bets placed by all players at 13 Dutch online casinos over the two years from 30 July 2023 to 30 July 2025, drawing on a Dutch legal provision requiring casinos to make user data available for independent research; De Leau is the first and so far only person to invoke it. The University of Amsterdam argued the model is needed because \"virtually all existing analytical tools\" for predicting addiction risk \"were developed by or in close cooperation with the casinos\", adding that \"with a public and independent model, regulators worldwide now have their own transparent frame of reference at their disposal, free from commercial interests\". The KSA said \"all forms of online gambling are included in this model\" and that \"in creating this model, a lot of inspiration was taken from the work of the Spanish gambling regulator, the DGOJ\". The regulator stressed that operator adoption \"offers no guarantees for them\" and can only be an additional part of duty-of-care measures.",
-    "source": "https://sigma.world/news/dutch-regulator-commissions-algorithm-analysing-player-behaviour/",
+    "title": "Ireland's first national AML strategy hands GRAI a closed-loop payments mandate for Q2 2027",
+    "meta": "European Gaming | 18 Aug 2026",
+    "summary": "Tanaiste and Minister for Finance Simon Harris launched Ireland's first national AML, CFT and counter-proliferation-financing strategy on 13 August, naming gambling among the sectors due for stronger oversight. Four of the plan's 30 priority actions name the GRAI as responsible body with a Q2 2027 deadline.",
+    "why": "Action 10 is the one with engineering consequences: gambling service providers must adopt a closed-loop system whereby payments to customers are made using the same payment account used for depositing. That forces the wallet to persist deposit-instrument identity, handle expired or closed cards gracefully, and produce an audit trail linking every payout to its originating rail - a cashier rebuild with a fixed date on it.",
+    "expanded": "The Priority Actions Implementation Plan, prepared by the Department of Finance's AML Policy Unit alongside the 2026 National Risk Assessment, converts the strategy into 30 numbered actions. Four apply to gambling, all with the Gambling Regulatory Authority of Ireland as responsible body and Q2 2027 delivery: Action 8 brings casino clubs operating machine-based gambling under a more robust framework with stricter enforcement of licence conditions and AML obligations; Action 9 establishes an industry standard for accepting crypto-related activity as a source of funds; Action 10 mandates closed-loop payments; Action 11 makes private members' clubs offering gambling subject to mandatory licensing. A separate action gives every AML/CTF supervisor power to impose financial penalties by the same date. Harris said: \"This Strategy underpins the most significant strengthening of Ireland's anti-money laundering framework in years.\" The strategy also applies the EU Transfer of Funds Regulation travel rule to crypto-asset transfers, with enhanced checks on private-wallet transfers. Irish operators have been designated persons under the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 since November 2018, supervised by the Department of Justice's Anti-Money Laundering Compliance Unit. Section 230 of the Gambling Regulation Act 2024 would transfer supervision to the GRAI but was expressly excluded from the commencement order effective 5 February 2026, so the transfer was not in place when the GRAI began issuing licences on 1 July 2026. Irish law already requires customer due diligence and source-of-funds establishment once amounts paid to or by an operator reach EUR2,000 in aggregate. The GRAI can fine licensees up to EUR20m or 10% of turnover, whichever is greater. The EU AML package replaces much of Ireland's national AML law with a single directly applicable rulebook from 10 July 2027, and Ireland faces its next FATF Mutual Evaluation in 2028.",
+    "source": "https://europeangaming.eu/portal/latest-news/2026/08/18/212836/ireland-national-aml-strategy-gambling/",
     "tags": [
-      "Netherlands",
-      "AI",
-      "Responsible gambling",
-      "Data"
+      "Ireland",
+      "AML",
+      "Payments",
+      "Crypto"
     ]
   },
   {
     "section": "Europe",
-    "title": "Slovak regulator signs research pact with Trnava university on loot boxes, skin betting and Gen Z harm",
+    "title": "New UK licensee Silkbet picks Digitain for a full turnkey stack rather than a multi-vendor build",
     "meta": "SBC News | 24 Aug 2026",
-    "summary": "The Slovak Gambling Regulatory Authority has launched a \"Safer Digital Future\" mandate under a memorandum with the Department of Digital Games at the Faculty of Mass Media Communication, University of St Cyril and Methodius in Trnava, focused on the convergence of video gaming and gambling.",
-    "why": "Regulators researching loot boxes and randomised reward systems tend to arrive at rules that catch gamification mechanics operators already run in-product: mystery boxes, wheels, collect-and-win layers. Slovakia is doing this while its legislative position is still open, so the research will shape the drafting rather than arrive after it.",
-    "expanded": "URHH defines Gen Z as 14 to 29 year olds and Generation Alpha as 1 to 13 year olds, and warns that repeated exposure normalises risk-taking and that the traditional boundaries between gaming and gambling are increasingly hard to define. Director general Libusa Baranova said: \"For Generations Z and Alpha, technology is not just a tool, but a natural environment in which they shape their identity, social relationships and worldview. They perceive the digital and real world as one interconnected whole. Therefore, if we want to effectively protect the young generation from the risks of the digital age, we must be one step ahead. We need to know in detail the specifics of the gaming industry, video game design and psychological mechanisms that affect young people.\" Julia Minarikova, acting dean of FMK UCM, said it is important to understand the mechanics of these products \"not only from the perspective of design and player experience, but also from the perspective of their possible risks\". The work begins with Slovakia's legislative position unsettled: the National Council is still weighing a broader review of the 2019 Gambling Act after President Peter Pellegrini vetoed a tightening package submitted by sports and tourism minister Rudolf Huliak, while signalling support for wider consumer-protection reform. Online casino gaming has become Slovakia's largest vertical.",
-    "source": "https://sbcnews.co.uk/social-responsibility/2026/08/24/slovakia-gen-z-gambling/",
+    "summary": "Armenia-headquartered Digitain has partnered with UK challenger brand Silkbet, supplying a full turnkey solution covering technology, sportsbook and iGaming for Silkbet's UK online operations. Silkbet secured its Gambling Commission licences in May 2026.",
+    "why": "A brand-new UK licensee choosing a single turnkey provider over an established UK-facing PAM plus separate integrations is a cost-of-ownership signal, not a feature-parity one. With remote gaming duty at 40% and a 25% remote betting rate landing in April 2027, new entrants cannot fund multi-vendor integration overhead, and that pushes procurement toward whoever can absorb the whole stack at one price.",
+    "expanded": "Silkbet's public register entry is 101183. CEO Ed Kelly said: \"We are incredibly proud to partner with Digitain as we take this exciting step into the UK market. While the UK betting industry has evolved significantly over the past decade, we believe something valuable has been lost along the way.\" Kelly added that \"the early years of online betting were defined by excitement, personality and a genuine focus on the customer\" and that Silkbet aims to combine \"the agility and customer focus of a boutique operator with the ability to scale\". Digitain's Chief Commercial Officer for Europe and Africa, Dario Jurcic, said: \"Being able to support operators in highly competitive regulated markets such as the UK with proven technology and comprehensive solutions is an important differentiator for us,\" describing the deal as \"another significant step in Digitain's European growth journey\". The agreement follows Digitain deals in Bulgaria in March 2026 and Serbia this year, plus a partnership with Romania's WINBET announced in May 2026; Jurcic has previously described Europe and Africa as two regions with \"enormous potential\" for the supplier. SBC News framed the launch against UK headwinds including tax rises, stricter KYC requirements and a growing black market - conditions under which the economics of a challenger launch depend heavily on how much of the stack is bought rather than built.",
+    "source": "https://sbcnews.co.uk/technology/2026/08/24/digitain-silkbet-deal/",
     "tags": [
-      "Slovakia",
-      "Regulation",
-      "Gamification",
-      "Player protection"
+      "UK",
+      "Platform",
+      "Turnkey",
+      "Market entry"
     ]
   },
   {
     "section": "Europe",
-    "title": "Finnish FA investigates Helsinki derby after monitors flag betting on a 3-1 to 5-3 turnaround",
-    "meta": "iGaming Business | 21 Aug 2026",
-    "summary": "Finnish football authorities and independent betting monitors have opened an investigation into Atlantis FC's 5-3 win over HIFK Football after the side trailed 3-1 at half-time, with the Finnish Football Association confirming it received multiple alerts from international betting surveillance companies.",
-    "why": "Integrity alerts on lower-profile fixtures are the direct cost of the market depth operators offer on them. The specific pattern here, three fast goals conceded and video of apparent deliberate errors, is the kind of event that ends with either narrower market availability on Finnish football or higher scrutiny of which feeds operators are willing to price from.",
-    "expanded": "As reported by Hufvudstadsbladet, the Finnish Football Association's integrity officer Kaj Bjorkqvist said several official sources had received information that may indicate match-fixing and that \"right now we are investigating the suspicions\". The match was played in front of roughly 1,000 spectators. Scrutiny centres on the opening 20 minutes in which HIFK scored three quick goals, with video clips showing an Atlantis goalkeeper appearing to mishandle the ball in his own area and a defender seemingly disengaging to allow an open-goal finish. All formal suspicion is directed at Atlantis rather than HIFK. Atlantis general manager Markku Ritala called the alerts \"very sad\" and admitted briefly questioning whether the goalkeeper's early error was deliberate; HIFK security chief and team manager Joona Haavisto backed the probe, calling match-fixing \"football's cancer\". Italian analyst Francesco Baranca said real-time monitoring indicates continued manipulation in Finnish football, stating: \"The big problem is that nothing has changed despite last year's scandal\", a reference to FC Finnkurd's expulsion from the league on match-fixing grounds. He described Finland's integrity system as \"a disgrace\" and blamed broad betting market availability on lower-tier matches. Last year the association banned 80 players over suspicious betting in floorball, and Veikkaus halted bets on elite men's floorball in Finland.",
-    "source": "https://igamingbusiness.com/sports-betting/match-fixing-helsinki-derby-sparks-investigation/",
+    "title": "Evoke shareholders approve Bally's Intralot takeover with 99.91% support despite twin going-concern flags",
+    "meta": "Gambling Insider | 18 Aug 2026",
+    "summary": "At a court meeting on 17 August, 99.91% of Evoke scheme shares were voted in favour of Bally's Intralot's acquisition of the William Hill and 888 owner - approximately 268.2 million shares for and 236,504 against, representing 59.55% of issued share capital.",
+    "why": "A GBP180m synergy target on a GBP243m deal implies aggressive vendor consolidation and platform rationalisation across the William Hill, 888 and Bally's Intralot estate. For any supplier with contracts on either side, that is a binary outcome - displaced entirely, or handed a much larger consolidated scope - and the decision gets made in the next two quarters, not after close.",
+    "expanded": "A separate special resolution needed to implement the transaction received 99.63% support, with 268.4 million shares in favour and fewer than one million against. The deal is expected to close in Q4 2026 or Q1 2027; Evoke said a number of antitrust and regulatory conditions have now been satisfied, with remaining conditions and court sanction still outstanding. Bally's agreed the takeover at GBP243m (US$326m) with promised synergies of GBP180m. The vote landed the same day Bally's shares fell nearly 30% after it disclosed liquidity and debt covenant concerns in its delayed Q2 filing, warning of \"substantial doubt about the Company's ability to continue as a going concern\". Less than a week before the vote, Evoke had itself identified two \"material uncertainties\" over going concern in its H1 2026 results: one that its directors have limited visibility over Bally's Intralot's \"ability and intentions to operate the group under its ownership\", the other the refinancing challenge if the deal fails, which Evoke called a \"significant execution challenge\". Evoke carries around GBP1.84bn (US$2.44bn) in borrowings, net leverage rose from 5.2x at end-2025 to 5.6x at 30 June, and it held GBP105.6m cash and about GBP150m total liquidity. Evoke's directors nonetheless said they have a \"reasonable expectation\" of sufficient resources through September 2027.",
+    "source": "https://www.gamblinginsider.com/news/187804/evoke-shareholders-approve-ballys-deal-liquidity-concerns",
     "tags": [
-      "Finland",
-      "Integrity",
-      "Sportsbook",
+      "UK",
+      "M&A",
+      "Operator",
+      "Finance"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "DraftKings runs prediction-market ads in California, Texas, Florida and Georgia at sportsbook promo rates",
+    "meta": "InGame | 25 Aug 2026",
+    "summary": "DraftKings began running state-specific marketing for DraftKings Predictions on Monday 24 August in California, Georgia and Texas - where sportsbooks are not legal - plus Florida, where the Seminole Tribe holds a sports betting monopoly. The creative says the product is \"now live in\" each named state.",
+    "why": "Prediction markets have stopped being a hedge and become the market-entry route for the four largest un-addressable US states, and the promo economics now match the sportsbook: a \"spend $5, get $200 in bonuses\" offer. That reframes the addressable-market question for any platform vendor, because wallet, bonusing and RG tooling now have to serve CFTC-regulated event-contract flows under a different rulebook in the same states.",
+    "expanded": "Ad-tracking firm Aldrin Research reported the ads went live \"in the past 24 hours across California, Florida, Georgia and Texas, offering new customers $200 after a $5 first trade,\" with fine print noting that \"Event Contract Trading is offered by DraftKings Predictions, a CFTC-registered\" entity. DraftKings Predictions has offered sports contracts in all four states since launching in December 2025. The business operates as a futures commission merchant, routing customers to Crypto.com for most sports contracts, CME for some non-sports contracts, and its own in-house exchange DKeX for some sports contracts. In July 2026, annualised total volume across all exchanges was $11bn, implying just under $1bn within the month, or roughly $30m per day. DKeX, launched in June 2026, processed only $525,000 on Monday - likely under 5% of DraftKings Predictions' total volume and less than 0.05% of Kalshi's volume that day. DraftKings self-certified parlays for DKeX earlier in August, with parlays potentially arriving in time for football season. The company generally offers sports event contracts where its sportsbook is unavailable, and non-sports contracts where the sportsbook is available. Reporting by Daniel O'Boyle.",
+    "source": "https://www.ingame.com/draftkings-predictions-ad-non-sportsbook-states/",
+    "tags": [
+      "US",
+      "Prediction markets",
+      "Marketing",
+      "Market entry"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Kalshi signs multi-year deals with five MLB clubs including the Dodgers and Red Sox",
+    "meta": "Covers | 25 Aug 2026",
+    "summary": "Kalshi announced marketing partnerships on 25 August with the Atlanta Braves, Boston Red Sox, Los Angeles Dodgers, San Diego Padres and San Francisco Giants, becoming \"official prediction market partner\" of each. All five are multi-year and cover nearly 17% of the league.",
+    "why": "Sponsorship is the legitimacy play, and it is moving faster than the litigation. League and club inventory converts event contracts from a legal grey zone into mainstream sports media, which creates a second class of buyer for team data, in-venue engagement and low-latency pricing feeds - tuned to exchange-style order books rather than bookmaker odds.",
+    "expanded": "Rights include in-stadium signage and LED boards, social and online channels, radio and fan activations. Kalshi takes naming rights to the Gold Glove Bar at Dodger Stadium, an indoor sports bar beneath the Left Field Pavilion overlooking the Dodgers bullpen, plus activations in Centerfield Plaza. Adam Barrick, Kalshi's head of sports partnerships, said: \"The idea is that fans are already engaging with their favorite teams on Kalshi, so it only makes sense to extend that fandom to some of the most beloved baseball teams in America.\" Kalshi said trading on baseball event contracts has grown more than 36-fold year over year, and nearly $60m has been traded in its World Series futures market alone. The five clubs have an estimated 60-65 million fans and around 9 million combined followers on X. Kalshi's prior sports partnerships were with the NHL, Chicago Blackhawks, LALIGA North America and the Argentine Football Association. Rivals moved first on MLB: Novig partnered with the New York Mets on 30 July 2026 and Polymarket with the New York Yankees on 6 August 2026. The Red Sox deal lands while a Massachusetts injunction against Kalshi's sports event contracts remains paused pending appeal. Reporting by Grant Mitchell.",
+    "source": "https://www.covers.com/industry/kalshi-strikes-marketing-partnerships-with-5-mlb-teams-aug-25-2026",
+    "tags": [
+      "US",
+      "Prediction markets",
+      "Sponsorship",
+      "MLB"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "DraftKings, FanDuel and Fanatics ask the CFTC to write minimum consumer-protection standards",
+    "meta": "Covers | 24 Aug 2026",
+    "summary": "Executives from DraftKings, Fanatics Betting and Gaming and FanDuel told the CFTC's Innovation Advisory Committee that clear standards on consumer protection, market integrity and advertising will be critical as prediction markets expand.",
+    "why": "This is the largest US operators lobbying to have responsible-gambling rules written into the federal derivatives regime, which means a second parallel compliance stack is about to be specified - DCM versus FCM distinctions, advertising standards, harm markers. Extending an existing RG engine, affordability check and marketing-suppression logic across both state-licensed and CFTC-regulated products is much cheaper than retrofitting after the standard lands.",
+    "expanded": "DraftKings CEO Jason Robins argued for identical protections regardless of access route: \"The rules for customers going directly to DCM versus those going through an FCM should be identical... There really is no distinction from the consumer protection perspective.\" DraftKings has previously reported more than 600,000 prediction customers through the first half of 2026 and described growth as exceeding expectations. Robins also warned participants against infighting after CME Group CEO Terry Duffy and Kalshi cofounder Luana Lopes Lara clashed over integrity and manipulation: \"Try to refrain from taking shots at each other's business models... All it does is sow divisions and distract the discussion towards debates that really aren't productive.\" Fanatics BG CEO Matt King focused on financial harm: \"While a vast majority of customers will use these products for profit or for fun, there is a small chunk of them that will have a problem using them,\" adding, \"I think we have an amazing opportunity because of the leadership in this room to take a leadership position around the issue and set super clear standards from Day 1.\" King warned of \"the backlash that would be inevitable\" absent minimum standards. FanDuel president Christian Genetski said: \"The most critical thing we can do for prediction markets right now is to build consumer trust... The way to do that is to have clear rules of the road and a level playing field for all the participants.\" CFTC chairman Michael Selig closed the meeting stressing the commission's determination to preserve federal oversight against state challenges, and said federal regulators were working with Congress to add more protections and preemptions. Reporting by Ryan Butler.",
+    "source": "https://www.covers.com/industry/draftkings-fanatics-fanduel-seek-consumer-safeguards-for-prediction-markets-august-24-2026",
+    "tags": [
+      "US",
+      "Prediction markets",
+      "Responsible gambling",
+      "CFTC"
+    ]
+  },
+  {
+    "section": "North America",
+    "title": "Illinois June handle up 20% to $1.14bn on the World Cup, but adjusted revenue falls 21% on 8% hold",
+    "meta": "Covers | 25 Aug 2026",
+    "summary": "The Illinois Gaming Board reported June 2026 handle of $1.14bn, up 20% year on year and the state's 10th consecutive billion-dollar month, ending a four-month streak of declines. Adjusted revenue was $90.9m, down 21.2%, the first sub-$100m month since June 2025.",
+    "why": "This is the cleanest evidence yet that Illinois' per-wager tax is changing player behaviour rather than just shifting margin. Bet counts had fallen every month since October and only recovered when an exogenous event overrode the surcharge - and then margin compression wiped out the volume gain, which argues for per-wager fee attribution in the bet flow and tax-adjusted contribution modelling rather than headline GGR.",
+    "expanded": "June featured the NBA Finals and the World Cup group stage. Illinois was the seventh of the top 12 US markets to post an increase of at least 20%, with national handles spiking as much as 36%; only New York was larger in June at $2.25bn. Bet count rose to 10.5 million from 9.4 million in June 2025, reversing a decline running since October. Operators held just 8%, the lowest win rate since September 2025, attributed partly to the US men's national team's early World Cup success and high scoring by the tournament's top stars. State tax take was $43.3m, including $10.5m from the per-wager tax, which has driven recent declines in bets placed as sportsbooks passed the surcharge to customers. By operator: DraftKings $433.4m handle and $32.8m adjusted revenue at 7.6% hold, its largest handle since March but profit down 18%; FanDuel $309.9m and $28.9m at 9.3% hold, revenue down more than 30%; Fanatics Sportsbook $100.6m and $6.7m, a fifth consecutive month above $100m; BetMGM $68.9m and $5.5m at 8% hold; bet365 $61.4m and $4.4m; BetRivers $42.4m and $4.1m. BetMGM was the outlier among top operators on both handle and revenue direction. Reporting by Brad Senkiw.",
+    "source": "https://www.covers.com/industry/world-cup-gives-illinois-rare-wagering-handle-boost-in-june-aug-25-2026",
+    "tags": [
+      "US",
+      "Illinois",
+      "Taxation",
       "Trading"
     ]
   },
   {
     "section": "North America",
-    "title": "Nebraska certifies two online sports betting measures for the 3 November ballot",
-    "meta": "SBC Americas | 24 Aug 2026",
-    "summary": "Nebraska's Secretary of State certified both the Online Sports Wagering Authorization Constitutional Amendment and the Online Sports Wagering Regulation Initiative for the November ballot, clearing signature thresholds of 138,473 and 96,918 respectively. If passed, racinos could each partner with up to two online sportsbooks.",
-    "why": "The two-skins-per-racino structure is the detail that matters commercially: it caps the market at a small number of slots and makes the platform decision a scarce asset rather than an open tender. Rulemaking runs to 1 June 2027, which is a long integration runway but also a long window in which the licensing conditions can still change.",
-    "expanded": "The Secretary of State's office confirmed on Friday 21 August that it had certified both petitions, and halted verification once each reached 110% of its required total. Sports betting in Nebraska is currently limited to in-person wagers at retail sportsbooks located at licensed racetracks. State officials must certify the full ballot by 1 September, and the Secretary of State's office will hold public hearings on the measures in each of Nebraska's three congressional districts on dates yet to be set. If voters approve, the Nebraska Racing and Gaming Commission would set rules and regulations by 1 June 2027. The campaign, Tax Relief Nebraska, is backed by major operators and by WarHorse Casino, run by Ho-Chunk, Inc.; Nebraska Accountability and Disclosure Commission filings show FanDuel and DraftKings each contributed around $3.5m. Jordan McGrain, a political consultant working for Tax Relief Nebraska, told the Nebraska Examiner: \"We are grateful to every Nebraskan who participated in the process and signed our petitions\", adding that \"a legal and regulated online sports wagering marketplace will keep the money in Nebraska, generating new revenue for local communities and millions of dollars in property tax relief.\" A 2026 legislative attempt by Senator Eliot Bostar passed a first floor vote 27-16 before being withdrawn and indefinitely postponed in April.",
-    "source": "https://sbcamericas.com/2026/08/24/nebraska-online-sports-betting-ballot/",
+    "title": "Kalshi argues the Commodity Exchange Act preempts IGRA in New Mexico tribal litigation",
+    "meta": "InGame | 21 Aug 2026",
+    "summary": "Kalshi filed a response on 19 August in the US District Court for the District of New Mexico arguing that the Commodity Exchange Act supersedes the Indian Gaming Regulatory Act and preempts tribal ordinances, asserting its right to keep operating on tribal land.",
+    "why": "Tribal exclusivity is the single largest unresolved commercial question in US online gaming, and a CEA-over-IGRA ruling would reshape access to California, Florida, Washington, Minnesota and New Mexico at once. Procurement at tribal operators tends to freeze while this is live, and geofencing precision at tribal land boundaries stops being a nice-to-have.",
+    "expanded": "The filing responded to a tribal brief opposing Kalshi's motion to dismiss and opposed a preliminary injunction request. Four New Mexico tribes sued Kalshi in May 2026: the Mescalero Apache Tribe, Pueblo of Isleta, Pueblo of Pojoaque and Pueblo of Sandia, all of which offer retail sports betting. The response is the second of three filings required before the court can rule. Kalshi argued the tribes waited too long to seek an injunction and that removing its contracts would \"alter the status quo,\" giving tribes their desired outcome pre-trial; it said being forced off Indian lands would \"cause significant operational and commercial harm,\" cost unrecoverable money, and put it \"at odds\" with the federal statute requiring impartial access. It contended the tribes cannot establish irreparable harm and that \"the public interest lies not in requiring Kalshi to engage in costly measures that would be highly disruptive to third parties transacting on the exchange.\" Kalshi argued neither the Montana decision nor IGRA empowers tribes to force it off their lands, that IGRA does not let tribes enforce their laws against non-tribal entities, that the CFTC has \"exclusive jurisdiction\" over prediction and derivatives markets, and that New Mexico's prohibition on online betting is irrelevant because the CEA preempts state law. The tribes' complaint argues Congress never intended sports event contracts under the CEA or the 2010 Dodd-Frank amendment, citing Senator Blanche Lincoln's warning that companies would distort the amendment. No federal judge has yet barred Kalshi from tribal land, but three state judges have ordered geofencing of Michigan, Nevada and Washington for certain offerings; Michigan and Nevada restrictions are in force and Kalshi must comply with Washington's order by 2 September 2026. Reporting by Jill R. Dorson.",
+    "source": "https://www.ingame.com/kalshi-brief-preemption-applies-new-mexico/",
     "tags": [
       "US",
-      "Sports betting",
-      "Market entry",
-      "Nebraska"
+      "Tribal gaming",
+      "Prediction markets",
+      "Litigation"
     ]
   },
   {
     "section": "North America",
-    "title": "Nevada uses Kalshi's support for a 6% North Carolina tax to attack its federal preemption case",
-    "meta": "Legal Sports Report | 24 Aug 2026",
-    "summary": "Nevada told the Ninth Circuit that Kalshi cannot support North Carolina taxing its prediction market revenue while simultaneously arguing federal law preempts state regulation of its event contracts, calling the position \"a stunning about-face\".",
-    "why": "The preemption fight determines whether event contracts end up as a parallel, federally supervised distribution channel or as something states can license and condition. For anyone building sportsbook product in the US, that is the difference between competing with a differently-taxed rival on the same phone and competing with a differently-regulated one.",
-    "expanded": "At issue is North Carolina SB 257, a budget bill signed into law last month that imposes a 6% tax on prediction market net trading fee revenue attributable to in-state customers from 1 January, and which recognises the CFTC's exclusive federal regulatory authority over sports event contracts offered by federally registered exchanges without requiring additional state gaming licences. Nevada Deputy Attorney General Abigail Pace wrote that the stance \"would mean that (at a minimum) Kalshi cannot evade Nevada's taxing provisions\", and added: \"Kalshi attempts to draw a distinction between regulating its contracts and taxing its revenue from these contracts, but that is purely a formalism. Both are forms of regulation by the state.\" Kalshi's position is that exclusive CFTC jurisdiction bars states from regulating trading on federally designated contract markets but does not bar them from taxing revenue generated by that activity. For comparison, North Carolina taxes licensed sportsbooks at 23% of gross wagering revenue against the 6% on prediction market net trading fee revenue. The appeal arises from Kalshi's challenge to Nevada's authority to apply state gaming law to prediction markets, a fight in which Nevada regulators have also sought a daily fine over Kalshi's failure to geofence. The CFTC has separately sued nine states to defend federal jurisdiction over event contracts.",
-    "source": "https://www.legalsportsreport.com/273810/nevada-uses-north-carolina-tax-to-challenge-kalshi-argument/",
+    "title": "Colorado's credit card ban, six-deposit daily cap and under-21 ad limits take effect",
+    "meta": "PlayUSA | 13 Aug 2026",
+    "summary": "Colorado Senate Bill 26-131 took effect on 12 August 2026. Bettors can no longer fund accounts with credit cards and are limited to six deposits per gaming day, and operators are barred from advertising to Coloradans under 21 or sending soliciting texts and push notifications.",
+    "why": "Every one of these is a platform configuration item rather than a policy poster: deposit counters that reset on an operator-defined gaming day, credit BIN blocking, push and SMS suppression by jurisdiction and age, plus a transactional data export due from February 2028. Whoever ships them as per-state toggles rather than bespoke builds wins the next round of compliance-led deals as other states copy the template.",
+    "expanded": "The law caps deposit frequency within a gaming day rather than total amounts, with \"gaming day\" defined as a continuous 24-hour period set by each sportsbook for recording and reporting activity. From February 2028, operators must begin reporting annual transactional data under the measure. The Colorado Gaming Control Commission is granted authority to impose fines of up to $25,000 for violations. Colorado bettors wagered $6.4bn on sports in the prior year, per the Colorado Department of Revenue's Division of Gaming. State Senator Matt Ball said: \"Since Colorado's legalization of online sports betting in 2019, technology has rapidly transformed the industry, catching more and more people in the cycle of devastating gambling addiction.\" The bill was signed by Governor Jared Polis on 2 June 2026. The underlying reporting does not specify enforcement mechanics for the credit-card ban or exactly what data operators must submit from 2028. Reported by Ian St. Clair, sourced to Sara Wilson's reporting for Yahoo News.",
+    "source": "https://www.playusa.com/news/colorados-sports-betting-credit-card-ban-and-daily-deposit-cap-become-law/",
     "tags": [
       "US",
-      "Prediction markets",
+      "Colorado",
+      "Responsible gambling",
+      "Payments"
+    ]
+  },
+  {
+    "section": "LatAm",
+    "title": "Brazil's Treasury reveals bettors deposited BRL220.6bn with licensed operators in 2025",
+    "meta": "Yogonet Latinoamerica | 21 Aug 2026",
+    "summary": "The Secretaria de Premios e Apostas has disclosed that bettors deposited BRL220.6bn (roughly US$42.6bn) with federally licensed operators during 2025, of which BRL183.7bn was returned as prizes and withdrawable bonuses, leaving BRL36.9bn of sector GGR. The figure was obtained by Folha de Sao Paulo through a freedom-of-information request.",
+    "why": "This is the first time the Ministry of Finance has published total deposits rather than just GGR, and it lands in the middle of a live numbers fight - Comsefaz claims Brazilians sent BRL350.97bn to bets. Operators who can reconcile deposits, withdrawals, bonus liability and net GGR straight out of the platform and tie it to what they filed with the regulator can win that argument; operators who cannot will keep being characterised by someone else's spreadsheet.",
+    "expanded": "Secretary of Prizes and Bets Daniele Correa Cardoso told Folha the data are preliminary and may be revised until verification and consolidation procedures conclude. GGR data had already been public since early in the year. The figures cover only federally licensed operators and exclude bets authorised by state lotteries or operating illegally. The disclosure lands amid an escalating dispute over iGaming's household-budget impact. A separate study by Comsefaz, the national committee of state and federal district finance secretaries, claimed Brazilians sent BRL350.97bn to bets, of which BRL62.5bn was lost. The Associacao Nacional de Jogos e Loterias called the Comsefaz data \"false\", arguing the amounts attributed to betting spend in 2025 are far above the BRL36.9bn the SPA published as sector gross revenue. ANJL alleged the study may include \"accounts linked to illegal companies, which generates a distorted view of the regulated market\", and concluded that the industry \"once again speaks out against irresponsible, biased and generalised disclosures of financial data that do not correspond to the reality of the sector\".",
+    "source": "https://www.yogonet.com/latinoamerica/noticias/2026/08/21/110305-los-brasilenos-apostaron-mas-de-usd-42000-millones-en-2025",
+    "tags": [
+      "Brazil",
+      "Market data",
       "Regulation",
-      "Kalshi"
+      "Reporting"
     ]
   },
   {
-    "section": "North America",
-    "title": "Polymarket referred dozens of suspected military insider-trading accounts to the DOJ, CNN reports",
-    "meta": "Legal Sports Report | 24 Aug 2026",
-    "summary": "Polymarket referred dozens of accounts showing potential military insider trading to the Department of Justice before outside researchers publicly flagged suspicious activity on war-related markets, according to CNN reporting on 21 August. The Anti-Corruption Data Collective identified 152 accounts that earned about $8m across those markets.",
-    "why": "Prediction market venues are being pushed into the surveillance obligations that licensed sportsbooks have carried for years, but on markets where the informed party may hold classified information rather than a team sheet. The interesting comparison is how differently the two largest venues have chosen to evidence that capability.",
-    "expanded": "The referrals predated the Anti-Corruption Data Collective analysis, which covered markets including those tied to the Iran conflict and found multiple indicators of possible insider activity. Polymarket uses internal surveillance tools monitoring roughly 150 additional signals and trading patterns, but has not detailed those indicators publicly. The company has not been accused of wrongdoing, but is already the subject of a CFTC investigation, congressional scrutiny over insider trading, and criticism over reports it paid creators to post videos of fabricated betting wins. The DOJ indicted Army soldier Gannon Ken Van Dyke in April, alleging he used classified, nonpublic military information to place profitable Polymarket bets, charging him with commodities fraud, wire fraud and theft of nonpublic government information. CNN reported the DOJ is investigating the referrals, though the status of specific accounts was not disclosed. Kalshi has taken a more publicly documented route, announcing an independent surveillance advisory committee, a head of enforcement and a relationship with the Wharton Forensic Analytics Lab in February, and saying it has conducted more than 200 investigations, frozen accounts and referred several matters to law enforcement. In June it added market risk scoring, employment verification for traders in certain high-risk markets, enhanced whistleblower reporting and third-party intelligence from IC360.",
-    "source": "https://www.legalsportsreport.com/273817/cnn-polymarket-reported-possible-military-insider-trading-to-doj/",
+    "section": "LatAm",
+    "title": "Chile's state lottery files criminal money-laundering complaint naming payment and tech suppliers",
+    "meta": "G3 Newswire | 25 Aug 2026",
+    "summary": "Polla Chilena de Beneficencia has filed a criminal complaint against online betting operators alleging unauthorised gambling, money laundering and unlawful association. Santiago's Fourth Guarantee Court accepted the filing on 21 August and the Public Prosecutor's Office will decide whether to bring charges.",
+    "why": "The complaint asks for information from payment providers and a review of agreements with technology and payment-processing suppliers, which pulls B2B vendors into the discovery perimeter rather than leaving this as an operator risk. Its list of \"active targeting\" markers is effectively a checklist of what makes a grey-market integration legally indefensible.",
+    "expanded": "Polla alleges the platforms actively targeted the Chilean market rather than merely being offshore websites accessible locally, citing Chilean customer registration, locally available deposit and withdrawal options, local promotions, advertising and sports sponsorships. It requested investigation into the origin, movement and destination of funds linked to the operations, including banking information, transaction records, accounts and ultimate beneficial ownership, plus a review of corporate records. Polla said the enquiries could establish whether proceeds from alleged unlawful gambling had been concealed or disguised, potentially constituting money laundering, and called for investigation into whether a structured organisation with continuing roles had been established. The complaint follows earlier civil action: in September 2023 the Supreme Court upheld a Polla action ordering an internet provider to block named betting websites. In a separate case brought by Loteria de Concepcion, the Supreme Court on 29 September 2025 ordered six respondent internet providers to block identified betting sites, ruling providers could not \"transmit or promote games of chance\" absent legal and administrative authorisation and must \"immediately block\" the requested websites; the court subsequently gave providers five days to implement blocks and report their compliance methods. Chile still has no regulated online betting framework, with a licensing bill unresolved.",
+    "source": "https://g3newswire.com/chilean-lottery-files-fresh-complaint-against-online-betting-operators/",
     "tags": [
-      "US",
-      "Prediction markets",
-      "Integrity",
-      "Polymarket"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "Anti-iGaming group flags $500,000 of Sports Betting Alliance cheques to five Virginia senators",
-    "meta": "Legal Sports Report | 24 Aug 2026",
-    "summary": "Five Virginia state senators who crossed party lines to back online casino legalisation each received $100,000 from the Sports Betting Alliance after the 2026 session, with bill sponsor Senator Mamie Locke also receiving $100,000. The National Association Against iGaming has publicised the payments ahead of an expected 2027 push.",
-    "why": "Virginia is one of the more realistic near-term iGaming expansions in the US, and the bill design already on the table matters for platform planning: up to three online brands per land-based casino, Lottery Board regulation, 20% tax. A contributions row does not change that design, but it does raise the odds the 2027 debate is fought on process rather than market structure.",
-    "expanded": "The recipients are Republican Senators Christie Craig, Danny Diggs, Emily Jordan, Todd Pillion and Glen Sturtevant, all of whom voted for Locke's iGaming bill SB 118. The donations were first reported by Virginia political journalist David Poole, who noted the cheques arrived roughly four months after the votes and were the largest single donation from a corporation or individual in each of the five senators' careers. NAAiG members include The Cordish Companies, Churchill Downs, Monarch Casino Resort and JACK Entertainment. \"No political contributions, no matter how eye-popping, are worth the harm that will be inflicted on Virginians by having 24-7 access to a casino in their pocket,\" NAAiG spokesman Oliver Barie said. Sports Betting Alliance members include bet365, BetMGM, DraftKings, Fanatics and FanDuel. Virginia did not legalise iGaming in 2026: the Senate passed SB 118 by 19-17 and the House passed HB 161 by 67-30, but no compromise was reached before adjournment. The bills would have allowed land-based casinos to launch up to three online brands each under Virginia Lottery Board regulation, with a 20% tax on online casino adjusted gross revenue, a $2m platform fee and a $500,000 operator licence fee. Gaming donations in Virginia reached $5.2m in the 2024-25 election cycle, second only to electric utilities among industries tracked by the Virginia Public Access Project.",
-    "source": "https://www.legalsportsreport.com/273749/industry-group-against-online-casino-calls-out-va-political-contributions/",
-    "tags": [
-      "US",
-      "iGaming",
-      "Virginia",
-      "Public affairs"
-    ]
-  },
-  {
-    "section": "North America",
-    "title": "New Jersey fines Caesars Sportsbook $296,715 over responsible gaming and self-exclusion failures",
-    "meta": "Gaming America | 24 Aug 2026",
-    "summary": "The New Jersey Division of Gaming Enforcement has fined Caesars Sportsbook $251,250 plus $45,465 in disgorgement, a total of $296,715, over infractions relating to both responsible gaming messaging and self-exclusion policies. Gaming America believes it to be the largest penalty ever issued to an online gambling operator in the state.",
-    "why": "Self-exclusion enforcement in the US has historically been priced as an operating nuisance rather than a risk, and a quarter-million-dollar penalty still equates to about two and a half days of Caesars' New Jersey revenue. The signal to watch is not the size but the pairing: messaging failures and exclusion failures cited in the same action suggests the DGE is looking at the whole account journey, not isolated controls.",
-    "expanded": "The piece by Mo Nuwwarah notes the DGE did not respond to a request to confirm the record and declined comment. The previous largest identified penalty was $112,188 against Super Group, covering Betway and Jackpot City, for allowing self-excluded players to gamble; Super Group subsequently exited the New Jersey market entirely. By comparison, several sportsbooks that took bets on unapproved markets in 2024, including overseas basketball and one already-concluded match, were fined $40,000 in total, and DraftKings was fined $100,000 in 2024 for inaccurate handle and revenue reporting. Caesars Sportsbook won $38.8m from New Jersey players in 2025 excluding secondary brands, which the outlet likened to \"the equivalent of a $500 ticket to a person earning $75,000 per year\". Gaming America framed the escalation as: \"If a quarter-million is a hefty speeding ticket, then in the past, the NJDGE was handing out parking tickets.\" The piece contrasts US penalty levels with William Hill's GBP19.2m UK fine in 2023 and Crown Resorts' AU$450m penalty for more than 500 anti-money laundering breaches.",
-    "source": "https://gamingamerica.com/news/1098348/caesars-sportsbook-six-figure-fine-new-jersey-regulators",
-    "tags": [
-      "US",
+      "Chile",
+      "AML",
       "Enforcement",
-      "Responsible gambling",
-      "New Jersey"
+      "Supplier risk"
     ]
   },
   {
-    "section": "North America",
-    "title": "Missouri has spent barely a tenth of its $5m-a-year problem gambling earmark nine months after launch",
-    "meta": "InGame | 24 Aug 2026",
-    "summary": "Missouri's Department of Mental Health has requested only $636,166 of the $5m minimum annual problem gambling earmark created by Amendment 2, according to Missouri Gaming Commission executive director Mike Leara, with addiction funds not made available until February, three months after the 1 December 2025 sports betting launch.",
-    "why": "Operators entering a new US state inherit whatever treatment infrastructure exists, and increasingly get judged against it. Where the state fails to spend its own earmark, the reputational and political gap gets filled by operator-side RG tooling and messaging, which is a product and CRM obligation rather than a donation line.",
-    "expanded": "The story follows a St. Louis Post-Dispatch report headlined \"Missouri Has $5 Million A Year To Combat Sports Addiction. It's Not Spending It.\" The 2024 voter-approved Amendment 2, which passed by just 2,961 votes on a 0.1% margin, earmarks $5m or 10% of wagering tax revenue, whichever is higher. The $636,166 requested so far has gone on quick prevalence studies and counsellor training. Missouri spent $100,000 on problem gambling in 2023, up from zero in 2022; under the older casino statute only one penny per casino admission was set aside for addiction and education. The state's 13 permanently moored riverboat casinos paid $422m in tax revenue in FY 2026. NCPG director of policy and partnerships Cole Wogoman, who worked with the Sports Betting Alliance to secure the earmark, said: \"The reason we want the percentage of revenue is that we know that as more people gamble, there will be more problems. The $5 million is the floor.\" Keith Whyte, former NCPG executive director and now founder and president of Safer Gambling Strategies, said \"there was barely anything to build off of\" and \"it's surreal treatment funds are going unspent. I suspect there is a tremendous unmet need.\" Missouri has no active NCPG state chapter to act as watchdog; Colorado, which legalised in 2019, awarded $3.7m in responsible gaming grants this year. Reported by Jill R. Dorson.",
-    "source": "https://www.ingame.com/missouri-problem-gambling-fail/",
+    "section": "LatAm",
+    "title": "Buenos Aires regulator finds illegal sites cloning Stake's login screen to harvest players",
+    "meta": "Yogonet Latinoamerica | 25 Aug 2026",
+    "summary": "The Instituto Provincial de Loteria y Casinos of Buenos Aires province has filed complaints against two illegal sites that used the visual identity of Stake - an operator legally authorised in the province - as an entry screen to funnel users onto unlicensed platforms.",
+    "why": "Brand-cloning funnels are a direct revenue leak that no amount of licensed-side compliance prevents, and they are also a KYC and onboarding problem: a player who cannot tell the licensed journey from the cloned one will judge the brand by whichever fraud they hit first. Domain monitoring, brand-abuse takedown and verified-operator badging sit naturally next to the PAM rather than being purely the operator's problem.",
+    "expanded": "\"This is not simply a site operating without authorisation, but a manoeuvre designed to confuse the user and get them to enter an illegal platform while believing they are inside an authorised site,\" the regulator said. IPLyC reiterated that only seven platforms are authorised to offer online betting in Buenos Aires province: Bet365, Betano, Betsson, Betwarrior, Bplay, Sportbet and Stake. These comply with strict operating controls, bettor identification requirements and a prohibition on access by minors. The investigation began from a complaint by national deputy Maximiliano Ferraro, who discovered a website had been created using his name and redirected visitors to a screen with Stake's look and feel. On a first click users were redirected to an illegal site, and when attempting to place a bet they were redirected again to another illegal betting site. \"These domains were detected by Lottery Institute personnel and immediate blocking was requested,\" IPLyC said in a statement. Argentina's provincial licensing structure means an operator can be legal in Buenos Aires and unlicensed one province over, which makes brand-based trust signals harder for players to read.",
+    "source": "https://www.yogonet.com/latinoamerica/noticias/2026/08/25/110350-el-iplyc-de-buenos-aires-alerta-sobre-casas-de-apuestas-ilegales-que-usan-sitios-autorizados-como-fachada",
     "tags": [
-      "US",
-      "Responsible gambling",
-      "Missouri",
-      "Regulation"
+      "Argentina",
+      "Black market",
+      "Fraud",
+      "Brand abuse"
     ]
   },
   {
-    "section": "North America",
-    "title": "Caesars adds an invitation-only tier above Seven Stars requiring roughly $1.5m of qualifying spend",
-    "meta": "Casino Reports | 24 Aug 2026",
-    "summary": "Caesars Entertainment has launched Olympus, an invitation-only loyalty tier sitting above Seven Stars, requiring 300,000 Tier Credits, which the Las Vegas Review-Journal calculates as roughly $1.5m of spend across gambling, lodging, dining, entertainment and partner purchases. Hitting the threshold guarantees only consideration, not admission.",
-    "why": "Discretionary admission at the top of a loyalty ladder is a deliberate design choice, and a demanding one for the systems underneath it: you need cross-property, cross-channel credit accrual accurate enough to defend a threshold, plus a manual override layer that does not corrupt the audit trail. It is also a clear read on where the operator thinks its margin now lives.",
-    "expanded": "The Caesars announcement states: \"Members have until December 31, 2026 to earn 300,000 Tier Credits and become eligible for consideration.\" The initial cohort will be notified in January 2027, with the first Olympus cards issued on 1 February 2027. Perks include earning reward credits 40% faster than existing tiers, suite upgrades, an enhanced annual retreat, and a member-only Founder's Party at Caesars Palace Las Vegas in March 2027. Casino Reports senior editor Eric Raskin frames the launch as evidence of a K-shaped Las Vegas economy, with high-end properties thriving on big spenders while middle-market casinos struggle amid roughly an 11% decline in tourism volume over two years. Discerning Capital managing partner Davis Catlin told the Low Rollers podcast in June: \"The average guy showing up and playing and losing 500 bucks just doesn't move the needle anymore in Las Vegas. ... Somebody told me there's like 200 ultra-VIPs in the U.S. that these guys go after.\" Caesars holds ownership stakes in nine Las Vegas Strip properties.",
-    "source": "https://www.casinoreports.com/news/caesars-olympus-rewards-tier-whales/",
+    "section": "Africa",
+    "title": "Burundi order levies 10% on deposits and 10% on withdrawals, and demands state access to operator systems",
+    "meta": "Focus Gaming News Africa | 23 Aug 2026",
+    "summary": "Joint Ministerial Order No. 760/540/319, signed on 12 August 2026, sets collection and compliance procedures for the 2026/27 financial year, with a 50% penalty for late payment and licence suspension where fees remain unpaid for more than one month.",
+    "why": "A 10% levy on deposits plus a further 10% on withdrawals is a gross-transaction tax that breaks standard wallet economics outright - it has to be modelled at the payments layer, not the GGR layer, and it punishes exactly the deposit-and-withdraw behaviour that good cashier UX encourages. Add mandatory state access to operator information systems and three-month escheatment of unclaimed balances and this is a platform configuration list most stacks will not handle out of the box.",
+    "expanded": "The order applies to all forms of games of chance and gambling, including tombolas, implementing Article 156 of the 2026/27 Finance Law. Translated from French, it states that gambling companies, lotteries and prediction contests must give state lottery LONA \"full access\" to their information systems. It also requires operators of slot machines and other gaming machines not connected to the internet to integrate a mechanism allowing the equipment to connect to the state's electronic financial-monitoring system; violations are classified as a serious fault subject to Penal Code sanctions. Article 3 provides for a 10% fee on player deposits, a 10% fee on withdrawals and a 10% contribution on gross profit, with promotional or occasional games including tombolas subject to a 10% fee on the total value of prizes in play. The 10% structure predates the order - LONA outlined the deposit, withdrawal and profit contributions in June - while the August measure establishes the collection framework. Gross profit is defined as net turnover less player winnings, with net turnover defined as total stakes less the fee on stakes. Fees are collected monthly, with 10 days from receipt of invoice to pay, into a segregated account at the Bank of the Republic of Burundi held in the name of B&N Partners and LONA. The framework ties to a 2024 public-private partnership between the government, represented by LONA, and B&N Partners. Of amounts accruing to LONA, 40% goes to the Public Treasury and 60% to a LONA commercial bank account. Winnings left unclaimed for three months without account activity transfer to the Public Treasury.",
+    "source": "https://focusgn.com/africa/burundi-sets-licence-suspension-rule-for-unpaid-gambling-fees",
     "tags": [
-      "US",
-      "CRM",
-      "Loyalty",
+      "Burundi",
+      "Taxation",
+      "Payments",
+      "Monitoring"
+    ]
+  },
+  {
+    "section": "Africa",
+    "title": "Nextier calls for independently verified age and identity checks across Nigeria, Ghana and Sierra Leone",
+    "meta": "Focus Gaming News Africa | 25 Aug 2026",
+    "summary": "Policy think tank Nextier has called for tighter gambling oversight, stronger player protection and expanded youth employment programmes as three West African markets respond to the growth of betting in low-income communities. The recommendations appear in the latest Nextier Policy Weekly.",
+    "why": "\"Mandatory, independently verified age and identity checks\" is the operative phrase. West African onboarding has historically been light-touch by design, because conversion depends on it, and moving to third-party verified KYC reshapes the funnel and the vendor requirements at the same time. The self-exclusion registries and deposit limits called for here are PAM-native features that most locally built stacks simply do not have.",
+    "expanded": "The analysis was authored by Joshua Biem, senior policy and research analyst, and Olive Aniunoh, legal, policy and research consultant. It identified unemployment, underemployment, weak social protection and urban marginalisation as factors contributing to gambling participation among young people, and said betting can become a way of seeking additional income where formal employment is limited. Nextier linked gambling-related debt and financial pressure with concerns around youth restiveness and some forms of crime, but cautioned that available evidence does not establish that betting directly causes criminality and that more detailed crime and geographic data would be needed. It cited Nigeria's gambling market at up to US$3.63bn in revenue in 2025, with more than 60 million Nigerians reportedly betting regularly, and Ghana's online gambling market at estimated gross wins of US$903.5m in the same year, while Sierra Leone has a less developed regulatory framework. Recommendations include harmonising gambling regulations to close gaps exploited by unlicensed operators; mandatory, independently verified age and identity checks; restrictions on the density and location of betting outlets in low-income communities; and intelligence-led monitoring of betting clusters where there is documented debt-driven theft, fraud or cultism. Nextier said regulators, law enforcement and financial intelligence units should share information. For operators it recommended stronger responsible gambling protocols including self-exclusion registries, spending limits and advertising codes preventing campaigns targeting economically vulnerable young people, noting Ghana's emerging advertising-vetting model as a possible basis.",
+    "source": "https://focusgn.com/africa/nextier-calls-for-tighter-gambling-rules-in-west-africa",
+    "tags": [
+      "West Africa",
+      "KYC",
+      "Safer gambling",
+      "Policy"
+    ]
+  },
+  {
+    "section": "Africa",
+    "title": "Sizekhaya puts South Africa's National Lottery into 60 Post Office branches, capped at R2,000 payouts",
+    "meta": "Focus Gaming News Africa | 20 Aug 2026",
+    "summary": "New National Lottery operator Sizekhaya Holdings has partnered with the South African Post Office to expand lottery access through 60 high-volume branches across all nine provinces, selected on transaction volumes and footfall.",
+    "why": "Sizekhaya is buying distribution through state-owned retail rather than building its own, which is the cheapest route to cash-economy reach in South Africa. The constraint is not ticket sales but prize disbursement: branches can only pay winnings up to R2,000, and a commercial bank is still being engaged for anything larger - which is a payout-orchestration problem, and the same infrastructure any future regulated online rollout would need.",
+    "expanded": "Sizekhaya took over operation of the National Lottery on 1 June 2026, succeeding Ithuba Holdings. The 60-branch rollout forms the first phase of the partnership. Customers can purchase Lotto, PowerBall, PowerBall Xtra and Daily Lotto at participating branches, with terminals accepting both cash and electronic payments. Sizekhaya recently oversaw the first PowerBall Xtra jackpot cascade in South African National Lottery history, creating three winners of R45.7m (US$2.8m) each. Sizekhaya CEO Lebogang Ndadana said: \"The National Lottery belongs to the people of South Africa, so we want to make it as easy and convenient as possible for people to participate, wherever they live. The Post Office has a footprint that reaches communities across the country.\" SAPO acting CEO Fathima Gany said the partnership \"supports our strategy to diversify revenue while expanding the range of services available through our branch network\". Participating branches can pay National Lottery winnings up to R2,000 (US$124), and SAPO and Sizekhaya are engaging a leading commercial bank to facilitate payment of higher-value winnings through selected branches in future. The 60 branches span Gauteng, KwaZulu-Natal, Western Cape, Eastern Cape, Limpopo, Mpumalanga, North West, Free State and Northern Cape.",
+    "source": "https://focusgn.com/africa/sizekhaya-expands-south-africa-lottery-footprint-with-60-post-office-branches",
+    "tags": [
+      "South Africa",
+      "Lottery",
+      "Retail",
+      "Payments"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "NSW to mandate facial recognition at pokies rooms, ban gaming VIP programs and move to account-based play",
+    "meta": "Inside Asian Gaming | 25 Aug 2026",
+    "summary": "The New South Wales government has announced a new tranche of gaming reforms requiring all pubs and clubs to install mandatory facial recognition at gaming room entrances, banning VIP programs linked to gaming, and replacing fragmented venue-level self-exclusion with a statewide exclusion register. Both land in 2028.",
+    "why": "This is effectively a public procurement notice for a state-scale self-exclusion backbone with real-time biometric enforcement at venue level, plus a two-year Centralised Monitoring System upgrade to enable account-based play. The government has framed cashless as a means rather than an end, which is the more interesting signal: it wants the AML and harm-minimisation benefits of account-based play while letting players keep using cash.",
+    "expanded": "The statewide exclusion register replaces a system in which enforcement is \"largely left up to individual venues and staff to monitor compliance\", and will be \"backed by mandatory facial recognition technology at the entry of gaming rooms - meaning when someone makes the difficult decision to exclude themselves, that exclusion can follow them from venue to venue.\" The government said \"rapid advancements in technology since the Cashless Gaming Trial have demonstrated there are many account-based play solutions that can be implemented to meet the anti-money laundering and harm minimisation benefits of cashless, while allowing players to continue using cash if they prefer.\" Betting service providers will be barred from marketing directly to people via calls, email or text without prior express consent, and gambling advertising on NSW Government and council-owned assets will be prohibited. New transparency requirements will apply to gambling promotions by affiliates and social media influencers, alongside restrictions on commissions linked to higher-risk gambling products. The forfeiture rate on traded gaming machine entitlements rises from one in three to one in two, and a new \"sinking cap\" will accelerate reduction of the 87,000 machines currently operating across 2,100 clubs and hotels. AU$95.2m will be invested over four years, funded from the remainder of the state's AU$100m gambling harm minimisation fund plus higher licence fees. Minister for Gaming and Racing David Harris said: \"These are common sense reforms that have been developed alongside industry, harm minimisation groups, stakeholders and privacy experts to address gambling harm while supporting the industry and protecting the livelihoods of the many people it employs.\" The reforms cite the NSW Gambling Survey 2024, which found 3.1% of the state's adult population experience moderate-risk gambling and 0.9% high-risk gambling.",
+    "source": "https://asgam.com/2026/08/25/mandatory-facial-recognition-tech-and-a-ban-on-vip-gaming-programs-among-new-poker-machine-reforms-targeting-nsw-pubs-and-clubs/",
+    "tags": [
+      "Australia",
+      "Safer gambling",
+      "Biometrics",
+      "Account-based play"
+    ]
+  },
+  {
+    "section": "Asia / Oceania",
+    "title": "IEC warns of US$64m FY26 loss on DigiPlus convertible notes as Manila omnichannel play advances",
+    "meta": "Inside Asian Gaming | 24 Aug 2026",
+    "summary": "Hong Kong-listed International Entertainment Corp, parent of LaVie Resort & Casino in Manila, expects a loss of HK$500m (US$63.8m) for the year to 30 June 2026, widened from HK$282.1m. The loss is non-cash, driven by a HK$425m fair-value change on convertible notes issued to DigiPlus Interactive.",
+    "why": "This is the clearest live example of a Philippine online-first operator buying land-based to build omnichannel, and it creates concrete demand for single-wallet cross-channel accounts and unified loyalty spanning a Manila IR and a very large online estate. The harder problem is identity: reconciling casino-floor identification with DigiPlus-scale online KYC under PAGCOR rules. Watch the conversion trigger on the 53.89% stake - that is when the platform consolidation decisions actually get made.",
+    "expanded": "IEC said the loss includes approximately HK$425m (US$54.2m) arising from the fair value change of financial liabilities at fair value through profit or loss, relating to convertible notes issued to DigiPlus earlier this year; in accounting terms the value of IEC's debt liability is considered to have increased by that amount. IEC also cited higher selling and marketing expenses, primarily from campaigns intended to improve LaVie's competitiveness. Excluding the fair-value change, IEC said it would expect to report a narrowed loss when final results are released later this month. DigiPlus has not yet converted the notes; upon conversion it would take a controlling 53.89% stake in IEC and LaVie. DigiPlus has said that taking an interest in a land-based casino resort would \"strengthen DigiPlus' omnipresent entertainment ecosystem by adding a strategic offline platform that seamlessly connects with its digital network, enhancing brand activation, player engagement, and customer experience across both physical and online touchpoints.\" The two companies recently entered a cooperation agreement under which they plan to launch a new online gaming business linked to LaVie. DigiPlus's second subscription to IEC convertible notes, completed in early June, was reported at HKD800m (US$102.1m). LaVie holds a provisional casino gaming licence from PAGCOR.",
+    "source": "https://asgam.com/2026/08/24/non-cash-charge-sees-hong-kongs-iec-issue-fy26-profit-warning-on-expected-us64-million-loss/",
+    "tags": [
+      "Philippines",
+      "M&A",
+      "Omnichannel",
       "Land-based"
     ]
   },
   {
-    "section": "LatAm",
-    "title": "Brazilian Senate bill would cap betting deposits at BRL80 a month unless the player proves income",
-    "meta": "Yogonet Latinoamerica | 24 Aug 2026",
-    "summary": "Senator Camilo Santana has tabled Bill PL 3765/2026, amending Law 14.790/2023, to impose a standard monthly deposit cap of BRL80 (about $15.40) per bettor, rising to as much as 5% of declared income where the player submits proof of financial capacity. Any excess deposit would have to be returned immediately.",
-    "why": "An income-linked deposit cap is the single most invasive product requirement a market can impose, because it turns the cashier into an affordability gate and makes the default experience economically marginal. The 5% uplift mechanism is the part to engineer for: it requires document capture, income verification and a per-player dynamic limit that has to hold across every deposit channel including Pix.",
-    "expanded": "The bill's stated rationale is to reduce over-indebtedness risk and strengthen consumer protection, and it cites practices adopted in Germany and Belgium as reference points. Alongside the cap, it requires immediate return of any deposited amounts exceeding the permitted limit, in addition to sanctions already provided for in existing legislation. It would also empower the Ministry of Finance to update the deposit limit over time so that it retains its real value. PL 3765/2026 remains in tramitation in the Senate and must still pass the various stages of legislative analysis before any approval, so the BRL80 figure should be read as an opening position rather than a settled number. It arrives during a period of unusually intense legislative pressure on the Brazilian sector, with separate proposals circulating on advertising, plebiscites and outright prohibition.",
-    "source": "https://www.yogonet.com/latinoamerica/noticias/2026/08/24/110344-brasil-un-nuevo-proyecto-de-ley-propone-un-tope-estandar-de-usd-15-mensuales-para-depositos-en-apuestas",
+    "section": "Asia / Oceania",
+    "title": "UAE gaming regulator signs supervisory cooperation MoU with ADGM's financial watchdog",
+    "meta": "Focus Gaming News | 17 Aug 2026",
+    "summary": "Abu Dhabi Global Market's Financial Services Regulatory Authority has signed a memorandum of understanding with the UAE's federal General Commercial Gaming Regulatory Authority, establishing a framework for supervisory coordination, policy dialogue, investigative assistance and regulatory information exchange.",
+    "why": "Formalising a channel between the gaming regulator and a financial-services regulator tells you where UAE licensing scrutiny will actually bite - payments, AML and source of funds, not game content. Anyone preparing a GCGRA supplier submission should assume financial-crime controls, transaction monitoring and corporate-structure transparency get assessed against ADGM-grade expectations rather than gaming-sector norms.",
+    "expanded": "The agreement was announced in an ADGM press release dated 14 August 2026 and respects each regulator's independent statutory mandate, subject to confidentiality rules and applicable law. GCGRA CEO Ciaran Carruthers said: \"Commercial gaming is one of the newest regulated sectors in the UAE, and its credibility will be built through exactly this kind of cooperation.\" He added: \"This MoU gives GCGRA and the FSRA a clear channel to share information and coordinate supervision where our respective mandates intersect, which matters as the sector grows and the range of participants operating in and around it becomes more complex,\" and said the UAE's reputation as a \"well-regulated jurisdiction\" depends on regulators working in step. FSRA CEO Emmanuel Givanakis said the MoU \"represents an important step in strengthening regulatory cooperation and our shared commitment to regulatory excellence,\" and that \"effective collaboration between regulators is fundamental to preserving market integrity, addressing emerging risks and ensuring that regulatory frameworks evolve alongside innovation.\" The GCGRA, established in 2023, regulates casinos, online gaming, sports betting and lotteries across the UAE; its remit already covers UAE Lottery operator The Game LLC and Island 3 AMI FZ-LLC, which operates as Wynn Al Marjan. Carruthers was appointed GCGRA CEO in June 2026. Wynn Resorts remains the only holder of a UAE land-based casino licence and has confirmed a September 2027 opening for Wynn Al Marjan Island, with the project budget rising roughly US$600m to about US$5.7bn.",
+    "source": "https://focusgn.com/uae/uaes-gcgra-signs-deal-with-abu-dhabi-financial-regulator-to-strengthen-gaming-oversight",
     "tags": [
-      "Brazil",
+      "UAE",
       "Regulation",
-      "Payments",
-      "Affordability"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Minas Gerais governor bans betting advertising across all state public property, Mineirao included",
-    "meta": "iGaming Brazil | 21 Aug 2026",
-    "summary": "Governor Mateus Simoes signed a decree on 20 August banning all forms of betting advertising in spaces administered by the Minas Gerais state government, covering highways, bus terminals, airports, state buildings and sports complexes including the Mineirao stadium, and ending Loteria Mineira's contracts with betting operators.",
-    "why": "State-level advertising bans fragment a market that operators licensed federally assumed was uniform, and they land on media planning and creative approval workflows rather than on the licence. The Minas decree is notable for how it will be enforced: physical removal rather than fines, with contract termination as the backstop.",
-    "expanded": "The ban applies to signage, electronic panels, naming rights, big screens, promotional experiences and PA systems. Simoes said: \"Minas decidiu colocar limite: publicidade, promocao e patrocinio de bets nao terao espaco nos bens publicos estaduais nem nos eventos promovidos ou apoiados pelo Estado. O poder publico nao pode ajudar a normalizar uma atividade que, quando sai do controle, pode gerar divida, dependencia e empobrecimento.\" He explicitly ruled out relying on penalties: \"Isso nao e uma questao de multa. Nao adianta pagar multa nesse caso. Nos vamos arrancar e cobrir toda a publicidade que venha a desrespeito.\" Enforcement will be shared across concession-oversight teams, Artemig, which oversees the bus terminal and Mineirao concessions, and Seinfra, with police backup; notified companies get a transition period, but persistent non-compliance can mean loss of contracts. Simoes justified the move on economic grounds, saying R$4bn leaves the Minas Gerais economy into operators' pockets. Player shirts escape the ban because they are not public property, while pitch-side boards controlled by competition organisers will be notified to comply. Reported by Lucas Olivan, sourced to SBT News.",
-    "source": "https://igamingbrazil.com/legislacao/2026/08/21/governador-assina-a-proibicao-das-propagandas-de-bets-em-espacos-publicos-de-minas-gerais/",
-    "tags": [
-      "Brazil",
-      "Advertising",
-      "Regulation",
-      "Sponsorship"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Brazil's Finance Ministry plans a real-time betting \"situation room\" to spot match-fixing by year-end",
-    "meta": "iGaming Brazil | 21 Aug 2026",
-    "summary": "Giovanni Rocco Neto, Secretary of Sports Betting and Economic Development of Sport at the Ministry of Finance, said the government intends to stand up a sala de situacao by the end of 2026 to monitor odds movements, betting volumes and abnormal patterns in real time, modelled on financial-market monitoring desks.",
-    "why": "A state-run monitoring desk changes what operators are expected to surface and how fast. If the ministry is cross-referencing odds and volume across licensees, the practical requirement becomes near-real-time reporting granularity and a defensible internal alerting record, because the government will be able to see the anomaly before the operator has finished investigating it.",
-    "expanded": "Rocco said: \"Sao varios monitores. No fim do dia, as apostas sao cotacao de odds. O que e uma odd? E uma estatistica e probabilidade. Entao voce tem o cruzamento dessas estatisticas e probabilidades.\" Special attention will go to the period immediately before kick-off, when heavy concentration of stakes on one outcome can signal irregularity; he compared the setup to a Banco Central room watching world exchanges for anomalous behaviour, \"principalmente antes da partida, porque o risco e maior\". Rocco noted operators already run their own detection, saying an unusual large dump of bets triggers alerts and that some bookmakers already close the market in response. The room will draw on data supplied by integrity bodies funded by the industry itself, which pool data across multiple operators and jurisdictions and therefore enable cross-operator comparison that no single licensee can perform alone. The remarks were made at a sector event and originally reported by G1 on 18 August 2026; the iGaming Brazil write-up is by Luiz Vinicius.",
-    "source": "https://igamingbrazil.com/legislacao/2026/08/21/governo-preve-sala-de-situacao-para-monitorar-apostas-e-combater-manipulacao-de-resultados/",
-    "tags": [
-      "Brazil",
-      "Integrity",
-      "Data",
-      "Regulation"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Mexico's gaming tax take reached only $120m in H1 despite the IEPS rate rising to 50%",
-    "meta": "Yogonet Latinoamerica | 21 Aug 2026",
-    "summary": "Mexico's Secretaria de Hacienda collected MXN2.025bn ($120m) from the IEPS on games and raffles in the first half of 2026 against a budgeted MXN2.513bn ($148m), a shortfall of MXN487.6m, despite Congress lifting the rate from 30% to 50% and applying it directly to online betting platforms for the first time.",
-    "why": "This is the clearest recent evidence that headline rate increases do not translate into proportional receipts in a market with a large informal segment. For operators, the more consequential detail is the compliance machinery now attached: daily XML reporting and real-time SAT auditing are integration work, not accounting work.",
-    "expanded": "The figure was only marginally above the MXN1.952bn collected in the same period of 2025, undershooting official expectations of a World Cup-driven boost. Yogonet, citing data published by El Universal, points to three drivers. First, heavier regulatory and anti-money laundering pressure, including actions coordinated with US authorities against organised-crime-linked operations, which reduced operating volumes. Second, real-time SAT tax auditing, with new powers requiring operators to provide full traceability via online computing systems and daily XML reports under Annex 17 of the Resolucion Miscelanea Fiscal 2026. Third, operational friction from continuously reconciling operating systems, cash flow and tax accounting. Sector specialists quoted in the piece argue that raising tax rates alone does not guarantee proportional revenue growth without efficiency indicators and effective action against informality. The result is a useful counterpoint to fiscal modelling elsewhere in the region that assumes rate rises pass straight through to receipts.",
-    "source": "https://www.yogonet.com/latinoamerica/noticias/2026/08/21/110324-mexico-hacienda-recauda-usd-120-millones-por-apuestas-en-el-primer-semestre-y-queda-por-debajo-de-su-meta",
-    "tags": [
-      "Mexico",
-      "Tax",
-      "Compliance",
-      "LatAm"
-    ]
-  },
-  {
-    "section": "LatAm",
-    "title": "Coljuegos fines influencer Yeferson Cossio COP116m and bans him from gaming for five years",
-    "meta": "SBC Noticias | 20 Aug 2026",
-    "summary": "Colombian regulator Coljuegos has sanctioned influencer Yeferson Esteban Cossio Castano, who has 12 million Instagram followers, for illegally operating a promotional game in the raffle modality, imposing a COP116,000,000 fine and a five-year ban on operating any games of chance.",
-    "why": "Promotional mechanics run by third-party creators sit in an awkward gap: they look like marketing to the brand and like unlicensed gaming to the regulator. Colombia has now put a number and a disqualification period on that gap, which is a useful precedent for how affiliate and influencer promotions get reviewed before they go live.",
-    "expanded": "The fine was calculated as 100 monthly legal minimum wages in force in 2023, when the minimum wage stood at COP1,160,000. The five-year prohibition runs from execution of the administrative act. The penalty was imposed for \"acreditar la operacion y comercializacion de un juego promocional\" aimed at his Instagram followers without the corresponding authorisation, and the case began with a complaint arising from posts on his account. Coljuegos said: \"Con esta decision, Coljuegos reafirma su compromiso con la lucha contra la ilegalidad en los juegos de suerte y azar y con la proteccion de los recursos que genera este monopolio rentistico para financiar la salud de los colombianos. Una vez quede en firme la sancion, el expediente sera remitido a la Gerencia de Cobro Coactivo.\" The article notes that Marco Emilio Hincapie is now the former president of Coljuegos, Gustavo Petro's mandate having ended on 7 August 2026, and recaps the outgoing administration's enforcement record: 12,852 illegal gaming items seized across 24 departments in 514 operations, 15,644 items destroyed, and 58,916 website blocking orders including 437 social media profiles. Article by Pedro Occhiuzzi.",
-    "source": "https://sbcnoticias.com/coljuegos-sanciona-yeferson-cossio-juego-ilegal/",
-    "tags": [
-      "Colombia",
-      "Marketing",
-      "Enforcement",
-      "Affiliates"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "South Africa's NGB pushes site-blocking procurement to 4 September as ISPs object to the mechanism",
-    "meta": "iGaming Business | 24 Aug 2026",
-    "summary": "The National Gambling Board is seeking a service provider to monitor, block, track and report illegal online gambling sites targeting South African consumers, with the expression of interest deadline moved from 7 August to 4 September. Research commissioned by the South African Bookmakers' Association puts about 62% of online gambling activity with illegal operators.",
-    "why": "South Africa is one of the most attractive African markets on paper and one of the least resolved in practice, and the blocking debate is a proxy for whether the country builds a proper interactive framework at all. The scale mismatch is stark: two staff and R596,000 against an estimated R50bn of offshore GGR.",
-    "expanded": "The EOI was published on 30 June 2026, amended on 17 July, with the closing date moved after a bidder briefing on 15 July; it does not commit the NGB to awarding any contract, only to shaping a later RFP. Yield Sec research for SABA attributes roughly 62% of online gambling activity to illegal operators, with more than R50bn ($3.1bn) in GGR flowing offshore annually. Acting NGB chief executive Lungile Dukwana told parliament's Portfolio Committee on Trade, Industry and Competition in June that no national policy position on interactive gambling had been finalised, and described the procurement to Business Day TV as a scoping exercise: \"We want to understand what is in the market.\" The Minister of Trade, Industry and Competition told the National Assembly the NGB allocated just two human resources and R596,000 to identifying illegal sites in 2025/26, that its database holds 90 illegal gambling websites all operated by overseas-licensed companies, and that none of the 10 sites referred to Google Africa for search delisting in 2024/25 had been removed. The Internet Service Providers' Association has published a position paper opposing administratively ordered blocking, with chair Sasha Booth-Beharilal telling TechCentral that \"any disruption of internet services to South Africans should be done only as part of a clear legislative framework\". SABA chief executive Sean Coleman said: \"Website blocking, while important, should not be viewed as a silver bullet.\"",
-    "source": "https://igamingbusiness.com/legal-compliance/south-africa-ngb-blocking-plan-advances-eoi-deadline-approaches/",
-    "tags": [
-      "South Africa",
-      "Black market",
-      "Regulation",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Ghana FA bans betting odds on domestic matches, saying no operator is licensed to price local games",
-    "meta": "Focus Gaming News | 23 Aug 2026",
-    "summary": "Ghana Football Association president Kurt Okraku announced at the GFA's 32nd Ordinary Congress in Prampram on 20 August that betting odds on domestic football matches are restricted, telling delegates: \"No betting company has been licensed to place odds on domestic games.\"",
-    "why": "A federation asserting control over who may price its fixtures is a data-rights position as much as an integrity one, and it cuts directly across the local-content strategy operators use to compete in West Africa. Domestic league markets are among the strongest localisation levers available in Ghana, so removing them narrows the differentiation available against offshore books that will price the fixtures anyway.",
-    "expanded": "The GFA framed the measure as a step to protect the integrity of Ghana's domestic game and to cut the financial incentives behind match manipulation, and says the policy aims to create a more transparent environment for clubs, players, coaches, officials and supporters while safeguarding the credibility of the Ghana Premier League. Okraku's remarks were reported by ModernGhana. The announcement comes as the GFA pushes to grow the commercial value of domestic football: during the 2025/26 Ghana Premier League season, 186 matches were produced and broadcast, comprising 75 live broadcasts and 111 non-live telecasts, with the Women's Premier League and Division One League also receiving expanded media coverage. The 2026/27 Ghana Premier League season is scheduled to kick off on 5 September 2026, which gives operators and their trading teams a short window to establish what the restriction means in practice for market availability and for any existing data agreements.",
-    "source": "https://focusgn.com/africa/ghana-football-association-restricts-betting-odds-on-domestic-matches",
-    "tags": [
-      "Ghana",
-      "Data rights",
-      "Integrity",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Kenya appoints RSM Eastern Africa and Sweden's QLOT as advisers for its first National Lottery tender",
-    "meta": "Focus Gaming News | 20 Aug 2026",
-    "summary": "Kenya's National Lottery Board announced on 20 August that a consortium led by RSM Eastern Africa with Sweden's QLOT Consulting has been appointed Transaction Advisor for procurement of the country's first National Lottery Operator, covering transaction structuring through to operator onboarding and launch readiness.",
-    "why": "Kenya is building a national lottery on top of a gambling framework that was itself rewritten only last year, which means the operator specification will be drafted against brand-new licensing machinery rather than legacy practice. The obligations already signalled read like a modern online compliance spec rather than a retail lottery one.",
-    "expanded": "The appointment followed an open international tender under the Public Procurement and Asset Disposal Act 2015, evaluated on Quality and Cost Based Selection, with the consortium ranked highest and most responsive; QLOT is an Associate Member of the World Lottery Association. The consortium will also run a structured knowledge-transfer programme so expertise is retained in-house. NLB chairperson Dr Farida Karoney said: \"The appointment of a credible, multidisciplinary Transaction Advisor is a defining step in building a National Lottery that Kenyans can trust. It is a statement of intent - that our National Lottery will be structured transparently, governed responsibly, and built to international best practice, with every shilling raised channelled towards good causes that uplift communities across the country.\" The NLB was created under the National Lottery Act No. 20 of 2023, while broader gaming licensing sits with the Gambling Regulatory Authority established by the Gambling Control Act No. 14 of 2025; the future operator will be licensed by the GRA but remain contractually accountable to the NLB. Operator obligations will include age verification, play and spend controls, self-exclusion, disciplined advertising and clear odds disclosure. On timing the Board said: \"Timelines will be published in due course; the Board will not trade rigour for speed.\"",
-    "source": "https://focusgn.com/africa/kenyas-first-national-lottery-advances-towards-operator-appointment-as-rsm-qlot-named-advisers",
-    "tags": [
-      "Kenya",
-      "Lottery",
-      "Procurement",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "Uganda's regulator asks telcos and ISPs to become responsible gaming partners, not just blockers",
-    "meta": "Focus Gaming News | 23 Aug 2026",
-    "summary": "National Lotteries and Gaming Regulatory Board chief executive Denis Mudene told a stakeholder engagement with telcos and ISPs at the Uganda Communications Commission on 14 August that blocking illegal sites is not enough: \"Telecom operators can become ambassadors for responsible gaming.\"",
-    "why": "Enlisting carriers as monitoring and messaging partners moves enforcement from the operator layer to the network layer, and it puts traffic-pattern analysis into hands that have no gambling licence and no duty of care framework. That is a different kind of oversight to plan around than a regulator asking an operator for reports.",
-    "expanded": "Mudene asked operators to support three areas: closer monitoring of internet traffic linked to betting sites, timely flagging of suspicious or illegal activity, and consumer sensitisation on the risks of unlicensed platforms. The regulator described the existing workflow, in which the NLGRB identifies illegal sites, the UCC issues a directive and operators block access, as essential but reactive, and framed the August meeting as a shift towards proactive partnership. Mudene also flagged corporate and workplace environments as a distinct risk area where unchecked access to betting platforms needs attention. The NLGRB said the migration of gaming online has expanded the enforcement challenge from physical premises to online infrastructure, making telcos and ISPs critical regulatory partners. Uganda has been unusually active on gambling policy this year across taxation, licensing and player protection, and the network-level approach fits a broader African pattern in which regulators with limited direct enforcement capacity lean on infrastructure providers.",
-    "source": "https://focusgn.com/africa/uganda-regulator-pushes-telecoms-to-play-bigger-role-in-illegal-online-gambling-fight",
-    "tags": [
-      "Uganda",
-      "Regulation",
-      "Black market",
-      "Africa"
-    ]
-  },
-  {
-    "section": "Africa",
-    "title": "888AFRICA rolls out Axom Gaming's decisioning layer after a test delivered 18% incremental NGR uplift",
-    "meta": "SBC News | 24 Aug 2026",
-    "summary": "888AFRICA, the joint venture between evoke and Christopher Coyne, has deployed Axom Gaming's predictive decisioning layer into its existing CRM stack after a three-month test in which incremental net revenue grew 2% in month one, 7% in month two and 18% by the end of month three.",
-    "why": "The pitch here is not a CRM replacement but a decisioning layer on top of one, which is the more realistic path for a multi-brand operator that cannot afford a migration mid-growth. The stated goal, scaling customer base without scaling CRM headcount proportionally, is the operating-model argument that matters more than the uplift number.",
-    "expanded": "Axom is the new identity of ibex.ai following a rebrand. 888AFRICA focuses on Kenya, Tanzania, Mozambique, Zambia, Malawi and Angola. Axom chief executive Danny Rippon said: \"Our unique market proposition is primed for a rapidly-growing, multi-brand operator like 888AFRICA. We deliver measurable commercial uplift to our partners, as we've proven through this test phase, and we're now ready to scale our integration across the group.\" Martin Nieri, founder and chief marketing officer at 888AFRICA, said: \"We've already seen a major performance uptick, and what is particularly exciting for us is the ability to scale the business significantly, increase NGR and manage a much larger customer base without needing to scale CRM headcount at the same rate.\" SBC frames the deal against intensifying African competition as the US and Brazilian markets crowd, naming Super Group's Betway, Kaizen Gaming's Betano and LiveScore Group's Virgin Bet as expanding rivals. G3 Newswire carried the same news on 24 August, adding that the test processed billions of behavioural and transactional data points with next-best-action analysis at individual player level. Written by Ted Orme-Claye.",
-    "source": "https://sbcnews.co.uk/marketing/2026/08/24/888africa-marketing-crm/",
-    "tags": [
-      "Africa",
-      "CRM",
-      "Data",
-      "Retention"
+      "AML",
+      "Market entry"
     ]
   },
   {
     "section": "Asia / Oceania",
-    "title": "SkyCity reveals it rejected two conditional takeover proposals worth up to NZ$827m, including an Oaktree cash bid",
-    "meta": "Asia Gaming Brief | 25 Aug 2026",
-    "summary": "SkyCity Entertainment Group disclosed on 25 August that it received two confidential, unsolicited, conditional and non-binding takeover proposals in May worth up to NZ$827.3m ($493.1m) and rejected both, including an indicative NZ$0.70 per share cash offer from a special situations fund managed by Oaktree Capital Management.",
-    "why": "Casino-sector M&A keeps surfacing as rejected approaches rather than completed deals, and the conditions attached here explain why: eight weeks of due diligence, debt financing still to be arranged, exclusivity and standstills on asset moves. That combination is hard for a board mid-way through its own asset monetisation programme to accept.",
-    "expanded": "The Oaktree-managed fund's NZ$0.70 per share indicative offer valued the equity at about NZ$772.1m ($460.3m); a second, unidentified party proposed an implied NZ$0.75 per share, or roughly NZ$827.3m, based on 1.10 billion shares outstanding. The board unanimously rejected both, concluding they did not adequately reflect underlying value and that the attached conditions were problematic. SkyCity told both parties it would consider further engagement, including due diligence access, if they submitted improved proposals; neither returned with a revised offer. Both proposals required at least eight weeks of due diligence and arrangement of debt financing, and were conditional on an agreed structure, binding documentation, unanimous board support, and shareholder and regulatory approvals. One or both bidders also sought exclusivity, retention of SkyCity's existing debt facilities, and restrictions on binding asset acquisitions or disposals. The disclosure followed media speculation that SkyCity was in discussions with Oaktree. SkyCity said it will continue its asset monetisation programme, expected to generate gross proceeds of NZ$275m to NZ$300m ($164m to $179m), including the NZ$74.5m sale of two Auckland investment properties and a non-binding agreement over the Grand Hotel, alongside a strategic review of SkyCity Adelaide.",
-    "source": "https://agbrief.com/news/new-zealand/25/08/2026/skycity-says-it-rejected-two-conditional-takeover-proposals-worth-up-to-493m/",
+    "title": "SJM books wider H1 loss in first full half without satellites, but EBITDA margin expands 3.5 points",
+    "meta": "Inside Asian Gaming | 25 Aug 2026",
+    "summary": "SJM Resorts reported gaming revenue growth across all of its properties in the six months to 30 June 2026, but net loss attributable to owners widened to HK$295m (US$37.6m) from HK$182m. Adjusted EBITDA nonetheless rose 3.3% to HK$1.70bn (US$217m), with margin improving 3.5 percentage points to 14.7%.",
+    "why": "The satellite wind-down has pulled roughly HK$4.9bn of half-year peninsula GGR onto SJM's own books and systems, which is exactly the kind of consolidation that forces loyalty, CRM and player-account re-platforming onto a single stack. Margin expansion on a 20.8% revenue decline shows where the commercial attention is: cost-to-serve and reinvestment discipline, which is a player-value analytics conversation rather than a content one.",
+    "expanded": "The half was the first full reporting period under a direct management model following the closure of SJM's last remaining satellite casino in December 2025. Stripped of satellite contributions, GGR fell 18.5% year on year to HK$12.1bn (US$1.54bn) and total net revenue fell 20.8% to HK$11.6bn (US$1.48bn). Daisy Ho, Chairman of SJM Holdings and Managing Director of SJM Resorts, said: \"The first half of 2026 marked the completion of a significant structural transition for the Group as we assumed direct management of our entire portfolio,\" adding that this \"has strengthened our control over customer experience, cost structure and earnings quality across our properties, with the benefits already reflected in our operating performance and margin expansion.\" Grand Lisboa Palace in Cotai grew GGR 12.9% to HK$3.32bn (US$424m) on a 16.9% rise in rolling volume, though Adjusted Property EBITDA fell to just HK$22m (US$2.8m) on restructuring costs, higher customer reinvestment for retention and market-wide cost inflation. Grand Lisboa GGR rose 7.1% to HK$3.84bn with Adjusted Property EBITDA flat at HK$860m (US$110m). SJM's other peninsula properties - former satellite L'Arc Macau, the expanded gaming area at Casino Lisboa and Casino Oceanus at Jai Alai - saw aggregate GGR jump 85.7% to HK$4.93bn (US$629m). The second phase of the Crystal Palace gaming area at Casino Lisboa opened on 10 August 2026, and refurbishment of roughly 400 hotel rooms owned by controlling shareholder STDM has been completed. Refurbishment of Grand Lisboa's deluxe villas and mansion is expected to finish ahead of the 2027 Lunar New Year.",
+    "source": "https://asgam.com/2026/08/25/sjm-loss-widens-in-1h26-on-transition-to-post-satellite-operating-model-but-ggr-growth-across-all-casino-properties-a-positive/",
     "tags": [
-      "New Zealand",
-      "M&A",
-      "Land-based",
-      "Oceania"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "PAGCOR forecasts 2026 revenue down 18% to PHP87bn, blaming a 40% activity drop after e-wallet delinking",
-    "meta": "Asia Gaming Brief | 24 Aug 2026",
-    "summary": "PAGCOR chairman and CEO Alejandro Tengco told a House Committee on Appropriations hearing on 24 August that total 2026 revenue will fall 18% to nearly PHP87bn ($1.41bn), PHP19.08bn below 2025, after gaming activity dropped roughly 40% when e-wallets were delinked from online gambling platforms in late 2025.",
-    "why": "This is the largest published natural experiment in what happens when you sever the dominant deposit rail from an online market, and the answer is a step-change in volume that recovers only partially. Payments architecture is not a convenience layer in markets like this; it is the demand curve.",
-    "expanded": "Tengco said: \"We experienced a downtrend of about 40 percent in gaming activities because it's not as easy as before when platforms were linked.\" He said activity recovered in early 2026 before the Middle East crisis hit consumer spending among lower- and middle-income players. PAGCOR's first-half revenue fell 26.64% to PHP43.32bn ($704m) from PHP59.05bn, with gaming operations revenue down 27.11% to PHP38.92bn. The distribution of the damage is instructive: revenue from eGames, eBingo and bingo grantees dropped 41.85% to PHP18.60bn, while licensed casinos and PAGCOR-operated casinos declined only 3.85% and 8.67% respectively, confirming that the online segment absorbed almost all of the impact. The 2025 total of PHP106.03bn ($1.72bn) was itself down 5.1% from PHP111.71bn in 2024. Tengco said activity rose 10% in July and held stable in August, with integrated resorts reporting increased tourist patronage in late July and early August. Reported via Inquirer and Manila Bulletin.",
-    "source": "https://agbrief.com/news/philippines/24/08/2026/pagcor-sees-2026-revenue-falling-18-amid-gaming-slowdown/",
-    "tags": [
-      "Philippines",
-      "Payments",
-      "Regulation",
-      "Asia"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "PAGCOR to ship a player-verification app before year-end as Tengco says half of sites accessed are illegal",
-    "meta": "GGRAsia | 25 Aug 2026",
-    "summary": "PAGCOR will launch an application before the end of 2026 to help consumers confirm they are accessing licensed platforms, chairman and CEO Alejandro Tengco told the House Committee on Appropriations on 24 August, stating that \"around 50 percent of online gaming sites accessed in the Philippines are illegal\".",
-    "why": "A regulator-issued verification app is an interesting alternative to blocking: instead of trying to remove supply, it tries to make legitimacy checkable at the point of choice. Whether it works depends almost entirely on whether licensed operators surface it in their own acquisition and onboarding funnels, which is a product integration ask rather than a compliance one.",
-    "expanded": "Tengco said the app has two main objectives, to \"curb illegal online gambling\" and to \"protect players by ensuring that they play only on platforms licensed and regulated by Pagcor\", and noted that playing with a licensed operator gives players a redress mechanism in disputes. \"For those who patronise online gaming, we encourage them to use the Pagcor app,\" he said, adding: \"The easier it is for them to identify where they can legally play, the better we can protect them from illegal operators and the risks that come with unregulated gaming.\" He also stated that \"around 50 percent of online gaming sites accessed in the Philippines are illegal, and keeping players within the regulated sector has been an ongoing challenge for Pagcor and our law enforcement partners\". PAGCOR launched a \"PAGCOR Guarantee\" verification website in 2025, so the app extends an existing approach rather than starting one. In a Tuesday update, PAGCOR said it is coordinating with the Department of Information and Communications Technology, the National Telecommunications Commission and the Cybercrime Investigation and Coordination Center to prosecute illegal online operators and the payment channels they use.",
-    "source": "https://www.ggrasia.com/pagcor-app-to-guide-players-to-legitimate-online-gaming-sites-due-before-year-end-tengco",
-    "tags": [
-      "Philippines",
-      "Player protection",
-      "Black market",
-      "Product"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "NagaCorp Q2 GGR falls 20% to $129m as VIP nearly halves on Cambodia scam-centre perceptions",
-    "meta": "Asia Gaming Brief | 24 Aug 2026",
-    "summary": "NagaCorp's second-quarter gross gaming revenue fell about 20% year on year to $129.0m and was 26.2% below Q1's $174.7m, with VIP GGR down 46.9% to $20.2m. Management cited weaker regional travel, higher airfares, fewer direct flights and \"negative international perceptions associated with online scam activities in Cambodia\".",
-    "why": "An operator explicitly attributing revenue decline to a country's association with online scam operations is a reminder that jurisdictional reputation is now a commercial input, not a background condition. The mass-market share shift inside the same numbers is the more durable signal for anyone modelling Asian demand.",
-    "expanded": "Combined mass table and EGM GGR declined 11.6% to $108.7m in the quarter. Management observed \"a moderation in business momentum\" and said the FIFA World Cup likely hit visitation because match schedules coincided with the casino's peak operating hours. For the first half, GGR fell 8.6% to $303.7m and consolidated revenue fell 8.4% to $313.2m; VIP GGR dropped 34.8% to $65.3m, with premium VIP rolling volume down 50.2% and referral VIP rolling volume down 67.6%. International tourist arrivals through Cambodia's main airport gateway fell 28.9% in the first half. Mass-market GGR rose 2.7% to $238.3m and made up 78.5% of group GGR, up from 69.8% in the same period last year. EBITDA fell 2.4% to $195.4m and net profit fell 3.2% to $144.0m, a much shallower decline than the revenue fall, reflecting the mix shift. NagaCorp declared an interim dividend of 0.98 US cents per share, totalling $43.2m on a 30% payout, fully repaid a $70m shareholder loan in May and had no outstanding borrowings at 30 June.",
-    "source": "https://agbrief.com/news/cambodia/24/08/2026/nagacorp-2q26-ggr-falls-20-as-vip-play-nearly-halves/",
-    "tags": [
-      "Cambodia",
+      "Macau",
       "Land-based",
       "Earnings",
-      "Asia"
-    ]
-  },
-  {
-    "section": "Asia / Oceania",
-    "title": "Australia's ad reforms give betting logos on sports jerseys a five-year reprieve to the end of 2031",
-    "meta": "Focus Gaming News | 24 Aug 2026",
-    "summary": "Australia's new gambling advertising rules ban wagering logos on professional sports jerseys, but a transition period allows existing sponsorship agreements to run until 31 December 2031, drawing criticism from crossbench and opposition politicians who wanted a shorter window.",
-    "why": "The transition length is the operative commercial fact in the whole reform package for sponsorship-dependent brands, and it is longer than the legislation's own review cycle. It also means Australian market planning has a fixed, published cliff-edge date, which is unusual and worth building against explicitly.",
-    "expanded": "The government says the transition gives sports clubs and wagering companies time to adjust existing commercial agreements. Independent Senator David Pocock urged clubs to end wagering sponsorships as soon as possible, warning: \"We are in an absurd situation whereby the time of the legislation's three-year statutory review, jerseys may still have betting logos on them.\" Liberal MP Andrew Wallace, who voted against the reform package, also argued five years was too long and had proposed a two-year transition to let sporting organisations find alternative sponsors. Communications Minister Anika Wells defended the five-year window, saying the government was balancing the new rules against existing commercial contracts, and that one unnamed sports club has a jersey sponsorship agreement running until 2031, though several other contracts expire earlier. Seven National Rugby League clubs currently carry wagering or lottery brands on their jerseys, with some agreements running until at least the end of the 2028 season. The jersey provision sits inside the wider reform package that cleared both houses last week.",
-    "source": "https://focusgn.com/asia-pacific/australia-to-allow-gambling-logos-on-sports-jerseys-until-2031",
-    "tags": [
-      "Australia",
-      "Advertising",
-      "Sponsorship",
-      "Oceania"
+      "CRM"
     ]
   },
   {
     "section": "Product",
-    "title": "Betable integrates Delasport's sportsbook across eight operator brands, embedding horse racing natively",
-    "meta": "iGaming Business | 24 Aug 2026",
-    "summary": "Platform provider Betable has integrated Delasport's sportsbook into its modular core platform, already live across eight operator brands, sitting alongside Betable's casino, player account management, CRM, payments, compliance and operational modules.",
-    "why": "The detail worth noticing is the embedded horse racing rather than a third-party racing skin, because racing is the classic place where a modular platform leaks a consistent journey: separate wallet display, separate bet slip, separate account context. Solving that inside the sportsbook is a UK and Ireland market-entry requirement, not a nice-to-have.",
-    "expanded": "Delasport's racing product sits natively inside the sportsbook, giving one consistent journey across wallet, bet slip and player account. The supplier also brings in-play capabilities, personalised recommendations, real-time engagement tools and risk management. Warren Jacobs, chief executive of Betable, said: \"Sportsbook is an important part of Betable's growth strategy and of the proposition we offer our operator partners... Delasport gives us a strong, modern sportsbook product with the local relevance required for markets such as the UK. Its embedded horse racing experience is particularly valuable, but just as importantly, the technology integrates naturally with our wider platform.\" Oren Cohen Shwartz, chief executive of Delasport, said: \"With eight brands already live, the partnership demonstrates the scalability and strength of the combined proposition.\" Betable frames the tie-up as part of a strategy to support operators across Europe, North America, LatAm, Africa and Asia from one core platform with modular integrations, which is the same architectural argument most PAM vendors are now making, differentiated mainly by how much of the journey stays inside one session.",
-    "source": "https://igamingbusiness.com/company-news/betable-selects-delasport-to-power-its-global-sportsbook-proposition/",
+    "title": "Sky Bet launches Ghost Leg, a weekly token that voids one losing leg from a qualifying bet builder",
+    "meta": "SBC News | 25 Aug 2026",
+    "summary": "Sky Betting and Gaming has launched Ghost Leg on its pre-match BuildABet product, live from the first week of the EFL season on 14 August. Customers get one token per week, available 9am Friday to 11:59pm Monday, and must opt in.",
+    "why": "This is a bonus-abuse-aware reward mechanic dressed as a product feature - opt-in, tokenised, weekly-capped, with a five-leg minimum and 3/1 combined odds floor that make the liability modellable before it ships. Differentiation in a commoditised bet builder category is now happening at the settlement layer and in the promo engine, which is tooling rather than market breadth.",
+    "expanded": "If applied to a qualifying BuildABet, Ghost Leg removes one losing leg from the bet; if all remaining selections win, the bet settles at the recalculated odds after removal. Eligibility is restricted to BuildABets with five or more legs and combined minimum odds of 3/1 or greater. The feature was initially available on EFL markets but was restricted to the Premier League from 21 August, and will be extended to midweek Champions League fixtures between 8 and 10 September. Commercial Director Kylie Paynter-Stout told SBC News: \"Sky Bet and RequestABet have historically led the way in same-game parlays, but with Bet Builder now pretty commonplace across the industry, we wanted to do more and take another step to gain a competitive edge.\" She said Sky Bet \"tested a number of different ideas with customers to understand what would genuinely improve their Bet Builder experience, and which concepts they found most appealing,\" and that \"the innovation was about giving customers more of a chance, rather than just changing the outcome.\" Sky Bet launched RequestABet in 2015, since withdrawn, and BuildABet in 2022, and also runs Acca Freeze, which lets players freeze one winning score mid-match. Flutter stablemate Paddy Power originated Super Sub, subsequently rolled out at Sky Bet and copied by William Hill, bet365 and others. At the 2026 World Cup Sky Bet added new player markets and moved to settling player props on 120 minutes rather than 90 in knockout ties. Paynter-Stout said there remain \"opportunities to introduce new markets, make the experience simpler and more intuitive, and bring more pre-match and in-play content into Bet Builder.\"",
+    "source": "https://sbcnews.co.uk/features/interviews/2026/08/25/sky-bet-ghost-leg-bet-builder/",
     "tags": [
-      "Platform",
+      "UK",
       "Sportsbook",
-      "PAM",
-      "Supplier"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "AGCO fines Booming Games C$70,000 after banned auto-play stayed live in Ontario slots for months",
-    "meta": "iGaming Business | 21 Aug 2026",
-    "summary": "The Alcohol and Gaming Commission of Ontario has penalised Booming Games (Malta) Limited C$70,000 after finding several slot titles included prohibited auto-play functionality accessible to Ontario players for several months, concluding the supplier failed to properly configure, test and monitor games before and after launch.",
-    "why": "This is a configuration-governance failure, not a rules dispute, and it is the most common way suppliers get caught in a market with jurisdiction-specific game standards. The regulator's framing, that responsibility runs \"throughout the lifecycle\" and not just at certification, is the part that should worry anyone shipping the same title into a dozen differently-configured markets.",
-    "expanded": "The AGCO said it detected the violation through \"proactive and targeted compliance efforts\" and ordered the functionality disabled immediately after notifying the supplier. Auto-play, which allows continuous consecutive spins without player interaction, has been banned in Ontario since 2021 under game-design standards that also mandate minimum intervals between spins and prohibit features that disguise losses as wins. The AGCO cited Requirement 2 of Standard 2.16 and Requirement 3 of Standard 4.09 of the Registrar's Standards for Internet Gaming, with the penalty issued under the Gaming Control Act, 1992. \"Ontario's game design standards are fundamental player-protection measures built into the regulated iGaming market - they are not optional technical requirements,\" said Dr Karin Schnarr, AGCO chief executive and registrar. \"Registered suppliers must have effective controls in place to prevent prohibited features from reaching Ontario players. When those safeguards are not respected, the AGCO will take regulatory action.\" Affected titles reported include TNT Bonanza, Cash Pig, Buffalo Hold and Win and The Wild Wings of Phoenix; Booming Games received its AGCO B2B licence in 2024 and has 15 days to request a hearing before the Licence Appeal Tribunal. Ontario gross gambling revenue reached C$3.20bn from April 2024 to March 2025, up 32% year on year, with almost 84% of Ontarian players on regulated sites. The action follows a C$120,000 AGCO fine against Betty Gaming over underage access failures earlier in August.",
-    "source": "https://igamingbusiness.com/legal-compliance/agco-fines-supplier-70000-for-auto-play-feature-breach-in-ontario-slots/",
-    "tags": [
-      "Ontario",
-      "Configuration",
-      "Compliance",
-      "Supplier"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "BetMGM adds percentage \"probability odds\" and cash-out charts borrowed from prediction market apps",
-    "meta": "InGame | 25 Aug 2026",
-    "summary": "BetMGM, the largest US sportsbook operator to have stayed out of prediction markets, is rolling out an app redesign for football season that lets bettors display odds as percentages and set that as their default, alongside graphs charting how a bet's cash-out value has moved over time.",
-    "why": "Competing with a rival category by adopting its interface conventions rather than its product is a defensible strategy, and cheaper than a licence. It also quietly concedes that the presentation layer, not the underlying market, is what a segment of customers actually preferred about prediction markets.",
-    "expanded": "BetMGM Product Management Leader Brittany Dunbar told InGame the feature came from user research: \"We've talked to our players a lot this past year, around prediction markets for those who dabble in prediction markets. What do they like? What do they not like? So we're trying to glean some of those learnings and pull through what makes sense into our experience.\" On the cash-out charts she said: \"This is one of the things that we really like that the prediction market apps do today.\" The redesign also adds a carousel to track active bets and reduces in-game betting pauses through more trading automation. Dunbar cited Netflix, Spotify and Instagram as design influences for a new liquid glass bet bar and navigation menu. She said BetMGM is not losing its base to prediction markets, describing \"a sliding scale\" from curious to avid users, and stressed: \"At the end of the day we're not going to do everything that a FanDuel or DraftKings does, or what a Kalshi or a Polymarket does.\" The percentage-odds move is notable timing given the CFTC has been pushing prediction markets away from American-style odds. BetMGM is half-owned by MGM Resorts, whose Nevada casino licences make prediction-market entry unlikely; chief executive Adam Greenblatt called prediction platforms \"new sports betting companies\" on the Q1 2026 earnings call. Reported by Daniel O'Boyle.",
-    "source": "https://www.ingame.com/betmgm-app-updates-predictions/",
-    "tags": [
-      "UX",
-      "Sportsbook",
-      "Prediction markets",
+      "Bonus mechanics",
       "Product"
     ]
   },
   {
     "section": "Product",
-    "title": "UK operators share special-category health data on vulnerable customers but nothing equivalent for fraud",
-    "meta": "Payment Expert | 24 Aug 2026",
-    "summary": "Payment Expert sets out that UK operators already exchange health data on vulnerable customers through GamProtect, which transfers name, date of birth, postcode, email, phone, a unique identifier and a closure flag between competitors, while building nothing comparable for payment fraud despite GBP1.28bn stolen through payment fraud in 2025.",
-    "why": "The asymmetry is the story: the industry solved the harder legal problem, sharing special-category data between rivals, and left the easier one unsolved. If health-ground closures can be matched across operators at scale, there is no principled reason fraud signals cannot be, and the blockers named here are commercial rather than regulatory.",
-    "expanded": "GamProtect transfers its defined field set once an operator closes an account on health grounds, and participating operators match it against live customer databases to close accounts elsewhere. A person added stays subject to matching for an initial five years, extendable up to 35 years, followed by a further seven-year archive. Gambling Commission executive director Tim Miller said at the scheme's September 2024 showcase that 5,527 customers had been flagged since the 2023 pilot, with 88% matched by at least one other operator; founding firms were Flutter, Entain, bet365 and William Hill, with Broadway Gaming and Betway joining later. By contrast, the financial sector's Cifas National Fraud Database holds roughly two million records, takes a new case around every 90 seconds, records more than 350,000 cases a year and, per Cifas, prevents over GBP1bn in fraud losses annually, an estimated GBP1.8bn in 2023; Cifas describes fraud as \"a non-competitive issue\". UK Finance members reported GBP1.28bn stolen through payment fraud in 2025, with remote purchase card fraud alone at GBP423.5m across 3.2 million cases, up 13%. Ruth Ray, UK Finance's managing director of economic crime, said the financial sector \"cannot be the only line of defence\". Louis Thompsett argues the blockers are commercial rather than legal, noting that acquirers and orchestration platforms holding the cross-market data already sell fraud scoring as a product, and that the Data (Use and Access) Act 2025's recognised legitimate interest basis, in force since February 2026, pre-approves crime and fraud prevention as a processing purpose.",
-    "source": "https://paymentexpert.com/2026/08/24/gambling-firms-share-health-not-fraud/",
-    "tags": [
-      "Fraud",
-      "Payments",
-      "Data sharing",
-      "UK"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "Genius Sports says machine-captured data can remove bet delays and fix player-prop resulting",
-    "meta": "iGaming Business | 21 Aug 2026",
-    "summary": "Genius Sports has secured exclusive rights to capture and distribute official betting data for 18 European Leagues Association member leagues and has deployed computer vision systems in European stadia collecting 10,000 data points from every player 200 times a second, which it argues removes the need for blanket in-play bet delays.",
-    "why": "Bet delays and cash-out suspensions are friction that operators apply because they cannot be certain what is happening on the pitch. If certainty becomes cheap, the delay becomes a product choice rather than a risk necessity, and the operators who remove it first will be visibly faster than the ones who do not.",
-    "expanded": "Genius commercial director James McKiernan said: \"At the moment, in-play bet delays exist where operators and their customers don't want them. But if we know the ball is going out for a goal kick and it's going to take six to seven seconds for that ball to come back in play, you should be able to accept bets with no delays... Why would you need a bet or cash-out delay when you know for certain that it's a goal kick? Machine-captured data is going to solve the headaches of resulting player markets, like shots, too.\" James Derbyshire, sports director of UK and Ireland at LeoVegas Group, said the market has \"gone full circle\" on market counts: \"Maybe four or five years ago, it was about how many markets that we have on the site. And actually, now we're thinking more along the lines of which are the markets that are most relevant to the stories that customers want to be engaged with.\" Derbyshire flagged bet-builder combinability as the key frustration to fix, saying \"customers don't understand why certain outcomes can't be combined\". Chris Gerstle, director of commercial and business development at European Leagues, called official data \"absolutely critical\" for provenance and integrity as markets get more granular. Interviewed by Kyle Goldsmith.",
-    "source": "https://igamingbusiness.com/sports-betting/football-betting-evolving-new-season/",
-    "tags": [
-      "Data",
-      "Sportsbook",
-      "Trading",
-      "Football"
-    ]
-  },
-  {
-    "section": "Product",
-    "title": "OpenBet processed $3bn of World Cup stakes with player props up 130%, as trading counts the parlay cost",
+    "title": "Bet442 compliance chief offers a one-question CRM audit: what happens when a risk score goes up?",
     "meta": "SBC News | 21 Aug 2026",
-    "summary": "OpenBet head of business development Aidan O'Sullivan disclosed that the platform processed $3bn in stakes during the World Cup with 23 million player prop bets, a 130% increase on Qatar 2022, and half of its top 20 bet combinations featuring a player goals or stats selection, up from four at the previous tournament.",
-    "why": "The prop and parlay shift is usually presented as an engagement win, and the trading side of the same tournament shows what it costs when correlated selections land. That tension, between the product team's mix and the trading team's variance, is the real design constraint on granular football markets this season.",
-    "expanded": "Live wagering accounted for one in every six bets during the knockout stages, at higher average slip values. Abelson Sports chief betting officer Jeevan Jeyaratnam detailed the risk: on 16 June, with France, Norway and Argentina all playing, Mbappe, Haaland and Messi scored seven goals between them, and when the trio repeated the 2+ goals feat on 22 June the \"to score 2+\" parlay priced at 91.00 to 121.00 was \"an incredibly popular and hugely damaging selection\". Jeyaratnam argued product concessions are the sportsbook's defence against prediction markets, citing Super Sub and bet365's extra-time concession: \"These concessions as well as the granularity we see in player props are certainly things that are very hard for prediction markets to replicate.\" Genius Sports commercial director James McKiernan said BetVision is now live with over 100 operators and that \"essentially 100% market and cash out availability is possible, because the underlying data, pricing and models are so strong\". O'Sullivan also cited OpenBet's Trending BetBuilder widgets, AI-driven trading recommendations, AI-powered customer and risk profiling, and integration of Neccton and OpenBet Locator for responsible gaming and geolocation. Interviewed by Craig Davies.",
-    "source": "https://sbcnews.co.uk/features/2026/08/21/new-football-season/",
+    "summary": "In an interview with SBC News, Bet442's Head of Sports Liam Normanton and Head of Compliance Andy Coyne argued that registration-to-FTD leakage matters more than bonus size, and that safer-gambling credibility is a question of execution rather than messaging.",
+    "why": "Coyne's test - \"look at what your CRM does when a customer's risk score goes up; if the volume of promo activity goes up with it, you've got your answer\" - is the sharpest safer-gambling product spec published this month, and it is directly implementable as a suppression rule between risk scoring and campaign orchestration. Expect it to start appearing in RFPs, and expect the answer to require bidirectional wiring rather than a harm-detection dashboard.",
+    "expanded": "Normanton said CPMs on gambling keywords \"have climbed hard industry-wide, so the efficient play is being selective about which moments to bid into rather than running flat spend across the whole window\", and identified onboarding as the larger prize: \"The bigger opportunity is usually mid-funnel, not top of funnel. Registration-to-FTD drop-off is where a lot of acquisition spend quietly leaks away.\" On promotions he said bonuses \"remain one of the most effective tools operators have\", but that \"a headline offer can be matched by a rival within days, so it's rarely a durable edge on its own\", pointing instead to product depth, bet builder functionality, live betting speed, market breadth and payments. On retention: \"a customer engaged across more than one sport or product tends to be stickier than one anchored to a single market\", and \"CRM that treats different customers differently, rather than running one blanket playbook for everyone, tends to retain better without needing to keep escalating spend.\" He noted the behavioural data underpinning personalisation - session patterns, staking behaviour and timing - \"overlaps significantly with the data used to spot markers of harm.\" On reactivation campaigns Coyne warned: \"Somebody's been quiet for three months. Might be a lapsed customer. Might also be someone who's finally got a grip on it, and you're about to undo that for a tenner and a bit of GGR.\" On the UK front-of-shirt sponsorship ban he said \"the restrictions just took the shortcut away\", exposing operators who \"had a logo on a chest and a decent budget\" rather than a brand. On compliance differentiation: \"It's 'this was proportionate, it was quick, and somebody told me why'.\" He also predicted a revenue reality operators have underweighted: \"Better harm detection suppresses revenue. It has to. Operators who've modelled that will be fine. Ones who've assumed technology is all upside are in for a shock.\"",
+    "source": "https://sbcnews.co.uk/features/2026/08/21/bet442-premier-league/",
     "tags": [
-      "Sportsbook",
-      "Trading",
-      "Bet builder",
+      "CRM",
+      "Conversion",
+      "Safer gambling",
+      "Personalisation"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "inbet and Predikto launch prediction-market-style product inside an existing Bulgarian licence",
+    "meta": "SBC News | 17 Aug 2026",
+    "summary": "Bulgarian online operator inbet has signed an agreement with B2B predictions infrastructure supplier Predikto to power a proprietary platform allowing betting on random events, operating within the scope of inbet's existing active online licence.",
+    "why": "This is the first concrete European template for shipping event-contract product inside an existing gambling licence rather than waiting for a bespoke prediction-markets regime - materially faster than the Gibraltar route. It creates near-term demand for event pricing, settlement and risk modules that bolt onto a licensed sportsbook with the compliance wrapper already in place, and operators in other CEE markets with similar statutory categories will ask whether the same trick works for them.",
+    "expanded": "Predikto will supply the underlying technology, pricing and risk-management capabilities needed to deliver real-time data feeds and event-based betting products at scale, with dynamic, event-driven mechanics. SBC News understands this is the first instance of a predictions-style platform being launched in Bulgaria by an operator regulated by the local authority. Bulgaria's Gambling Act already includes a statutory category covering \"games with betting on random events and betting related to knowledge of facts\" as a licensable online offer, which is now being used in practice. There is no standalone prediction markets licence route: applicants must be licensed primarily as a gambling operator that happens to offer event contracts. European reception to prediction markets has been frostier than in the US, with many countries restricting access unless platforms obtain the same licence as traditional gambling companies. Gibraltar remains the only European territory with a standalone prediction markets regulatory framework, launched earlier in 2026; ADI Predictstreet, official predictions partner of the FIFA World Cup, is the only platform currently licensed under those provisions, while WagerWire has been approved in principle but is not yet fully licensed. Italy placed Polymarket back on its blocked list in July 2026.",
+    "source": "https://sbcnews.co.uk/sportsbook/2026/08/17/bulgaria-prediction-markets/",
+    "tags": [
+      "Bulgaria",
+      "Prediction markets",
+      "Licensing",
       "Product"
     ]
   },
   {
-    "section": "Other / Global",
-    "title": "Study estimates 174bn illegal World Cup stream views, 95% carrying unregulated gambling advertising",
-    "meta": "iGaming Business | 24 Aug 2026",
-    "summary": "A Gaming Compliance International study led by Ismail Vali estimates illegal streams lasting at least 90 seconds generated 174.3 billion views during the 2026 World Cup, an average of 1.68 billion per match, with 95% of qualifying views carrying advertising for unregulated gambling and affiliate deals paying streamers 25% to 50% of net gaming revenue.",
-    "why": "Piracy has usually been framed as a rights-holder problem and a black-market problem separately. Putting a revenue-share number on the link makes it an acquisition-channel problem, which is a different conversation for regulators who currently have no mechanism that touches it.",
-    "expanded": "The Spain v Argentina final alone generated 6.2 billion qualifying views. Vali said: \"The World Cup did not create the unregulated gambling problem. It exposed the ecosystem supporting it,\" and described unregulated gambling as \"the short-term revenue engine fuelling illegal streaming\". GCI recorded 2 billion qualifying illegal views for the England-France third-place match, above the tournament average, after widely reported BBC streaming failures; Vali calls this \"displacement and replacement\" but stops short of claiming causation. DAZN chief operating officer Ed McCarthy told iGB pirate services expose consumers to \"fraud, identity theft, unregulated gambling services and other harmful content\" and that \"tackling piracy requires a coordinated response across rights holders, technology platforms, regulators, law enforcement and other industry partners\". Bird & Bird lawyers Markus Korner and Yvonne Schaafs cite German rights fragmentation across Sky, DAZN, Amazon Prime and Magenta Sport, with Schaafs noting the pirate appeal is that \"they pay once and have everything\"; Korner said DNS blocking following April's Cologne Regional Court ruling against LiveTV.sx is \"not a wonder tool\". A UK Gambling Commission spokesperson said only: \"We recognise that illegal sports streaming can present risks in this context\", noting PIPCU leads on streaming. The Commission issued 741 cease-and-desist notices, reported 397,527 URLs to search engines and disrupted 1,134 websites in the last financial year, and has new powers under the Crime and Policing Act plus almost GBP26m over three years for enforcement. Reported by Martin Bjoerck.",
-    "source": "https://igamingbusiness.com/marketing-affiliates/has-illegal-streaming-become-the-black-markets-main-benefactor/",
+    "section": "Product",
+    "title": "CreedRoomz launches Crypto Market, a live-hosted 10-second trading game paying up to 99% a round",
+    "meta": "SBC News | 17 Aug 2026",
+    "summary": "CreedRoomz, the iGaming technology division of SoftConstruct, has launched Crypto Market, a live-dealer-hosted title built around the concept of crypto trading, running 10-second game cycles with payout of up to 99% per round.",
+    "why": "This is a live casino product borrowing prediction-market aesthetics without taking on event-contract regulatory risk, which is a useful arbitrage while European regulators push back on prediction platforms. The 10-second cycle and 99% round payout also mean it behaves economically like a crash or instant game, so RG monitoring thresholds and session-level intervention design need setting for high-frequency turnover rather than for table-game rhythm.",
+    "expanded": "The company says the game is \"engineered for the modern player\" with an \"uncompromising, hyper-fast experience\", and that it \"delivers the fast-action experience modern players demand by combining speculative market mechanics with the safety of iGaming.\" CreedRoomz states the platform is \"built for high-turnover environments where every second counts\", citing high-frequency turnover, elastic payout logic and a \"modern market aesthetic\", and asserts the product is \"100% provably fair\", built on its own transparent RNG engine to ensure \"total verifiability and long-term player trust.\" Aghasi Grigoryan, Senior Product Manager at CreedRoomz, said: \"Crypto Market is a natural progression of the trading-as-gaming category. By combining a transparent, provably fair engine with a slick, professional-grade interface and real-time live host interaction, we've created a genuinely captivating, fast-action trading experience. It bridges the gap between financial market excitement and live casino floor engagement.\" Sister brand BetConstruct launched a prediction markets product earlier in 2026, making Crypto Market the group's second push into finance-adjacent formats. The launch follows CreedRoomz unveiling a Swahili-language casino product on 13 August 2026, aimed at expanding African betting and gaming markets - a reminder that localisation depth rather than game count is increasingly the live casino differentiator in emerging markets.",
+    "source": "https://sbcnews.co.uk/igaming/2026/08/17/creedroomz-takes-financial-trading-to-the-casino-floor/",
     "tags": [
-      "Black market",
-      "Data rights",
-      "Affiliates",
-      "Global"
+      "Live casino",
+      "Game content",
+      "Localisation",
+      "RG design"
+    ]
+  },
+  {
+    "section": "Product",
+    "title": "Playnetic goes live on Light & Wonder's OpenGaming marketplace with four launch titles",
+    "meta": "European Gaming | 18 Aug 2026",
+    "summary": "Playnetic integrated its catalogue into Light & Wonder's OpenGaming content marketplace on 18 August, with Sun vs Moon: Hold n' Win, Assassin of Rome, Bubble or Broom and Farmageddon in the initial rollout.",
+    "why": "Multi-aggregator distribution is now the default for independent studios, which means aggregation platforms compete on operator reach and integration speed rather than content exclusivity. For anyone running casino aggregation inside a platform, the defensible asset is jurisdiction-specific certification throughput and per-market configuration control - getting a studio live and compliant in a named market faster than a rival, because every rival can list the same studios within weeks.",
+    "expanded": "Kai Botha, Chief Commercial Officer at Playnetic, said: \"Light & Wonder's network gives our content genuine scale, and this agreement lets us put our games in front of new operators and players whilst keeping quality and player experience at the heart of everything we deliver.\" Gabi Star, Senior Director at Light & Wonder, said: \"The strength of its Hold n' Win series, alongside the wider range of releases, made Playnetic a natural addition to our line-up.\" Playnetic was founded in 2023 and publicly launched at ICE London in February 2024, operates three in-house game studios, and holds regulatory licences in Sweden, Romania and Malta with additional approvals in Greece and Ontario. It entered Italy in January 2026 via a partnership with Microgame. Its existing distribution routes include Relax Gaming's Powered By Relax programme, QTech Games, Hub88, Stake, and White Hat Gaming from June 2026. Light & Wonder operates across land-based, iGaming and social gaming, is licensed in more than 100 jurisdictions, and has added multiple studios to OpenGaming over the past 18 months including Playson for the UK, Canada and Latin America, and Gaming Corps for access to more than 38 regulated markets.",
+    "source": "https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/",
+    "tags": [
+      "Aggregation",
+      "Content",
+      "Certification",
+      "Supplier"
     ]
   },
   {
     "section": "Other / Global",
-    "title": "Better Collective Q2 revenue up 9% to EUR89.1m as UK duty and Brazil rules cost about EUR4m",
-    "meta": "European Gaming | 21 Aug 2026",
-    "summary": "Better Collective's Q2 2026 report showed revenue up 9% to EUR89.1m with organic growth of 9% in constant currencies and EBITDA before special items up 20% to EUR27.0m, while the UK remote gaming duty rise and Brazilian regulatory changes each cost roughly EUR2m in the quarter.",
-    "why": "The affiliate sector is the cleanest read on where operator marketing budgets are actually going under tax pressure, and the answer here is North America and prediction markets rather than the mature European markets. A 26% regional EBITDA margin against 5% a year earlier is a very fast repricing.",
-    "expanded": "The interim report was published on 20 August. Profit after tax was EUR8.2m against EUR5.3m, with EPS of EUR0.15 against EUR0.09. The group still expects the UK and Brazil changes combined to cut full-year EBITDA before special items by around EUR8m. Total costs rose 5% to EUR62.1m, with direct costs up 14% to EUR27.3m and staff costs down 2% to EUR26.5m on a reduced headcount. North America was the standout: revenue share income grew 49% to EUR6m and the regional EBITDA margin before special items jumped to 26% from 5%, while North American CPA revenue grew 50% to EUR5m on prediction market partners. New depositing customers reached 373,000, up 24%, and value of deposits hit an all-time high of EUR836m, up 17%. Co-founder and co-chief executive Jesper Sogaard said: \"Sponsorship revenue increased by 39%, driven by strong commercial demand across several of our premium sports media brands and the continued success of Playmaker HQ and HLTV. This demonstrates the value of owning trusted brands and highly engaged sports communities that are attractive not only to sportsbooks but also to a broader range of global consumer brands.\" Net interest-bearing debt stood at EUR252.7m, 2.31x EBITDA before special items, at end-June. Full-year guidance was unchanged at 7-12% organic revenue growth and 8-18% EBITDA growth, with EUR40m of buybacks; Q3 results are due 18 November 2026.",
-    "source": "https://europeangaming.eu/portal/latest-news/2026/08/21/213003/better-collective-q2-2026-results/",
+    "title": "Bally's flags substantial doubt on going concern as shares fall 26% on covenant disclosure",
+    "meta": "iGaming Business | 18 Aug 2026",
+    "summary": "Shares in Bally's Corp fell more than 25% on 17 August after debt disclosures in its Q2 10-Q, filed 14 August. Bally's said it \"does not project that it would satisfy the liquidity maintenance requirement\" or the consolidated net leverage ratio covenant in its revolving credit facility over the next year.",
+    "why": "The acquirer in the largest current UK online M&A deal is carrying going-concern language, which raises counterparty risk for every supplier with contracts on either side of the Bally's Intralot and evoke combination. Payment terms, termination-for-insolvency clauses and change-of-control provisions on William Hill and 888 estate contracts are worth stress-testing now rather than post-close, because capital-constrained acquirers cut discretionary technology spend first.",
+    "expanded": "Bally's said \"the conditions and events raise substantial doubt about the company's ability to continue as a going concern\". Financing alternatives under discussion include asset monetisation, an equity sale and debt financings; Bally's entered a non-binding term sheet in July for a loan to advance its $4bn Bally's Bronx project and, in August, a letter of intent with a potential equity investor. It ended the quarter with $390.1m cash and equivalents against long-term net debt of $4.46bn. Shares closed Monday at $10.31, down 26%, taking year-to-date performance to -38%. Group revenue rose 20% year on year to $792.2m; casino revenue rose 2% to $401m with segment adjusted EBITDAR up about 3.5% to $109.6m; Bally's Intralot B2C revenue rose 22% to $243.5m and North America digital revenue rose 17% to $66.1m. Three major projects are in the pipeline: a $1.7bn permanent Chicago casino, a $1.19bn Las Vegas Strip project and Bally's Bronx, which won one of three New York City licences in December. Bally's has already allocated $615m to the Bronx this year, including $500m for the New York licence fee and $115m to the Trump Organization. Citizens analyst Jordan Bender said he does not believe Bally's \"has the ability to finish all of its projects without selling or bringing in a development partner\", identifying Las Vegas as the most likely asset to be sold or partnered. CEO Robeson Reeves said Bally's is in \"advanced negotiations with potential partners for exciting retail and entertainment offerings\" in Las Vegas and is \"actively raising additional capital\" for the Bronx. Bally's also halted construction on non-gaming elements of its Chicago casino earlier in August after the city legalised video gaming terminals, which it warns could cost some $70m per year in revenue.",
+    "source": "https://igamingbusiness.com/finance/ballys-q2-stock-slide/",
     "tags": [
-      "Affiliates",
-      "Earnings",
-      "Tax",
-      "Global"
+      "US",
+      "Finance",
+      "Operator",
+      "Counterparty risk"
     ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "DMCA takedown trail suppressing 1xBet and Sportradar coverage traced by short-seller researcher",
+    "meta": "iGaming Business | 25 Aug 2026",
+    "summary": "Active8Insights published an investigation alleging an obscure web and SEO contractor filed large volumes of DMCA copyright notices that made reporting about 1xBet harder to find online while also burying links between 1xBet and Sportradar. Both companies deny any involvement.",
+    "why": "The question underneath this is whether an offshore licence has legal meaning in the market where play actually occurs - which is the same counterparty-risk test every B2B supplier applies, or fails to apply, on client onboarding. Once institutional investors and tier-one procurement teams start asking for jurisdiction-by-jurisdiction licence validation and ownership evidence rather than blanket contractual warranties, documented ongoing monitoring becomes a differentiator instead of a back-office cost.",
+    "expanded": "An Active8Insights spokesperson told iGB: \"On 5 August we received an email from Google that said something along the lines of, 'hey, you apparently infringed on copyright, and we are removing your link from our search index.'\" Active8 traced complaints through Google's notice system and the Lumen Database, finding the name Alex Gramm on at least 12 takedown notices covering 84 URLs across roughly 68 domains, with 10 appearing to serve 1xBet's interests. An October 2025 complaint identified the sender as \"Alex Gramm on behalf of 1xBet\". A 27 April notice sought removal of 18 URLs across 14 domains, including Gaming Intelligence, Estadao, The Hindu, Play the Game and BettingBladet, covering the 22 April short-seller reports on Sportradar by Callisto Research and Muddy Waters. One notice was reportedly submitted on behalf of Muddy Waters, which says it did not submit the complaint. 1xBet strategic adviser Simon Westbury told iGB: \"1xBet can confirm that it had no involvement in or knowledge of that notice.\" A Sportradar spokesperson said it \"did not file or commission the notice in question and has never sought the removal of such press coverage from search results\" and has \"no relationship with, or knowledge of, anyone filing copyright takedown notices under the name Alex Gramm\". Sportradar shares fell roughly a fifth on 22 April after Callisto estimated around a third of its revenue could be connected to illicit platforms. Sportradar's audit committee commissioned a third-party independent review that it says confirmed a rigorous compliance framework and concluded the allegations are unfounded. In a 28 April filing Sportradar said contracts require clients to obtain necessary licences, including where customers hold offshore licences such as Anjouan or Curacao. On 18 May an investor filed Smale vs Sportradar Group AG et al in the Southern District of New York, alleging securities-law violations over a class period from 7 November 2024 to 21 April 2026. Active8Insights states: \"We have no evidence that 1xBet, or Sportradar, filed, commissioned, or knew about this notice, and we do not allege it.\"",
+    "source": "https://igamingbusiness.com/offshore-gaming/1xbet-and-sportradar-deny-filing-google-copyright-claims/",
+    "tags": [
+      "Data rights",
+      "Offshore",
+      "Compliance",
+      "Sports data"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "ProphetX and EDGE launch 24/7 fee-free deposits with $1m daily limits for prediction market traders",
+    "meta": "Covers | 25 Aug 2026",
+    "summary": "ProphetX and EDGE Markets announced a partnership on 25 August bringing 24/7 banking rails to the ProphetX exchange through EDGE Boost. Eligible users get daily deposit limits of up to $1m with no fees, real-time fund movement with no banking-hour restrictions, and a dedicated account separating trading capital from everyday finances.",
+    "why": "The competitive bar for funding has just moved an order of magnitude above typical sportsbook deposit ceilings, and it moved on availability as much as amount - nights, weekends and live events are precisely when legacy rails introduce delay. Any wallet roadmap still assuming cards plus ACH with banking-hours settlement now looks uncompetitive to high-value segments, and EDGE is quietly building a vertical-specific payment rail that platform cashiers will have to integrate, partner with, or compete against.",
+    "expanded": "EDGE Boost is a purpose-built debit card account, FDIC-insured up to $250,000, launched in 2025; EDGE says it has now processed more than $2bn in transactions. EDGE Markets recently closed a $29m Series A to accelerate buildout of institutional and consumer banking products across prediction markets, funding \"high throughput deposit accounts\" for market makers across all CFTC-regulated exchanges under the EDGE Pro brand, which is awaiting further regulatory approvals. EDGE also announced EDGE Connect, described as \"the industry's first purpose-built payment rail, engineered specifically for the regulated gaming and prediction market ecosystems\", which will be rolled out on ProphetX. EDGE CEO Seni Thomas said: \"The most active traders are no different from sophisticated participants in any other vertical: They need fast, reliable access to their capital on their schedule, not the bank's.\" ProphetX CEO Dean Sisun cited \"FDIC-insured deposit accounts, real-time fund movement, and higher funding limits, all things critical infrastructure for our active traders as this market matures.\" EDGE has similar partnerships with Kalshi and Polymarket. Prediction markets remain broadly accessible in the US except Michigan, Nevada and Washington. Reporting by Geoff Zochodne.",
+    "source": "https://www.covers.com/industry/prophetx-edge-partnership-prediction-market-deposit-funding-247-august-2026",
+    "tags": [
+      "Payments",
+      "Prediction markets",
+      "Wallet",
+      "Fintech"
+    ]
+  },
+  {
+    "section": "Other / Global",
+    "title": "OKTO goes live with A2FBR, processing Pix across six Brazilian betting brands in one launch",
+    "meta": "Payment Expert | 24 Aug 2026",
+    "summary": "OKTO PAYMENTS is live with A2FBR, processing Pix across Pinnacle, Matchbook, BetEspecial, Bolsa de Aposta, Fulltbet and BetBra in a single coordinated launch, becoming one of the group's strategic payments partners in Brazil.",
+    "why": "Multi-brand Pix rollouts are where the real technical difficulty sits in Brazil - per-brand ledgering, reconciliation and treasury separation rather than API connectivity. The more interesting move is that OKTO bundled merchant-side banking and cash management alongside the rails, which is territory the PAM cashier has traditionally owned; platform vendors have to decide whether to compete on integrated cashier and treasury or accept commoditisation of the wallet layer.",
+    "expanded": "Pix accounts for 54.7% of all transactions in Brazil and more than 99% of payment volume in the betting sector, with 25 million active bettors in the world's fifth-largest market. OKTO built a dedicated operational setup behind each of the six platforms to handle the group's multi-branded structure. Beyond Pix, A2FBR also gains OKTO's Internet Banking product - a banking and cash-management platform featuring a real-time dashboard, detailed statements, Pix and internal transfers, bill and tax payments, invoicing, a multi-user approval station and granular user permissions. Leonardo Chaves, General Manager of OKTO PAYMENTS in Brazil, said: \"This was a highly sophisticated integration because of the scale involved: six brands, each with its own operational structure, all requiring the same high standard of Pix performance.\" Chaves added that OKTO combines \"Pix infrastructure, treasury, banking and liquidity capabilities with dedicated operational support at every stage\". Rafael Tavares, CFO of A2FBR, said: \"At A2FBR, we believe the customer experience begins long before a bet is placed and fundamentally depends on trust throughout the entire payments journey.\" Tavares said A2FBR is \"highly selective when choosing our partners, prioritizing companies that share our commitment to transparency, compliance, security, and operational excellence\".",
+    "source": "https://paymentexpert.com/2026/08/24/okto-payments-live-a2fbr-pix/",
+    "tags": [
+      "Brazil",
+      "Payments",
+      "Pix",
+      "Cashier"
+    ]
+  },
+  {
+    "section": "Industry Notes",
+    "title": "Ruddock: Kalshi's calibration study is real signal, but it leaves out the volatile 80% of its markets",
+    "meta": "Straight to the Point | 24 Aug 2026",
+    "summary": "Steve Ruddock examines Kalshi's internal study of some 2 million markets, described by the exchange as the largest-ever study of prediction-market accuracy, and accepts the signal while arguing the wisdom-of-crowds case around it is oversold.",
+    "why": "\"Our prices are accurate\" is becoming the core marketing and regulatory defence for prediction markets, so a sample-selection critique from a credible analyst hands sportsbooks and regulators a ready counter. Anyone building an event-contract module should assume calibration reporting and insider-trading surveillance become procurement requirements rather than differentiators.",
+    "expanded": "Per the Kalshi study, \"events trading at 70% happen roughly 70% of the time, while events at 20% happen about one in five times, with predictive value holding even in lower-volume markets and for events months away\". Kalshi CEO Tarek Mansour posted the results on X on 20 August 2026, drawing 1.09 million views. Ruddock highlights the central methodological criticism that the headline chart excludes roughly 80% of Kalshi's markets - sports, mentions and intraday markets - and notes that while stripping volatile markets reduces noise, \"it also makes the remaining sample less representative of Kalshi's accuracy\". He flags observers identifying a small but non-trivial \"yes\" bias, with one estimate that a market priced at 40% has roughly a 37% chance of resolving yes. Against this he sets a Morgan Stanley Counterpoint Global paper released on 5 August 2026, \"The Wisdom of Crowds in Markets: Crowd Behavior in Prediction, Betting, and Stock Markets\", by Michael J. Mauboussin and Dan Callahan, which finds collective intelligence depends on diversity of thinking, an effective aggregation method and incentives that reward being right, and concludes price manipulation can temporarily move a contract but is rarely durable in liquid markets. Ruddock also cites a study of 600 million Polymarket trades between November 2022 and March 2026 finding that 69% of 2.4 million users lost money, with the top 1% capturing 77% of gains and the top 10% accounting for 96%. He notes Cantor Fitzgerald has launched institutional block trading in event contracts via Kalshi's block framework alongside Susquehanna Predictions, and that Kalshi has now been forced to geofence Nevada, Michigan and Washington, undercutting its impartial-access argument.",
+    "source": "https://straighttothepoint.substack.com/p/show-me-the-numbers",
+    "tags": [
+      "Prediction markets",
+      "Analysis",
+      "Market integrity",
+      "Research"
+    ],
+    "commentary": "Ruddock's position is that the study is genuine evidence of a strong signal-to-noise ratio, but that the framing around it overstates the case: the sample excludes the most volatile market types, there is a small persistent yes bias, and the crowd polices bad prices without policing the underlying event. His formulation is that prediction markets are as accurate as or better than polling and individual experts, but \"the wisdom of the crowd is not evenly distributed\" - prices self-correct against manipulation yet \"don't sniff out insider edges\". The Mauboussin and Callahan paper he leans on reaches a compatible conclusion: the serious risks are a compromised underlying event or traders acting on inside information, not price manipulation.",
+    "takeaway": "The Polymarket concentration data is the number product teams should sit with: 69% of users losing, with the top 1% taking 77% of gains, makes event-contract economics look like sharp-versus-recreational betting rather than a market of informed equals. If your platform is going to carry event contracts, the RG framing, liability modelling and surveillance design all need to start from that distribution rather than from an efficient-market story."
   }
 ];

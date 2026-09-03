@@ -2,638 +2,6 @@
   "note": "Tracks recently-published story keys (source URL) so the daily briefing generator can skip repeats. Each entry expires after ~7 days.",
   "published": [
     {
-      "key": "source:https://agenciagov.ebc.com.br/noticias/202608/5-milhoes-pessoas-deixam-de-acessar-bets-no-brasil",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://chicago.suntimes.com/casinos-gambling/2026/08/17/ballys-chicago-casino-video-gambling-going-concern",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://findmoreafrica.com/nlgrb-unlicensed-gambling-machines/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/south-africa-strengthens-regulated-gambling-enforcement-as-igtt-arrests-13-for-illegal-operations",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://focusgn.com/brasil/proibicao-das-bets-no-brasil-projeto-propoe-plebiscito-para-populacao-decidir-sobre-futuro-das-apostas",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://focusgn.com/brasil/publicidade-de-bets-ilegais-camara-quer-ouvir-google-meta-tiktok-e-x",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://g3newswire.com/new-zealand-online-casino-bidders-face-august-14-eoi-deadline/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://igamingbrazil.com/en/legislation-en/2026/08/14/ministry-of-finance-releases-over-2000-pages-regarding-betting-operator-authorizations/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://igamingexpert.com/features/enugu-regulator-africas-digital-enforcement-bid/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/europe/2026/08/13/entain-h1-trading-tax",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/2026/08/17/burnham-aim-to-permit/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/comment/2026/08/14/playcity-ukraine-soms/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/interviews/2026/08/17/entain-premier-league-betting-sponsors/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/igaming/2026/08/17/bet365-fraud/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/ballys-q2-2026-results/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/bulgaria-prediction-markets",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/evoke-ballys-deal/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/fortuna-topsport-2026/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/tether-bet-shuts-down/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnoticias.com/operacion-apuesta-sucia-brasil-juego-online/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://sbcnoticias.com/rsi-crecimiento-colombia-mexico-peru-oportunidades/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://washingtonstatestandard.com/2026/08/13/kalshi-ordered-to-sharply-curtail-operations-in-wa/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.abc.net.au/news/2026-08-18/federal-politics-how-will-gambling-ad-opt-out-work-online/107049074",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.casinoreports.com/news/ruddock-report-august-2026/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/alberta-one-month-online-sports-betting-igaming-market-expansion-august-2026",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/new-jersey-sportsbooks-bounce-back-with-12-percent-july-hold-aug-17-2026",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.gamblinginsider.com/news/187482/connecticut-kalshi-cftc-emergency-order-injunction",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.gamingintelligence.com/legal/235004-german-gambling-regulator-warns-against-prediction-markets/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.ingame.com/endgame-08-14-2026/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.legalsportsreport.com/272589/draftkings-eyes-in-house-combos-as-predictions-volume-surges/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.legalsportsreport.com/272718/novig-adopts-responsible-trading-rules-as-gen-z-shifts-investments-toward-betting/",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.marketplace.org/story/2026/08/17/the-46-billion-tribal-gambling-industry-doesnt-have-a-leader",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.npr.org/2026/08/13/nx-s1-5930689/cftc-probe-mention-markets-prediction-markets-kalshi",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.revistacasinoperu.com/brasil-refuerza-vigilancia-ante-alcance",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.revistacasinoperu.com/colombia-jaime-vives-preside-coljuegos",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.theblock.co/news/business/2026-08-13-baltimore-sues-kalshi-polymarket-roping-coinbase-robinhood-webull-into-fight-411746",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/13/125875-uk-vicky-foxcroft-named-gambling-minister-as-bha-seeks-urgent-talks-over-affordability-checks",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/14/125890-bet-da-sorte-returns-to-firstbet-for-sportsbook-trading-and-risk-management",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/08/13/110201-chile-la-camara-de-diputados-aprueba-un-proyecto-de-acuerdo-contra-el-cobro-de-iva-a-las-casas-de-apuestas-online",
-      "date": "2026-08-18"
-    },
-    {
-      "key": "source:https://cdcgaming.com/penn-entertainment-invests-195-million-in-new-orleans-casino-relocation/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/angola-and-malawi-gambling-regulators-discuss-mou-to-strengthen-cross-border-oversight",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/nigeria-to-review-tech-requirements-for-digital-gaming-after-enugu-conference",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/siu-secures-tribunal-order-to-recover-us183000-lottery-grant-awarded-to-hijacked-npo",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://focusgn.com/asia-pacific/philippine-senator-escudero-reaffirms-support-for-nationwide-gambling-ad-ban",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://focusgn.com/asia-pacific/south-korea-arrests-58-over-fake-kangwon-land-gambling-site",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://focusgn.com/asia-pacific/vgccc-to-leverage-technology-and-data-to-strengthen-gambling-harm-prevention-under-strategy-2029",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/company-news/betconstruct-ai-unveils-new-commercial-offer-the-purest-sportsbook/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/company-news/imagine-live-expands-global-reach-through-new-partnership-with-relax-gaming/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/cyberfraud/everymatrix-bonus-guardian-tackle-bonus-abuse/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/finance/candle-lake-will-delist-evolution-nasdaq-stockholm-mandatory-cash-offer-accepted/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/finance/q2-latam-round-up-mixed-fortunes-brazil-flutter-entain/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/austria-advances-draft-gambling-law-to-eu-review-next-step-open-licensing/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/gambling-commission-flags-poor-id-checks-undermined-fra-pilot-scheme/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/offshore-gaming/brazil-study-illegal-betting-market-share-h1-2026/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/sports-betting/as-albania-prepares-to-bring-sports-betting-out-of-the-shadows-conditions-favour-international-operators/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/tech-innovation/regtech/regulatory-complexity-growth-opportunity-kambi/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://paymentexpert.com/2026/08/11/kyc-dazn-bet-ursu-eu-aml/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://paymentexpert.com/2026/08/18/flutter-on-igaming-instant-payouts/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/igaming/2026/08/18/denmark-inpay-aml/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/igaming/2026/08/18/finland-slot-tax/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/retail/2026/08/18/uk-high-street-slot-fine/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/social-responsibility/2026/08/18/ireland-agency-gambling/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://sbcnoticias.com/anjl-restricciones-apuestas-mercado-brasil/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/alpaca-enters-prediction-markets-arms-race-with-cftc-nfa-approval-aug-18-2026",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/fanatics-nfl-deal-reflects-shifting-sportsbook-priorities-august-18-2026",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/novig-preemptively-sues-wisconsin-over-prediction-markets-fifth-state-in-two-weeks-aug-17-2026",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/virginia-eyes-sweepstakes-casino-ban-in-2027-legislative-session-aug-17-2026",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.ggrasia.com/staff-training-on-aml-kyc-and-ai-key-to-next-phase-of-philippine-online-gaming-growth-industry-advisor",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.legalsportsreport.com/273185/nevada-regulators-want-kalshi-to-pay-daily-fine-over-failure-to-geofence/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.legalsportsreport.com/273252/industry-led-responsible-gambling-group-unveils-new-marketing-code/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.legalsportsreport.com/273295/tonko-unhappy-with-fanduels-response-calls-for-passage-of-safe-bet-act/",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/17/125891-station-casinos-pilots-apple-pay-payments-directly-on-las-vegas-slot-machines",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/18/125936-brazil-suspends-14-licensed-betting-sites-due-to-oversight-and-responsible-gaming-failures",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/18/125944-exalogic-and-fast-track-bring-agentic-crm-to-italy-39s-regulated-gaming-market",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/08/13/110198-un-estudio-revela-que-cerca-de-4-millones-de-mexicanos-participan-en-apuestas-con-un-alto-impacto-en-adolescentes",
-      "date": "2026-08-19"
-    },
-    {
-      "key": "source:https://asgam.com/2026/08/19/cambodia-says-20-casino-licenses-revoked-amid-significant-progress-in-scam-center-crackdown/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://asgam.com/2026/08/19/developer-of-massive-new-south-korean-economic-hub-pushing-to-include-ir-with-3600-room-hotel-and-casino/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://asgam.com/2026/08/20/cambodia-sees-gaming-tax-revenue-fall-by-over-25-to-us28-million-in-1h26/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/eswatini-pm-warns-against-interference-in-gambling-arrests",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/gamblepause-launches-african-built-app-to-strengthen-player-protection",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/uganda-gambling-regulator-sets-three-key-priorities-for-gaming-sector",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/zimbabwes-lotteries-and-gaming-board-launches-creator-led-gambling-awareness-drive",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/company-news/midnite-launches-pay-by-bank-in-the-uk-via-truelayer/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/mozambique-online-gambling-framework/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/quinnbet-to-pay-609104-over-aml-and-safer-gambling-failures/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/lottery/prize-draws/how-uk-prize-draw-sector-handling-rapidly-maturing-ma-outlook/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/sports-betting/president-lula-criticism-brazil-betting-sector/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/strategy/morals-gambling-journalism-why-they-matter/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/sustainable-gambling/ksa-finds-one-in-10-gambling-accounts-opened-by-dutch-18-year-olds-created-on-their-birthday/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/sustainable-gambling/problem-gambling/national-gambling-board-south-africa-betting/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/affiliatenews/2026/08/20/raketech-q2-results/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/comment/2026/08/20/eu-union-tax-igaming/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/interviews/2026/08/19/bos-sweden-gambling/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/igaming/2026/08/19/onjn-romania-audit/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/oceania/2026/08/19/australia-labor-gambling-ads/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/southamerica/2026/08/19/bets-law-ban-sao-paulo/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/18/polymarket-blocked-in-south-korea/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/19/betfred-butbuilder-2026/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/19/dart-invests-in-draftkings/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/technology/2026/08/20/betby-streaming-betting/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/technology/2026/08/20/gr8-tech-crypto-payments/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.casino.org/news/igaming-sports-betting-consumer-satisfaction-declining/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/americans-less-likely-to-gamble-than-10-years-ago-survey-finds-aug-19-2026",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/florida-ag-sues-stake-vgw-over-sweepstakes-casino-operations-aug-20-2026",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/illegal-world-cup-streams-fed-409b-to-offshore-gambling-market-aug-19-2026",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/novigs-trading-volume-tops-125m-in-1st-week-as-prediction-market-operator-aug-19-2026",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/why-pro-sports-teams-are-holding-back-on-prediction-market-deals-aug-18-2026",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.ggrasia.com/genting-malaysia-winding-down-macau-unit-gmm-ltd",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.legalsportsreport.com/273397/polymarket-parlays-in-beta-testing-before-nfl-kickoff/",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/19/125951-infingame-and-3-oaks-gaming-highlight-regional-player-behavior-in-game-aggregation",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/19/125953-good-regulation-has-to-be-practical-enough-to-work-in-a-real-commercial-environment",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/19/125962-kalshi-pulls-sports-34mention-34-markets-amid-federal-regulatory-review",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/19/125971-betmgm-launches-progressive-side-bet-jackpots-across-200-casino-games",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/20/125985-databet-expands-247-virtual-sports-content-in-latam",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/news/2026/08/20/125990-report-vegas-ventures-agrees-to-buy-las-vegas-39-downtown-grand-out-of-receivership",
-      "date": "2026-08-20"
-    },
-    {
-      "key": "source:https://agbrief.com/intel/20/08/2026/over-60-of-philippine-online-gaming-operators-below-new-revenue-floor-arden-consult/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://agbrief.com/intel/deep-dive/19/08/2026/philippine-gambling-ad-bill-could-reshape-online-player-acquisition/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://agbrief.com/news/australia/21/08/2026/betstop-registrations-top-67000-three-years-after-australian-launch/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://agbrief.com/news/macau/19/08/2026/macau-police-arrest-man-over-livestreamed-slot-proxy-betting/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://agbrief.com/news/new-zealand/20/08/2026/skycity-fy26-ebitda-falls-22-as-gaming-revenue-weakens/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://agbrief.com/news/philippines/20/08/2026/dfnn-gaming-commission-income-plunges-67-in-1h26/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://cdcgaming.com/venetian-settlement-7-2-million-fine-approved-by-nevada-regulators/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/embu-authorities-destroy-57-gambling-machines",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/supabets-adds-crypto-deposits-through-enterpay-partnership",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://focusgn.com/africa/uganda-gaming-regulator-and-ura-target-stronger-tax-compliance",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://focusgn.com/asia-pacific/australias-gambling-ad-reforms-pass-parliament",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://g3newswire.com/argentina-betting-tax-bill-targets-funding-for-local-sports-clubs/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://g3newswire.com/chile-casino-tender-leaves-investors-cold/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/finance/ballys-intralot-h1-revenue-online-division/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/finance/remote-gambling-accounted-78-of-total-revenue-in-h1-lithuanian-regulator/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/finance/tax/uganda-removes-land-based-casino-exemption-winnings-tax/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/gaming/coljuegos-temporary-relief-measures-land-based-operators-affected-earthquake/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/aim-to-permit-risk-uk-gambling-reform/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/kenya-gambling-licensing-to-proceed-high-court-ruling/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/legal-compliance/regulation/uk-betting-shops-andy-burnham/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/marketing-affiliates/italian-club-ss-lazio-polymarket-end-sponsorship-deal-prediction-market-geo-block/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/strategy/analysts-assess-italy-position-flutter-eyes-lottomatica-top-spot/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/strategy/ma/caesars-bidding-war-filing/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/strategy/ma/what-is-ig-group-betting-on-with-its-underdog-deal/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/sustainable-gambling/problem-gambling/sao-paulo-governor-brazil-gambling/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/tech-innovation/betmakers-was-lowest-risk-and-cheapest-option-for-tabcorps-tech-overhaul/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://igamingbusiness.com/tech-innovation/tech-race-summit-can-ctos-really-trust-ai-production/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://next.io/news/betting/regulus-uk-online-market-shrugs-off-tax-rise/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/europe/2026/08/10/netherlands-gambling-2/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/europe/uk/2026/08/19/labour-press-for-tetherbet-investigation/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/2026/08/17/first-bet-tom-light-copy-paste-sportsbook/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/2026/08/21/premier-league-front-of-shirt-ban/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/latestnews/2026/08/13/gr8-tech-mts-launch/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.casino.org/news/boyd-gaming-reported-as-mystery-bidder-for-ballys-tropicana-vegas-site/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/kalshi-washington-state-restrict-access-sports-prediction-markets-event-contracts-august-2026",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/michigan-sports-betting-hold-hits-2026-high-in-july-despite-dip-in-handle-aug-20-2026",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/pennsylvanias-sports-betting-handle-revenue-increase-significantly-in-july-aug-19-2026",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/prophetx-ceo-write-letter-cftc-sports-prediction-market-structure-competitiveness-august-2026",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.ingame.com/aristotle-lawsuit-underdog-allegations/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.ingame.com/new-normal-fisher-selig-predictions/",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/nyce/news/2026/08/20/125967-winpots-sportsbook-growth-story-how-a-localised-trading-strategy-helped-scale-revenue-in-mexico",
-      "date": "2026-08-21"
-    },
-    {
-      "key": "source:https://www.yogonet.com/international/nyce/news/2026/08/20/125991-european-igaming-markets-after-the-2026-tax-rises-and-ad-bans",
-      "date": "2026-08-21"
-    },
-    {
       "key": "source:https://agbrief.com/news/cambodia/24/08/2026/nagacorp-2q26-ggr-falls-20-as-vip-play-nearly-halves/",
       "date": "2026-08-25"
     },
@@ -782,15 +150,15 @@
       "date": "2026-08-25"
     },
     {
-      "key": "source:https://europeangaming.eu/portal/latest-news/2026/08/20/212965/denmark-blocks-polymarket-and-97-other-sites/",
+      "key": "source:https://asgam.com/2026/08/24/non-cash-charge-sees-hong-kongs-iec-issue-fy26-profit-warning-on-expected-us64-million-loss/",
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://sbcnews.co.uk/europe/2026/08/21/albania-4h-agency/",
+      "key": "source:https://asgam.com/2026/08/25/mandatory-facial-recognition-tech-and-a-ban-on-vip-gaming-programs-among-new-poker-machine-reforms-targeting-nsw-pubs-and-clubs/",
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://sbcnews.co.uk/features/2026/08/12/france-control-sports-bill/",
+      "key": "source:https://asgam.com/2026/08/25/sjm-loss-widens-in-1h26-on-transition-to-post-satellite-operating-model-but-ggr-growth-across-all-casino-properties-a-positive/",
       "date": "2026-08-26"
     },
     {
@@ -798,47 +166,11 @@
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://sbcnews.co.uk/technology/2026/08/24/digitain-silkbet-deal/",
+      "key": "source:https://europeangaming.eu/portal/latest-news/2026/08/20/212965/denmark-blocks-polymarket-and-97-other-sites/",
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://www.gamblinginsider.com/news/187804/evoke-shareholders-approve-ballys-deal-liquidity-concerns",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.ingame.com/draftkings-predictions-ad-non-sportsbook-states/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/kalshi-strikes-marketing-partnerships-with-5-mlb-teams-aug-25-2026",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/draftkings-fanatics-fanduel-seek-consumer-safeguards-for-prediction-markets-august-24-2026",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.covers.com/industry/world-cup-gives-illinois-rare-wagering-handle-boost-in-june-aug-25-2026",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.ingame.com/kalshi-brief-preemption-applies-new-mexico/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.playusa.com/news/colorados-sports-betting-credit-card-ban-and-daily-deposit-cap-become-law/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/08/21/110305-los-brasilenos-apostaron-mas-de-usd-42000-millones-en-2025",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://g3newswire.com/chilean-lottery-files-fresh-complaint-against-online-betting-operators/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/08/25/110350-el-iplyc-de-buenos-aires-alerta-sobre-casas-de-apuestas-ilegales-que-usan-sitios-autorizados-como-fachada",
+      "key": "source:https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/",
       "date": "2026-08-26"
     },
     {
@@ -854,39 +186,11 @@
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://asgam.com/2026/08/25/mandatory-facial-recognition-tech-and-a-ban-on-vip-gaming-programs-among-new-poker-machine-reforms-targeting-nsw-pubs-and-clubs/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://asgam.com/2026/08/24/non-cash-charge-sees-hong-kongs-iec-issue-fy26-profit-warning-on-expected-us64-million-loss/",
-      "date": "2026-08-26"
-    },
-    {
       "key": "source:https://focusgn.com/uae/uaes-gcgra-signs-deal-with-abu-dhabi-financial-regulator-to-strengthen-gaming-oversight",
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://asgam.com/2026/08/25/sjm-loss-widens-in-1h26-on-transition-to-post-satellite-operating-model-but-ggr-growth-across-all-casino-properties-a-positive/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/interviews/2026/08/25/sky-bet-ghost-leg-bet-builder/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/features/2026/08/21/bet442-premier-league/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/bulgaria-prediction-markets/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://sbcnews.co.uk/igaming/2026/08/17/creedroomz-takes-financial-trading-to-the-casino-floor/",
-      "date": "2026-08-26"
-    },
-    {
-      "key": "source:https://europeangaming.eu/portal/press-releases/2026/08/18/212850/playnetic-light-and-wonder-opengaming-deal/",
+      "key": "source:https://g3newswire.com/chilean-lottery-files-fresh-complaint-against-online-betting-operators/",
       "date": "2026-08-26"
     },
     {
@@ -898,16 +202,224 @@
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://www.covers.com/industry/prophetx-edge-partnership-prediction-market-deposit-funding-247-august-2026",
+      "key": "source:https://paymentexpert.com/2026/08/24/okto-payments-live-a2fbr-pix/",
       "date": "2026-08-26"
     },
     {
-      "key": "source:https://paymentexpert.com/2026/08/24/okto-payments-live-a2fbr-pix/",
+      "key": "source:https://sbcnews.co.uk/europe/2026/08/21/albania-4h-agency/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/2026/08/12/france-control-sports-bill/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/2026/08/21/bet442-premier-league/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/interviews/2026/08/25/sky-bet-ghost-leg-bet-builder/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/igaming/2026/08/17/creedroomz-takes-financial-trading-to-the-casino-floor/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/sportsbook/2026/08/17/bulgaria-prediction-markets/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/technology/2026/08/24/digitain-silkbet-deal/",
       "date": "2026-08-26"
     },
     {
       "key": "source:https://straighttothepoint.substack.com/p/show-me-the-numbers",
       "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.covers.com/industry/draftkings-fanatics-fanduel-seek-consumer-safeguards-for-prediction-markets-august-24-2026",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.covers.com/industry/kalshi-strikes-marketing-partnerships-with-5-mlb-teams-aug-25-2026",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.covers.com/industry/prophetx-edge-partnership-prediction-market-deposit-funding-247-august-2026",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.covers.com/industry/world-cup-gives-illinois-rare-wagering-handle-boost-in-june-aug-25-2026",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.gamblinginsider.com/news/187804/evoke-shareholders-approve-ballys-deal-liquidity-concerns",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.ingame.com/draftkings-predictions-ad-non-sportsbook-states/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.ingame.com/kalshi-brief-preemption-applies-new-mexico/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.playusa.com/news/colorados-sports-betting-credit-card-ban-and-daily-deposit-cap-become-law/",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/08/21/110305-los-brasilenos-apostaron-mas-de-usd-42000-millones-en-2025",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/08/25/110350-el-iplyc-de-buenos-aires-alerta-sobre-casas-de-apuestas-ilegales-que-usan-sitios-autorizados-como-fachada",
+      "date": "2026-08-26"
+    },
+    {
+      "key": "source:https://asgam.com/2026/08/31/star-falls-to-au307-million-loss-in-fy26-insists-worst-is-now-behind-on-long-awaited-revenue-growth-in-july/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://asgam.com/2026/09/03/as-fy26-turnover-achieves-record-high-hong-kong-jockey-club-warns-of-illegal-market-growth-on-excessive-betting-duty-and-limited-legal-betting-options/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://asgam.com/2026/09/03/cbre-percentage-of-macau-wide-ggr-spent-on-gaming-commissions-hit-new-high-in-2q26-as-hyper-competitive-promo-environment-continues/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://focusgn.com/africa/madagascar-parliament-advances-major-gambling-regulation-overhaul",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://focusgn.com/africa/mali-morocco-and-gabon-enter-global-top-10-for-offshore-gaming-demand",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://focusgn.com/africa/uganda-mps-demand-tougher-action-against-illegal-gaming-in-rural-areas",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/company-news/lcky-group-selects-flows-to-accelerate-innovation-across-its-multi-brand-portfolio/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/legal-compliance/france-tighten-operator-guidance-player-fraud-courts-refine-evidentiary-standards/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/legal-compliance/nederlandse-loterij-shut-down-illegal-skyhills-lalabet-victory/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/prediction-markets/meet-sportsboo-white-swan-prediction-market/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/sports-betting/product-technology-sports-betting/rise-of-the-betting-dev-shop-why-operators-are-turning-to-specialist-developers/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingbusiness.com/strategy/ma/lottomatica-cirsa-merger-low-risk-guglielmo-angelozzi/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://igamingexpert.com/features/merkur-sfc-france/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://paymentexpert.com/2026/09/01/betr-matt-kane-sbc-summit-interview/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://paymentexpert.com/2026/09/02/visa-featurespace-a2a-fraud-score/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcamericas.com/2026/08/27/bet365-west-virginia-launch/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcamericas.com/2026/09/01/colorado-fines-fanatics-sportsbook/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/europe/2026/09/01/spelinspektionen-update/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/europe/2026/09/03/poland-bookmakers/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/features/2026/09/01/alea-sportsbook-launch-igaming/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/igaming/2026/08/27/entain-ftse-100-index/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/sportsbook/2026/09/01/ballys-intralot-evoke-debt/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/sportsbook/2026/09/01/bet-st-george-bresbet-suspended-in-uk/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/sportsbook/2026/09/02/kambi-reveals-new-rebrand/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/technology/2026/08/26/altenar-sportradar-lawsuit/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://sbcnews.co.uk/technology/2026/09/02/betmakers-200-ebitda-rise/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.canadiangamingbusiness.com/2026/08/31/ontario-igaming-july-26/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.ggrasia.com/lance-gokongwei-now-chairman-of-philweb-aims-at-ai-rollout-for-the-business",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.ggrasia.com/macaus-august-casino-ggr-down-1-2pct-from-a-year-earlier-to-us2-7bln-govt",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.ingame.com/canada-regulator-guidance-sports-contracts/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.legalsportsreport.com/275510/new-app-merges-fanatics-sports-betting-casino-and-predictions/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.legalsportsreport.com/275556/new-jersey-asks-supreme-court-to-rule-on-kalshi-sports-predictions/",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/09/02/110493-chile-la-subtel-acata-fallos-judiciales-y-ordena-el-bloqueo-de-42-sitios-de-apuestas-online",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/09/03/110506-lula-reune-a-ministros-y-entidades-para-debatir-medidas-contra-las-apuestas-online",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/09/03/110508-asociaciones-de-igaming-rechazan-el-bloqueo-de-sitios-web-y-acusan-a-la-subtel-de-exceder-la-orden-judicial",
+      "date": "2026-09-03"
+    },
+    {
+      "key": "source:https://www.yogonet.com/latinoamerica/noticias/2026/09/03/110518-lotba-es-el-primer-organismo-de-juegos-de-azar-en-superar-una-auditoria-externa-antilavado",
+      "date": "2026-09-03"
     }
   ]
 }
